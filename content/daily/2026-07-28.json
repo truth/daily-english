@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-28",
+  "title": "每日一词一文",
+  "wordsTitle": "今日单词",
+  "essayTitle": "今日美文",
+  "words": [
+    {
+      "word": "reward",
+      "pos": "v. / n.",
+      "meaning": "奖励，回报；褒奖。文中 reward speed 意为\"褒奖速度\"。",
+      "enExample": "Hard work is often rewarded with success.",
+      "zhExample": "努力常以获得成功作为回报。",
+      "note": "近义：compensate, repay；反义：punish"
+    },
+    {
+      "word": "measure … by …",
+      "pos": "phrase",
+      "meaning": "用……来衡量……。常见搭配 measure one's worth / success by sth.",
+      "enExample": "Don't measure a person by their appearance.",
+      "zhExample": "不要用外貌去衡量一个人。"
+    },
+    {
+      "word": "miracle",
+      "pos": "n.",
+      "meaning": "奇迹；令人惊奇的人或事。small miracles 指生活中被忽略的美好小事。",
+      "enExample": "It's a miracle that no one was hurt.",
+      "zhExample": "竟无人受伤，真是奇迹。",
+      "note": "近义：wonder, marvel"
+    },
+    {
+      "word": "slide",
+      "pos": "v.",
+      "meaning": "滑动，悄然移动。文中 the light slide across the wall 描写光线\"滑过\"墙壁。",
+      "enExample": "The sun slid behind the hills.",
+      "zhExample": "太阳悄然滑落到山后。",
+      "note": "近义：glide, slip"
+    },
+    {
+      "word": "golden",
+      "pos": "adj.",
+      "meaning": "金色的；珍贵的，美好的。slow and golden 既写颜色也写质感。",
+      "note": "搭配：golden hour（摄影黄金时刻），golden opportunity（良机）。"
+    },
+    {
+      "word": "sparrow",
+      "pos": "n.",
+      "meaning": "麻雀。常见小鸟，常作为平凡生活意象。",
+      "enExample": "A sparrow chirped on the fence.",
+      "zhExample": "一只麻雀在栅栏上啁啾。"
+    },
+    {
+      "word": "windowsill",
+      "pos": "n.",
+      "meaning": "窗台。由 window + sill（槛、底座）合成。",
+      "enExample": "She placed the plant on the windowsill.",
+      "zhExample": "她把植物放在窗台上。"
+    },
+    {
+      "word": "tilt",
+      "pos": "v.",
+      "meaning": "（使）倾斜。tilted its head 生动写出麻雀歪头的姿态。",
+      "enExample": "He tilted the bottle to pour.",
+      "zhExample": "他倾斜瓶子倒水。",
+      "note": "近义：incline, lean"
+    },
+    {
+      "word": "consider",
+      "pos": "v.",
+      "meaning": "此处意为\"端详、审视、打量\"，而非常见的\"考虑\"。",
+      "enExample": "She considered him with a faint smile.",
+      "zhExample": "她带着淡淡的微笑打量着他。"
+    },
+    {
+      "word": "distraction",
+      "pos": "n.",
+      "meaning": "使人分心的事物；干扰。反义 focus / concentration。",
+      "enExample": "Phone notifications are a constant distraction.",
+      "zhExample": "手机通知是持续的分心源。",
+      "note": "反义：focus"
+    },
+    {
+      "word": "presence",
+      "pos": "n.",
+      "meaning": "在场；专注状态。full presence 意为\"全然的专注/临在\"。",
+      "enExample": "She listened with her full presence.",
+      "zhExample": "她全神贯注地倾听。",
+      "note": "搭配：be present（专注当下），presence of mind（镇定）"
+    },
+    {
+      "word": "worthy (of)",
+      "pos": "adj.",
+      "meaning": "值得的。be worthy of sth. 值得某事物。",
+      "enExample": "His efforts are worthy of praise.",
+      "zhExample": "他的努力值得称赞。",
+      "note": "近义：deserving"
+    }
+  ],
+  "essay": {
+    "title": "The Art of Noticing",
+    "author": "佚名",
+    "paragraphs": [
+      "We live in a world that rewards speed. We rush from one task to the next, measuring our worth by how much we finish before the sun sets.",
+      "Yet in our hurry, we miss the small miracles that ask for nothing but our attention.",
+      "This morning, I watched the light slide across the kitchen wall, slow and golden, the way it does only in early summer.",
+      "A sparrow landed on the windowsill, tilted its head, and considered the world with a calm I have never managed to keep.",
+      "For a moment, the noise inside me went quiet.",
+      "Noticing is not the same as seeing. To notice is to stay a while, to let a thing reveal itself.",
+      "The wrinkled hands of an old friend, the particular blue of the evening sky, the way steam lifts from a cup of tea.",
+      "These are not distractions from real life. They are real life, happening quietly, all around us, waiting to be met.",
+      "So today, slow your breath. Let one ordinary moment become worthy of your full presence.",
+      "The world has been trying to show you something beautiful. You only have to look."
+    ],
+    "translations": [
+      "我们生活在一个褒奖速度的世界里。我们从一个任务匆忙赶往下一个，用日落前完成了多少来衡量自身的价值。",
+      "然而在匆忙之中，我们错过了那些微小的奇迹——它们别无他求，只盼我们投去一瞥。",
+      "今天清晨，我看着光缓缓滑过厨房的墙壁，缓慢而金黄，那是唯有初夏才会有的模样。",
+      "一只麻雀落在窗台上，歪了歪头，以我从未留住过的那份平静端详着世界。",
+      "有那么一瞬，我内心的喧嚣归于宁静。",
+      "留意不同于看见。留意，是停留片刻，让一件事物自行显现。",
+      "老友布满皱纹的双手，黄昏天空特有的那抹蓝，茶盏上袅袅升起的热气。",
+      "这些并非对真实生活的干扰。它们就是真实生活，正静静发生，环绕着我们，等待被相遇。",
+      "所以今天，请放慢呼吸。让一个平凡的瞬间，配得上你的全然在场。",
+      "这个世界一直想向你展示一些美好的事物。你只需去看。"
+    ],
+    "grammar": [
+      {
+        "point": "1. 不定式作主语与表语（To notice is to stay a while）",
+        "example": "To notice is to stay a while, to let a thing reveal itself.",
+        "note": "动词不定式短语 \"To notice\" 充当主语，后面的 \"to stay a while\" 与 \"to let…\" 是不定式作表语，解释主语的内容。当两个不定式并列作表语时，常用逗号隔开，节奏感强，常用于定义或格言式表达。"
+      },
+      {
+        "point": "2. 现在分词作伴随状语（happening quietly … waiting to be met）",
+        "example": "They are real life, happening quietly, all around us, waiting to be met.",
+        "note": "\"happening\" 与 \"waiting\" 是现在分词，修饰 life，表示与主句动作同时发生的伴随状态，相当于 and they happen / and they wait。waiting to be met 中 to be met 是不定式的被动式，意为\"等待被（我们）遇见\"。"
+      },
+      {
+        "point": "3. the way 引导方式状语从句（口语中省略 as / that）",
+        "example": "… the way it does only in early summer.",
+        "note": "the way 在此相当于 as / in the way that，引导方式状语从句，口语和文学中常省略关系词。it does 中的 does 替代前面的动词 slide，避免重复，意为\"光像它在初夏时那样（滑过墙壁）\"。"
+      },
+      {
+        "point": "4. nothing but 结构（\"只，仅仅\"）",
+        "example": "… the small miracles that ask for nothing but our attention.",
+        "note": "nothing but = only / merely，意为\"除了……之外什么也没有；仅仅\"。ask for nothing but our attention 即\"别无他求，只要我们的注意\"。类似结构：anything but（绝不），all but（几乎）。"
+      }
+    ]
+  }
+}

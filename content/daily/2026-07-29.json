@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-29",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "courage",
+      "pos": "n.",
+      "phonetic": "/ˈkʌrɪdʒ/",
+      "meaning": "勇气；勇敢",
+      "enExample": "It takes courage to begin again.",
+      "zhExample": "重新开始需要勇气。",
+      "note": "近义：bravery；反义：cowardice"
+    },
+    {
+      "word": "trembling",
+      "pos": "adj.",
+      "phonetic": "/ˈtremblɪŋ/",
+      "meaning": "颤抖的；发抖的",
+      "enExample": "She answered in a trembling voice.",
+      "zhExample": "她用颤抖的声音回答。",
+      "note": "动词 tremble（颤抖）"
+    },
+    {
+      "word": "stubborn",
+      "pos": "adj.",
+      "phonetic": "/ˈstʌbən/",
+      "meaning": "执拗的；坚韧不拔的",
+      "enExample": "A stubborn hope kept her going.",
+      "zhExample": "一份执拗的希望支撑着她。",
+      "note": "近义：persistent；反义：yielding"
+    },
+    {
+      "word": "readiness",
+      "pos": "n.",
+      "phonetic": "/ˈredinəs/",
+      "meaning": "准备就绪（的状态）",
+      "enExample": "Waiting for perfect readiness means waiting forever.",
+      "zhExample": "等待“完全准备好”往往意味着永远等下去。",
+      "note": "形容词 ready"
+    },
+    {
+      "word": "sign up for",
+      "pos": "短语动词",
+      "phonetic": "/saɪn ʌp fɔːr/",
+      "meaning": "报名参加；注册",
+      "enExample": "She signed up for the pottery class.",
+      "zhExample": "她报名了那个陶艺课。",
+      "note": "近义：enroll in"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Shape of Courage",
+    "author": "佚名",
+    "paragraphs": [
+      "We imagine courage as something loud: a firefighter charging into flames, a speech before thousands, a leap from a cliff into cold water. But most courage never makes a sound.",
+      "It is the student who raises a trembling hand, knowing the answer might be wrong. It is the woman who begins again at fifty, learning a language, a trade, a life. It is the apology offered first, the truth spoken gently at a kitchen table, the decision to hope after a year that took nearly everything.",
+      "Courage rarely feels like strength. Most of the time, it feels like fear that has decided to walk forward anyway. The heart pounds; the voice shakes; we go on. That going on — small, stubborn, unglamorous — is the bravest thing most of us will ever do.",
+      "So do not wait until you feel ready. Readiness is a story we tell ourselves while the door quietly closes. Take the smaller step in front of you: send the message, sign up for the class, ask for help.",
+      "One day you will look back and see that your life was built not from grand gestures, but from a thousand quiet acts of courage, each one barely visible, each one everything."
+    ],
+    "translations": [
+      "我们总把勇气想象成喧嚣之物：冲入火海的消防员、面对千人的演讲、从悬崖一跃跳入冰冷的水中。但绝大多数的勇气，从不发出声响。",
+      "勇气，是那个明知答案可能出错、仍颤抖着举手的学生；是那个在五十岁重新开始的女人——学一门语言、一门手艺、一种新的人生；是先递出的那句道歉，是餐桌旁温和说出的真话，是在被夺走了几乎一切的一年之后，依然选择怀抱希望。",
+      "勇气很少让人觉得自己强大。大多数时候，它只是恐惧下定了决心，仍要向前走。心在狂跳，声音在颤抖，而我们继续前行。这份继续——微小、执拗、毫不耀眼——却是我们大多数人一生中最勇敢的事。",
+      "所以，不要等到你觉得\"准备好了\"。所谓准备好，不过是我们讲给自己听的故事，而门正在悄悄关上。迈出眼前那一小步吧：发出那条消息，报名那门课程，开口求一次帮助。",
+      "终有一天你会回望，发现你的人生并非由宏大的壮举筑成，而是由一千次安静的勇敢累积而来——每一次都微不可见，每一次都意味着一切。"
+    ],
+    "grammar": [
+      {
+        "point": "1. It is ... who/that ... 强调句型（排比使用）",
+        "example": "It is the student who raises a trembling hand... It is the woman who begins again at fifty...",
+        "note": "强调句型 \"It is + 被强调部分 + who/that + 其余部分\"，把焦点打在被强调的名词上。本文连用三个 It is...，构成排比（parallelism），层层列举\"安静的勇气\"的具体形象，节奏感和感染力极强。判断技巧：去掉 It is 和 who/that 后句子依然完整，即为强调句。仿写：It is the small daily choices that shape who we become."
+      },
+      {
+        "point": "2. 定语从句中的完成时呼应：that has decided to walk forward",
+        "example": "it feels like fear that has decided to walk forward anyway.",
+        "note": "that 引导定语从句修饰 fear，从句用现在完成时 has decided，表示\"已经做出的决定\"对现在仍有效——恐惧虽在，但\"向前走\"的决定已成事实。这里还有拟人（personification）：让 fear 会\"决定、行走\"，是本文最亮眼的一句。注意先行词是物（fear）时用 that/which，不用 who。"
+      },
+      {
+        "point": "3. 动名词作主语 + 插入语：That going on — small, stubborn, unglamorous — is ...",
+        "example": "That going on — small, stubborn, unglamorous — is the bravest thing most of us will ever do.",
+        "note": "going on 是动名词短语，前加指示词 That 名词化为主语，指代上文\"继续前行\"这件事；动名词主语视为单数，故谓语用 is。两个破折号之间的三个形容词是插入语，补充描写主语，朗读时前后停顿。句末 most of us will ever do 是省略了 that 的定语从句，ever 与最高级 the bravest 连用表\"有史以来最……\"。"
+      },
+      {
+        "point": "4. not ... but ... 对比结构 + 独立分词收尾",
+        "example": "your life was built not from grand gestures, but from a thousand quiet acts of courage, each one barely visible, each one everything.",
+        "note": "not from A, but from B：\"不是出于A，而是出于B\"，两个 from 保持结构对称，这是英语对比修辞的标准写法。句末 \"each one barely visible, each one everything\" 是独立主格结构（名词 + 形容词/名词，省略 being），补充说明前面的 a thousand quiet acts，比再起一个完整句子更凝练、更有余韵。仿写：She left the room, each step slow, each step certain."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "charge into",
+        "pos": "短语动词",
+        "meaning": "冲入、猛冲进（带有果断、不顾危险的意味）。",
+        "enExample": "Don't charge into a decision you haven't thought through.",
+        "zhExample": "别贸然冲进一个你还没想清楚的决定。",
+        "note": "用法：charge into + 地点/行动，比 rush into 更有\"冲锋\"的画面感；rush into 还可指\"仓促做决定\"。；近义：rush into, storm into 反义：back away from, retreat from"
+      },
+      {
+        "term": "trembling",
+        "pos": "adj.",
+        "meaning": "颤抖的（因恐惧、紧张、寒冷）。动词原形 tremble。",
+        "enExample": "She answered in a trembling voice, but she answered.",
+        "zhExample": "她声音颤抖地回答了——但她终究回答了。",
+        "note": "用法：常修饰 hand / voice / lips；tremble with fear/excitement 因恐惧/激动而发抖。；近义：shaking, quivering 反义：steady, firm"
+      },
+      {
+        "term": "trade",
+        "pos": "n.",
+        "meaning": "此处指\"手艺、行当\"（不是\"贸易\"）。a skilled trade 技术行当。",
+        "enExample": "After the factory closed, he learned a new trade at forty.",
+        "zhExample": "工厂倒闭后，他四十岁学了一门新手艺。",
+        "note": "用法：learn a trade 学一门手艺；by trade 表示职业出身，如 He is a carpenter by trade。；近义：craft, occupation 关联：profession（更偏白领职业）"
+      },
+      {
+        "term": "pound",
+        "pos": "v.",
+        "meaning": "（心脏）狂跳、怦怦直跳；也可指重击、猛敲。",
+        "enExample": "My heart was pounding as I walked onto the stage.",
+        "zhExample": "走上舞台时，我的心怦怦直跳。",
+        "note": "用法：one's heart pounds/is pounding 是描写紧张、恐惧、心动的高频地道表达。；近义：throb, race (my heart raced) 反义：(heart) settle, calm"
+      },
+      {
+        "term": "stubborn",
+        "pos": "adj.",
+        "meaning": "固执的；本文取褒义\"执拗坚韧的、不肯放弃的\"。",
+        "enExample": "A stubborn hope kept her going through the hardest winter.",
+        "zhExample": "一份执拗的希望支撑她熬过了最难的寒冬。",
+        "note": "用法：贬义指人顽固（as stubborn as a mule 犟得像头骡子）；褒义可形容 hope、courage、determination。；近义：persistent, tenacious 反义：yielding, flexible"
+      },
+      {
+        "term": "unglamorous",
+        "pos": "adj.",
+        "meaning": "不光鲜的、不起眼的。glamorous（光鲜迷人的）+ 否定前缀 un-。",
+        "enExample": "Success is mostly built on unglamorous daily work.",
+        "zhExample": "成功大多建立在不起眼的日常工作之上。",
+        "note": "用法：常形容 work / job / side of sth，强调\"真实但不体面耀眼\"。；近义：ordinary, humdrum 反义：glamorous, dazzling"
+      },
+      {
+        "term": "readiness",
+        "pos": "n.",
+        "meaning": "准备就绪（的状态）；意愿。ready 的名词形式。",
+        "enExample": "Waiting for perfect readiness often means waiting forever.",
+        "zhExample": "等待\"完全准备好\"往往意味着永远等下去。",
+        "note": "用法：in readiness for 为……做好准备；readiness to do sth 乐意做某事。；近义：preparedness, willingness 反义：reluctance, unpreparedness"
+      },
+      {
+        "term": "sign up for",
+        "pos": "短语动词",
+        "meaning": "报名参加、注册（课程、活动、服务）。",
+        "enExample": "She finally signed up for the pottery class she'd eyed for years.",
+        "zhExample": "她终于报名了那个惦记多年的陶艺课。",
+        "note": "用法：sign up for a class/newsletter/gym membership；sign up 也可单独用：Where do I sign up?；近义：enroll in, register for 反义：drop out of, opt out of"
+      },
+      {
+        "term": "look back",
+        "pos": "短语动词",
+        "meaning": "回顾、回望（过去）。",
+        "enExample": "When I look back on that year, I only remember the people who stayed.",
+        "zhExample": "回望那一年，我记得的只有留下来的人。",
+        "note": "用法：look back on/at + 时期/经历；固定表达 never look back 意为\"从此一帆风顺、再未回头\"。；近义：reflect on, reminisce about"
+      },
+      {
+        "term": "grand gesture",
+        "pos": "名词短语",
+        "meaning": "宏大的姿态/壮举，常指为表达心意或制造声势而做的引人注目之举。",
+        "enExample": "Love lives in daily kindness more than in grand gestures.",
+        "zhExample": "爱更多存在于日常的善意里，而非宏大的表白中。",
+        "note": "用法：常与 small acts（微小行动）对举，是英文写作中经典的对比框架。；近义：dramatic act, showy display 反义：small act, quiet deed"
+      },
+      {
+        "term": "barely visible",
+        "pos": "形容词短语",
+        "meaning": "几乎看不见的。barely = 几乎不（半否定副词）。",
+        "enExample": "Progress is often barely visible day to day, yet undeniable year to year.",
+        "zhExample": "进步在每一天里几乎看不见，但一年年回看却毋庸置疑。",
+        "note": "用法：barely + 形容词/动词：barely audible 几乎听不见；I barely slept. 我几乎没睡。注意 barely 本身已含否定，不再加 not。；近义：hardly visible, faint 反义：conspicuous, prominent"
+      }
+    ]
+  }
+}

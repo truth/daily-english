@@ -1,0 +1,211 @@
+:root {
+  --bg: #fbfaf7;
+  --surface: #ffffff;
+  --surface-2: #f5f2ec;
+  --ink: #2b2b2b;
+  --ink-soft: #5c574e;
+  --muted: #8a8276;
+  --line: #e7e1d6;
+  --accent: #b5651d;       /* 暖棕，书卷气 */
+  --accent-soft: #f3e6d6;
+  --accent-ink: #8a4a14;
+  --radius: 14px;
+  --shadow: 0 6px 24px rgba(60, 50, 35, 0.08);
+  --serif: "Noto Serif SC", "Songti SC", "Georgia", "Times New Roman", serif;
+  --sans: "Noto Sans SC", "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--sans);
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--accent-ink); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+
+/* ---------- 顶部导航 ---------- */
+.topbar {
+  position: sticky; top: 0; z-index: 20;
+  background: rgba(251, 250, 247, 0.85);
+  backdrop-filter: saturate(140%) blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.topbar .wrap {
+  display: flex; align-items: center; justify-content: space-between;
+  height: 60px;
+}
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 700; color: var(--ink); }
+.brand .logo {
+  width: 30px; height: 30px; border-radius: 8px;
+  background: linear-gradient(135deg, var(--accent), #d98a3d);
+  color: #fff; display: grid; place-items: center; font-family: var(--serif); font-size: 18px;
+}
+.nav { display: flex; gap: 18px; font-size: 14px; }
+.nav a { color: var(--ink-soft); }
+.nav a:hover { color: var(--accent-ink); text-decoration: none; }
+
+/* ---------- 首页 Hero ---------- */
+.hero {
+  padding: 56px 0 36px;
+  text-align: center;
+}
+.hero .eyebrow {
+  letter-spacing: 0.28em; text-transform: uppercase;
+  font-size: 12px; color: var(--accent); margin-bottom: 14px;
+}
+.hero h1 {
+  font-family: var(--serif); font-weight: 700;
+  font-size: clamp(30px, 5vw, 46px); margin: 0 0 12px; color: var(--ink);
+}
+.hero p { color: var(--ink-soft); max-width: 560px; margin: 0 auto; font-size: 16px; }
+
+/* ---------- 今日推荐卡 ---------- */
+.today {
+  margin: 8px 0 40px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+.today-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  padding: 18px 22px; border-bottom: 1px solid var(--line);
+  background: var(--surface-2);
+}
+.today-head .label { font-size: 13px; color: var(--accent); font-weight: 700; letter-spacing: 0.04em; }
+.today-head .date { font-size: 13px; color: var(--muted); }
+.today-body { display: grid; grid-template-columns: 1fr 1fr; gap: 0; }
+.today-col { padding: 22px; }
+.today-col + .today-col { border-left: 1px solid var(--line); }
+.today-col h3 { margin: 0 0 12px; font-size: 15px; color: var(--ink-soft); }
+.today-col .word { font-family: var(--serif); font-size: 20px; font-weight: 700; }
+.today-col .phon { color: var(--muted); font-size: 13px; margin-left: 8px; }
+.today-col .mean { color: var(--ink-soft); font-size: 14px; margin-top: 4px; }
+.today-col .essay-title { font-family: var(--serif); font-size: 18px; font-weight: 700; margin-bottom: 6px; }
+.today-col .essay-meta { font-size: 12px; color: var(--muted); margin-bottom: 8px; }
+.today-col .essay-excerpt { font-size: 14px; color: var(--ink-soft); }
+.today-foot { padding: 14px 22px; border-top: 1px solid var(--line); text-align: right; font-size: 14px; }
+
+/* ---------- 导航卡片网格 ---------- */
+.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 44px; }
+.card {
+  display: block; background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 22px 18px; text-align: center;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: var(--accent-soft); text-decoration: none; }
+.card .ico { font-size: 26px; }
+.card .t { font-weight: 700; margin-top: 8px; color: var(--ink); }
+.card .d { font-size: 12px; color: var(--muted); margin-top: 4px; }
+
+/* ---------- 最近更新 ---------- */
+.section-title { font-family: var(--serif); font-size: 22px; margin: 0 0 16px; display: flex; align-items: center; gap: 10px; }
+.section-title::before { content: ""; width: 5px; height: 20px; background: var(--accent); border-radius: 3px; }
+.recent { list-style: none; margin: 0 0 50px; padding: 0; }
+.recent li {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 16px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--surface); margin-bottom: 10px;
+}
+.recent li:hover { border-color: var(--accent-soft); }
+.recent .meta { display: flex; align-items: center; gap: 14px; }
+.recent .day { font-family: var(--serif); font-weight: 700; }
+.recent .sub { font-size: 13px; color: var(--muted); }
+.recent .go { font-size: 13px; color: var(--accent-ink); }
+
+/* ---------- 每日页 ---------- */
+.page-head { padding: 40px 0 10px; }
+.page-head .crumb { font-size: 13px; color: var(--muted); margin-bottom: 8px; }
+.page-head h1 { font-family: var(--serif); font-size: 30px; margin: 0; }
+.page-head .date { color: var(--muted); font-size: 14px; margin-top: 6px; }
+
+.block { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; margin: 24px 0; box-shadow: var(--shadow); }
+.block h2 { font-family: var(--serif); font-size: 22px; margin: 0 0 18px; display: flex; align-items: center; gap: 10px; }
+.block h2::before { content: ""; width: 5px; height: 20px; background: var(--accent); border-radius: 3px; }
+
+/* 单词卡 */
+.word-item { padding: 16px 0; border-bottom: 1px dashed var(--line); }
+.word-item:last-child { border-bottom: none; }
+.word-item .top { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.word-item .w { font-family: var(--serif); font-size: 22px; font-weight: 700; }
+.word-item .ph { color: var(--muted); font-size: 14px; }
+.word-item .pos { font-size: 12px; color: #fff; background: var(--accent); padding: 1px 8px; border-radius: 20px; }
+.word-item .m { color: var(--ink-soft); margin: 6px 0 0; }
+.word-item .ex { color: var(--muted); font-size: 14px; margin-top: 6px; font-style: italic; }
+.word-item .ex b { color: var(--ink-soft); font-style: normal; }
+
+/* 美文 */
+.essay { font-family: var(--serif); }
+.essay .e-title { font-size: 24px; font-weight: 700; }
+.essay .e-author { color: var(--muted); font-size: 14px; margin: 4px 0 18px; }
+.essay p { margin: 0 0 16px; font-size: 17px; line-height: 1.9; }
+
+/* ---------- 列表页（单词本/美文库/归档） ---------- */
+.list { list-style: none; padding: 0; margin: 24px 0; }
+.list li {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 16px 18px; margin-bottom: 12px;
+}
+.tag { display: inline-block; font-size: 12px; color: var(--accent-ink); background: var(--accent-soft); padding: 2px 10px; border-radius: 20px; margin-right: 8px; }
+.pager-note { color: var(--muted); font-size: 13px; text-align: center; margin: 30px 0; }
+
+/* ---------- 语音播放 ---------- */
+.player { margin-top: 10px; }
+.player audio { width: 100%; height: 36px; }
+.speak-btn {
+  cursor: pointer; font-family: var(--sans); font-size: 13px;
+  color: var(--accent-ink); background: var(--accent-soft);
+  border: 1px solid var(--accent); border-radius: 20px; padding: 4px 14px;
+  transition: background .15s ease, color .15s ease;
+}
+.speak-btn:hover { background: var(--accent); color: #fff; }
+
+/* ---------- 页脚 ---------- */
+.foot { border-top: 1px solid var(--line); padding: 26px 0; color: var(--muted); font-size: 13px; text-align: center; margin-top: 40px; }
+
+/* ---------- 中英双语对照 ---------- */
+.pair { margin: 0 0 14px; }
+.pair .en { margin: 0 0 6px; font-size: 17px; line-height: 1.9; color: var(--ink); }
+.pair .zh { margin: 0; font-size: 15px; line-height: 1.8; color: var(--ink-soft); border-left: 3px solid var(--accent-soft); padding-left: 12px; }
+
+/* ---------- 语法点 ---------- */
+.grammar { margin-top: 28px; border-top: 1px solid var(--line); padding-top: 18px; font-family: var(--sans); }
+.grammar h3 { font-family: var(--sans); font-size: 16px; color: var(--accent-ink); margin: 0 0 14px; }
+.g-item { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
+.g-point { font-weight: 700; color: var(--ink); margin-bottom: 6px; }
+.g-ex { font-size: 14px; color: var(--ink-soft); margin-bottom: 4px; }
+.g-note { font-size: 14px; color: var(--muted); line-height: 1.8; }
+
+/* ---------- 单词备注（近义/反义/搭配） ---------- */
+.word-item .note { font-size: 13px; color: var(--accent-ink); margin-top: 6px; background: var(--accent-soft); display: inline-block; padding: 3px 10px; border-radius: 8px; }
+
+/* ---------- 词汇与短语 ---------- */
+.vocab-sec { margin-top: 28px; border-top: 1px solid var(--line); padding-top: 18px; font-family: var(--sans); }
+.vocab-sec h3 { font-family: var(--sans); font-size: 16px; color: var(--accent-ink); margin: 0 0 14px; }
+.vocab-item { background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 10px; }
+.v-top { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.v-term { font-family: var(--serif); font-size: 18px; font-weight: 700; color: var(--ink); }
+.v-pos { font-size: 12px; color: #fff; background: var(--accent); padding: 1px 8px; border-radius: 20px; }
+.v-mean { font-size: 14.5px; color: var(--ink-soft); margin: 6px 0 0; line-height: 1.7; }
+.v-ex { font-size: 13.5px; color: var(--muted); margin: 4px 0 0; line-height: 1.7; }
+.v-ex .v-label { display: inline-block; min-width: 22px; color: var(--accent-ink); font-weight: 700; }
+.v-note { font-size: 13.5px; color: var(--muted); margin: 6px 0 0; line-height: 1.7; }
+
+/* ---------- 响应式 ---------- */
+@media (max-width: 720px) {
+  .today-body { grid-template-columns: 1fr; }
+  .today-col + .today-col { border-left: none; border-top: 1px solid var(--line); }
+  .cards { grid-template-columns: repeat(2, 1fr); }
+  .nav { gap: 12px; }
+}

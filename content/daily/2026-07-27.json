@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-27",
+  "title": "每日一词一文",
+  "wordsTitle": "今日单词",
+  "essayTitle": "今日美文",
+  "words": [
+    {
+      "word": "luminous",
+      "phonetic": "/ˈluːmɪnəs/",
+      "pos": "adj.",
+      "meaning": "发光的；明亮的；清晰的",
+      "enExample": "The luminous moon lit the quiet lake.",
+      "zhExample": "明亮的月亮照亮了宁静的湖面。"
+    },
+    {
+      "word": "gratitude",
+      "phonetic": "/ˈɡrætɪtjuːd/",
+      "pos": "n.",
+      "meaning": "感激；感恩",
+      "enExample": "He expressed his gratitude with a letter.",
+      "zhExample": "他用一封信表达了感激之情。"
+    }
+  ],
+  "essay": {
+    "title": "A Letter to Tomorrow",
+    "author": "Anonymous",
+    "paragraphs": [
+      "Dear Tomorrow, I am writing to tell you that I tried my best today.",
+      "I may have stumbled, but each stumble taught me where the ground was uneven. I am learning to walk more surely.",
+      "Please be gentle, and I promise to meet you with the same courage I found tonight."
+    ]
+  }
+}

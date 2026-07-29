@@ -1,0 +1,10 @@
+# Cloudflare Pages 项目配置
+# 文档: https://developers.cloudflare.com/pages/
+name = "dailyecho"
+pages_build_output_dir = "dist"
+compatibility_date = "2024-09-23"
+
+# 若通过 `wrangler pages deploy` 命令行部署，上面的 pages_build_output_dir 即输出目录。
+# 若通过 Cloudflare Pages 控制台（连接 Git）部署，请设置：
+#   构建命令 (Build command):    node build.js
+#   构建输出目录 (Build output): dist

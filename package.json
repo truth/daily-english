@@ -1,0 +1,25 @@
+{
+  "name": "daily-english",
+  "version": "1.0.0",
+  "description": "每日英语单词与美文整理，静态站点生成并发布到 Cloudflare Pages",
+  "type": "commonjs",
+  "scripts": {
+    "new": "node new-day.js",
+    "audio": "python gen-audio.py",
+    "build": "node build.js",
+    "serve": "node serve.js",
+    "dev": "node build.js && node serve.js",
+    "deploy": "node build.js && npx wrangler pages deploy dist --project-name dailyecho",
+    "deploy:full": "npm run audio && npm run build && npx wrangler pages deploy dist --project-name dailyecho",
+    "sync": "node sync.js",
+    "sync:dry": "SYNC_NO_DEPLOY=1 node sync.js"
+  },
+  "keywords": [
+    "english",
+    "vocabulary",
+    "essay",
+    "cloudflare-pages",
+    "static-site"
+  ],
+  "license": "MIT"
+}
