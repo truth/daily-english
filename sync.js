@@ -12,7 +12,8 @@
  *   3) 补齐缺失语音（gen-audio.py，先删 0 字节避免被跳过）
  *   4) node build.js 构建 dist/
  *   5) wrangler pages deploy dist --project-name dailyecho
- *   无新内容时直接退出，不构建不部署。
+ *   6) git commit + push origin main（同步到 GitHub 仓库）
+ * 无新内容时直接退出，不构建不部署。
  *
  * 幂等保护：
  *   - 已存在于 content/daily 的日期（= 已部署过）其源文件直接跳过，避免回退线上内容。
@@ -20,6 +21,7 @@
  *
  * 环境变量：
  *   SYNC_NO_DEPLOY=1   只构建不部署（本地测试用）
+ *   SYNC_NO_PUSH=1     构建/部署后不推送到 GitHub
  *   ESSAY_WS=<path>    覆盖美文产出目录
  *   GEN_PYTHON=<path>  指定带 edge-tts 的 python
  *
@@ -119,8 +121,28 @@ function moveEssayToDone(srcDir, date) {
   }
 }
 function run(cmd, args) {
-  // shell:true 让 Windows 能解析 wrangler.cmd 等带扩展名的可执行文件
+  // shell:true 让 Windows 能解析 wrangler.cmd、git 等可执行文件
   execFileSync(cmd, args, { cwd: ROOT, stdio: "inherit", shell: true });
+}
+function gitSync() {
+  if (process.env.SYNC_NO_PUSH) {
+    console.log("🔸 SYNC_NO_PUSH=1，跳过 GitHub 推送。");
+    return;
+  }
+  try {
+    const status = execFileSync("git", ["status", "--porcelain"], { cwd: ROOT, encoding: "utf8" }).trim();
+    if (!status) {
+      console.log("🔸 git 工作区无变更，跳过提交。");
+      return;
+    }
+    run("git", ["add", "-A"]);
+    const msg = "chore: 同步每日英语内容 " + new Date().toISOString().slice(0, 10);
+    run("git", ["commit", "-q", "-m", msg]);
+    run("git", ["push", "origin", "main"]);
+    console.log("🔗 已推送至 GitHub：https://github.com/truth/daily-english");
+  } catch (e) {
+    console.error("⚠️ git 同步至 GitHub 失败（不影响站点部署）：", e.message);
+  }
 }
 
 function main() {
@@ -231,13 +253,15 @@ function main() {
   run("node", ["build.js"]);
 
   if (process.env.SYNC_NO_DEPLOY) {
+    gitSync();
     saveState(state);
     console.log("🧪 SYNC_NO_DEPLOY=1，已构建 dist/ 但未部署。");
     return;
   }
   run("wrangler", ["pages", "deploy", "dist", "--project-name", "dailyecho"]);
+  gitSync();
   saveState(state);
-  console.log("🚀 已部署到 dailyecho（https://dailyecho.pages.dev）。");
+  console.log("🚀 已部署到 dailyecho（https://dailyecho.pages.dev）并同步至 GitHub。");
 }
 
 main();

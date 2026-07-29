@@ -67,12 +67,14 @@ npm run dev
 
 ### 方式 A：连接 Git 自动部署（推荐）
 
-1. 把本项目推到 GitHub / GitLab。
-2. 在 Cloudflare Pages 控制台「创建项目」→ 连接仓库。
+1. 本项目已托管在 GitHub：**https://github.com/truth/daily-english**
+2. 在 Cloudflare Pages 控制台「创建项目」→ 连接该仓库。
 3. 构建设置：
    - **构建命令 (Build command)：** `node build.js`
    - **构建输出目录 (Build output directory)：** `dist`
 4. 保存并部署。之后每次 `git push` 都会自动重建并发布。
+
+> 注意：`dist/` 与 `content/audio/*.mp3` 由本地生成/提交进仓库，Cloudflare 构建时直接复用，无需在云端重新生成语音。
 
 ### 方式 B：命令行直接部署
 
@@ -82,6 +84,31 @@ npm run deploy               # 构建并部署 dist/ 到 Cloudflare Pages
 ```
 
 部署完成后，Cloudflare 会给你一个 `*.pages.dev` 域名，也可在控制台绑定自定义域名。
+
+## GitHub 仓库与每日自动同步
+
+仓库地址：https://github.com/truth/daily-english
+
+### 每日自动化流水线（`sync.js`）
+
+每天 9:30 的自动化会运行 `node sync.js`，自动完成：
+
+1. 扫描来源：美文产出目录（`english-essay-*.html` + 同名 mp3，以及 `words-*.json`）和手动收件夹 `content/inbox/`。
+2. 解析并合并进 `content/daily/<日期>.json`（美文与单词分别合并，互不覆盖）；抽取词汇表、语法点、双语对照。
+3. 复制美文语音、补齐缺失的单词/例句语音（edge-tts）。
+4. `node build.js` 构建 `dist/`。
+5. `wrangler pages deploy dist --project-name dailyecho` 部署到 Cloudflare Pages。
+6. `git add -A && commit && push origin main` 把更新同步到 GitHub 仓库。
+
+> 无新内容时直接退出，不构建不部署、也不推送。
+> 环境变量开关：`SYNC_NO_DEPLOY=1`（只构建不部署）、`SYNC_NO_PUSH=1`（不推 GitHub）。
+
+### 手动同步
+
+```bash
+npm run sync                 # 扫描来源 → 合并 → 构建 → 部署 → 推 GitHub
+node sync.js "C:/path/english-essay-2026-08-01.html"   # 手动导入单个美文
+```
 
 ## 生成的页面
 
