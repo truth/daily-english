@@ -68,26 +68,37 @@ function parseWordEx(cleaned) {
 }
 
 // ---------- 双语段落 ----------
+// 兼容两套容器命名：旧版 .pair 与新版 .para
 function parsePairs(html) {
-  const re = /<div class="pair">\s*(?:<div class="en">|<p class="en">)([\s\S]*?)(?:<\/div>|<\/p>)\s*(?:<div class="zh">|<p class="zh">)([\s\S]*?)(?:<\/div>|<\/p>)\s*<\/div>/g;
+  const re = /<div class="(?:pair|para)">\s*(?:<div class="en">|<p class="en">)([\s\S]*?)(?:<\/div>|<\/p>)\s*(?:<div class="zh">|<p class="zh">)([\s\S]*?)(?:<\/div>|<\/p>)\s*<\/div>/g;
   return extractAll(re, html).map((m) => ({ en: clean(m[1]), zh: clean(m[2]) }));
 }
 
 // ---------- 语法点 ----------
 function parseGrammar(html) {
+  const out = [];
+  // 旧版结构：.grammar 包裹，g-title/pt、g-sent/ex、note/p
   const re = /<div class="grammar">([\s\S]*?)<\/div>\s*(?=<div class="grammar">|<\/section>)/g;
-  return extractAll(re, html)
-    .map((m) => {
-      const g = m[1];
-      const point =
-        (g.match(/<div class="g-title">([\s\S]*?)<\/div>/) || g.match(/<div class="pt">([\s\S]*?)<\/div>/) || [])[1] || "";
-      const example =
-        (g.match(/<div class="g-sent">([\s\S]*?)<\/div>/) || g.match(/<div class="ex">([\s\S]*?)<\/div>/) || [])[1] || "";
-      const note =
-        (g.match(/<div class="note">([\s\S]*?)<\/div>/) || g.match(/<p>([\s\S]*?)<\/p>/) || [])[1] || "";
-      return { point: clean(point), example: clean(example), note: clean(note) };
-    })
-    .filter((x) => x.point || x.example || x.note);
+  for (const m of extractAll(re, html)) {
+    const g = m[1];
+    const point =
+      (g.match(/<div class="g-title">([\s\S]*?)<\/div>/) || g.match(/<div class="pt">([\s\S]*?)<\/div>/) || [])[1] || "";
+    const example =
+      (g.match(/<div class="g-sent">([\s\S]*?)<\/div>/) || g.match(/<div class="ex">([\s\S]*?)<\/div>/) || [])[1] || "";
+    const note =
+      (g.match(/<div class="note">([\s\S]*?)<\/div>/) || g.match(/<p>([\s\S]*?)<\/p>/) || [])[1] || "";
+    out.push({ point: clean(point), example: clean(example), note: clean(note) });
+  }
+  // 新版结构：.gram 包裹，h3、.quote、若干 p（含 .note）
+  const reC = /<div class="gram">([\s\S]*?)<\/div>\s*(?=<div class="gram">|<\/section>)/g;
+  for (const m of extractAll(reC, html)) {
+    const g = m[1];
+    const point = (g.match(/<h3>([\s\S]*?)<\/h3>/) || [])[1] || "";
+    const example = (g.match(/<div class="quote">([\s\S]*?)<\/div>/) || [])[1] || "";
+    const notes = extractAll(/<p(?:\s+class="[^"]*")?>([\s\S]*?)<\/p>/g, g).map((p) => clean(p[1]));
+    out.push({ point: clean(point), example: clean(example), note: notes.join(" ") });
+  }
+  return out.filter((x) => x.point || x.example || x.note);
 }
 
 // ---------- 词汇/短语表 ----------
@@ -115,23 +126,52 @@ function parseVocab(html) {
     }
     out.push({ term: clean(term), pos: clean(pos), meaning, enExample, zhExample, note: noteLines.join("；") });
   }
-  // 结构A: .word
+  // 结构A: .word（旧版，term/pos/def/ex 直接平铺）
   const wordRe = /<div class="word">([\s\S]*?)<\/div>\s*(?=<div class="word">|<\/section>)/g;
   for (const m of extractAll(wordRe, html)) {
     const w = m[1];
-    const term = (w.match(/<div class="term">([\s\S]*?)<\/div>/) || [])[1] || "";
-    const pos = (w.match(/<span class="pos">([\s\S]*?)<\/span>/) || [])[1] || "";
-    const def = (w.match(/<div class="def">([\s\S]*?)<\/div>/) || [])[1] || "";
-    const exRaw = (w.match(/<div class="ex">([\s\S]*?)<\/div>/) || [])[1] || "";
-    const ex = parseWordEx(clean(exRaw));
-    out.push({
-      term: clean(term),
-      pos: clean(pos),
-      meaning: clean(def),
-      enExample: ex.enExample,
-      zhExample: ex.zhExample,
-      note: ex.note,
-    });
+    if (w.match(/class="head"/)) {
+      // 结构C（新版）：.word > .head(>.w/.pos/.meaning) + .detail + .ex(含 .zh-ex)
+      const term = (w.match(/<span class="w">([\s\S]*?)<\/span>/) || [])[1] || "";
+      const pos = (w.match(/<span class="pos">([\s\S]*?)<\/span>/) || [])[1] || "";
+      const meaning = (w.match(/<span class="meaning">([\s\S]*?)<\/span>/) || [])[1] || "";
+      const detail = (w.match(/<div class="detail">([\s\S]*?)<\/div>/) || [])[1] || "";
+      // 新版 .ex 内含嵌套 .zh-ex：英文在 .zh-ex 之前，中文在 .zh-ex 之内
+      const exTag = '<div class="ex">';
+      const zhTag = '<div class="zh-ex">';
+      const ei = w.indexOf(exTag);
+      const zi = ei >= 0 ? w.indexOf(zhTag, ei) : -1;
+      let enExample = "";
+      if (ei >= 0) {
+        const start = ei + exTag.length;
+        const end = zi >= 0 ? zi : w.indexOf("</div>", start);
+        enExample = clean(w.slice(start, end >= 0 ? end : w.length));
+      }
+      const zhExample = zi >= 0 ? clean(w.slice(zi + zhTag.length, w.indexOf("</div>", zi))) : "";
+      out.push({
+        term: clean(term),
+        pos: clean(pos),
+        meaning: clean(meaning),
+        enExample,
+        zhExample,
+        note: clean(detail),
+      });
+    } else {
+      // 结构A（旧版）
+      const term = (w.match(/<div class="term">([\s\S]*?)<\/div>/) || [])[1] || "";
+      const pos = (w.match(/<span class="pos">([\s\S]*?)<\/span>/) || [])[1] || "";
+      const def = (w.match(/<div class="def">([\s\S]*?)<\/div>/) || [])[1] || "";
+      const exRaw = (w.match(/<div class="ex">([\s\S]*?)<\/div>/) || [])[1] || "";
+      const ex = parseWordEx(clean(exRaw));
+      out.push({
+        term: clean(term),
+        pos: clean(pos),
+        meaning: clean(def),
+        enExample: ex.enExample,
+        zhExample: ex.zhExample,
+        note: ex.note,
+      });
+    }
   }
   return out.filter((x) => x.term);
 }

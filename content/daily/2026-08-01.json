@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-01",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "companion",
+      "pos": "n.",
+      "phonetic": "/kəmˈpæniən/",
+      "meaning": "同伴；伴侣",
+      "enExample": "A loyal companion stays through every storm.",
+      "zhExample": "忠诚的同伴会陪你度过每一场风暴。",
+      "note": "动词 accompany（陪伴）；近义：partner, friend"
+    },
+    {
+      "word": "loyal",
+      "pos": "adj.",
+      "phonetic": "/ˈlɔɪəl/",
+      "meaning": "忠诚的；忠实的",
+      "enExample": "True friends are loyal even when it is hard.",
+      "zhExample": "真正的朋友即便艰难也忠贞不渝。",
+      "note": "名词 loyalty（忠诚）；反义：disloyal"
+    },
+    {
+      "word": "bond",
+      "pos": "n.",
+      "phonetic": "/bɑːnd/",
+      "meaning": "纽带；联结",
+      "enExample": "Years of trust built a quiet bond between them.",
+      "zhExample": "多年的信任在他们之间筑起了一条无声的纽带。",
+      "note": "动词 bond（建立亲密关系）；近义：tie, connection"
+    },
+    {
+      "word": "cherish",
+      "pos": "v.",
+      "phonetic": "/ˈtʃerɪʃ/",
+      "meaning": "珍惜；珍爱",
+      "enExample": "Cherish the friends who stay.",
+      "zhExample": "请珍惜那些留下来的人。",
+      "note": "近义：treasure；反义：neglect"
+    },
+    {
+      "word": "reunion",
+      "pos": "n.",
+      "phonetic": "/riˈjuːniən/",
+      "meaning": "重聚；团圆",
+      "enExample": "Their reunion felt like no time had passed.",
+      "zhExample": "他们的重聚让人觉得时光从未流逝。",
+      "note": "动词 reunite（重逢）；re-（重新）+ union（联合）"
+    }
+  ],
+  "essay": {
+    "title": "The Friends Who Stay",
+    "author": "佚名",
+    "paragraphs": [
+      "Friendship, in the beginning, is loud. It is late nights and inside jokes, the exhilaration of finding someone who laughs at exactly the thing you find funny. We think this noise is the substance of it. It isn't.",
+      "The real test comes later, when life pulls people into different cities, different hours, different shapes of living. Most friendships quietly dissolve here, not through betrayal but through neglect — the message left unanswered, the birthday remembered a week late, the vague intention to reconnect that never becomes a date.",
+      "The ones who stay are rarely the ones who promised the most. They are the ones who showed up. Who sat in a hospital corridor with terrible coffee. Who said, without being asked, \"I'll be there at seven.\" Who could go six months without a word and then pick up mid-sentence, as though no time had passed at all.",
+      "What such friendship offers is not entertainment but recognition. To be known — genuinely known, flaws and history included — and still be chosen, is among the quieter miracles of being alive.",
+      "So call the one you have been meaning to call. Friendship is not a thing you have; it is a thing you keep doing. And the doing, however small, is the whole of it."
+    ],
+    "translations": [
+      "友谊在最初总是喧闹的。它是彻夜长谈，是只有彼此才懂的玩笑，是找到一个人、他恰好会为你觉得好笑的那件事发笑时的雀跃。我们以为这份热闹就是友谊的本质。其实不是。",
+      "真正的考验在后来才到来——当生活把人们拉扯到不同的城市、不同的作息、不同的生活形状里。大多数友谊正是在这里悄然消散的，不是因为背叛，而是因为疏忽：那条没有回复的消息，那个迟了一周才想起的生日，那个\"改天聚聚\"却从未落成日期的模糊念头。",
+      "最终留下来的，很少是当初承诺最多的那些人。而是那些真的出现了的人。是陪你坐在医院走廊、手里端着难喝咖啡的人。是不必你开口便说\"我七点到\"的人。是可以半年杳无音信，再开口时却像话说到一半刚被打断、时间从未流逝过的人。",
+      "这样的友谊所给予的，不是消遣，而是\"被看见\"。被了解——真正地了解，连同缺点与过往——却依然被选择，这是活着这件事里较为安静的一种奇迹。",
+      "所以，给那个你一直想打电话给他的人打个电话吧。友谊不是一样你所拥有的东西，而是一件你持续在做的事。而这\"去做\"本身，无论多么微小，就是它的全部。"
+    ],
+    "grammar": [
+      {
+        "point": "1. not…but… 平行对比结构",
+        "example": "not through betrayal but through neglect / What such friendship offers is not entertainment but recognition.",
+        "note": "not A but B（不是 A，而是 B）要求 A、B 词性与结构对称：本文分别是\"介词短语 vs 介词短语\"\"名词 vs 名词\"。这是议论文最实用的强调句式之一。 进阶变体：not only A but also B（不仅……而且……）、not so much A as B（与其说 A 不如说 B）。"
+      },
+      {
+        "point": "2. what 引导的主语从句 + 强调核心信息",
+        "example": "What such friendship offers is not entertainment but recognition.",
+        "note": "What such friendship offers 是名词性从句作主语（what 在从句中作 offers 的宾语），谓语用单数 is。这种\"What… is…\"结构能把最重要的信息推到句末，形成天然的强调焦点。 写作模板：What matters is… / What surprised me was… / What we need is…，比平铺直叙有力得多。"
+      },
+      {
+        "point": "3. 不定式短语作主语 + 插入语",
+        "example": "To be known — genuinely known, flaws and history included — and still be chosen, is among the quieter miracles of being alive.",
+        "note": "主语是并列的不定式短语 To be known … and still be chosen（被动不定式），谓语是 is。两个破折号之间为插入解释成分，其中 flaws and history included 是\"名词 + 过去分词\"构成的独立主格结构，相当于 including flaws and history。 拆掉插入语后主干一目了然：To be known and be chosen is a miracle. 长句阅读的诀窍就是先找主谓。"
+      },
+      {
+        "point": "4. as though + 过去完成时（虚拟语气）",
+        "example": "…then pick up mid-sentence, as though no time had passed at all.",
+        "note": "as though / as if 引导方式状语从句表示与事实相反时用虚拟语气：与过去事实相反用过去完成时（had passed），与现在事实相反用一般过去时（were/did）。 对比：He talks as if he knew everything.（其实他不知道，与现在相反）｜She looked as if she had seen a ghost.（与过去相反）。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "inside joke",
+        "pos": "短语",
+        "meaning": "只有小圈子内部才懂的玩笑；\"梗\"",
+        "enExample": "Half their conversation is inside jokes I don't get.",
+        "zhExample": "他们的对话有一半都是我听不懂的内部梗。",
+        "note": "用法：英式常说 in-joke。描述亲密关系时极为地道，比 private joke 更口语。"
+      },
+      {
+        "term": "exhilaration",
+        "pos": "n.",
+        "meaning": "/ɪɡˌzɪləˈreɪʃn/ 兴奋；令人振奋的喜悦",
+        "enExample": "There was an exhilaration in finally speaking freely.",
+        "zhExample": "终于能畅所欲言，那是一种令人振奋的快意。",
+        "note": "词族：exhilarate (v.) → exhilarating (adj. 令人振奋的) → exhilarated (adj. 感到振奋的)。近义：elation, thrill；程度强于 happiness。"
+      },
+      {
+        "term": "substance",
+        "pos": "n.",
+        "meaning": "/ˈsʌbstəns/ 实质、要旨；物质",
+        "enExample": "His speech was long on style and short on substance.",
+        "zhExample": "他的演讲辞藻华丽却缺乏实质内容。",
+        "note": "高频搭配：the substance of the matter（事情的实质）、a man of substance（有分量/有财富的人）、style over substance（重形式轻内容）。"
+      },
+      {
+        "term": "dissolve",
+        "pos": "v.",
+        "meaning": "/dɪˈzɒlv/ 溶解；（关系、组织）解散、消散",
+        "enExample": "Their partnership dissolved without a single argument.",
+        "zhExample": "他们的合作关系连一次争吵都没有就散了。",
+        "note": "比喻用法：friendships dissolve / a marriage dissolves / dissolve into tears（崩溃大哭）。本文用它形容友谊无声消散，比 end 更柔和贴切。"
+      },
+      {
+        "term": "betrayal",
+        "pos": "n.",
+        "meaning": "/bɪˈtreɪəl/ 背叛",
+        "enExample": "She felt a deep sense of betrayal when she learned the truth.",
+        "zhExample": "得知真相时，她感到深深的被背叛感。",
+        "note": "词族：betray (v.) → betrayal (n.) → betrayer / traitor (n. 背叛者)。搭配：a sense of betrayal（被背叛感）、betray sb.'s trust。"
+      },
+      {
+        "term": "neglect",
+        "pos": "n./v.",
+        "meaning": "/nɪˈɡlekt/ 疏忽；忽视、疏于照料",
+        "enExample": "The garden had fallen into neglect over the years.",
+        "zhExample": "这些年来花园渐渐荒废无人打理。",
+        "note": "辨析：neglect 强调\"应做而未做\"的疏忽；ignore 是\"明知而故意不理\"。本文关键对比 not through betrayal but through neglect 精准道出多数友谊消亡的真相。"
+      },
+      {
+        "term": "vague",
+        "pos": "adj.",
+        "meaning": "/veɪɡ/ 模糊的；含糊其辞的",
+        "enExample": "He gave a vague promise to help \"sometime soon.\"",
+        "zhExample": "他含糊地承诺\"过阵子\"来帮忙。",
+        "note": "注意发音：/veɪɡ/，词尾 -ue 不发音。搭配：a vague idea/memory/promise。反义：specific, concrete, definite。"
+      },
+      {
+        "term": "show up",
+        "pos": "短语动词",
+        "meaning": "现身、到场；（引申）在关键时刻挺身而出",
+        "enExample": "He may not say much, but he always shows up when it counts.",
+        "zhExample": "他话不多，但关键时刻总在场。",
+        "note": "文化含义：英文里 showing up 已成为一种价值观表达，指\"人到、心到\"的可靠。Woody Allen 名言：Eighty percent of success is showing up."
+      },
+      {
+        "term": "pick up mid-sentence",
+        "pos": "短语",
+        "meaning": "（久别重逢后）从话说到一半处接着聊",
+        "enExample": "After three years apart, we picked up where we left off.",
+        "zhExample": "分别三年后，我们从上次断掉的地方继续聊了下去。",
+        "note": "拓展：pick up where we left off 是更常用的同义表达，意为\"从上次中断的地方继续\"。mid- 前缀构词：mid-sentence, mid-air, mid-career。"
+      },
+      {
+        "term": "recognition",
+        "pos": "n.",
+        "meaning": "/ˌrekəɡˈnɪʃn/ 认出；认可、被看见与被承认",
+        "enExample": "What people crave most is not praise but recognition.",
+        "zhExample": "人们最渴望的不是赞美，而是被真正看见。",
+        "note": "层次：① 认出（facial recognition 人脸识别）；② 认可（in recognition of his service 以表彰其贡献）；③ 本文取哲学意味的\"被真正看见与承认\"。"
+      }
+    ]
+  }
+}

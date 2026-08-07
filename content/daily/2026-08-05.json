@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-05",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "convey",
+      "pos": "v.",
+      "phonetic": "/kənˈveɪ/",
+      "meaning": "传达；表达；传递（信息、感情）",
+      "enExample": "A good leader must convey complex ideas in words that everyone can understand.",
+      "zhExample": "一个优秀的领导者必须用每个人都能理解的语言来传达复杂的想法。",
+      "note": "con-（共同）+ vey（路，如 way）→ 沿同一条路送到对方心里。比 say 更正式，强调\"对方真的接收到\"。邮件中：I want to convey my sincere thanks to the team.（我想向团队表达真诚的感谢。）"
+    },
+    {
+      "word": "insightful",
+      "pos": "adj.",
+      "phonetic": "/ˈɪn.saɪt.fəl/",
+      "meaning": "有洞察力的；富有见解的",
+      "enExample": "Her insightful question helped the team rethink the entire marketing strategy.",
+      "zhExample": "她那富有洞察力的问题，帮助团队重新审视了整条营销策略。",
+      "note": "in-（进入）+ sight（看见）+ -ful → 看进去的能力。形容人：an insightful analyst / a truly insightful comment。比 meaningful 多一层\"看穿本质\"的感觉。会议中别人说出 insight 的话，夸一句 \"That's an insightful point\" 立刻拉满印象分。"
+    },
+    {
+      "word": "credible",
+      "pos": "adj.",
+      "phonetic": "/ˈkred.ə.bəl/",
+      "meaning": "可信的；可靠的；能让人相信的",
+      "enExample": "You need credible data before making any decision that affects the whole company.",
+      "zhExample": "在做出影响整个公司的任何决定之前，你需要有可信的数据支持。",
+      "note": "cred（相信，源自 credit）+ -ible（可…的）→ 让人愿意相信的。credible source / credible evidence / a credible candidate。近义：believable, trustworthy；反义：incredible（难以置信的）。注意区分 credible（可信）≠ creative（有创造力）。"
+    },
+    {
+      "word": "feasible",
+      "pos": "adj.",
+      "phonetic": "/ˈfiː.zə.bəl/",
+      "meaning": "可行的；行得通的；可能的",
+      "enExample": "Before we commit, we need to confirm whether the plan is technically and financially feasible.",
+      "zhExample": "在我们正式承诺之前，需要先确认这个方案在技术和财务上是否可行。",
+      "note": "feas（做，如 feat / fashion）+ -ible → 做得成的。注意发音 /ˈfiːz-/，不是 /ˈfes-/。职场邮件金句：\"Let's confirm if this is feasible by Friday.\"（我们周五前确认下是否可行。）近义：practical, workable, viable。"
+    },
+    {
+      "word": "endorse",
+      "pos": "v.",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "meaning": "支持；赞同；为…背书；公开推荐",
+      "enExample": "Our CEO publicly endorsed the new diversity initiative at last week's town hall.",
+      "zhExample": "我们的 CEO 在上周的全员大会上公开支持了这项新的多元共融计划。",
+      "note": "en-（使）+ dors（背）→ 把自己名字签到对方背上 = 背书支持。比 support 更正式、有公开性，强调\"公开站出来背书\"。高频搭配：endorse a candidate / endorse a product / endorse an idea。名词形式 endorsement，常出现在 LinkedIn 推荐语中。"
+    }
+  ],
+  "essay": {
+    "title": "The Things We Forget to Say",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "The more…, the more… —— \"越……，越……\" 与句末的 there be 结构",
+        "example": "",
+        "note": "\"the + 比较级…, the + 比较级…\" 是英语里表示正比关系的固定句型，意为\"越……，就越……\"。两个 the 都不可省，且通常前半句是从句、后半句是主句。本句妙在第二个 the more 后跟的不是普通主谓，而是 there seem to be（there be 的\"似乎有\"），把\"可数的福分\"写成一种会自己生长出来的东西。"
+      },
+      {
+        "point": "ask / demand 等\"要求\"动词后，that 从句用 (should) + 动词原形",
+        "example": "",
+        "note": "当主句动词表示\"要求、建议、命令、愿望\"等（ask, demand, require, suggest, insist, recommend…），其后的 that 宾语从句要用虚拟语气：形式为 (should) + 动词原形，should 在美式英语里常省略，直接保留动词原形。所以这里写 we pause，而不是 we should pause 或 we pauses（三单错）。"
+      },
+      {
+        "point": "practiced in plain sight —— 过去分词短语作后置定语 / 补充说明",
+        "example": "",
+        "note": "逗号之间的 practiced in plain sight 是过去分词短语，修饰前面的 a habit，相当于一个省略的定语从句 which is practiced in plain sight（被公开练习的）。过去分词表\"被动、已完成\"，这里把\"习惯是被练习出来的\"这层意思轻轻带过。后面 often unglamorous 是形容词短语，同位补充，进一步描述这习惯的样子。"
+      },
+      {
+        "point": "by + 动名词 表\"方式\"，let + 宾语 + 省 to 不定式",
+        "example": "",
+        "note": "三个 by + 动名词（noticing, saying, letting）构成方式状语，回答\"你怎样建立这个习惯\"——by doing 是英语里极常用的\"通过……（来做）\"结构。其中 letting someone know 涉及使役动词 let 的固定用法：let + 宾语 + 动词原形（不带 to），所以这里是 know 而不是 to know。整句把\"让某人知道\"写成一个干净的不定式。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "grievance",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "weigh down",
+        "pos": "phr. v.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "gratitude",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "fully formed",
+        "pos": "phr.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "unglamorous",
+        "pos": "adj.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "ritual",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "count one's blessings",
+        "pos": "idiom",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "promotion",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "reunion",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "kettle",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "in plain sight",
+        "pos": "phr.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "matter (to sb.)",
+        "pos": "v.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      }
+    ]
+  }
+}

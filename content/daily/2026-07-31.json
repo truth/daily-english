@@ -1,0 +1,171 @@
+{
+  "date": "2026-07-31",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "meander",
+      "pos": "v.",
+      "phonetic": "/miˈændər/",
+      "meaning": "蜿蜒流淌；闲逛，曲折前行",
+      "enExample": "The river meanders through the quiet valley.",
+      "zhExample": "河水蜿蜒流过寂静的山谷。",
+      "note": "近义：wander；常用于形容河流、道路或思路的曲折延伸"
+    },
+    {
+      "word": "current",
+      "pos": "n.",
+      "phonetic": "/ˈkɜːrənt/",
+      "meaning": "（水/空气的）流；潮流",
+      "enExample": "He swam against the current.",
+      "zhExample": "他逆着水流往前游。",
+      "note": "也可作形容词“当前的”；常见搭配 electric current（电流）"
+    },
+    {
+      "word": "patience",
+      "pos": "n.",
+      "phonetic": "/ˈpeɪʃns/",
+      "meaning": "耐心；忍耐",
+      "enExample": "The river teaches us patience.",
+      "zhExample": "河流教会我们耐心。",
+      "note": "形容词 patient；反义：impatience"
+    },
+    {
+      "word": "steady",
+      "pos": "adj.",
+      "phonetic": "/ˈstedi/",
+      "meaning": "稳定的；持续的",
+      "enExample": "A steady flow carves the deepest canyon.",
+      "zhExample": "持续的水流凿出最深的峡谷。",
+      "note": "副词 steadily；反义：unsteady"
+    },
+    {
+      "word": "erode",
+      "pos": "v.",
+      "phonetic": "/ɪˈroʊd/",
+      "meaning": "侵蚀；逐渐削弱",
+      "enExample": "Water slowly erodes the stone.",
+      "zhExample": "水慢慢侵蚀着石头。",
+      "note": "名词 erosion（侵蚀）；也可指信心、信任被逐渐“侵蚀”"
+    }
+  ],
+  "essay": {
+    "title": "What the River Knows",
+    "author": "佚名",
+    "paragraphs": [
+      "A river has never once worried about arriving. It simply goes, and in going, it becomes what it is.",
+      "Watch it long enough and you will notice that it never argues with the stone. When something immovable stands in its way, the water does not stop to complain; it curves, it slips underneath, it waits and rises. Over centuries, without a single act of force, it carves the canyon that no hammer could. This is the strange arithmetic of nature: what is soft outlasts what is hard, and what yields is rarely defeated.",
+      "We are taught to admire the mountain — its permanence, its refusal to move. But the mountain is slowly coming apart, grain by grain, while the river that wears it down is renewed every morning by rain it never asked for. Strength that cannot bend is only waiting for the wind that will break it.",
+      "There is comfort in this, if you let there be. You do not have to force your way through the season you are in. You are allowed to move around the obstacle instead of through it, to rest in a still pool for a while, to arrive later than you planned. The river is not behind schedule. It is simply, patiently, on its way to the sea — and so, whether you feel it today or not, are you."
+    ],
+    "translations": [
+      "河流从不曾为\"抵达\"忧心。它只是流动，而正是在流动之中，它成为了它自己。",
+      "看得久了，你会发现它从不与石头争辩。当某种不可撼动之物挡在前方，水不会停下来抱怨；它绕行，它从底下潜过，它等待，然后涨起。历经数百年，不曾使用一次蛮力，它便凿出了任何铁锤都凿不出的峡谷。这就是大自然奇特的算术：柔软者比坚硬者活得更久，退让者极少被击败。",
+      "我们被教导去仰慕高山——它的恒久，它拒绝移动的姿态。可高山正一粒一粒地缓慢崩解，而那条把它磨蚀的河流，却每天清晨都被从未索求过的雨水更新一遍。不懂弯折的强硬，不过是在等待那阵终将折断它的风。",
+      "若你愿意，这其中自有安慰。你不必强行冲过自己正身处的这个季节。你可以绕过障碍而不是穿透它，可以在一潭静水中歇上一阵，可以比原计划晚些抵达。河流并没有误期，它只是耐心地、始终地在奔向大海的路上——而你也是，无论你今天是否感觉得到。"
+    ],
+    "grammar": [
+      {
+        "point": "1. 祈使句 + and + 陈述句（暗含条件）",
+        "example": "Watch it long enough and you will notice that it never argues with the stone.",
+        "note": "\"祈使句 + and + 将来时\"等于一个条件句：= If you watch it long enough, you will notice…。这是英语中简洁有力的表达方式。 对照句型：祈使句 + or + 结果句 = \"否则……\"，如 Hurry up, or you'll miss the train.（快点，否则赶不上火车。）"
+      },
+      {
+        "point": "2. 名词性从句作主语 / 表语（what 引导）",
+        "example": "what is soft outlasts what is hard, and what yields is rarely defeated",
+        "note": "三个 what 从句都是名词性从句：前两个分别作主语和宾语，第三个作主语。what 在从句中兼作主语，相当于 the thing which，本身不可省略。 谓语用单数（outlasts / is）——what 从句作主语时视为单数概念。这是写作中容易失分的细节。"
+      },
+      {
+        "point": "3. 定语从句中的过去分词短语 + 被动语态",
+        "example": "the river that wears it down is renewed every morning by rain it never asked for",
+        "note": "主干是 the river ... is renewed ... by rain（被动语态）。that wears it down 修饰 river；it never asked for 是省略了关系代词 that/which 的定语从句，修饰 rain（因为关系词在从句中作介词 for 的宾语，可省略）。 一句话里套两层定语从句而不显臃肿，靠的是长短交替——这是提升写作质感的关键。"
+      },
+      {
+        "point": "4. 部分倒装：so + be 动词 + 主语",
+        "example": "It is simply, patiently, on its way to the sea — and so, whether you feel it today or not, are you.",
+        "note": "正常语序为 and so are you（你也是），这里在 so 与 are 之间插入了让步状语从句 whether…or not，因此看起来像 \"and so … are you\"。so + 助动词/be + 主语 表示\"……也是如此\"。 区分：So am I.（我也是，倒装）vs. So I am.（我确实是，不倒装，表示认同对方的评价）。含义完全不同，常考。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "immovable",
+        "pos": "adj.",
+        "meaning": "/ɪˈmuːvəbl/ 无法移动的；（态度）不可动摇的",
+        "enExample": "On this point she was immovable — no argument could change her mind.",
+        "zhExample": "在这一点上她毫不动摇，任何争辩都无法改变她的想法。",
+        "note": "用法：既可指物理上搬不动，也可喻指立场坚定。经典搭配 an immovable object meets an irresistible force（不可撼动之物遇上不可阻挡之力）。近义：fixed, unyielding；反义：movable, flexible。"
+      },
+      {
+        "term": "carve",
+        "pos": "v.",
+        "meaning": "/kɑːv/ 雕刻；（水流等）冲刻出",
+        "enExample": "She carved out a niche for herself in medical translation.",
+        "zhExample": "她在医学翻译领域为自己开辟了一席之地。",
+        "note": "拓展：carve out a career/niche 表示\"闯出一片事业/开辟一块领域\"，是地道的高频比喻用法。近义：sculpt, hew。"
+      },
+      {
+        "term": "arithmetic",
+        "pos": "n.",
+        "meaning": "/əˈrɪθmətɪk/ 算术；（喻）计算逻辑、道理",
+        "enExample": "The arithmetic of the deal simply doesn't work.",
+        "zhExample": "这笔交易的账根本算不过来。",
+        "note": "注意：作名词重音在第二音节，作形容词 arithmetic /ˌærɪθˈmetɪk/ 重音后移。本文\"the strange arithmetic of nature\"是比喻用法，指\"自然的一套算法/规律\"。"
+      },
+      {
+        "term": "outlast",
+        "pos": "v.",
+        "meaning": "/ˌaʊtˈlɑːst/ 比……持续更久；比……更耐久",
+        "enExample": "These boots will outlast any pair you buy online.",
+        "zhExample": "这双靴子会比你网购的任何一双都耐穿。",
+        "note": "构词：out- 前缀表\"超过\"，同类词还有 outlive（比……活得久）、outnumber（数量超过）、outperform（表现优于）。掌握这一组能快速扩词。"
+      },
+      {
+        "term": "yield",
+        "pos": "v./n.",
+        "meaning": "/jiːld/ 让步、屈服；出产；（n.）产量、收益率",
+        "enExample": "He refused to yield to intimidation.",
+        "zhExample": "他拒绝向恐吓屈服。",
+        "note": "一词多义：① yield to pressure 屈从压力；② the field yields a good crop 出产；③ 金融中 bond yield 指债券收益率。本文取\"退让\"义。反义：resist, withstand。"
+      },
+      {
+        "term": "permanence",
+        "pos": "n.",
+        "meaning": "/ˈpɜːmənəns/ 永久；持久性",
+        "enExample": "Nothing in nature has true permanence; even mountains change.",
+        "zhExample": "自然中没有真正永恒之物，连高山也在变化。",
+        "note": "词族：permanent (adj.) → permanently (adv.) → permanence (n.)。近义：durability, continuity；反义：impermanence, transience（无常、短暂）。"
+      },
+      {
+        "term": "grain by grain",
+        "pos": "短语",
+        "meaning": "一粒一粒地；一点一点地",
+        "enExample": "Trust is rebuilt day by day, not overnight.",
+        "zhExample": "信任是一天天重建的，不会一夜恢复。",
+        "note": "结构：\"名词 + by + 名词\"表渐进过程，是极实用的写作句式：step by step, day by day, little by little, inch by inch。中间不加冠词。"
+      },
+      {
+        "term": "wear down",
+        "pos": "短语动词",
+        "meaning": "磨损；逐渐削弱（耐心、抵抗）",
+        "enExample": "Their constant objections gradually wore down his resolve.",
+        "zhExample": "他们不断的反对逐渐消磨了他的决心。",
+        "note": "辨析：wear down 侧重\"磨蚀、耗尽\"；wear out 指\"用坏、使精疲力尽\"；wear off 指（药效、感觉）逐渐消退。三者常考。"
+      },
+      {
+        "term": "still",
+        "pos": "adj.",
+        "meaning": "/stɪl/ 静止的；无风无浪的",
+        "enExample": "The lake was perfectly still at dawn.",
+        "zhExample": "黎明时湖面平静如镜。",
+        "note": "提醒：除了副词\"仍然\"，still 作形容词意为\"静止、平静\"，如 a still pool（一潭静水）、Still waters run deep（静水流深，谚语，指沉默者内心丰富）。"
+      },
+      {
+        "term": "behind schedule",
+        "pos": "短语",
+        "meaning": "进度落后；晚于计划",
+        "enExample": "The project is two weeks behind schedule, but still on budget.",
+        "zhExample": "项目延后了两周，但仍在预算之内。",
+        "note": "搭配组：ahead of schedule（提前）、on schedule（按计划）、behind schedule（延误）。职场邮件高频表达。"
+      }
+    ]
+  }
+}

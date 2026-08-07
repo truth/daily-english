@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-03",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "phonetic": "/ˈɪmplɪment/",
+      "meaning": "实施；执行；贯彻",
+      "enExample": "The company will implement the new policy starting next month.",
+      "zhExample": "公司将从下个月起实施新政策。",
+      "note": "im-进入 + ply-填满 → '填进去'即落实。近义：execute, carry out"
+    },
+    {
+      "word": "adapt",
+      "pos": "v.",
+      "phonetic": "/əˈdæpt/",
+      "meaning": "适应；调整",
+      "enExample": "Successful professionals adapt quickly to changing environments.",
+      "zhExample": "成功的职场人士能迅速适应不断变化的环境。",
+      "note": "ad-朝向 + apt-适合 → 朝适合方向调整。近义：adjust, accommodate"
+    },
+    {
+      "word": "negotiate",
+      "pos": "v.",
+      "phonetic": "/nɪˈɡəʊʃieɪt/",
+      "meaning": "协商；谈判",
+      "enExample": "We need to negotiate a better deal with the supplier.",
+      "zhExample": "我们需要与供应商协商一个更好的方案。",
+      "note": "词根 negoti-（生意）+ -ate → 谈生意即协商。近义：bargain, discuss"
+    },
+    {
+      "word": "assess",
+      "pos": "v.",
+      "phonetic": "/əˈses/",
+      "meaning": "评估；评定",
+      "enExample": "The manager will assess each employee's performance quarterly.",
+      "zhExample": "经理将每季度评估每位员工的绩效。",
+      "note": "as-朝 + sess-坐 → 坐下来仔细掂量即评估。近义：evaluate, appraise"
+    },
+    {
+      "word": "commitment",
+      "pos": "n.",
+      "phonetic": "/kəˈmɪtmənt/",
+      "meaning": "承诺；投入；奉献",
+      "enExample": "Her commitment to quality earned her a promotion.",
+      "zhExample": "她对品质的投入为她赢得了晋升。",
+      "note": "commit（承诺）+ -ment（名词后缀）。近义：dedication, pledge"
+    }
+  ],
+  "essay": {
+    "title": "Letters We Never Sent",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a drawer in every life — sometimes literal, more often mental — where we keep the letters we never sent. Not junk mail or forgotten bills, but the words we composed carefully in our minds, rehearsed in the shower, whispered to ourselves on long drives, and ultimately never delivered.",
+      "Some are love letters, written too late. Some are apologies, offered too pridefully to speak aloud. Some are thank-you notes to teachers who changed us, to friends who stayed, to strangers whose kindness we remember years after the moment passed. And some are arguments we won brilliantly in our imagination but chose, wisely, not to have.",
+      "What we rarely admit is that these unsent letters shape us as much as the conversations we actually had. In writing them — even only in thought — we practice honesty. We clarify what we feel and what we value. We rehearse vulnerability in a safe, private theatre where no one can reject us.",
+      "The irony, of course, is that the people who needed to hear those words probably needed them as much as we needed to speak them. They, too, have their own drawers of unsent letters. They, too, walked away from conversations wishing they had said the brave thing.",
+      "Perhaps the bravest thing we can do today is open that drawer, pick one letter, and send it — not because we know how it will be received, but because the words deserve to exist outside our own heads, where they can finally do the work they were meant to do."
+    ],
+    "translations": [
+      "每个人的生命中都有一个抽屉——有时是实物，更多时候是心理上的——我们存放着从未寄出的信。不是垃圾邮件或遗忘的账单，而是我们在脑海中仔细斟酌的词语，在淋浴时排练过，在漫长的驾驶中低声对自己说过，最终却从未送出。",
+      "有些是情书，写得太晚。有些是道歉，因太骄傲而说不出口。有些是感谢信——给改变了我们的老师，给留下的朋友，给那些我们在多年后仍记得其善意的陌生人。还有些是我们在想象中大获全胜、却明智地选择不去发生的争论。",
+      "我们很少承认的是，这些未寄出的信塑造我们的程度，丝毫不亚于我们真正进行过的对话。在写它们的过程中——哪怕只是在脑海中——我们练习了诚实。我们理清了自己的感受和价值观。我们在一个安全的私人剧场里排练脆弱，在那里没有人能拒绝我们。",
+      "讽刺的是，那些需要听到这些话的人，可能和我们需要说出它们一样迫切地需要听到。他们也有自己的未寄出信件的抽屉。他们也曾带着遗憾离开对话，希望自己当初说出了勇敢的话。",
+      "也许我们今天能做的最勇敢的事，就是打开那个抽屉，挑出一封信，然后把它寄出去——不是因为我们知道对方会如何回应，而是因为这些话值得存在于我们自己的头脑之外，在那里它们终于可以做它们本来就该做的事。"
+    ],
+    "grammar": [
+      {
+        "point": "主语从句 + 表语从句",
+        "example": "\"What we rarely admit is that these unsent letters shape us as much as the conversations we actually had.\"",
+        "note": "What we rarely admit 是 what 引导的主语从句，作整个句子的主语；is 后面 that 引导表语从句，解释「很少承认的内容」是什么。两个从句嵌套使用，形成层次丰富的长句。 举一反三：What surprised me was that she agreed immediately. / What matters most is that you tried."
+      },
+      {
+        "point": "not because... but because... 结构",
+        "example": "\"...not because we know how it will be received, but because the words deserve to exist outside our own heads...\"",
+        "note": "此结构强调动机的对比：否定一个原因，肯定另一个。how it will be received 是 know 的宾语从句。deserve to do 表示「值得做某事」。 举一反三：I did it not because I had to, but because I wanted to. / She left not because she was unhappy, but because she found something better."
+      },
+      {
+        "point": "定语从句与关系副词 where",
+        "example": "\"...a safe, private theatre where no one can reject us.\"",
+        "note": "where 引导定语从句修饰 theatre，where 在从句中作地点状语，相当于 in which。此处 theatre 为比喻用法，指心理空间。 举一反三：This is the place where I grew up. / She created a world where everyone felt welcome."
+      },
+      {
+        "point": "省略与插入语",
+        "example": "\"There is a drawer in every life — sometimes literal, more often mental — where we keep the letters we never sent.\"",
+        "note": "破折号之间的 sometimes literal, more often mental 是插入语，对 drawer 进行补充说明。where 引导定语从句修饰 drawer。we never sent 是省略了 that/which 的定语从句修饰 letters。 举一反三：The book — long forgotten — was still on the shelf. / The man I met yesterday called again."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "literal",
+        "pos": "adj.",
+        "meaning": "字面的；实际的；确确实实的",
+        "enExample": "The story was not a metaphor — it was a literal account of what happened.",
+        "zhExample": "这个故事不是隐喻——它是对所发生之事的真实记录。",
+        "note": "用法：强调按字面意思理解，与比喻义相对。"
+      },
+      {
+        "term": "rehearse",
+        "pos": "v.",
+        "meaning": "排练；预演；默念",
+        "enExample": "She rehearsed her resignation speech a dozen times before the meeting.",
+        "zhExample": "她在会议前把辞职演说排练了十几次。",
+        "note": "用法：re-（再）+ hearse（拉）→ 反复拉扯即排练。引申为在脑中预演。"
+      },
+      {
+        "term": "apology",
+        "pos": "n.",
+        "meaning": "道歉；辩解",
+        "enExample": "He owed her an apology but his pride wouldn't allow it.",
+        "zhExample": "他欠她一个道歉，但自尊心不允许他开口。",
+        "note": "用法：apo-（远离）+ logy（言语）→ 说开即道歉。复数 apologies。"
+      },
+      {
+        "term": "pridefully",
+        "pos": "adv.",
+        "meaning": "骄傲地；傲慢地",
+        "enExample": "She pridefully refused to admit she had been wrong.",
+        "zhExample": "她骄傲地拒绝承认自己错了。",
+        "note": "用法：pride（骄傲）+ -ful（形容词后缀）+ -ly（副词后缀）。"
+      },
+      {
+        "term": "brilliantly",
+        "pos": "adv.",
+        "meaning": "出色地；辉煌地",
+        "enExample": "She argued her case so brilliantly that even her opponent applauded.",
+        "zhExample": "她的辩护如此精彩，连对手都鼓了掌。",
+        "note": "用法：brilliant（辉煌的）+ -ly，形容极其出色或耀眼的方式。"
+      },
+      {
+        "term": "vulnerability",
+        "pos": "n.",
+        "meaning": "脆弱性；易受伤害",
+        "enExample": "True intimacy requires vulnerability — the courage to be seen as you are.",
+        "zhExample": "真正的亲密需要脆弱——敢于以真实面貌被看见的勇气。",
+        "note": "用法：vulnerable（脆弱的）的名词形式，指情感上暴露、不设防的状态。"
+      },
+      {
+        "term": "irony",
+        "pos": "n.",
+        "meaning": "讽刺；反差；出人意料的事",
+        "enExample": "The irony is that the more we hide our feelings, the more visible they become.",
+        "zhExample": "讽刺的是，我们越隐藏感情，它们就越明显。",
+        "note": "用法：指事与愿违的巧合或矛盾，常带苦涩的幽默感。"
+      },
+      {
+        "term": "brave",
+        "pos": "adj.",
+        "meaning": "勇敢的；无畏的",
+        "enExample": "It was brave of her to speak the truth when everyone else stayed silent.",
+        "zhExample": "当所有人都沉默时，她说出了真相，真是勇敢。",
+        "note": "用法：源自意大利语 bravo（勇敢），形容面对恐惧仍敢于行动。"
+      },
+      {
+        "term": "shape",
+        "pos": "v.",
+        "meaning": "塑造；影响……的发展",
+        "enExample": "Childhood experiences shape who we become as adults.",
+        "zhExample": "童年经历塑造了我们成年后的样子。",
+        "note": "用法：本义「成形」，引申为深刻影响某人或某事的发展方向。"
+      },
+      {
+        "term": "be meant to",
+        "pos": "phrase",
+        "meaning": "注定要；本应该",
+        "enExample": "Some words are meant to be spoken, not buried in silence.",
+        "zhExample": "有些话注定要说出口，而不是埋藏在沉默中。",
+        "note": "用法：表示命运安排或本来的意图，常用于反思性语境。"
+      }
+    ]
+  }
+}

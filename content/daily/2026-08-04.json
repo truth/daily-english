@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-04",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "collaborate",
+      "pos": "v.",
+      "phonetic": "/kəˈlæb.ər.eɪt/",
+      "meaning": "合作，协作",
+      "enExample": "Our team collaborates across different departments to deliver the best results.",
+      "zhExample": "我们的团队跨部门合作，以交付最佳成果。",
+      "note": "col-（共同）+ labor（劳动）+ -ate → 共同劳动即合作。近义：cooperate, work together"
+    },
+    {
+      "word": "obstacle",
+      "pos": "n.",
+      "phonetic": "/ˈɒb.stə.kəl/",
+      "meaning": "障碍，阻碍",
+      "enExample": "Lack of communication is often the biggest obstacle to a successful project.",
+      "zhExample": "沟通不畅往往是项目成功的最大障碍。",
+      "note": "ob-（against）+ stacle/stare（站）→ 站在对面的东西挡住去路。近义：barrier, hindrance"
+    },
+    {
+      "word": "emphasize",
+      "pos": "v.",
+      "phonetic": "/ˈem.fə.saɪz/",
+      "meaning": "强调，着重",
+      "enExample": "The manager emphasized the importance of meeting the deadline.",
+      "zhExample": "经理强调了按时完成的重要性。",
+      "note": "em-（in）+ phas（显示）+ -ize → 把重点呈现出来。近义：stress, highlight"
+    },
+    {
+      "word": "retain",
+      "pos": "v.",
+      "phonetic": "/rɪˈteɪn/",
+      "meaning": "保留，保持；留住",
+      "enExample": "It is important to retain good employees by offering competitive benefits.",
+      "zhExample": "通过提供有竞争力的福利来留住优秀员工很重要。",
+      "note": "re-（back）+ ten/tain（握住）→ 握回来不放手即保留。近义：keep, maintain"
+    },
+    {
+      "word": "initiative",
+      "pos": "n.",
+      "phonetic": "/ɪˈnɪʃ.ə.tɪv/",
+      "meaning": "主动性，倡议；主动权",
+      "enExample": "She showed great initiative by proposing a new marketing strategy.",
+      "zhExample": "她通过提出新的营销策略展现了极强的主动性。",
+      "note": "init（开始）+ -iative → 主动开始某事的能力。搭配：take the initiative"
+    }
+  ],
+  "essay": {
+    "title": "The Hours That Go Uncounted",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "as though / as if 引导的虚拟语气：为什么是 it were，不是 it was？",
+        "example": "",
+        "note": "as though / as if 引导方式状语从句时，若所说的情况与事实不符，从句要用虚拟语气。与现在事实相反 → 用一般过去时，且 be 动词各人称一律用 were。时间本来就不是金钱，所以用 were，正好写出\"我们错把时间当钱算\"的荒谬感。"
+      },
+      {
+        "point": "Not until 置于句首，主句必须部分倒装",
+        "example": "",
+        "note": "否定词或否定短语（not until / never / hardly / little / no sooner 等）放到句首时，主句要部分倒装：把助动词、情态动词或 be 提到主语之前——所以是 did I understand，不是 I understood。特别注意：倒装的是主句，until 从句本身语序不变（I sat…，不是 did I sit）。"
+      },
+      {
+        "point": "What she could still do was watch… —— 主语从句与\"省 to 不定式\"",
+        "example": "",
+        "note": "句子主干是 What she could still do（主语从句）+ was（系动词）+ watch…（表语）。what 在从句中兼作 do 的宾语，意为\"她还能做的事情\"。规则：当主语从句里含有实义动词 do 时，作表语的不定式可以省略 to——所以 was watch 与 was to watch 都正确，省略 to 更自然、更口语。"
+      },
+      {
+        "point": "Had I left…, I would have saved… —— 对过去的假设与反转",
+        "example": "",
+        "note": "这是对过去情况的虚拟。完整写法是 If I had left…, I would have saved…；把 if 省去后，必须将 had 提到主语之前，构成 Had I left…。这种倒装比 if 句更书面、更具文学腔调，也是写作提分句式。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "measure",
+        "pos": "v. / n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "slip by",
+        "pos": "phr. v.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "with nothing to show for it",
+        "pos": "phr.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "faintly",
+        "pos": "adv.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "arithmetic",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "serve",
+        "pos": "v.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "errand",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "urgency",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "enormous",
+        "pos": "adj.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "ledger",
+        "pos": "n.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "happen to (do)",
+        "pos": "phr.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      },
+      {
+        "term": "give away",
+        "pos": "phr. v.",
+        "meaning": "",
+        "enExample": "",
+        "zhExample": "",
+        "note": ""
+      }
+    ]
+  }
+}

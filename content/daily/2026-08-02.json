@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-02",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "essential",
+      "pos": "adj.",
+      "phonetic": "/ɪˈsenʃl/",
+      "meaning": "必不可少的；极其重要的",
+      "enExample": "Time management is essential for meeting deadlines.",
+      "zhExample": "时间管理对于按时完成任务至关重要。",
+      "note": "essent- 可联想 essence（本质），'本质上的'即'必不可少的'。"
+    },
+    {
+      "word": "effective",
+      "pos": "adj.",
+      "phonetic": "/ɪˈfektɪv/",
+      "meaning": "有效的；生效的",
+      "enExample": "We need to find an effective solution to this problem.",
+      "zhExample": "我们需要找到解决这个问题的有效方案。",
+      "note": "e-出 + fect-做 → '做出来有效果'。"
+    },
+    {
+      "word": "convenient",
+      "pos": "adj.",
+      "phonetic": "/kənˈviːniənt/",
+      "meaning": "方便的；便利的",
+      "enExample": "Online shopping is convenient for busy professionals.",
+      "zhExample": "网购对忙碌的职场人士来说很方便。",
+      "note": "con-共同 + ven-来 → '大家都能来'，即方便。"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj.",
+      "phonetic": "/rɪˈlaɪəbl/",
+      "meaning": "可靠的；可信赖的",
+      "enExample": "A reliable teammate always delivers on time.",
+      "zhExample": "一个可靠的队友总是按时交付。",
+      "note": "rely（依赖）+ able（能够）→ 能够依赖的。"
+    },
+    {
+      "word": "outcome",
+      "pos": "n.",
+      "phonetic": "/ˈaʊtkʌm/",
+      "meaning": "结果；成果",
+      "enExample": "The outcome of the negotiation exceeded our expectations.",
+      "zhExample": "谈判结果超出了我们的预期。",
+      "note": "out + come，字面上'出来的东西'即结果。"
+    }
+  ],
+  "essay": {
+    "title": "The Summer We Nearly Missed",
+    "author": "佚名",
+    "paragraphs": [
+      "Summer announces itself in small surrenders. The morning alarm is met not with resolve but with the slow, heavy blink of someone who has been dreaming too deeply. The afternoon sun turns every room into a gentle oven, and by three o'clock, ambition has dissolved into the pleasant blur of doing nothing at all.",
+      "We tend to apologize for this. We call it laziness, as though every hour must be productive to be worthwhile. But a summer afternoon spent idly — watching dust motes drift through a shaft of light, listening to the drone of a distant lawnmower, letting a half-read book fall open on your chest — is not wasted time. It is the only time that asks nothing of you, and in that asking of nothing, it gives you back yourself.",
+      "The season has its own rhythms. The watermelon split open on the kitchen counter, its red flesh glistening with promise. The children's shouts from the courtyard below, rising and falling like a tide you no longer belong to but still recognize. The way dusk arrives later and later, stretching the day until it feels almost endless, until you remember that this, too, is why summers matter — because they teach us, year after year, that time can be spacious, that not everything needs to hurry.",
+      "We spend so much of the year rushing toward destinations we barely remember choosing. But summer — real summer, the one we experienced as children — is not a destination. It is the hum of the fan on a hot night, the taste of salt on your lips after swimming, the sensation of waking up without an agenda and realizing that the world has not, in fact, fallen apart.",
+      "The summer we nearly miss is the one happening right now, in the ordinary, unphotographed moments we keep meaning to notice. Perhaps today is a good day to start."
+    ],
+    "translations": [
+      "夏天在一次次小小的\"投降\"中宣告自己的到来。早晨的闹钟迎来的不是决心，而是做梦太深之人那缓慢而沉重的眨眼。午后的阳光把每个房间都变成了一座温和的烤炉，到了下午三点，雄心壮志已经融化进了无所事事的怡人迷蒙之中。",
+      "我们往往为此道歉。我们称之为懒惰，仿佛每分每秒都必须高效才有价值。但一个慵懒度过的夏日午后——看微尘在一束光中漂浮，听远处割草机的嗡嗡声，任一本读到一半的书摊开在胸口——并非浪费的时光。这是唯一不对你做任何要求的时间，而在这种不要求之中，它把你交还给了你自己。",
+      "这个季节有自己的节奏。厨房台面上切开的西瓜，鲜红的瓜瓤闪着期许的水光。楼下院子里孩子们的叫喊声，时高时低，像一阵你已不再属于、却依然能辨认的潮汐。黄昏一天比一天晚来，把白昼拉伸到几乎无穷无尽，直到你忽然记起，这也是夏天之所以重要的原因——因为它们年复一年地教会我们，时间可以是宽广的，并非一切都需要匆忙。",
+      "一年中那么多时间，我们都在奔向那些自己几乎不记得选择过的目的地。但夏天——真正的夏天，我们童年时经历过的那个夏天——不是一个目的地。它是炎热夜晚风扇的嗡嗡声，是游完泳后嘴唇上盐的味道，是醒来时没有日程安排、发现世界并没有崩塌的那种感觉。",
+      "我们几乎错过的夏天，正是此刻正在发生的那个——藏在我们一直想要留意、却从未被拍下的平凡瞬间里。也许今天，就是一个开始的好日子。"
+    ],
+    "grammar": [
+      {
+        "point": "1. 独立主格结构（Absolute Construction）——让句子层次分明",
+        "example": "The watermelon split open on the kitchen counter, its red flesh glistening with promise.",
+        "note": "its red flesh glistening with promise 是独立主格结构——名词 + 现在分词短语，有自己的逻辑主语（its red flesh），与主句并列而不依赖主句的主语。这种结构在描写性写作中极为常用，能让画面层次分明。 类似用法：She stood at the door, her eyes searching the room.（她站在门口，双眼扫视着房间。）| The storm having passed, we ventured outside.（暴风雨过去了，我们试探着走到外面。）"
+      },
+      {
+        "point": "2. not...but... 否定式对比 + 多重并列",
+        "example": "But summer — real summer, the one we experienced as children — is not a destination. It is the hum of the fan..., the taste of salt..., the sensation of waking up...",
+        "note": "先用 not a destination 否定一个抽象概念，再以 It is + 三个并列的名词短语构成排比来自行定义。三个定义全部使用具体感官词汇（hum, taste, sensation），化抽象为具象，是英文写作中\"下定义\"的经典技巧。 写作模仿：Home is not a building. It is the smell of coffee in the morning, the creak of the third step, the light left on in the hallway."
+      },
+      {
+        "point": "3. as though + 虚拟语气（现在）——与现在事实相反的假设",
+        "example": "...as though every hour must be productive to be worthwhile.",
+        "note": "as though / as if 后接陈述语气表示\"可能是事实\"，接虚拟语气表示\"与事实相反\"。此处用 must be（陈述语气）而非 had to be / were，是因为作者带有一丝反讽——人们确实如此认为，并非纯粹的假设。后面一句 isn't wasted time 则直截了当地推翻了这一观念。 对比：He spends money as if he were a millionaire.（仿佛他是百万富翁——但他不是，虚拟语气。）| She speaks as though she knows the answer.（\"好像\"知道——她可能真知道，陈述语气。）"
+      },
+      {
+        "point": "4. 现在分词短语作定语（后置修饰）——让描写流动起来",
+        "example": "...the one happening right now, in the ordinary, unphotographed moments we keep meaning to notice.",
+        "note": "happening right now 是现在分词短语作后置定语，修饰 the one（= the summer）。分词短语作定语比定语从句更简洁、更有节奏感。对比从句版本：the one that is happening right now ——五个词变成了两个词，更轻盈。 文中类似用法不少：a book falling open on your chest（= a book that falls open）、the children shouting（= the children who are shouting）。这些都是让英文写作流畅起来的关键手法。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "surrender",
+        "pos": "n.",
+        "meaning": "/səˈrendə(r)/ 投降；屈服；放弃抵抗",
+        "enExample": "She surrendered to the music and danced with her eyes closed.",
+        "zhExample": "她向音乐投降，闭着眼睛跳起舞来。",
+        "note": "用法：文中以 small surrenders 开篇极为精妙——不是战败投降，而是对夏日慵懒的温柔\"缴械\"。搭配：unconditional surrender（无条件投降）、surrender to temptation / sleep / the moment。"
+      },
+      {
+        "term": "dissolve",
+        "pos": "v.",
+        "meaning": "/dɪˈzɒlv/ 溶解；（逐渐）消失、消散",
+        "enExample": "His anger dissolved the moment he saw her smile.",
+        "zhExample": "看到她微笑的那一刻，他的怒气便消散了。",
+        "note": "比喻用法：ambition dissolved into a blur — 雄心像糖溶于水般温柔地消融。更常用的 dissolve into laughter / tears（突然大笑/大哭）。文中精准捕捉了午后意志力悄然蒸发的状态。"
+      },
+      {
+        "term": "blur",
+        "pos": "n.",
+        "meaning": "/blɜː(r)/ 模糊不清的事物；朦胧",
+        "enExample": "The weekend passed in a blur of laughter and sunshine.",
+        "zhExample": "那个周末在欢笑和阳光中模糊地一闪而过。",
+        "note": "一词多义：作名词指模糊的东西；作动词指变得模糊。the pleasant blur of doing nothing（无所事事的怡人朦胧）。搭配：a blur of activity（忙忙碌碌一片模糊）、blur the line（模糊界限）。"
+      },
+      {
+        "term": "dust mote",
+        "pos": "n.",
+        "meaning": "/ˈdʌst məʊt/ 微尘，灰尘微粒",
+        "enExample": "Sunlight streamed through the window, illuminating thousands of dust motes.",
+        "zhExample": "阳光从窗户倾泻而入，照亮了成千上万的微尘。",
+        "note": "文学词汇：mote 指极小的颗粒，dust mote 在文学中常用来描写光线中的飞尘，营造静谧、怀旧的氛围。比 dust particle 更雅致且具画面感。"
+      },
+      {
+        "term": "idly",
+        "pos": "adv.",
+        "meaning": "/ˈaɪdli/ 懒散地；无所事事地",
+        "enExample": "She sat idly on the porch, watching the world go by.",
+        "zhExample": "她懒懒地坐在门廊上，看着世界从眼前流过。",
+        "note": "词族：idle (adj. 空闲的) → idly (adv.) → idleness (n.)。搭配：sit idly by（袖手旁观，含贬义）、wonder idly（漫不经心地想）。注意与 lazily 的区别：idly 更多是对\"空\"的中性描绘。"
+      },
+      {
+        "term": "glistening",
+        "pos": "adj.",
+        "meaning": "/ˈɡlɪsənɪŋ/ 闪闪发光的；闪烁着水光的",
+        "enExample": "Her eyes were glistening with tears of joy.",
+        "zhExample": "她的双眼闪着喜悦的泪光。",
+        "note": "辨析：glisten 专指湿润表面反光（西瓜切面的水光、泪眼、汗珠）；glitter 指碎光闪烁（珠宝、碎玻璃）；sparkle 指活跃的闪光（星星、香槟、眼睛）。glistening with promise 把西瓜写得活色生香。"
+      },
+      {
+        "term": "tide",
+        "pos": "n.",
+        "meaning": "/taɪd/ 潮汐；潮流，趋势",
+        "enExample": "The tide of public anger was impossible to ignore.",
+        "zhExample": "公众愤怒的浪潮让人无法忽视。",
+        "note": "比喻精妙：把孩子们的声音比作 tide（潮汐）——rising and falling，既写声音的高低起伏，又暗含\"已不再是其中一员\"的怅惘。搭配：the tide of opinion（舆论趋势）、swim against the tide（逆流而行）。"
+      },
+      {
+        "term": "dusk",
+        "pos": "n.",
+        "meaning": "/dʌsk/ 黄昏，薄暮",
+        "enExample": "The city looks different at dusk, softer and more forgiving.",
+        "zhExample": "黄昏中的城市看起来不同了，更柔和，更宽容。",
+        "note": "近义辨析：dusk（黄昏，日落后天黑前的微光）←→ dawn（黎明）。twilight 比 dusk 更文学更浪漫。搭配：at dusk（在黄昏时）、from dawn to dusk（从黎明到黄昏，终日）。"
+      },
+      {
+        "term": "spacious",
+        "pos": "adj.",
+        "meaning": "/ˈspeɪʃəs/ 宽敞的；宽广的",
+        "enExample": "There is something spacious about a day with no plans.",
+        "zhExample": "没有计划的日子，总有种宽广从容的感觉。",
+        "note": "词源：来自 space（空间）。不仅形容物理空间，也可抽象使用：a spacious mind（开阔的心胸）、time can be spacious（时间可以是宽广从容的）——本文的\"文眼\"所在。"
+      },
+      {
+        "term": "unphotographed",
+        "pos": "adj.",
+        "meaning": "/ʌnˈfəʊtəɡrɑːft/ 未被拍摄下来的",
+        "enExample": "The best moments of the trip were the unphotographed ones.",
+        "zhExample": "旅途中最美好的瞬间，都是那些没被拍下来的。",
+        "note": "构词与哲理：un- + photographed。文中 ordinary, unphotographed moments（平凡、未被拍下的瞬间）堪称金句——在这个人人拍照的时代，真正珍贵的东西往往不在镜头里，而在心里。这既是一个词，也是一句提醒。"
+      }
+    ]
+  }
+}

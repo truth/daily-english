@@ -1,0 +1,171 @@
+{
+  "date": "2026-07-30",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "phonetic": "/praɪˈɒrətaɪz/",
+      "meaning": "优先处理；确定优先顺序",
+      "enExample": "You need to prioritize your tasks to meet the deadline.",
+      "zhExample": "你需要优先处理任务以赶上截止日期。",
+      "note": "词根 prior（先前的）+ ize（使...化）→ 让某事排在前面"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "phonetic": "/ˈdedlaɪn/",
+      "meaning": "截止日期；最后期限",
+      "enExample": "The deadline for submitting the report is this Friday.",
+      "zhExample": "提交报告的截止日期是本周五。",
+      "note": "dead（死）+ line（线）→ 逾期不候的“死线”"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "phonetic": "/ˈfiːdbæk/",
+      "meaning": "反馈；意见",
+      "enExample": "I would appreciate any feedback on my presentation.",
+      "zhExample": "我非常欢迎对我的演示提出任何反馈。",
+      "note": "feed（输送）+ back（返回）→ 信息“返送”回来"
+    },
+    {
+      "word": "proactive",
+      "pos": "adj.",
+      "phonetic": "/prəʊˈæktɪv/",
+      "meaning": "积极主动的；先发制人的",
+      "enExample": "Being proactive can help you seize opportunities before others.",
+      "zhExample": "积极主动能帮助你抢在别人之前抓住机会。",
+      "note": "pro（向前）+ active（活跃的）→ 提前行动，而非被动等待"
+    },
+    {
+      "word": "clarify",
+      "pos": "v.",
+      "phonetic": "/ˈklærəfaɪ/",
+      "meaning": "澄清；阐明；使清楚",
+      "enExample": "Could you clarify your point? I didn't quite understand.",
+      "zhExample": "你能阐明你的观点吗？我没太听懂。",
+      "note": "词根 clar（清楚的，如 clear）+ ify（使...）→ 使变清楚"
+    }
+  ],
+  "essay": {
+    "title": "The Gift of Solitude",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a difference, quiet but profound, between loneliness and solitude. Loneliness is an ache — the feeling of being unseen. Solitude is a homecoming — the choice to keep your own company and find it good.",
+      "In solitude, the noise of the world grows thin. You hear the kettle, the rain, your own thoughts arriving one by one instead of shouting over each other. Ideas you had buried resurface. Feelings you had postponed finally get their hour. This is why artists guard their mornings, and why sailors speak tenderly of the open sea: alone, we meet the person we have been too busy to know.",
+      "Solitude is not withdrawal from life; it is preparation for it. A tree stands alone in a field so that its roots may spread wide. Had it grown in a crowded thicket, it would have stretched thin and pale toward borrowed light. So it is with us. Time spent alone — walking, journaling, sitting by a window while the tea goes cold — deepens the roots from which our kindness, patience, and courage later grow.",
+      "So do not fear an empty afternoon. Close the door gently. Let the silence settle like snow. What you find there will not be emptiness, but a self, waiting patiently to be welcomed home."
+    ],
+    "translations": [
+      "孤独与独处之间，有一种安静却深刻的区别。孤独是一种隐痛——那是不被看见的感觉；而独处是一场归家——是选择与自己作伴，并且发现这样很好。",
+      "独处时，世界的喧嚣渐渐稀薄。你听得见水壶的声响、雨声，听得见自己的念头一个接一个到来，而不是彼此喧哗、互相盖过。那些被你埋藏的想法重新浮现，那些被你搁置的情绪终于等到了属于它们的时刻。这就是为什么艺术家守护自己的清晨，为什么水手谈起辽阔的大海时语带温柔：独自一人时，我们才得以遇见那个一直忙得无暇认识的自己。",
+      "独处并非从生活中退场，而是为生活做准备。一棵树独自立于旷野，根系才得以铺展深远；倘若它生长在拥挤的灌木丛中，只会朝着借来的光线抽长得纤细而苍白。人也是如此。独处的时光——散步、写日记、坐在窗边任茶水变凉——都在加深我们的根，而日后我们的善意、耐心与勇气，正是从这些根上生长出来的。",
+      "所以，不要害怕一个空白的下午。轻轻关上门，让寂静像落雪一样安顿下来。你在那里找到的不会是空虚，而是一个自我——正耐心地等着被迎接回家。"
+    ],
+    "grammar": [
+      {
+        "point": "1. 省略 if 的虚拟语气倒装（对过去的虚拟）",
+        "example": "Had it grown in a crowded thicket, it would have stretched thin and pale toward borrowed light.",
+        "note": "= If it had grown in a crowded thicket, it would have stretched…。当虚拟条件句含 had / were / should 时，可省略 if，将其提到主语前构成倒装，文体更正式优雅。 句型公式：Had + 主语 + 过去分词…, 主语 + would have + 过去分词…（对过去事实的假设）。"
+      },
+      {
+        "point": "2. 破折号引出同位解释 + 平行结构",
+        "example": "Loneliness is an ache — the feeling of being unseen. Solitude is a homecoming — the choice to keep your own company…",
+        "note": "两句结构完全平行（A is B — 同位语补充说明），破折号后的名词短语分别对 ache 和 homecoming 作进一步定义。其中 of being unseen 是\"介词 + 动名词被动式\"，表示\"不被看见\"。 写作中用平行结构做对比（loneliness vs. solitude），逻辑清晰且有节奏感，非常值得模仿。"
+      },
+      {
+        "point": "3. 目的状语从句 so that + may",
+        "example": "A tree stands alone in a field so that its roots may spread wide.",
+        "note": "so that 引导目的状语从句，从句中常用 may/might/can/could 表示\"以便……\"。用 may 比 can 更书面、含蓄。 对比：so that 也能引导结果状语从句（从句无情态动词、常有逗号隔开），需根据语义区分。"
+      },
+      {
+        "point": "4. \"So it is with…\" 句型与介词悬垂的定语从句",
+        "example": "So it is with us. … deepens the roots from which our kindness, patience, and courage later grow.",
+        "note": "① So it is with us 是固定句型，意为\"我们（人）也是如此\"，用于把前文的比喻推及新对象。② from which … grow 是\"介词 + 关系代词\"引导的定语从句，还原后为 our kindness… grow from the roots，介词前置使句子更正式。 写作模板：陈述一个自然界/生活中的类比 → So it is with X → 展开论述，是议论文里漂亮的过渡手法。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "solitude",
+        "pos": "n.",
+        "meaning": "/ˈsɒlɪtjuːd/ 独处；幽居（中性偏褒义）",
+        "enExample": "She spent the weekend in blissful solitude, reading by the lake.",
+        "zhExample": "她在湖边读书，度过了一个惬意独处的周末。",
+        "note": "辨析：solitude 强调主动选择的独处状态；loneliness 则是被动、痛苦的孤独感——正是本文的核心对比。近义：seclusion, privacy；反义：company, companionship。"
+      },
+      {
+        "term": "profound",
+        "pos": "adj.",
+        "meaning": "/prəˈfaʊnd/ 深刻的；深远的",
+        "enExample": "The book had a profound influence on how I see failure.",
+        "zhExample": "这本书深刻地影响了我看待失败的方式。",
+        "note": "用法：常与 difference / impact / silence / respect 搭配。近义：deep, far-reaching；反义：superficial, shallow。"
+      },
+      {
+        "term": "ache",
+        "pos": "n./v.",
+        "meaning": "/eɪk/（隐隐的）疼痛；渴望",
+        "enExample": "After years abroad, he ached for the sounds of his hometown.",
+        "zhExample": "旅居海外多年，他渴望听到家乡的声音。",
+        "note": "用法：作名词指持续的钝痛（a dull ache）；ache for/to do 表示\"渴望\"。近义：pain, longing。"
+      },
+      {
+        "term": "keep one's own company",
+        "pos": "短语",
+        "meaning": "与自己作伴；独自消磨时光",
+        "enExample": "I'm quite happy to keep my own company on long train rides.",
+        "zhExample": "长途火车上我很乐意自己陪自己。",
+        "note": "拓展：keep sb. company 意为\"陪伴某人\"；enjoy one's own company 则是\"享受独处\"，是描述独立性格的地道表达。"
+      },
+      {
+        "term": "resurface",
+        "pos": "v.",
+        "meaning": "/ˌriːˈsɜːfɪs/ 重新浮现；再度出现",
+        "enExample": "Old memories resurfaced as she walked through her childhood street.",
+        "zhExample": "走过童年的街道，旧日记忆重新涌现。",
+        "note": "用法：re-（再次）+ surface（浮出水面），常指记忆、情绪、问题或消失的人\"重新出现\"。近义：reappear, reemerge。"
+      },
+      {
+        "term": "postpone",
+        "pos": "v.",
+        "meaning": "/pəˈspəʊn/ 推迟；延期",
+        "enExample": "Don't postpone dealing with feelings; they always find their way back.",
+        "zhExample": "别推迟处理情绪，它们总会找上门来。",
+        "note": "用法：后接名词或动名词（postpone doing sth.），不接不定式。本文将其用于\"情绪\"，是精彩的活用。近义：put off, delay；反义：bring forward。"
+      },
+      {
+        "term": "tenderly",
+        "pos": "adv.",
+        "meaning": "/ˈtendəli/ 温柔地；深情地",
+        "enExample": "She spoke tenderly of the town where she grew up.",
+        "zhExample": "她深情地谈起自己长大的小镇。",
+        "note": "用法：speak/look/touch tenderly。形容词 tender 还可指\"（肉）嫩的\"\"（部位）一碰就痛的\"。近义：gently, affectionately。"
+      },
+      {
+        "term": "withdrawal",
+        "pos": "n.",
+        "meaning": "/wɪðˈdrɔːəl/ 退出；抽离；（银行）取款",
+        "enExample": "His withdrawal from social life worried his friends.",
+        "zhExample": "他从社交生活中抽身而退，让朋友们很担心。",
+        "note": "用法：withdrawal from sth. 表示\"从……中退出\"。动词为 withdraw。近义：retreat, disengagement；反义：participation, engagement。"
+      },
+      {
+        "term": "thicket",
+        "pos": "n.",
+        "meaning": "/ˈθɪkɪt/ 灌木丛；（喻）错综复杂的事物",
+        "enExample": "The report got lost in a thicket of legal jargon.",
+        "zhExample": "这份报告淹没在一堆晦涩的法律术语之中。",
+        "note": "拓展：比喻义常见于 a thicket of regulations（繁杂的规章）。本文以拥挤的灌木丛反衬旷野孤树，画面感极强。"
+      },
+      {
+        "term": "settle",
+        "pos": "v.",
+        "meaning": "/ˈsetl/（尘埃、雪、情绪等）落定、安顿；定居；解决",
+        "enExample": "Wait for the dust to settle before making any big decisions.",
+        "zhExample": "等尘埃落定后再做重大决定。",
+        "note": "用法：本文 \"let the silence settle like snow\" 用的是\"（缓缓）落下并停驻\"之义，极具诗意。常见搭配：settle down（安定下来）、settle a dispute（解决争端）。"
+      }
+    ]
+  }
+}

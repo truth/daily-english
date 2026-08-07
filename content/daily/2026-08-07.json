@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-07",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "resilient",
+      "pos": "adj.",
+      "phonetic": "/rɪˈzɪliənt/",
+      "meaning": "有韧性的；能迅速恢复的",
+      "enExample": "The most resilient people are not those who never fail, but those who bounce back every time.",
+      "zhExample": "最有韧性的人不是从不失败的人，而是每次都能重新站起来的人。",
+      "note": "re-（回）+ sili（跳）→ 弹回来的能力。近义：tough, adaptable。名词形式 resilience 在职场语境中越来越常用：emotional resilience（情绪韧性）。"
+    },
+    {
+      "word": "leverage",
+      "pos": "v./n.",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "meaning": "利用；借助；（杠杆）影响力",
+      "enExample": "Smart companies leverage technology to reduce costs without sacrificing quality.",
+      "zhExample": "聪明的公司借助技术降低成本，同时不牺牲质量。",
+      "note": "lever（杠杆）+ -age → 用杠杆撬动。职场高频词：leverage our strengths / leverage existing resources。比 use 更强调「以小博大」。"
+    },
+    {
+      "word": "pragmatic",
+      "pos": "adj.",
+      "phonetic": "/præɡˈmætɪk/",
+      "meaning": "务实的；讲求实效的",
+      "enExample": "We need a pragmatic approach rather than an idealistic one.",
+      "zhExample": "我们需要务实的方案，而不是理想主义的。",
+      "note": "源自希腊语 pragma（行动、实践）。近义：practical, realistic。反义：idealistic, theoretical。搭配：a pragmatic solution / a pragmatic leader。"
+    },
+    {
+      "word": "articulate",
+      "pos": "v./adj.",
+      "phonetic": "/ɑːˈtɪkjuleɪt/ (v.) /ɑːˈtɪkjələt/ (adj.)",
+      "meaning": "清晰表达（动词）；表达力强的（形容词）",
+      "enExample": "She articulated the team's vision so clearly that everyone felt inspired.",
+      "zhExample": "她把团队的愿景表达得如此清晰，以至于每个人都受到了鼓舞。",
+      "note": "artic（关节）→ 把词语精确连接起来。注意动词和形容词发音不同（动词 -eɪt，形容词 -ət）。面试必备：'I want to articulate my strengths...'。"
+    },
+    {
+      "word": "integrity",
+      "pos": "n.",
+      "phonetic": "/ɪnˈteɡrəti/",
+      "meaning": "诚信；正直；完整性",
+      "enExample": "Hiring for integrity is just as important as hiring for skills.",
+      "zhExample": "招聘时看重诚信，和看重技能同等重要。",
+      "note": "integer（整数、完整）的同根词 → 完整无缺 → 人品上即「正直」。两义：1) 诚实守信 2) 结构完整（data integrity）。面试和简历中的高频词。"
+    }
+  ],
+  "essay": {
+    "title": "The Language of Rain",
+    "author": "佚名",
+    "paragraphs": [
+      "Rain does not merely fall — it speaks. Each storm has its own dialect, its own grammar of rhythm and pause. The light summer shower that tap-taps on leaves speaks a different language than the monsoon that hammers rooftops until conversation becomes impossible.",
+      "Listen carefully and you will hear entire stories in the rain. A gentle drizzle at dawn is a whisper, tentative and shy, as though the sky is testing whether the earth is ready to receive it. It asks permission before it commits. The earth responds with scent — that first breath of petrichor, warm and mineral, rising from dry soil like a greeting returned.",
+      "Then there is the confident rain of afternoon, steady and unhurried, the kind that settles in for hours. This rain does not ask — it declares. It speaks in long, measured sentences, each drop a syllable in a paragraph that stretches from one horizon to the other. Under its spell, windows fog, streets empty, and the whole world slows to the speed of falling water.",
+      "And sometimes, near dusk, comes the rain that cannot decide. It starts and stops, hesitant, as if apologizing for the interruption. You will be walking home, thinking the worst has passed, when a final gust of wind carries one last handful of drops across your face — not a downpour but a parting remark, a postscript the sky could not resist adding.",
+      "We try to describe rain with data — millimeters, probability, precipitation index — but rain resists measurement the way music resists notation. You can record the notes, but not the feeling of standing in a doorway, watching the world dissolve into silver, and realizing that the rain was never speaking to the earth at all. It was speaking to you."
+    ],
+    "translations": [
+      "雨不只是落下——它在说话。每场暴风雨都有自己的方言，自己的节奏与停顿的语法。轻轻敲打树叶的夏日阵雨，与那种猛砸屋顶直到让人无法交谈的季风雨，说的是完全不同的语言。",
+      "仔细聆听，你会听到雨中完整的故事。黎明时分的细雨是一声低语，试探而羞涩，仿佛天空在试探大地是否准备好接纳它。它在投入之前先请求许可。大地用气味回应——那是第一缕雨后泥土的气息，温暖而充满矿物味，从干燥的土壤中升起，如同一个被回以的问候。",
+      "然后是午后自信的雨，稳健而不慌不忙，那种一驻就是几个小时的大雨。这种雨不请求——它宣告。它用悠长而沉稳的句子说话，每一滴雨都是一个音节，组成从一端地平线延伸到另一端的段落。在它的魔咒下，窗户起雾，街道空寂，整个世界放慢到落水般的速度。",
+      "有时，将近黄昏时分，会来一场拿不定主意的雨。它时断时续，犹犹豫豫，仿佛在为这打扰而道歉。你正走在回家的路上，以为最猛烈的已经过去，一阵风却把最后几滴雨水甩到你脸上——不是倾盆大雨，而是一句临别赠言，一个天空忍不住要加上的附言。",
+      "我们试图用数据来描述雨——毫米数、概率、降水指数——但雨抗拒被量化，就像音乐抗拒被记谱。你可以记录音符，却无法记录站在门口、看着世界化为银色、并意识到雨从来不是在对大地说话的那种感觉。它是在对你说话。"
+    ],
+    "grammar": [
+      {
+        "point": "not merely... but... 结构",
+        "example": "\"Rain does not merely fall — it speaks.\"",
+        "note": "not merely... but（省略形式）表示「不只是……而是……」，强调超出表面的事实。此处用破折号代替 but，增强语气对比。 举一反三：She is not merely talented — she is relentless. / He didn't merely survive; he thrived."
+      },
+      {
+        "point": "as though 引导方式状语从句",
+        "example": "\"as though the sky is testing whether the earth is ready to receive it\"",
+        "note": "as though = as if，引导方式状语从句，表示「仿佛……」。whether 引导宾语从句，作 testing 的宾语。 举一反三：He looked at me as though I had lost my mind. / She spoke as though she had rehearsed every word."
+      },
+      {
+        "point": "the way 引导方式状语从句",
+        "example": "\"rain resists measurement the way music resists notation\"",
+        "note": "the way 在此处相当于 in the way that / just as，引导方式状语从句，表示「像……一样」。这是一种口语化但非常地道的表达。 举一反三：She cooks the way her grandmother did — with patience and love. / We learn languages the way children do: through imitation."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "dialect",
+        "pos": "n.",
+        "meaning": "方言；地方话",
+        "enExample": "Each region has its own dialect, shaped by centuries of isolation.",
+        "zhExample": "每个地区都有自己的方言，由数世纪的隔绝所塑造。",
+        "note": "用法：dia-（穿过）+ lect（说）→ 特定群体的说话方式。引申为某事物特有的「语言风格」。"
+      },
+      {
+        "term": "monsoon",
+        "pos": "n.",
+        "meaning": "季风；雨季",
+        "enExample": "The monsoon arrived early that year, flooding the streets within hours.",
+        "zhExample": "那年季风来得早，几小时内就淹没了街道。",
+        "note": "用法：源自阿拉伯语 mausim（季节），指亚洲南部的季节性大雨。"
+      },
+      {
+        "term": "drizzle",
+        "pos": "n./v.",
+        "meaning": "毛毛雨；细雨",
+        "enExample": "A fine drizzle had been falling all morning, barely visible but soaking.",
+        "zhExample": "一整个上午都在下细雨，几乎看不见，却把人淋透了。",
+        "note": "用法：拟声词，模仿细雨落下的声音。比 rain 轻得多。"
+      },
+      {
+        "term": "tentative",
+        "pos": "adj.",
+        "meaning": "试探性的；犹豫的；不确定的",
+        "enExample": "She took a few tentative steps into the dark room, hands outstretched.",
+        "zhExample": "她试探着往暗房间里迈了几步，双手向前伸着。",
+        "note": "用法：tent（尝试）+ -ative → 试探性的。形容动作或态度不确定、小心翼翼。"
+      },
+      {
+        "term": "petrichor",
+        "pos": "n.",
+        "meaning": "雨后泥土的气味",
+        "enExample": "The first rain brought a wave of petrichor that made her close her eyes and breathe deeply.",
+        "zhExample": "第一场雨带来了一阵泥土的芬芳，她闭上眼深深吸了一口气。",
+        "note": "用法：petr-（石头）+ ichor（神血）→ 雨打干土散发的特殊气味。1964 年由澳洲科学家创造。"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "不慌不忙的；从容的",
+        "enExample": "He spoke in an unhurried tone that put everyone at ease.",
+        "zhExample": "他用不慌不忙的语气说话，让所有人都放松下来。",
+        "note": "用法：un-（不）+ hurried（匆忙的），形容节奏缓慢、不急躁。"
+      },
+      {
+        "term": "syllable",
+        "pos": "n.",
+        "meaning": "音节",
+        "enExample": "The word 'beautiful' has three syllables: beau-ti-ful.",
+        "zhExample": "单词 'beautiful' 有三个音节：beau-ti-ful。",
+        "note": "用法：语言中最小的发音单位。文中比喻每一滴雨如同一个音节。"
+      },
+      {
+        "term": "horizon",
+        "pos": "n.",
+        "meaning": "地平线；视野范围",
+        "enExample": "The sun dipped below the horizon, painting the sky in shades of amber.",
+        "zhExample": "太阳沉入地平线以下，把天空染成了琥珀色。",
+        "note": "用法：源自希腊语 horizōn（界限），指天与地交汇的线。引申为视野或认知的边界。"
+      },
+      {
+        "term": "hesitant",
+        "pos": "adj.",
+        "meaning": "犹豫的；迟疑的",
+        "enExample": "His hesitant knock on the door suggested he wasn't sure he wanted to be here.",
+        "zhExample": "他犹豫的敲门声暗示他不确定自己是否想来这里。",
+        "note": "用法：hesitate（犹豫）的形容词形式，形容行动或说话时不够果断。"
+      },
+      {
+        "term": "postscript",
+        "pos": "n.",
+        "meaning": "附言；补充的话",
+        "enExample": "She added a postscript to the letter: 'P.S. I miss you more than I can say.'",
+        "zhExample": "她在信末加了一句附言：「又及：我想你，无法言说。」",
+        "note": "用法：post-（后）+ script（写）→ 写完之后补充的内容。缩写为 P.S.。"
+      },
+      {
+        "term": "precipitation",
+        "pos": "n.",
+        "meaning": "降水（量）；沉淀",
+        "enExample": "The annual precipitation in this region barely exceeds 200 millimeters.",
+        "zhExample": "该地区的年降水量勉强超过200毫米。",
+        "note": "用法：pre-（前）+ cipit（头）→ 头朝下坠落。气象学中指雨、雪、冰雹等。"
+      },
+      {
+        "term": "notation",
+        "pos": "n.",
+        "meaning": "记谱法；符号系统",
+        "enExample": "Musical notation has evolved over centuries, yet still cannot capture every nuance.",
+        "zhExample": "乐谱经过几个世纪的演变，却仍无法捕捉每一个细微之处。",
+        "note": "用法：note（记录）+ -ation → 用符号记录的系统，如乐谱、数学符号等。"
+      }
+    ]
+  }
+}

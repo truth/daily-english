@@ -1,0 +1,47 @@
+[
+  {
+    "word": "prioritize",
+    "pos": "v.",
+    "phonetic": "/praɪˈɒrətaɪz/",
+    "meaning": "优先处理；确定优先顺序",
+    "enExample": "You need to prioritize your tasks to meet the deadline.",
+    "zhExample": "你需要优先处理任务以赶上截止日期。",
+    "note": "词根 prior（先前的）+ ize（使...化）→ 让某事排在前面"
+  },
+  {
+    "word": "deadline",
+    "pos": "n.",
+    "phonetic": "/ˈdedlaɪn/",
+    "meaning": "截止日期；最后期限",
+    "enExample": "The deadline for submitting the report is this Friday.",
+    "zhExample": "提交报告的截止日期是本周五。",
+    "note": "dead（死）+ line（线）→ 逾期不候的“死线”"
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "phonetic": "/ˈfiːdbæk/",
+    "meaning": "反馈；意见",
+    "enExample": "I would appreciate any feedback on my presentation.",
+    "zhExample": "我非常欢迎对我的演示提出任何反馈。",
+    "note": "feed（输送）+ back（返回）→ 信息“返送”回来"
+  },
+  {
+    "word": "proactive",
+    "pos": "adj.",
+    "phonetic": "/prəʊˈæktɪv/",
+    "meaning": "积极主动的；先发制人的",
+    "enExample": "Being proactive can help you seize opportunities before others.",
+    "zhExample": "积极主动能帮助你抢在别人之前抓住机会。",
+    "note": "pro（向前）+ active（活跃的）→ 提前行动，而非被动等待"
+  },
+  {
+    "word": "clarify",
+    "pos": "v.",
+    "phonetic": "/ˈklærəfaɪ/",
+    "meaning": "澄清；阐明；使清楚",
+    "enExample": "Could you clarify your point? I didn't quite understand.",
+    "zhExample": "你能阐明你的观点吗？我没太听懂。",
+    "note": "词根 clar（清楚的，如 clear）+ ify（使...）→ 使变清楚"
+  }
+]
