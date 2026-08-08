@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-08",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "scrutinize",
+      "pos": "v.",
+      "phonetic": "/ˈskruːtɪnaɪz/",
+      "meaning": "仔细审查；详审",
+      "enExample": "The committee scrutinized every line of the budget before approving it.",
+      "zhExample": "委员会在批准之前仔细审查了预算的每一行。",
+      "note": "scrutin（检查）+ -ize → 仔细检查。比 examine 更强调「细致入微地查看」。近义：inspect, analyze。搭配：scrutinize the data / scrutinize a document。"
+    },
+    {
+      "word": "dilemma",
+      "pos": "n.",
+      "phonetic": "/dɪˈlemə/",
+      "meaning": "困境；两难抉择",
+      "enExample": "She faced a dilemma: accept the promotion and move, or stay near her family.",
+      "zhExample": "她面临两难：接受升职搬走，还是留在家人身边。",
+      "note": "di-（二）+ lemma（前提）→ 两个前提无法同时满足 → 两难。常用搭配：face a dilemma / in a dilemma。注意发音：/dɪˈlemə/，不是 /daɪ-/。"
+    },
+    {
+      "word": "mitigate",
+      "pos": "v.",
+      "phonetic": "/ˈmɪtɪɡeɪt/",
+      "meaning": "减轻；缓解；缓和",
+      "enExample": "Planting trees can mitigate the effects of urban heat islands.",
+      "zhExample": "植树可以缓解城市热岛效应。",
+      "note": "mitis（温和的）+ -gate → 使变温和。近义：alleviate, ease。名词 mitigation。常用语境：mitigate risks / mitigate damage / mitigate climate change。"
+    },
+    {
+      "word": "profound",
+      "pos": "adj.",
+      "phonetic": "/prəˈfaʊnd/",
+      "meaning": "深刻的；深远的；深邃的",
+      "enExample": "The loss of her mentor had a profound impact on her work.",
+      "zhExample": "失去导师对她的工作产生了深远的影响。",
+      "note": "pro-（向前）+ found（底部）→ 深到底。形容思想、影响或感受非常深刻。近义：deep, far-reaching。反义：superficial, shallow。搭配：a profound effect / profound silence / profound wisdom。"
+    },
+    {
+      "word": "succinct",
+      "pos": "adj.",
+      "phonetic": "/səkˈsɪŋkt/",
+      "meaning": "简洁的；言简意赅的",
+      "enExample": "Her succinct summary captured the essence of the two-hour meeting in three sentences.",
+      "zhExample": "她简洁的总结用三句话概括了两小时会议的精髓。",
+      "note": "sub-（下）+ cinct（绑）→ 把下摆束紧 → 紧凑。比 brief 更强调「精炼有力，无废话」。近义：concise, terse。反义：verbose, wordy。名词 succinctness。"
+    }
+  ],
+  "essay": {
+    "title": "The Geometry of Silence",
+    "author": "佚名",
+    "paragraphs": [
+      "Silence is never empty. It has shape, weight, and texture — a geometry that we feel but cannot measure.",
+      "Consider the silence of an empty cathedral. It is vast and vertical, rising like a column of cool air toward vaulted ceilings. Your footsteps refuse to break it; instead, they are absorbed, swallowed into a stillness so complete that you begin to hear your own pulse. This silence is architectural — built by stone and space, designed by hands long turned to dust.",
+      "Then there is the silence between two people who have run out of words. This silence is horizontal, stretched tight like a wire between them. It hums with everything unsaid. You can feel its vibration, its almost electric charge. It is the heaviest silence of all, because it is made not of absence but of presence — two minds occupying the same room, each sealed behind its own walls.",
+      "The silence of a winter forest is different again. It is soft, layered, almost forgiving. Snow absorbs sound the way grief absorbs thought — gently, completely, until even the crunch of your boots seems like an intrusion. The trees stand like patient sentinels, and the silence between them is not empty but full — full of slowed heartbeats, of sap retreating to roots, of an entire ecosystem holding its breath until spring.",
+      "And there is the silence we carry within ourselves, the one we are afraid to enter. It is circular, a room with no doors, where the echoes of our own voice bounce back distorted. But if we sit in it long enough, the echoes fade, and what remains is not emptiness but a clarity so sharp it can cut through years of noise.",
+      "We fear silence because we think it means nothing is there. But silence is where everything begins."
+    ],
+    "translations": [
+      "沉默从不空洞。它有形状、有重量、有质感——一种我们能感受到却无法丈量的几何。",
+      "想象一座空旷的大教堂中的沉默。它广袤而垂直，如同一柱冷空气升向拱形的天顶。你的脚步声无法打破它；相反，它们被吸收，被一种如此完整的寂静吞噬，以至于你开始听见自己的脉搏。这种沉默是建筑性的——由石头与空间构筑，由早已化为尘土的双手设计。",
+      "还有两个人之间词语耗尽后的沉默。这种沉默是水平的，像一根拉紧的金属线横亘在他们之间。它因一切未说出口的话而嗡鸣。你能感受到它的振动，那种近乎触电般的电荷。这是所有沉默中最沉重的，因为它不是由缺席构成，而是由在场构成——两个心智占据同一个房间，各自封在自己无门的墙后。",
+      "冬日森林中的沉默又不一样。它柔软、分层、近乎宽容。雪吸收声音的方式如同悲伤吸收思绪——轻柔地、彻底地，直到你靴子踩出的嘎吱声都像是一种入侵。树木如耐心的哨兵般矗立，它们之间的沉默不是空洞的而是充实的——充满了放慢的心跳、退回根部的汁液、以及一整个屏息等待春天的生态系统。",
+      "还有一种沉默是我们随身携带的，那种我们不敢踏入的沉默。它是圆形的，一个没有门的房间，我们自己声音的回声扭曲着反弹回来。但如果你在里面坐得够久，回声会消散，留下来的不是空洞，而是一种锋利得足以切开多年噪音的清澈。",
+      "我们恐惧沉默，因为我们以为它意味着空无一物。但沉默是一切开始的地方。"
+    ],
+    "grammar": [
+      {
+        "point": "the way 引导方式状语从句",
+        "example": "\"Snow absorbs sound the way grief absorbs thought\"",
+        "note": "the way 在此处相当于 just as / in the manner that，引导方式状语从句，表示「像……一样」。这是一种口语化但非常地道的表达，用日常经验来类比抽象感受。 举一反三：She cooks the way her grandmother did — with patience and intuition. / He solves problems the way a sculptor works: removing what doesn't belong."
+      },
+      {
+        "point": "not of A but of B 平行结构",
+        "example": "\"it is made not of absence but of presence\"",
+        "note": "not of... but of... 表示「不是由……构成，而是由……构成」，两个 of 短语平行并列。此处用 absence 和 presence 的对比，强调沉默的本质不是空无而是充盈。 举一反三：True courage is made not of fearlessness but of fear confronted. / Happiness is made not of possessions but of connections."
+      },
+      {
+        "point": "what 引导的主语从句",
+        "example": "\"what remains is not emptiness but a clarity so sharp it can cut through years of noise\"",
+        "note": "what remains 是 what 引导的名词性从句作主语，意为「留下来的东西」。so sharp that... 中 that 被省略（so...that 结构中 that 在口语中常省略），修饰 clarity。 举一反三：What surprised everyone was her composure under pressure. / What matters most is not what you say, but what you do."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "texture",
+        "pos": "n.",
+        "meaning": "质感；纹理；质地",
+        "enExample": "The texture of old paper is rough, fibrous, and warm to the touch.",
+        "zhExample": "旧纸张的质感粗糙、多纤维，触感温暖。",
+        "note": "用法：text（编织）+ -ure → 织物的触感，引申为事物的表面质感或特性。"
+      },
+      {
+        "term": "cathedral",
+        "pos": "n.",
+        "meaning": "大教堂",
+        "enExample": "The cathedral's silence was so profound that even breathing felt loud.",
+        "zhExample": "大教堂里的寂静如此深沉，连呼吸都显得响亮。",
+        "note": "用法：cathedra（主教座位）→ 设有主教座位的教堂。常引申为宏伟的、令人敬畏的空间。"
+      },
+      {
+        "term": "vertical",
+        "pos": "adj.",
+        "meaning": "垂直的；纵向的",
+        "enExample": "The waterfall dropped in a sheer vertical line for two hundred meters.",
+        "zhExample": "瀑布以一条笔直的垂直线落下了两百米。",
+        "note": "用法：vertex（顶点）→ 向着顶点方向的。与 horizontal（水平的）相对。"
+      },
+      {
+        "term": "vaulted",
+        "pos": "adj.",
+        "meaning": "拱形的；穹顶的",
+        "enExample": "They were married in a small chapel with a vaulted stone ceiling.",
+        "zhExample": "他们在一座有拱形石顶的小教堂里成了婚。",
+        "note": "用法：vault（拱顶）+ -ed。形容有拱形天花板的建筑结构，常见于哥特式教堂。"
+      },
+      {
+        "term": "architectural",
+        "pos": "adj.",
+        "meaning": "建筑上的；建筑学的",
+        "enExample": "The silence in the temple felt almost architectural, as if built into the walls.",
+        "zhExample": "寺庙中的寂静几乎是建筑性的，仿佛砌进了墙壁之中。",
+        "note": "用法：architecture（建筑）的形容词形式。可引申为「具有建筑结构特征的」。"
+      },
+      {
+        "term": "horizontal",
+        "pos": "adj.",
+        "meaning": "水平的；横的",
+        "enExample": "A horizontal line of clouds stretched across the evening sky.",
+        "zhExample": "一条水平的云带横贯傍晚的天空。",
+        "note": "用法：horizon（地平线）→ 与地平线平行的。文中比喻沉默的「形状」是横向延伸的。"
+      },
+      {
+        "term": "intrusion",
+        "pos": "n.",
+        "meaning": "侵入；打扰；闯入",
+        "enExample": "The phone ring was a jarring intrusion into the quiet morning.",
+        "zhExample": "电话铃声是对安静早晨的一种刺耳打扰。",
+        "note": "用法：in-（进入）+ trude（推）→ 推入 → 侵入。指不受欢迎的介入或打扰。"
+      },
+      {
+        "term": "sentinel",
+        "pos": "n.",
+        "meaning": "哨兵；守卫",
+        "enExample": "The old lighthouse stood like a sentinel on the rocky shore.",
+        "zhExample": "旧灯塔如哨兵般矗立在嶙峋的海岸上。",
+        "note": "用法：源自意大利语 sentina（看守），指站岗放哨的人。文中比喻树木如哨兵般矗立。"
+      },
+      {
+        "term": "distorted",
+        "pos": "adj.",
+        "meaning": "扭曲的；失真的",
+        "enExample": "Her voice came through the phone distorted and barely recognizable.",
+        "zhExample": "她的声音透过电话传来，失真得几乎认不出来。",
+        "note": "用法：dis-（离开）+ tort（扭）→ 扭曲变形的。可指声音、图像或事实被歪曲。"
+      },
+      {
+        "term": "clarity",
+        "pos": "n.",
+        "meaning": "清澈；清晰；明确",
+        "enExample": "After weeks of confusion, she finally saw the situation with perfect clarity.",
+        "zhExample": "经过数周的困惑，她终于完全清晰地看清了局势。",
+        "note": "用法：clarus（清澈的）+ -ity。指透明、不含糊的状态，可用于视觉、思维或表达。"
+      }
+    ]
+  }
+}

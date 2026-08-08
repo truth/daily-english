@@ -51,26 +51,37 @@
   "essay": {
     "title": "The Things We Forget to Say",
     "author": "佚名",
-    "paragraphs": [],
+    "paragraphs": [
+      "We keep a long list of what we want and a short one of what we have. We notice the missing, the broken, the late train, the colder morning, and we carry these small grievances like coins in a pocket, weighing us down without our noticing. Gratitude, it turns out, asks for none of that. It asks only that we pause long enough to see what is already here.",
+      "It is easy to be thankful for the grand things: a promotion, a reunion, a letter that finally arrives. But the quieter kind, the kettle that sings before the house wakes, the friend who remembers how you take your tea, the streetlight that waits at the corner of your walk home, is the kind that holds a life together. These are the things we forget to name, and so we forget to thank.",
+      "Gratitude is not a feeling that arrives fully formed. It is a habit, practiced in plain sight, often unglamorous. You build it the way you build any small daily ritual: by noticing, by saying the words out loud, by letting someone know they mattered to you today.",
+      "There is a strange arithmetic to it. The more you count your blessings, the more there seem to be to count. Not because the world has changed, but because you have finally looked."
+    ],
+    "translations": [
+      "我们总把\"想要的\"列成一长串，把\"已有的\"写成短短几行。我们盯着那些缺失、破损、迟到的列车和更冷的清晨，把这些小小的不满像硬币一样揣进衣兜，不知不觉压弯了肩膀。而感恩，到头来，要求的从来不是这些。它只求我们停得久一点，好看清此刻已经拥有的。",
+      "对大事心怀感激是容易的：升职、重逢、那封终于寄到的信。可真正串联起一生的，是那些更安静的恩惠——屋子里还没醒、水壶便先唱起的歌；记得你喝茶口味的那位朋友；在你回家路上街角亮着、等你走过去的一盏路灯。这些，我们忘了去命名，于是也忘了去道谢。",
+      "感恩不是一种天生完整、自动到来的情感。它是一种习惯，在众目睽睽之下练习，常常并不光鲜。你建立它，就像建立任何一件日常的小小仪式：去留意，把\"谢谢\"说出口，让某个人知道——他在你今天的生命里，很重要。",
+      "这里面有一道奇妙的算术。你越数手边的福分，可数的似乎就越多。不是因为世界变了，而是因为你终于肯抬头去看。"
+    ],
     "grammar": [
       {
         "point": "The more…, the more… —— \"越……，越……\" 与句末的 there be 结构",
-        "example": "",
+        "example": "The more you count your blessings, the more there seem to be to count.",
         "note": "\"the + 比较级…, the + 比较级…\" 是英语里表示正比关系的固定句型，意为\"越……，就越……\"。两个 the 都不可省，且通常前半句是从句、后半句是主句。本句妙在第二个 the more 后跟的不是普通主谓，而是 there seem to be（there be 的\"似乎有\"），把\"可数的福分\"写成一种会自己生长出来的东西。"
       },
       {
         "point": "ask / demand 等\"要求\"动词后，that 从句用 (should) + 动词原形",
-        "example": "",
+        "example": "It asks only that we pause long enough to see what is already here.",
         "note": "当主句动词表示\"要求、建议、命令、愿望\"等（ask, demand, require, suggest, insist, recommend…），其后的 that 宾语从句要用虚拟语气：形式为 (should) + 动词原形，should 在美式英语里常省略，直接保留动词原形。所以这里写 we pause，而不是 we should pause 或 we pauses（三单错）。"
       },
       {
         "point": "practiced in plain sight —— 过去分词短语作后置定语 / 补充说明",
-        "example": "",
+        "example": "It is a habit, practiced in plain sight, often unglamorous.",
         "note": "逗号之间的 practiced in plain sight 是过去分词短语，修饰前面的 a habit，相当于一个省略的定语从句 which is practiced in plain sight（被公开练习的）。过去分词表\"被动、已完成\"，这里把\"习惯是被练习出来的\"这层意思轻轻带过。后面 often unglamorous 是形容词短语，同位补充，进一步描述这习惯的样子。"
       },
       {
         "point": "by + 动名词 表\"方式\"，let + 宾语 + 省 to 不定式",
-        "example": "",
+        "example": "…by noticing, by saying the words out loud, by letting someone know they mattered to you today.",
         "note": "三个 by + 动名词（noticing, saying, letting）构成方式状语，回答\"你怎样建立这个习惯\"——by doing 是英语里极常用的\"通过……（来做）\"结构。其中 letting someone know 涉及使役动词 let 的固定用法：let + 宾语 + 动词原形（不带 to），所以这里是 know 而不是 to know。整句把\"让某人知道\"写成一个干净的不定式。"
       }
     ],
@@ -78,98 +89,98 @@
       {
         "term": "grievance",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "不满，委屈，积怨",
+        "enExample": "We all carry small grievances we never say out loud.",
+        "zhExample": "我们心里都揣着一些从没说出口的小小不满。",
+        "note": "常作复数 grievances，指\"一桩桩不满\"；nurse a grievance 耿耿于怀、心里憋着气。近义：resentment, complaint, grudge"
       },
       {
         "term": "weigh down",
         "pos": "phr. v.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "使沉重，压弯，压得喘不过气",
+        "enExample": "The unfinished tasks weighed her down all weekend.",
+        "zhExample": "那些没做完的事整个周末都压在她心头。",
+        "note": "本义指重物把人/物\"压弯\"；引申指情绪、负担压在心头，本文即此用法。近义：burden, oppress, drag"
       },
       {
         "term": "gratitude",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "感恩，感激",
+        "enExample": "She wrote a note full of quiet gratitude.",
+        "zhExample": "她写了一张字里行间满是平静感激的便条。",
+        "note": "with gratitude 心怀感激地；express / feel gratitude 表达/感到感激；a sense of gratitude 感恩之心。近义：thankfulness, appreciation"
       },
       {
         "term": "fully formed",
         "pos": "phr.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "完整成形的，发育完全（的）",
+        "enExample": "No opinion arrives fully formed; we build it slowly.",
+        "zhExample": "没有哪个看法是一来就完整的，都是慢慢长成的。",
+        "note": "形容事物\"一来就已完备、不需再生长\"，如 a fully formed idea / opinion；本文说情感不是\"天生就完整\"的。近义：complete, mature, ready-made"
       },
       {
         "term": "unglamorous",
         "pos": "adj.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "不显眼的，朴素的，不光彩照人的",
+        "enExample": "The most unglamorous habits are often the ones that matter most.",
+        "zhExample": "最不起眼的习惯，往往才最要紧。",
+        "note": "由 glamorous（迷人的、光鲜的）加否定前缀 un- 构成；常形容日常、平凡却踏实的事。近义：plain, humble, mundane"
       },
       {
         "term": "ritual",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "仪式；日常惯例，固定习惯",
+        "enExample": "Making tea became our small evening ritual.",
+        "zhExample": "泡茶成了我们每天傍晚的小小仪式。",
+        "note": "本义\"仪式\"，引申指每天固定做的小事（a morning ritual 晨间仪式）。近义：routine, ceremony, habit"
       },
       {
         "term": "count one's blessings",
         "pos": "idiom",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "数算自己的福分（即\"知足、感恩\"）",
+        "enExample": "When I start to grumble, I try to count my blessings instead.",
+        "zhExample": "当我开始抱怨时，会试着去数数自己拥有的好。",
+        "note": "固定习语，劝人\"想想自己拥有的好，别只盯着缺的\"。近义：be thankful, appreciate what you have"
       },
       {
         "term": "promotion",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "升职，提拔；（广义）促销推广",
+        "enExample": "Her promotion came after years of quiet work.",
+        "zhExample": "她的升职，是多年默默做事换来的。",
+        "note": "get / earn a promotion 得到升职；be up for promotion 在升职候选之列；职场高频词。近义：advancement, rise, elevation"
       },
       {
         "term": "reunion",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "重逢，团聚，（同学/家庭聚会）",
+        "enExample": "The reunion lasted until the light was gone.",
+        "zhExample": "那场重聚一直持续到天光散尽。",
+        "note": "a family reunion 家庭团聚；a school reunion 同学会；动词 reunite 使重逢。近义：gathering, get-together"
       },
       {
         "term": "kettle",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "水壶（文中作温暖意象）",
+        "enExample": "The kettle began to sing as the house woke.",
+        "zhExample": "屋子醒来时，水壶也唱了起来。",
+        "note": "a whistling kettle 会响的水壶；英式英语里 kettle 几乎=烧水壶，是\"家\"的温暖符号；本文 the kettle that sings 把家写活了。"
       },
       {
         "term": "in plain sight",
         "pos": "phr.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "在明处，公开地，众目睽睽之下",
+        "enExample": "The answer was in plain sight the whole time.",
+        "zhExample": "答案一直就明明白白摆在眼前。",
+        "note": "常指\"就在眼前、谁都看得见\"；hide in plain sight 大隐于市。近义：openly, in the open, visibly"
       },
       {
         "term": "matter (to sb.)",
         "pos": "v.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "要紧，有关系，重要",
+        "enExample": "It's the small things that matter most in the end.",
+        "zhExample": "到头来，最要紧的往往是那些小事。",
+        "note": "matter to sb 对某人而言重要；it doesn't matter 没关系；what matters 重要的是……；本文 they mattered to you ＝他们在你心里有分量。近义：count, signify"
       }
     ]
   }

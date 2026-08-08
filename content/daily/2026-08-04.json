@@ -51,26 +51,41 @@
   "essay": {
     "title": "The Hours That Go Uncounted",
     "author": "佚名",
-    "paragraphs": [],
+    "paragraphs": [
+      "We are taught to measure time as though it were money, to save it, spend it, waste it, lose it. From childhood we carry small clocks in our pockets and larger ones in our minds, and we learn to feel faintly guilty whenever an hour slips by with nothing to show for it.",
+      "But not until I sat with my grandmother in her last spring did I understand how poorly that arithmetic serves us. She could no longer read, nor walk to the garden she had planted forty years before. What she could still do was watch the light move across the kitchen floor, slowly, patiently, as if it had somewhere to be and all afternoon to get there.",
+      "\"Sit,\" she said. So I sat.",
+      "We spoke of nothing important. Twice she forgot my name. Outside, an ordinary Tuesday went on without us: cars, errands, the small urgencies that had seemed enormous that morning.",
+      "Had I left after ten minutes, as I nearly did, I would have saved two hours. I would also have lost them forever.",
+      "This is the strange mathematics of a life. The hours we count are rarely the hours we keep. What remains, in the end, is not the time we managed but the time we gave away, freely, without a ledger, to the people who happened to be sitting beside us."
+    ],
+    "translations": [
+      "我们从小被教导要像算钱那样算时间——储蓄它、花掉它、浪费它、丢失它。自童年起，我们口袋里揣着小小的钟表，心里还揣着一座更大的；我们也学会了一种隐隐的愧疚：只要有一个钟头悄悄溜走而一无所获，就仿佛欠下了谁。",
+      "可直到我陪祖母走过她最后一个春天，我才明白那套算法有多么不合用。她已经读不了书，也走不到那座四十年前亲手栽下的花园了。她还能做的，只是看着光缓缓移过厨房的地板——不慌不忙，仿佛它自有去处，而整个下午都够它慢慢走到。",
+      "\"坐下。\"她说。于是我坐下了。",
+      "我们没聊什么要紧的事。她两次忘了我的名字。窗外，一个再平常不过的星期二正撇下我们自顾自地往前走：车流、杂事，还有那些当天清早显得天大的琐碎急务。",
+      "倘若我坐上十分钟就走——我确实差点那样做了——我本可以省下两个钟头。可我也就永远地失去了它们。",
+      "这就是一生中那道奇怪的算术题：我们斤斤计较的时辰，往往并不是我们真正留住的时辰。最终存留下来的，不是我们精打细算所支配的时间，而是我们慷慨送出去的时间——不记账，不索还，只给那些恰好坐在我们身旁的人。"
+    ],
     "grammar": [
       {
         "point": "as though / as if 引导的虚拟语气：为什么是 it were，不是 it was？",
-        "example": "",
+        "example": "We are taught to measure time as though it were money.",
         "note": "as though / as if 引导方式状语从句时，若所说的情况与事实不符，从句要用虚拟语气。与现在事实相反 → 用一般过去时，且 be 动词各人称一律用 were。时间本来就不是金钱，所以用 were，正好写出\"我们错把时间当钱算\"的荒谬感。"
       },
       {
         "point": "Not until 置于句首，主句必须部分倒装",
-        "example": "",
+        "example": "But not until I sat with my grandmother in her last spring did I understand how poorly that arithmetic serves us.",
         "note": "否定词或否定短语（not until / never / hardly / little / no sooner 等）放到句首时，主句要部分倒装：把助动词、情态动词或 be 提到主语之前——所以是 did I understand，不是 I understood。特别注意：倒装的是主句，until 从句本身语序不变（I sat…，不是 did I sit）。"
       },
       {
         "point": "What she could still do was watch… —— 主语从句与\"省 to 不定式\"",
-        "example": "",
+        "example": "What she could still do was watch the light move across the kitchen floor.",
         "note": "句子主干是 What she could still do（主语从句）+ was（系动词）+ watch…（表语）。what 在从句中兼作 do 的宾语，意为\"她还能做的事情\"。规则：当主语从句里含有实义动词 do 时，作表语的不定式可以省略 to——所以 was watch 与 was to watch 都正确，省略 to 更自然、更口语。"
       },
       {
         "point": "Had I left…, I would have saved… —— 对过去的假设与反转",
-        "example": "",
+        "example": "Had I left after ten minutes, as I nearly did, I would have saved two hours. I would also have lost them forever.",
         "note": "这是对过去情况的虚拟。完整写法是 If I had left…, I would have saved…；把 if 省去后，必须将 had 提到主语之前，构成 Had I left…。这种倒装比 if 句更书面、更具文学腔调，也是写作提分句式。"
       }
     ],
@@ -78,98 +93,98 @@
       {
         "term": "measure",
         "pos": "v. / n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "衡量，测量；（n.）尺度、举措",
+        "enExample": "You can't measure a friendship by how often you meet.",
+        "zhExample": "你无法用见面的频率来衡量一段友谊。",
+        "note": "measure A against B 以 B 为标准衡量 A；a measure of 一定程度的；beyond measure 无可估量。近义：gauge, assess, evaluate"
       },
       {
         "term": "slip by",
         "pos": "phr. v.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "（时间）悄然流逝、不知不觉过去",
+        "enExample": "Another year has slipped by, and I still haven't written that letter.",
+        "zhExample": "又一年悄悄过去了，那封信我还是没写。",
+        "note": "主语多为 time / hours / years；同族表达 slip away、slip through one's fingers（从指缝溜走）。近义：elapse, pass unnoticed, fly by"
       },
       {
         "term": "with nothing to show for it",
         "pos": "phr.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "白忙一场，一无所获",
+        "enExample": "He worked overtime all month with nothing to show for it.",
+        "zhExample": "他加了整整一个月的班，最后什么也没落下。",
+        "note": "have nothing to show for + 付出（years of work / all that effort），强调\"投入了却没留下成果\"。近义：to no avail, in vain, for nothing"
       },
       {
         "term": "faintly",
         "pos": "adv.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "隐隐地，微微地（语气克制）",
+        "enExample": "She smiled, faintly embarrassed by the compliment.",
+        "zhExample": "她笑了笑，因这句夸奖而微微有些窘迫。",
+        "note": "常修饰情绪/性质形容词：faintly guilty、faintly amused、faintly ridiculous；比 slightly 更有文学味。近义：slightly, vaguely, mildly"
       },
       {
         "term": "arithmetic",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "算术；（引申）算法、盘算、一笔账",
+        "enExample": "The arithmetic of caring for others rarely balances neatly.",
+        "zhExample": "照顾他人这笔账，很少能算得清清楚楚。",
+        "note": "the arithmetic of… ＝\"……的这笔账/这套逻辑\"；文末 the strange mathematics of a life 是同一修辞的呼应。近义：calculation, reckoning"
       },
       {
         "term": "serve",
         "pos": "v.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "对……有用、适合（serve sb well / poorly）",
+        "enExample": "That old piece of advice no longer serves us.",
+        "zhExample": "那条老建议对我们已经不再管用了。",
+        "note": "serve sb well 对某人很管用；serve its purpose 起到该起的作用；本文 how poorly that arithmetic serves us ＝那套算法多么不管用。近义：suit, benefit, work for"
       },
       {
         "term": "errand",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "（外出办的）差事、跑腿的小事",
+        "enExample": "I spent Saturday morning running errands for my parents.",
+        "zhExample": "周六上午我都在替父母跑腿办事。",
+        "note": "run errands 跑腿办事（最高频搭配）；a fool's errand 徒劳之举。近义：chore, task, a quick job"
       },
       {
         "term": "urgency",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "紧迫；急切；（复数）一件件急事",
+        "enExample": "Seen from a hospital bed, most urgencies shrink.",
+        "zhExample": "从病床上望出去，大多数急事都缩小了。",
+        "note": "a sense of urgency 紧迫感；with urgency 急切地；a matter of some urgency 相当紧急的事。近义：pressing matter, haste, immediacy"
       },
       {
         "term": "enormous",
         "pos": "adj.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "巨大的（本文指\"当时看似天大的\"）",
+        "enExample": "What felt enormous at twenty feels small at forty.",
+        "zhExample": "二十岁时觉得天大的事，四十岁再看就小了。",
+        "note": "常搭 enormous difference / pressure / amount；本文与 small 形成反差修辞。近义：immense, vast, huge, colossal"
       },
       {
         "term": "ledger",
         "pos": "n.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "账簿，分类账；（引申）计较得失的心",
+        "enExample": "Love that keeps a ledger isn't quite love.",
+        "zhExample": "会记账的爱，算不上真正的爱。",
+        "note": "keep a ledger 记账；without a ledger（本文）＝不记账、不计回报，是全文点睛的比喻。近义：account book, record, books"
       },
       {
         "term": "happen to (do)",
         "pos": "phr.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "碰巧，恰好",
+        "enExample": "The person who happened to sit beside me became my closest friend.",
+        "zhExample": "那天恰好坐在我旁边的人，后来成了我最好的朋友。",
+        "note": "happen to be / know / sit；as it happens 说来也巧；Do you happen to know…? 是极礼貌的问法。近义：chance to do, by chance"
       },
       {
         "term": "give away",
         "pos": "phr. v.",
-        "meaning": "",
-        "enExample": "",
-        "zhExample": "",
-        "note": ""
+        "meaning": "送出，无偿给予；泄露",
+        "enExample": "The hours she gave away were the ones she truly kept.",
+        "zhExample": "她送出去的那些时光，才是她真正留住的。",
+        "note": "give away money / time / secrets；give oneself away 露馅、暴露自己。近义：donate, hand over, part with"
       }
     ]
   }
