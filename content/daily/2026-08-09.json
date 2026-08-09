@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-09",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "candid",
+      "pos": "adj.",
+      "phonetic": "/ˈkændɪd/",
+      "meaning": "坦率的；直言不讳的",
+      "enExample": "She gave a candid assessment of the team's performance, noting both strengths and weaknesses.",
+      "zhExample": "她对团队表现给出了坦率的评估，指出了优点和不足。",
+      "note": "源自拉丁语 candidus（白色），引申为「纯洁无饰」→ 坦率的。candid camera（偷拍相机），candid opinion（坦率意见）。近义：frank, honest, straightforward。区别：candid 强调自然不做作，frank 强调直接甚至冒犯。"
+    },
+    {
+      "word": "burgeon",
+      "pos": "v.",
+      "phonetic": "/ˈbɜːdʒən/",
+      "meaning": "迅速发展；萌芽；枝繁叶茂",
+      "enExample": "The city's tech industry has burgeoned over the past decade, attracting talent from across the country.",
+      "zhExample": "过去十年间，这座城市的科技产业蓬勃发展，吸引了全国各地的人才。",
+      "note": "源自古法语 bourgeonner（发芽）。 burgeon 原指植物抽芽，后引申为事物迅速增长。搭配：a burgeoning market（新兴市场）、burgeoning demand（不断增长的需求）。近义：flourish, thrive, proliferate。"
+    },
+    {
+      "word": "astute",
+      "pos": "adj.",
+      "phonetic": "/əˈstjuːt/",
+      "meaning": "敏锐的；精明的；机敏的",
+      "enExample": "Her astute observation during the negotiation saved the company millions.",
+      "zhExample": "她在谈判中的敏锐观察为公司省下了数百万。",
+      "note": "源自拉丁语 astus（技巧）。形容人善于判断、洞察力强。搭配：an astute investor（精明的投资者）、astute judgment（敏锐的判断力）。近义：shrewd, perceptive, sharp。反义：obtuse, naive。"
+    },
+    {
+      "word": "vindicate",
+      "pos": "v.",
+      "phonetic": "/ˈvɪndɪkeɪt/",
+      "meaning": "证明……正确/无辜；为……辩护",
+      "enExample": "The newly discovered evidence vindicated him completely, proving he had been framed.",
+      "zhExample": "新发现的证据完全证明了他的清白，证实他是被陷害的。",
+      "note": "源自拉丁语 vindicare（声称/保护）。vindicate sb（为某人洗冤），vindicate a decision（证明决定的正确性）。名词 vindication。近义：exonerate, justify, absolve。反义：condemn, incriminate。"
+    },
+    {
+      "word": "paradigm",
+      "pos": "n.",
+      "phonetic": "/ˈpærədaɪm/",
+      "meaning": "范式；典范；思维模式",
+      "enExample": "The invention of the smartphone created a new paradigm for how people communicate and work.",
+      "zhExample": "智能手机的发明创造了人们沟通和工作的新范式。",
+      "note": "源自希腊语 paradeigma（模式/范例）。a paradigm shift（范式转变）是最常见的搭配，指根本性的思维方式变革。搭配：a new paradigm（新范式）、paradigm shift（范式转变）。近义：model, pattern, framework。"
+    }
+  ],
+  "essay": {
+    "title": "The Light We Carry",
+    "author": "佚名",
+    "paragraphs": [
+      "There are mornings when the world feels heavy, when the news is loud and the future uncertain. On days like these, hope can seem small — a thin, unconvincing thing. Yet it is precisely in the dim hours that hope proves what it is: not a shout, but a steady glow that asks for nothing but our attention.",
+      "Hope is not the belief that everything will be easy. It is the quieter conviction that, whatever comes, we are not beginning from zero. We carry the lessons of our past mistakes, the warmth of people who stayed, the small certainties that survived the hard years. None of these guarantees a smooth road. All of them make the road walkable.",
+      "Look closely and you will find hope in ordinary places: a neighbour who waters the flowers you forgot, a stranger's smile on a delayed train, the first green pushing through cracked pavement. These are not grand gestures. They are reminders that life keeps tending itself even when we are too tired to tend it.",
+      "So when the dark presses in, do not wait for a sudden dawn. Light one small thing — a kind word, a finished task, a breath taken slowly. Hope grows not in the absence of trouble, but in the choosing, again and again, to keep a light burning.",
+      "You have carried light further than you know. Keep carrying it. The world, more often than it admits, is held together by exactly such small, stubborn glows."
+    ],
+    "translations": [
+      "有些清晨，世界显得格外沉重——新闻喧嚣，未来未卜。在这样的日子里，希望仿佛很小，单薄得让人难以信服。然而，正是在那些昏暗的时分，希望才显出它的本色：它不是一声呐喊，而是一束沉稳的微光，除了我们的注目，别无他求。",
+      "希望，并不是相信一切都会轻松。它是一种更安静的确信：无论发生什么，我们都并非从零开始。我们携带着过往错误的教训、那些留下来的人的温暖，以及在艰难岁月里幸存下来的微小确定。这些都不能保证一条坦途，却都让这条路变得可走。",
+      "仔细看，你会在寻常之处发现希望：一位邻居替你浇灌了忘记照料的花，一趟晚点列车上陌生人的微笑，裂缝路面上钻出的第一抹新绿。这些都不是什么壮举，却提醒着我们：即便我们累得无力照看，生命也仍在照看它自己。",
+      "所以，当黑暗逼近时，不要等待某个突如其来的破晓。去点亮一件小事——一句善意的话，一项完成的事，一次缓慢的呼吸。希望不是在麻烦的缺席中生长，而是在一次又一次的选择里生长：选择让一束光继续亮着。",
+      "你携带的光，比你所知的走得更远。请继续带着它。这个世界，远比它愿意承认的更为频繁地，正是被这样微小而执拗的光亮，紧紧维系在一起。"
+    ],
+    "vocab": [
+      {
+        "term": "unconvincing",
+        "pos": "adj.",
+        "meaning": "不令人信服的，缺乏说服力的",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：an unconvincing excuse / a thin, unconvincing thing ｜ 近：weak, feeble ｜ 反：convincing, persuasive"
+      },
+      {
+        "term": "precisely",
+        "pos": "adv.",
+        "meaning": "恰恰，正是；精确地",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：precisely in / at...（强调时间点或情境） ｜ 近：exactly ｜ 反：roughly, vaguely"
+      },
+      {
+        "term": "conviction",
+        "pos": "n.",
+        "meaning": "坚定的信念，确信",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：a deep / quiet conviction (that...) ｜ 近：belief, certainty ｜ 反：doubt, uncertainty"
+      },
+      {
+        "term": "certainty",
+        "pos": "n.",
+        "meaning": "确定之事，必然；确定性",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：a small certainty; with certainty ｜ 近：sureness, fact ｜ 反：doubt, uncertainty"
+      },
+      {
+        "term": "guarantee",
+        "pos": "v. / n.",
+        "meaning": "保证，担保",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：guarantee a smooth road / a money-back guarantee ｜ 近：ensure, promise ｜ 反：jeopardize"
+      },
+      {
+        "term": "tend",
+        "pos": "v.",
+        "meaning": "照料，照管；倾向于",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：tend the garden; tend to do sth ｜ 近：care for, nurture ｜ 反：neglect"
+      },
+      {
+        "term": "gesture",
+        "pos": "n.",
+        "meaning": "姿态，举动；（身体）手势",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：a grand / small gesture; a kind gesture ｜ 近：act, move ｜ 反：—"
+      },
+      {
+        "term": "absence",
+        "pos": "n.",
+        "meaning": "缺乏，不在，缺席",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：in the absence of...; absence of trouble ｜ 近：lack, missing ｜ 反：presence"
+      },
+      {
+        "term": "stubborn",
+        "pos": "adj.",
+        "meaning": "执拗的，顽强的；顽固的",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：stubborn glows / a stubborn child ｜ 近：persistent, obstinate ｜ 反：yielding, flexible"
+      },
+      {
+        "term": "press in",
+        "pos": "phrase",
+        "meaning": "逼近，压迫而来",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：when the dark presses in（描写情绪/困境迫近） ｜ 近：close in, surround ｜ 反：recede"
+      },
+      {
+        "term": "hold together",
+        "pos": "phrase",
+        "meaning": "维系，使不松散；团结",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：be held together by... ｜ 近：bind, unite ｜ 反：fall apart"
+      },
+      {
+        "term": "in the absence of",
+        "pos": "phrase",
+        "meaning": "在缺乏……的情况下，没有……时",
+        "enExample": "",
+        "zhExample": "",
+        "note": "地道：not in the absence of trouble, but in... ｜ 近：without, lacking ｜ 反：in the presence of"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "强调句型 It is...that... + what 引导的表语从句",
+        "example": "Yet it is precisely in the dim hours that hope proves what it is: not a shout, but a steady glow...",
+        "note": "It is precisely in the dim hours that... 是 强调句型（It is + 被强调部分 + that + 其余），强调状语 in the dim hours（在那些昏暗的时分）。还原：Hope proves what it is precisely in the dim hours. what it is表语从句，作 proves 的表语，意为\"它（希望）是什么（样子）\"。 not a shout, but a steady glow 用 not...but... 结构对 hope 作同位解释，译为\"不是……而是……\"。"
+      },
+      {
+        "point": "同位语从句 + whatever 引导的让步状语从句",
+        "example": "It is the quieter conviction that, whatever comes, we are not beginning from zero.",
+        "note": "that we are not beginning from zero 是 同位语从句，解释抽象名词 conviction（信念）的具体内容，that 不充当成分、不可省略。 whatever comes 是 whatever 引导的让步状语从句，相当于 no matter what comes（无论发生什么），插在从句主语前作状语。 整句谓语用 are not beginning（现在进行时表当前持续状态），强调\"此刻并非从零开始\"。"
+      },
+      {
+        "point": "现在分词短语作后置定语",
+        "example": "...the first green pushing through cracked pavement.",
+        "note": "pushing through cracked pavement 是现在分词短语，作 后置定语修饰 the first green（第一抹新绿），相当于定语从句 that pushes through...。 现在分词 pushing 与所修饰名词 主动关系（新绿主动\"钻出\"裂缝），故用 -ing 形式。 同类结构：the water running down the hill（顺着山坡流下的水）。"
+      },
+      {
+        "point": "祈使句 + keep doing 与比较插入语",
+        "example": "Keep carrying it. / The world, more often than it admits, is held together by...",
+        "note": "Keep carrying it. 是 祈使句，动词 keep 后接 动名词 carrying 作宾语，构成 keep doing（持续做某事）结构，语气坚定、具号召力。 more often than it admits 是 比较结构作插入语，字面\"比它愿意承认的更常\"，修饰 is held together，表示\"远比它承认的更频繁地\"，增强了反差与温度。 is held together 是一般过去/现在时的被动语态（此处为一般现在时被动），by 引出动作执行者 such small, stubborn glows。"
+      }
+    ]
+  }
+}
