@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-10",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "phonetic": "/ˈflek.sə.bəl/",
+      "meaning": "灵活的；可变通的；易弯曲的",
+      "enExample": "A flexible schedule helps people balance work and life better.",
+      "zhExample": "灵活的日程安排能帮助人们更好地平衡工作与生活。",
+      "note": "💡 联想 flex（弯曲）+ ible（可…的）→ 可弯曲的，引申为“灵活的”。职场高频：flexible working hours（弹性工作时间）、flexible approach（灵活的方法）。"
+    },
+    {
+      "word": "resolve",
+      "pos": "v./n.",
+      "phonetic": "/rɪˈzɒlv/",
+      "meaning": "解决（问题、争端）；决心，决定",
+      "enExample": "We need to resolve this issue before the product launch next week.",
+      "zhExample": "我们需要在产品下周发布前解决这个问题。",
+      "note": "💡 re-（再次）+ solve（解决）→ 再次解决，引申为“彻底解决”。solve 偏日常，resolve 更正式，常用于冲突、技术问题。名词 resolution 也是“决心”（New Year's resolution）。"
+    },
+    {
+      "word": "summarize",
+      "pos": "v.",
+      "phonetic": "/ˈsʌm.ər.aɪz/",
+      "meaning": "总结；概述；归纳",
+      "enExample": "Can you summarize the main points of the meeting in three sentences?",
+      "zhExample": "你能用三句话总结一下会议的要点吗？",
+      "note": "💡 来自 summary（摘要）。职场邮件金句：To summarize, we agreed on...（总而言之，我们达成一致……）。英式拼写 summarise，美式 summarize。"
+    },
+    {
+      "word": "accurate",
+      "pos": "adj.",
+      "phonetic": "/ˈæk.jʊ.rət/",
+      "meaning": "准确的；精确的",
+      "enExample": "Please make sure the sales report is accurate before submitting it to the manager.",
+      "zhExample": "请确保提交给经理的销售报告是准确无误的。",
+      "note": "💡 ac-（朝向）+ cura（细心）→ 细心做出来的就是“准确的”。accurate 强调无误；precise 强调精确到细节。常用搭配：accurate data / accurate prediction。"
+    },
+    {
+      "word": "resourceful",
+      "pos": "adj.",
+      "phonetic": "/rɪˈsɔːrs.fəl/",
+      "meaning": "足智多谋的；善于随机应变的",
+      "enExample": "A resourceful person can find creative solutions even with limited tools and time.",
+      "zhExample": "一个足智多谋的人，即使工具和时间有限，也能找到创造性的解决方案。",
+      "note": "💡 resource（资源）+ ful（充满）→ 浑身都是资源。不是指有钱，而是指“善用资源、会变通”。夸人时比 clever 更高级：She's very resourceful."
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Beauty of Ordinary Things",
+    "author": "佚名",
+    "paragraphs": [
+      "We rush through most days without noticing the small things that hold our lives together. The kettle humming on the stove. The particular slant of light across the kitchen floor at seven. A familiar song on the radio that turns an ordinary drive into something close to peace.",
+      "There is a quiet beauty in ordinary things, if only we slow enough to meet them. The worn handle of a favourite mug. The sound of rain deciding the afternoon. A friend's handwriting on a note left by the door. None of it asks to be remarkable.",
+      "We are taught to chase the extraordinary, the grand trip, the big promotion, the moment everyone applauds. Yet the days we remember most fondly are often built from nothing special at all: a slow walk, a shared meal, the easy silence of someone who knows us well.",
+      "Perhaps the secret is not to wait for a life worth noticing, but to notice the life we already have. The ordinary is not a lesser version of happiness. It is, more often than we admit, the very thing happiness is made of.",
+      "So tonight, before the day slips away, look once at something unremarkable and let it be enough. A warm lamp. A full glass of water. The simple fact that you are here, breathing, and the world, for this moment, is unchanged."
+    ],
+    "translations": [
+      "我们匆匆走过大多数日子，却没注意到那些把生活维系在一起的细微之物。炉上水壶的嗡鸣。清晨七点，斜斜落在厨房地板上的那束光。收音机里一首熟稔的老歌，把一段平常的车程，变成了近乎安宁的时光。",
+      "寻常之物中藏着一种安静的美，只要我们放慢脚步去与它们相遇。一只珍爱的马克杯，被摩挲得温润的把手。雨声替午后做了决定。门边留条上，朋友的笔迹。它们无一要求自己与众不同。",
+      "我们被教导去追逐非凡——盛大的旅行、重大的升职、众人喝彩的时刻。然而，我们最温柔铭记的那些日子，往往由再寻常不过的东西建成：一次慢走，一顿共餐，一个懂我们的人之间，那自在的沉默。",
+      "也许，秘诀不在于等待一种\"值得被注意\"的生活，而在于去注意我们已经拥有的生活。平凡并非幸福的低配版本。它，远比我们愿意承认的更频繁地，正是幸福由以构成的那种东西。",
+      "所以今夜，在一天悄然溜走之前，看一眼某件不起眼的东西，并让它足矣。一盏暖灯。一杯斟满的水。一个简单的真相：你在这里，呼吸着，而此刻，这世界并未改变。"
+    ]
+  }
+}

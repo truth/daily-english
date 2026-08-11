@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-11",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "articulate",
+      "phonetic": "/ɑːˈtɪkjuleɪt/",
+      "pos": "v. / adj.",
+      "meaning": "v. 清楚地表达；adj. 善于表达的",
+      "example": "She articulated her vision so clearly that everyone in the room understood exactly what needed to be done.",
+      "exampleZh": "她把自己的愿景表达得如此清晰，以至于房间里每个人都准确理解了需要做什么。",
+      "note": "作动词时重音在第二个音节 /ɑːˈtɪkjuleɪt/；作形容词时重音在第二个音节 /ɑːˈtɪkjələt/。源自拉丁语 articulatus（分节的→清晰的）。常见搭配：articulate a plan / articulate a concern。"
+    },
+    {
+      "word": "contemplate",
+      "phonetic": "/ˈkɒntəmpleɪt/",
+      "pos": "v.",
+      "meaning": "沉思；仔细考虑；凝视",
+      "example": "He sat by the window, contemplating the rain and wondering whether he had made the right choice.",
+      "exampleZh": "他坐在窗边，凝视着雨幕，思考自己是否做出了正确的选择。",
+      "note": "con-（共同）+ templum（神庙）→ 在神庙中观察神谕 → 沉思。比 think 更正式、更深入。常见搭配：contemplate doing sth（考虑做某事）、contemplate the future。"
+    },
+    {
+      "word": "negligible",
+      "phonetic": "/ˈneɡlɪdʒəbl/",
+      "pos": "adj.",
+      "meaning": "可忽略的；微不足道的",
+      "example": "The difference between the two methods was negligible, so we chose the cheaper one.",
+      "exampleZh": "两种方法之间的差异微乎其微，所以我们选了更便宜的那个。",
+      "note": "neglect（忽略）+ -ible（可…的）→ 可以忽略的。常用于科学和商业语境，表示某因素的影响小到不值得考虑。反义词：significant, considerable。"
+    },
+    {
+      "word": "intrinsic",
+      "phonetic": "/ɪnˈtrɪnzɪk/",
+      "pos": "adj.",
+      "meaning": "固有的；内在的；本质的",
+      "example": "The intrinsic value of a book is not measured by its price, but by how it changes the reader.",
+      "exampleZh": "一本书的内在价值不是用价格来衡量的，而是看它如何改变了读者。",
+      "note": "intrin-（内部）+ -sic（属于）→ 属于内部的。与 extrinsic（外在的）相对。常见搭配：intrinsic value（内在价值）、intrinsic motivation（内在动力）。"
+    },
+    {
+      "word": "versatile",
+      "phonetic": "/ˈvɜːsətaɪl/",
+      "pos": "adj.",
+      "meaning": "多才多艺的；多功能的；通用的",
+      "example": "She is a versatile designer who can work on everything from branding to product packaging.",
+      "exampleZh": "她是一位多才多艺的设计师，从品牌设计到产品包装都能胜任。",
+      "note": "拉丁语 versare（转向）→ 能转向多个方向 → 多功能的。形容人时指多才多艺，形容物时指用途广泛。名词形式：versatility。"
+    }
+  ],
+  "essay": {
+    "title": "The Architecture of Morning Light",
+    "author": "佚名",
+    "paragraphs": [
+      "Morning light does not arrive all at once. It builds itself slowly, like a cathedral under construction — first a scaffold of grey, then a wash of amber, then the full gold that spills across the floorboards and makes everything it touches look forgiven.",
+      "Before dawn, the world is a blueprint. Shapes exist only as suggestions: the outline of a chair, the geometry of a window, the silhouette of a tree that might be an elm or might be nothing at all. The darkness is not hostile; it is simply unfinished. You wait in it the way a sculptor waits before a block of marble, knowing that the form is already inside, waiting to be released.",
+      "Then the first light comes — not from the east, as we are told, but from the edges of everything. It begins in the gaps: the thin line beneath a door, the seam between curtains, the keyhole that suddenly becomes a tiny golden eye. Light does not knock. It enters through the places we have failed to seal, and in doing so, it reveals the imperfections of our architecture — every crack, every gap, every place where the world outside refuses to be kept out.",
+      "As the light strengthens, it begins to construct the room. Shadows retreat to their daytime corners. Colors emerge from their overnight absence, tentative at first, like actors taking their marks on a stage. The blue of a ceramic mug becomes blue again. The green of a plant becomes green. The white of a wall becomes something more complex — a surface where light performs its daily audition, showing how it can make even blankness interesting.",
+      "There is a particular kind of clarity that belongs only to the early morning. It is not the harsh clarity of noon, which interrogates everything. It is a gentle clarity, a clarity that suggests rather than insists. In this light, you can see the dust motes drifting like tiny planets in their slow orbits, and you understand that the air you breathe is not empty but full — full of particles, full of light, full of the invisible architecture of a room that is being rebuilt every morning, just for you.",
+      "And then, without announcement, the morning is over. The light hardens. The cathedral is complete. You step outside, and the day has already begun without you, already moving, already forgetting the secret it showed you at dawn: that everything we see is constructed, moment by moment, by something as simple and as patient as light."
+    ],
+    "translations": [
+      "晨光并非一下子到来。它像一座在建的大教堂一样缓慢地建造自己——先是灰色的脚手架，然后是一层琥珀色的渲染，接着是倾泻在地板上的饱满金色，让它触及的一切看起来都被原谅了。",
+      "黎明之前，世界是一张蓝图。万物只是以暗示的形式存在：一把椅子的轮廓，一扇窗的几何，一棵树的剪影——可能是榆树，也可能什么都不是。黑暗并不充满敌意；它只是尚未完成。你在其中等待，像一个雕塑家面对一块大理石，知道形态已经在里面了，等待着被释放。",
+      "然后第一缕光来了——不是像人们说的那样来自东方，而是来自万物的边缘。它从缝隙中开始：门下的一条细线，窗帘之间的接缝，突然变成一只金色小眼的钥匙孔。光不敲门。它从我们没能封好的地方进入，而这样做的时候，它揭示了我们建筑的缺陷——每一条裂缝，每一个缺口，每一个外面的世界拒绝被挡在外面的地方。",
+      "随着光线增强，它开始构建房间。阴影退回到它们白天的角落。色彩从一夜的缺席中浮现，起初是试探性的，像演员在舞台上找到自己的标记。陶瓷杯的蓝色重新变成蓝色。植物的绿色重新变成绿色。墙壁的白色变成了更复杂的东西——一个光线进行每日试镜的表面，展示它如何让哪怕是一片空白都变得有趣。",
+      "有一种特殊的清澈只属于清晨。它不是正午那种审讯一切刺眼的清澈。它是一种温柔的清澈，一种暗示而非强加的清澈。在这种光线中，你可以看到尘埃微粒像微小的行星一样在缓慢的轨道上漂浮，你理解到你呼吸的空气不是空洞的而是充实的——充满了微粒，充满了光，充满了每个清晨都在为你重建的房间的无形结构。",
+      "然后，毫无预兆地，清晨结束了。光线变硬。大教堂完工了。你走出门外，而这一天已经在没有你的情况下开始了，已经在移动，已经在遗忘它在黎明时向你展示的秘密：我们所看到的一切，都是被一种像光一样简单而耐心的事物，一刻一刻地构建出来的。"
+    ],
+    "grammar": [
+      {
+        "point": "like 引导的明喻",
+        "example": "\"It builds itself slowly, like a cathedral under construction\"",
+        "note": "like + 名词短语构成明喻（simile），将晨光比作在建的大教堂。like 是介词，后接名词性成分；as 是连词，后接从句。两者不可混用。此处 like a cathedral under construction 简洁地传达了「渐进的宏伟」这一意象。 举一反三：Her words fell like rain on dry soil. / The city at night looks like a circuit board seen from above."
+      },
+      {
+        "point": "the way 引导方式状语从句",
+        "example": "\"You wait in it the way a sculptor waits before a block of marble\"",
+        "note": "the way 在此处相当于 just as / in the manner that，引导方式状语从句，表示「像……一样」。这种用法口语化但非常地道，用具体经验来类比抽象感受。the way 后面直接接句子，不需要 that。 举一反三：She reads poetry the way others read the news — quickly, hungrily, as if it might disappear. / He loves the way mornings smell after rain."
+      },
+      {
+        "point": "not A but B 否定转折结构",
+        "example": "\"not from the east, as we are told, but from the edges of everything\"",
+        "note": "not... but... 是先否定再肯定的转折结构，强调真正的来源。此处中间插入 as we are told（如人们所说）作为补充说明，增加了语气的层次感。结构核心是 not from the east... but from the edges，两个 from 短语平行并列。 举一反三：The answer came not from the textbook but from a conversation overheard on the train. / True change begins not from the outside but from within."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "cathedral",
+        "pos": "n.",
+        "meaning": "大教堂",
+        "enExample": "The morning light transformed the kitchen into something resembling a cathedral.",
+        "zhExample": "晨光把厨房变成了一个像大教堂一样的空间。",
+        "note": "用法：cathedra（主教座位）→ 设有主教座位的教堂。文中 like a cathedral under construction 将晨光比作在建的大教堂，强调其宏伟与渐进。"
+      },
+      {
+        "term": "scaffold",
+        "pos": "n.",
+        "meaning": "脚手架；支架",
+        "enExample": "The scaffold of the building was taken down once the walls could stand on their own.",
+        "zhExample": "建筑的脚手架在墙壁能够自立后被拆除了。",
+        "note": "用法：源自古法语 escadafaut（支撑物）。文中 a scaffold of grey 指黎明前灰色的光像脚手架一样，是最终结构的临时框架。也比喻事物的初步框架。"
+      },
+      {
+        "term": "amber",
+        "pos": "n./adj.",
+        "meaning": "琥珀；琥珀色的",
+        "enExample": "The windows glowed amber in the late afternoon sun.",
+        "zhExample": "窗户在傍晚的阳光下发出琥珀色的光芒。",
+        "note": "用法：源自阿拉伯语 anbar（琥珀）。a wash of amber 指黎明时天空中一层琥珀色的光晕。amber 也常用来形容温暖的橙黄色。"
+      },
+      {
+        "term": "blueprint",
+        "pos": "n.",
+        "meaning": "蓝图；原始计划",
+        "enExample": "The architect's blueprint showed a building that didn't yet exist anywhere but in his mind.",
+        "zhExample": "建筑师的蓝图展示了一座只存在于他脑海中的建筑。",
+        "note": "用法：blue（蓝）+ print（印刷）→ 早期复制技术用蓝色底纸。文中 the world is a blueprint 指黎明前世界尚未成形，只有基本轮廓。引申为「初步方案」。"
+      },
+      {
+        "term": "silhouette",
+        "pos": "n.",
+        "meaning": "剪影；轮廓",
+        "enExample": "The silhouette of the mountain range stood sharp against the orange sky.",
+        "zhExample": "山脉的剪影在橙色天空的映衬下显得格外分明。",
+        "note": "用法：源自法国财政家 Étienne de Silhouette 的姓氏，他因节俭而得名。文中 the silhouette of a tree 指黎明前只能看到树的黑色轮廓。a silhouette against the sky（映在天空中的剪影）。"
+      },
+      {
+        "term": "seam",
+        "pos": "n.",
+        "meaning": "缝隙；接缝；裂痕",
+        "enExample": "Light crept through the seam where the two curtains failed to meet.",
+        "zhExample": "光从两片窗帘没能合拢的缝隙中悄悄溜了进来。",
+        "note": "用法：源自古英语 seom（缝合处）。the seam between curtains 指窗帘之间的接缝。比喻用法：the seams of society（社会的裂痕），coming apart at the seams（分崩离析）。"
+      },
+      {
+        "term": "tentative",
+        "pos": "adj.",
+        "meaning": "试探性的；不确定的；初步的",
+        "enExample": "Her first steps on the stage were tentative, but her confidence grew with each line.",
+        "zhExample": "她上台的第一步是试探性的，但每一句台词都让她的信心增长。",
+        "note": "用法：拉丁语 temptare（试探）→ tentative。文中 colors emerge... tentative at first 指色彩刚出现时还不确定、不够鲜明。a tentative plan（初步计划），a tentative smile（试探性的微笑）。"
+      },
+      {
+        "term": "interrogate",
+        "pos": "v.",
+        "meaning": "审问；质问",
+        "enExample": "The detective's eyes interrogated the room, noting every detail that seemed out of place.",
+        "zhExample": "侦探的目光审问着整个房间，注意着每一个似乎不对劲的细节。",
+        "note": "用法：inter-（之间）+ rogare（问）→ 反复追问。文中 the harsh clarity of noon which interrogates everything 将正午的光线拟人化为审问者，毫不留情地揭示一切。"
+      },
+      {
+        "term": "mote",
+        "pos": "n.",
+        "meaning": "微粒；尘埃",
+        "enExample": "Dust motes danced in the shaft of sunlight like tiny golden coins.",
+        "zhExample": "尘埃微粒在阳光柱中舞动，像微小的金币。",
+        "note": "用法：古英语 mot（微粒）。dust motes 指在光线中可见的灰尘微粒。the mote in someone's eye（别人眼中的微尘）出自《圣经》，指苛责他人小缺点而无视自己大过错。"
+      },
+      {
+        "term": "patient",
+        "pos": "adj.",
+        "meaning": "有耐心的；不急躁的",
+        "enExample": "The river was patient, carving the canyon over millions of years, grain by grain.",
+        "zhExample": "河流很有耐心，一粒一粒地，花了几百万年才雕刻出峡谷。",
+        "note": "用法：拉丁语 pati（忍受）→ patient。文中 something as simple and as patient as light 将光拟人化，强调它日复一日不急不躁地构建世界。也可作名词（病人）。"
+      }
+    ]
+  }
+}
