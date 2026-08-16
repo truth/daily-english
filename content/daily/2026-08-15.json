@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-15",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "cherish",
+      "pos": "v.",
+      "phonetic": "/ˈtʃer.ɪʃ/",
+      "meaning": "珍惜；珍爱；怀有（希望、回忆）",
+      "enExample": "I cherish the summers we spent at my grandmother's house by the lake.",
+      "zhExample": "我珍惜我们在湖边外婆家度过的那些夏天。",
+      "note": "cherish a memory / cherish the hope that... 高频搭配。比 value 更有感情色彩：value 是理性看重，cherish 是放在心尖上珍惜。婚礼誓词高频词。"
+    },
+    {
+      "word": "distort",
+      "pos": "v.",
+      "phonetic": "/dɪˈstɔːrt/",
+      "meaning": "歪曲；扭曲；使失真",
+      "enExample": "The rumor distorted what she had actually said at the meeting.",
+      "zhExample": "谣言歪曲了她在会议上实际说的话。",
+      "note": "dis-（离开）+ tort（扭），扭离原形 = 歪曲。distort the facts / distorted view（变形的景色）。名词 distortion（失真，音频领域也常用）。"
+    },
+    {
+      "word": "endeavor",
+      "pos": "v. / n.",
+      "phonetic": "/ɪnˈdev.ər/",
+      "meaning": "努力；尝试（n.）；竭力去做（v.）",
+      "enExample": "She endeavored to finish the translation before the publisher's deadline.",
+      "zhExample": "她竭力想在出版社的截止日期前完成翻译。",
+      "note": "正式用语，比 try 庄重。scientific endeavor（科学事业）/ human endeavor（人类奋斗）。美句常见：Please make every endeavor to arrive on time。"
+    },
+    {
+      "word": "feasible",
+      "pos": "adj.",
+      "phonetic": "/ˈfiː.zə.bəl/",
+      "meaning": "可行的；行得通的",
+      "enExample": "The engineer said rebuilding the bridge in three months was technically feasible.",
+      "zhExample": "工程师说三个月内重建这座桥在技术上是可行的。",
+      "note": "feas（做）+ ible（可……的），可做的 = 可行的。a feasible plan / financially feasible。名词 feasibility（可行性），如 feasibility study（可行性研究）。反义 infeasible。"
+    },
+    {
+      "word": "humble",
+      "pos": "adj. / v.",
+      "phonetic": "/ˈhʌm.bəl/",
+      "meaning": "谦逊的；卑微的（adj.）；使谦逊（v.）",
+      "enExample": "Despite his success, he remained humble and credited his whole team.",
+      "zhExample": "尽管取得了成功，他依然谦逊，并把功劳归于整个团队。",
+      "note": "humble beginnings（ humble 出身）/ eat humble pie（低头认错）。动词用法：The experience humbled me（这段经历让我变得谦卑）。注意不要与 mumble（咕哝）混淆。"
+    }
+  ],
+  "essay": {
+    "title": "The Rhythm of Walking",
+    "author": "佚名",
+    "paragraphs": [
+      "Before there were desks, there were roads. The human body was designed by long evolution to think on its feet, and some of civilization's best ideas arrived at walking speed: Aristotle lectured while strolling, Dickens walked thirty miles into the night whenever a chapter resisted him.",
+      "Walking is thinking in slow motion. The rhythm of steps seems to loosen the rhythm of thought, letting ideas drift up from wherever they hide. Scientists studying this have found that creative output rises measurably during a walk — not because of the scenery, but because of the pace itself.",
+      "There is also the matter of scale. In a car, the world becomes scenery; on foot, it becomes a place. You notice the shop that changed hands, the tree that lost a branch, the neighbor's new dog. Walking restores the world to human size, and us to membership in it.",
+      "You do not need mountains or pilgrim routes. Twenty minutes without a phone is enough to feel the machinery of the mind change gear. The problems that were opaque at the desk often become transparent by the second corner. So when a day jams shut, do not push harder — stand up, and take the oldest technology of thought for a walk."
+    ],
+    "translations": [
+      "在书桌出现之前，先有道路。人类的身体经漫长演化而成，本就适合边走边思考；文明中一些最好的念头，都是以步行的速度抵达的：亚里士多德边漫步边讲学，狄更斯在章节写不下去时，会步行三十英里走进夜色。",
+      "行走是慢速的思考。脚步的节奏仿佛松开了思绪的节拍，让想法从藏匿之处慢慢浮上来。研究此现象的科学家发现，散步时人的创造性产出会明显上升——不是因为风景，而是因为这种速度本身。",
+      "还有尺度的问题。在汽车里，世界沦为布景；步行时，世界重新成为地方。你会注意到换了店主的小店、断了一根枝的树、邻家新来的狗。行走把世界还原为人的尺度，也把我们还原为其中的成员。",
+      "你不需要高山，也不需要朝圣之路。不带手机走上二十分钟，就足以感到心智的齿轮换挡。在书桌前混沌难解的问题，常常走到第二个街角就变得透明。所以当一天卡死时，别硬推——站起来，带上最古老的思考技术，出去走一走。"
+    ],
+    "grammar": [
+      {
+        "point": "some of...arrived at walking speed — 拟人与介词短语",
+        "example": "\"Some of civilization's best ideas arrived at walking speed.\"",
+        "note": "arrive at + 速度/地点，把抽象的 ideas 拟作旅客，at walking speed 作方式状语，简洁而富画面感。 举一反三：The best decisions often arrive at walking speed, not at highway speed."
+      },
+      {
+        "point": "not because of...but because of... — 否定平行",
+        "example": "\"Not because of the scenery, but because of the pace itself.\"",
+        "note": "because of + 名词短语；not...but...平行否定结构纠正原因归属，常用于澄清误解。 举一反三：She stayed not because of the salary, but because of the mission."
+      },
+      {
+        "point": "do not push harder — stand up and take... 祈使句排比",
+        "example": "\"Do not push harder — stand up, and take the oldest technology of thought for a walk.\"",
+        "note": "否定祈使句 + 破折号 + 肯定祈使句，形成行为指令的对照；take A for a walk 带 A 去散步，介词 for 表目的。 举一反三：Do not stare at the screen — stand up, and take the problem for a walk."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "evolution",
+        "pos": "n.",
+        "meaning": "演化；演变",
+        "enExample": "Evolution designed us for distance, not for desks.",
+        "zhExample": "演化把我们设计成耐走的动物，而不是久坐的。",
+        "note": "用法：human evolution 人类演化"
+      },
+      {
+        "term": "stroll",
+        "pos": "v.",
+        "meaning": "漫步；散步",
+        "enExample": "They strolled along the river until the light turned gold.",
+        "zhExample": "他们沿河漫步，直到天光转为金黄。",
+        "note": "用法：指悠闲地走，比 walk 更从容"
+      },
+      {
+        "term": "resist",
+        "pos": "v.",
+        "meaning": "抵抗；抗拒",
+        "enExample": "Chapter nine resisted him for a whole week.",
+        "zhExample": "第九章抗拒了他整整一周。",
+        "note": "用法：此处拟人：章节“抗拒”写作"
+      },
+      {
+        "term": "loosen",
+        "pos": "v.",
+        "meaning": "松开；放松",
+        "enExample": "Music loosens the knots of a hard day.",
+        "zhExample": "音乐会松开一天辛劳打的结。",
+        "note": "用法：loose + en 动词化，loosen up 放松"
+      },
+      {
+        "term": "measurably",
+        "pos": "adv.",
+        "meaning": "可测量地；明显地",
+        "enExample": "Sleep quality improved measurably after a month of walks.",
+        "zhExample": "坚持散步一个月后，睡眠质量有 measurable 的提升。",
+        "note": "用法：measure + ably，指有数据支撑地"
+      },
+      {
+        "term": "opaque",
+        "pos": "adj.",
+        "meaning": "不透明的；难懂的",
+        "enExample": "The problem stayed opaque until the second corner.",
+        "zhExample": "那道难题直到第二个街角才豁然开朗。",
+        "note": "用法：反义 transparent，比喻晦涩难解"
+      },
+      {
+        "term": "restore",
+        "pos": "v.",
+        "meaning": "恢复；归还",
+        "enExample": "Walking restores the city to human size.",
+        "zhExample": "步行把城市恢复到人的尺度。",
+        "note": "用法：restore A to B 把 A 恢复到 B 状态"
+      },
+      {
+        "term": "jam shut",
+        "pos": "phr.",
+        "meaning": "卡死；堵死",
+        "enExample": "When a day jams shut, change your rhythm.",
+        "zhExample": "当一天卡死时，换个节奏。",
+        "note": "用法：jam 作动词指卡住不动"
+      }
+    ]
+  }
+}

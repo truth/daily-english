@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-14",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "evoke",
+      "pos": "v.",
+      "phonetic": "/ɪˈvoʊk/",
+      "meaning": "唤起；引起（记忆、情感等）",
+      "enExample": "The smell of chalk evokes memories of my first classroom.",
+      "zhExample": "粉笔的气味唤起了我对第一间教室的记忆。",
+      "note": "e-（出）+ voke（叫），把记忆/情感\"叫出来\"。注意与 invoke（援引、调用）区分：evoke 唤起情感，invoke 援引规则或力量。evoke memories / evoke sympathy 高频搭配。"
+    },
+    {
+      "word": "genuine",
+      "pos": "adj.",
+      "phonetic": "/ˈdʒen.ju.ɪn/",
+      "meaning": "真诚的；真正的；名副其实的",
+      "enExample": "What impressed the interviewers most was her genuine interest in the project.",
+      "zhExample": "最令面试官印象深刻的是她对项目真诚的兴趣。",
+      "note": "原义\"天生的、纯种的\"，引申为\"非伪装的\"。a genuine smile（发自内心的微笑）/ genuine leather（真皮）。近义 authentic / sincere。"
+    },
+    {
+      "word": "imperative",
+      "pos": "adj. / n.",
+      "phonetic": "/ɪmˈper.ə.tɪv/",
+      "meaning": "至关重要的；必要的； imperative：必要的事",
+      "enExample": "It is imperative that we back up the data before migrating the system.",
+      "zhExample": "在系统迁移之前，我们必须备份数据，这一点至关重要。",
+      "note": "It is imperative that + (should) do 虚拟语气，与 essential 同级但更正式。语法术语中 imperative 还指\"祈使语气\"。军事、商务文书高频词。"
+    },
+    {
+      "word": "linger",
+      "pos": "v.",
+      "phonetic": "/ˈlɪŋ.ɡər/",
+      "meaning": "逗留；流连；继续存留",
+      "enExample": "The guests lingered over coffee until midnight, unwilling to end the evening.",
+      "zhExample": "客人们喝着咖啡一直聊到深夜，不愿结束这个夜晚。",
+      "note": "linger over something 慢慢品味、迟迟不结束；linger on 继续存在（The smell lingered on for days）。近义 stay / remain，但 linger 自带\"舍不得走\"的情绪色彩。"
+    },
+    {
+      "word": "scarce",
+      "pos": "adj.",
+      "phonetic": "/skers/",
+      "meaning": "稀缺的；不足的；难得的",
+      "enExample": "In the desert, water is scarce and every drop is carefully stored.",
+      "zhExample": "在沙漠里水极为稀缺，每一滴都被小心储存起来。",
+      "note": "make oneself scarce（溜走、避开）是地道口语。名词 scarcity（稀缺性，经济学高频词）。近义 rare，但 rare 强调\"罕见\"，scarce 强调\"不够用\"。"
+    }
+  ],
+  "essay": {
+    "title": "A Letter to My Younger Self",
+    "author": "佚名",
+    "paragraphs": [
+      "Dear younger me, I write to you from a future you cannot imagine and will not believe: you are, at last, mostly fine. I know you keep a list of your failures in a notebook nobody will ever read. Burn it. None of the entries turned out to be permanent.",
+      "That thing you are afraid will define you — the failed exam, the friendship that dissolved, the summer you wasted — will instead become a story you tell at dinner, softer and funnier each year. Pain does not last; only our retelling of it does, and we control the retelling.",
+      "Two warnings. First, the people you are trying so hard to impress are not watching; they are busy worrying about their own performance. Second, the things you postpone out of fear — the conversation, the trip, the apology — grow heavier with waiting, never lighter. Almost everything is easier today than it will be in five years.",
+      "And one comfort: you will not become the person you are planning to be. You will become someone stranger, kinder, and more specific — shaped by books you have not yet heard of and losses you cannot foresee. That is not a plan failing. That is a life happening. With more tenderness than you expect, — yourself, later."
+    ],
+    "translations": [
+      "亲爱的年少的我：我从一个你无法想象也不会相信的未来写信给你——你终于基本安好。我知道你在一本永远无人翻看的笔记本里记录着自己的失败。烧掉它吧。那些条目，没有一条最终成为定局。",
+      "那件你害怕将定义你一生的事——失手的考试、无疾而终的友谊、荒废的夏天——终会成为你在餐桌上讲述的故事，而且一年比一年温柔、好笑。痛苦不会长存；长存的只是我们对它的复述，而复述的方式由我们掌握。",
+      "给你两个提醒。第一，你拼命想留下好印象的那些人，其实并没有在看你，他们都忙着担忧自己的表现。第二，你因恐惧而推迟的事——那次谈话、那趟旅行、那句道歉——只会越等越重，不会越等越轻。几乎所有事，今天做都比五年后做容易。",
+      "还有一句安慰：你不会成为计划中的那个人。你会成为一个更奇特、更善良也更具体的人——由你尚未听说过的书和你无法预见的失去塑造而成。这不是计划的失败，这是生活的发生。带着比你预想更多的温柔——后来的你。"
+    ],
+    "grammar": [
+      {
+        "point": "I write to you from... — 现在时表当前动作",
+        "example": "\"I write to you from a future you cannot imagine and will not believe.\"",
+        "note": "一般现在时 write 描绘写信当下；you cannot imagine 和 (that) you will not believe 为并列定语从句修饰 a future。 举一反三：I speak to you from a place you will reach one day."
+      },
+      {
+        "point": "None of the entries turned out to be... — turn out 结构",
+        "example": "\"None of the entries turned out to be permanent.\"",
+        "note": "turn out to be + 形容词/名词表示“结果是、最终成为”，强调与预期不同的结局。none of + 复数名词作主语时谓语可用单数或复数。 举一反三：The hardest year turned out to be the most useful one."
+      },
+      {
+        "point": "shaped by...and... — 过去分词短语作后置定语",
+        "example": "\"You will become someone stranger, kinder, and more specific — shaped by books you have not yet heard of.\"",
+        "note": "shaped by... 修饰 someone，相当于 who is shaped by...；hear of 听说，用于否定完成时 you have not yet heard of。 举一反三：She arrived as a stranger — shaped by cities she had never named."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "permanent",
+        "pos": "adj.",
+        "meaning": "永久的；不变的",
+        "enExample": "No mistake at seventeen is permanent.",
+        "zhExample": "十七岁时的错误没有一个是永久的。",
+        "note": "用法：permanent record 永久记录；反义 temporary"
+      },
+      {
+        "term": "define",
+        "pos": "v.",
+        "meaning": "定义；界定",
+        "enExample": "One failure does not define a person.",
+        "zhExample": "一次失败不能定义一个人。",
+        "note": "用法：define someone 以某事定义某人"
+      },
+      {
+        "term": "dissolve",
+        "pos": "v.",
+        "meaning": "解散；消失；溶解",
+        "enExample": "The partnership dissolved without argument.",
+        "zhExample": "这段合伙关系无声无息地解体了。",
+        "note": "用法：友谊、合伙等的“瓦解”常用 dissolve"
+      },
+      {
+        "term": "retelling",
+        "pos": "n.",
+        "meaning": "复述；重新讲述",
+        "enExample": "Healing often begins with a gentler retelling.",
+        "zhExample": "治愈常始于一次更温柔的复述。",
+        "note": "用法：re- + tell + -ing，名词化使用"
+      },
+      {
+        "term": "postpone",
+        "pos": "v.",
+        "meaning": "推迟；延期",
+        "enExample": "She postponed the conversation for two winters.",
+        "zhExample": "那场对话，她拖了两个冬天。",
+        "note": "用法：postpone doing something 接动名词"
+      },
+      {
+        "term": "impress",
+        "pos": "v.",
+        "meaning": "使印象深刻",
+        "enExample": "Stop trying to impress an audience that is not there.",
+        "zhExample": "别再试图取悦一群并不存在的观众。",
+        "note": "用法：impress someone with something"
+      },
+      {
+        "term": "foresee",
+        "pos": "v.",
+        "meaning": "预见；预知",
+        "enExample": "No one can foresee which friendship will save them.",
+        "zhExample": "没有人能预见哪段友情终将拯救自己。",
+        "note": "用法：fore-（提前）+ see，foresaw-foreseen"
+      },
+      {
+        "term": "tenderness",
+        "pos": "n.",
+        "meaning": "温柔；柔情",
+        "enExample": "The letter ended with unexpected tenderness.",
+        "zhExample": "信在一种出乎意料的温柔中结束。",
+        "note": "用法：形容词 tender，比 kindness 更细腻"
+      }
+    ]
+  }
+}

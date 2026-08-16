@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-16",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "immerse",
+      "pos": "v.",
+      "phonetic": "/ɪˈmɜːrs/",
+      "meaning": "使浸没；使沉浸于",
+      "enExample": "She immersed herself in the local language by living with a host family for a year.",
+      "zhExample": "她通过在寄宿家庭住了一年，让自己完全沉浸在当地语言环境中。",
+      "note": "im-（进入）+ merse（浸），浸进去。immerse yourself in something 全身心投入。名词 immersion（沉浸式），如 language immersion（沉浸式语言学习）。"
+    },
+    {
+      "word": "inevitable",
+      "pos": "adj.",
+      "phonetic": "/ɪnˈev.ɪ.tə.bəl/",
+      "meaning": "不可避免的；必然发生的",
+      "enExample": "With both teams playing so well, a long and close match seemed inevitable.",
+      "zhExample": "两队都发挥出色，一场漫长而胶着的比赛似乎不可避免。",
+      "note": "in-（不）+ evitable（可避免的），避无可避。accept the inevitable（接受必然结局）。副词 inevitably（果然、不出所料）是议论文常用开头词。"
+    },
+    {
+      "word": "nurture",
+      "pos": "v. / n.",
+      "phonetic": "/ˈnɜːr.tʃər/",
+      "meaning": "培养；养育；滋养",
+      "enExample": "Good teachers nurture curiosity rather than just preparing students for exams.",
+      "zhExample": "好老师培养的是好奇心，而不只是让学生备考。",
+      "note": "nature versus nurture（先天与后天）是心理学经典议题。nurture a talent / nurture a relationship。近义 cultivate / foster，三词在\"培养\"义项上可互换。"
+    },
+    {
+      "word": "obstacle",
+      "pos": "n.",
+      "phonetic": "/ˈɑːb.stə.kəl/",
+      "meaning": "障碍；阻碍物",
+      "enExample": "Lack of funding was the biggest obstacle to launching the community library.",
+      "zhExample": "资金不足是创办社区图书馆的最大障碍。",
+      "note": "ob-（对着）+ sta（站），站在对面挡路的东西。overcome / remove an obstacle 高频搭配。近义 barrier / hindrance。障碍赛跑就是 obstacle race。"
+    },
+    {
+      "word": "signify",
+      "pos": "v.",
+      "phonetic": "/ˈsɪɡ.nɪ.faɪ/",
+      "meaning": "表示；意味着；预示",
+      "enExample": "In many cultures, a white dove signifies peace and new beginnings.",
+      "zhExample": "在许多文化中，白鸽象征和平与新的开始。",
+      "note": "sign（记号）+ ify（使），使成为记号 = 象征、表示。名词 significance（重要性；含义）。口语中 What does this signify? 略正式，日常多用 mean。"
+    }
+  ],
+  "essay": {
+    "title": "What the Sea Remembers",
+    "author": "佚名",
+    "paragraphs": [
+      "Stand at the edge of the sea and you are standing in two times at once. The water touching your feet has just arrived from a storm near Antarctica; the pebble beneath them was rounded ten thousand years before anyone built a city. The sea keeps no calendar, yet it never forgets.",
+      "What the sea remembers is not events but patterns: the pull of the moon, the schedule of monsoons, the shape of every coast it has spent millennia negotiating. In this it resembles an old person who has forgotten names but remembers exactly how every story goes.",
+      "We, who live above the tide line, suffer from the opposite condition: we remember events obsessively and patterns hardly at all. We are astonished by every returning crisis, every season of grief and joy, as though meeting them for the first time — while the tide below repeats its patient, enormous lesson: everything returns, nothing stays, and there is no wave without the one before it.",
+      "Perhaps that is why we return to the shore. Not to be calmed, but to be reminded — that we are brief, that we are recurrent, that our losses and joys move in seasons like the water. The sea does not console us. It simply lets us stand, for a while, inside a patience larger than our own."
+    ],
+    "translations": [
+      "站在海边，你就同时站在两个时间里。轻触你双脚的海水，刚从南极附近的一场风暴赶来；而脚下的卵石，早在人类筑城之前一万年就被磨圆了。大海不记日历，却从不遗忘。",
+      "大海记得的不是事件，而是模式：月亮的引力、季风的时间表、它用千年时间反复协商出来的每一道海岸线的形状。在这点上，它像一位老人——忘了名字，却清楚记得每个故事的走向。",
+      "住在潮线之上的我们，情况恰恰相反：我们对事件念念不忘，对模式几乎视而不见。每一次卷土重来的危机、每一段悲喜的季节，都让我们惊讶，仿佛初见；而脚下的潮水重复着它那耐心而宏大的课程：一切都会回来，没有什么会停留，没有哪一朵浪不建立在前一朵之上。",
+      "也许正因如此，我们才一次次回到海边。不是为了被安抚，而是为了被提醒——提醒我们生命短暂，提醒我们循环往复，提醒我们的失去与喜悦如潮水般随季节起伏。大海并不安慰我们。它只是允许我们，在一种比我们自身更辽阔的耐心里，静静站上一会儿。"
+    ],
+    "grammar": [
+      {
+        "point": "Stand at...and you will... — 祈使句 + and 表结果",
+        "example": "\"Stand at the edge of the sea and you are standing in two times at once.\"",
+        "note": "祈使句 + and + 陈述句 表示“只要……就会……”，祈使部分相当于条件状语从句。 举一反三：Open any old book and you are talking to the dead."
+      },
+      {
+        "point": "What the sea remembers is not... — what 主语从句",
+        "example": "\"What the sea remembers is not events but patterns.\"",
+        "note": "what 引导主语从句并在从句中作宾语；is 后接 not...but...平行否定结构。 举一反三：What the river knows is not speed but direction."
+      },
+      {
+        "point": "as though + 过去式虚拟",
+        "example": "\"We are astonished..., as though meeting them for the first time.\"",
+        "note": "as though 后省略主语直接接现在分词（= as though we were meeting them），虚拟语气表达与事实相反的感觉。 举一反三：He reread the letter, as though seeing it for the first time."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Antarctica",
+        "pos": "n.",
+        "meaning": "南极洲",
+        "enExample": "Currents carry water from Antarctica to every shore.",
+        "zhExample": "洋流把南极的海水带往每一片海岸。",
+        "note": "用法：专有名词，形容词 Antarctic"
+      },
+      {
+        "term": "pebble",
+        "pos": "n.",
+        "meaning": "卵石；小圆石",
+        "enExample": "Every pebble was once an edge.",
+        "zhExample": "每颗卵石都曾是棱角分明的。",
+        "note": "用法：海滩上被磨圆的小石头"
+      },
+      {
+        "term": "calendar",
+        "pos": "n.",
+        "meaning": "日历；历法",
+        "enExample": "The mountains keep a slower calendar than ours.",
+        "zhExample": "山用的是比我们慢的日历。",
+        "note": "用法：keep no calendar 不记时间"
+      },
+      {
+        "term": "millennia",
+        "pos": "n.",
+        "meaning": "千年（复数）",
+        "enExample": "Coastlines are negotiated over millennia.",
+        "zhExample": "海岸线是经千年协商而成的。",
+        "note": "用法：单数 millennium， millennia 为不规则复数"
+      },
+      {
+        "term": "obsessively",
+        "pos": "adv.",
+        "meaning": "着魔地；过度地",
+        "enExample": "We remember events obsessively and patterns hardly at all.",
+        "zhExample": "我们对事件念念不忘，对模式却几乎无视。",
+        "note": "用法：obsess 的副词形式，含偏执意味"
+      },
+      {
+        "term": "recurrent",
+        "pos": "adj.",
+        "meaning": "反复出现的；循环的",
+        "enExample": "Grief and joy are both recurrent seasons.",
+        "zhExample": "悲与喜都是循环往复的季节。",
+        "note": "用法：re-（再）+ cur（跑）+ ent，一再跑回来的"
+      },
+      {
+        "term": "console",
+        "pos": "v.",
+        "meaning": "安慰；慰藉",
+        "enExample": "The sea does not console us; it accompanies us.",
+        "zhExample": "大海不安慰我们，它只是陪伴。",
+        "note": "用法：console someone for something"
+      },
+      {
+        "term": "patience",
+        "pos": "n.",
+        "meaning": "耐心；忍耐",
+        "enExample": "Nature works inside a patience larger than ours.",
+        "zhExample": "自然在一种比我们更辽阔的耐心里运作。",
+        "note": "用法：形容词 patient，with patience"
+      }
+    ]
+  }
+}

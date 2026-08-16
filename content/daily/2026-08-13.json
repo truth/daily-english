@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-13",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "coherent",
+      "pos": "adj.",
+      "phonetic": "/koʊˈhɪr.ənt/",
+      "meaning": "连贯的；条理清晰的",
+      "enExample": "A good essay presents a coherent argument from the first paragraph to the last.",
+      "zhExample": "一篇好文章从第一段到最后一段都呈现出连贯一致的论证。",
+      "note": "co-（共同）+ here（粘着），粘在一起 = 连贯。名词 coherence。反义 incoherent（语无伦次的）。写作课高频词：a coherent structure。"
+    },
+    {
+      "word": "deter",
+      "pos": "v.",
+      "phonetic": "/dɪˈtɜːr/",
+      "meaning": "威慑；使不敢；阻止",
+      "enExample": "The high fines did not deter drivers from using their phones.",
+      "zhExample": "高额罚款并没有阻止司机开车用手机。",
+      "note": "deter someone from doing something 固定搭配。名词 deterrence（威慑力）。近义 discourage / intimidate，但 deter 强调通过威慑使对方放弃。"
+    },
+    {
+      "word": "fervent",
+      "pos": "adj.",
+      "phonetic": "/ˈfɜːr.vənt/",
+      "meaning": "热烈的；炽热的；强烈的",
+      "enExample": "He is a fervent supporter of the local football club and has never missed a home game.",
+      "zhExample": "他是本地足球俱乐部狂热的支持者，主场比赛一场没落下。",
+      "note": "词根 ferv（沸腾）同 fever（发烧）：热到沸腾 = 炽热。a fervent belief / fervent hope。近义 passionate / ardent，书面语中 fervent 更庄重。"
+    },
+    {
+      "word": "mundane",
+      "pos": "adj.",
+      "phonetic": "/mʌnˈdeɪn/",
+      "meaning": "平凡的；世俗的；枯燥的",
+      "enExample": "She found beauty in mundane tasks like folding laundry and watering plants.",
+      "zhExample": "她在叠衣服、浇花这些平凡的日常琐事中发现了美。",
+      "note": "来自拉丁语 mundus（世界），属于\"这个世界\"的 = 平凡琐碎的。近义 ordinary / everyday，但 mundane 常带一丝\"无聊\"的意味。反义 extraordinary。"
+    },
+    {
+      "word": "reluctant",
+      "pos": "adj.",
+      "phonetic": "/rɪˈlʌk.tənt/",
+      "meaning": "不情愿的；勉强的",
+      "enExample": "He was reluctant to admit that the plan had failed because of his own calculation.",
+      "zhExample": "他不情愿承认计划失败是源于他自己的测算。",
+      "note": "be reluctant to do something 不情愿做某事。副词 reluctantly（勉强地）。近义 unwilling / hesitant。口语可以说 I'm reluctant to say this, but...（我不太想说，但……）。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Power of Habit",
+    "author": "佚名",
+    "paragraphs": [
+      "Motivation is weather; habit is climate. On stormy days, when enthusiasm is nowhere to be found, it is not inspiration that gets the runner out of the door — it is the automaticity of lacing the shoes at six. Small, repeated actions carry us further than great intentions ever will.",
+      "The mathematics of habit is humbling. Writing three hundred words a day seems almost embarrassingly small — until you multiply it by three hundred and sixty-five days and find a book waiting on the other side. Habits convert ordinary people into accumulations of themselves.",
+      "The mechanism is simple: repetition lowers friction. What begins as an act of will becomes a groove worn into the day, then a path, then a road. The French philosopher Simone Weil said that attention is the rarest form of generosity — and habit is how we pay attention on schedule, even when the heart is elsewhere.",
+      "Choose your habits as an architect chooses materials, for they will build your life whether you notice or not. One page, one apple, one walk, one honest sentence said to someone you love. None of these will change a Tuesday. All of them, repeated, will change a decade."
+    ],
+    "translations": [
+      "动力如天气，习惯如气候。在热情无处可寻的风雨日子里，让跑者出门的不是灵感，而是六点钟系鞋带这个动作的自动化。微小而重复的行动，比宏大的意图更能带我们走远。",
+      "习惯的算术令人谦卑。每天写三百字看起来小得近乎尴尬——直到你把它乘以三百六十五天，发现另一头等着你的竟是一本书。习惯把普通人一点一滴地累积成非凡的自己。",
+      "其机制很简单：重复降低摩擦。起初靠意志完成的动作，会磨成一天中的凹槽，再成小径，再成大路。法国哲学家西蒙娜·薇依说，注意力是最稀有的慷慨——而习惯让我们即使心不在焉，也能按时付出注意力。",
+      "像建筑师挑选材料那样挑选你的习惯吧，因为无论你是否留意，它们终将筑成你的生活。一页书、一个苹果、一次散步、对所爱之人说的一句诚实的话。其中任何一件都改变不了某个星期二；但全部重复下去，足以改变十年。"
+    ],
+    "grammar": [
+      {
+        "point": "it is not...that...it is... — 强调与对比",
+        "example": "\"It is not inspiration that gets the runner out of the door — it is the automaticity of lacing the shoes.\"",
+        "note": "it is...that... 为强调句型，破折号后接对比句 it is...，形成“不是 A 而是 B”的强对比结构。 举一反三：It is not talent that sustains a career — it is consistency."
+      },
+      {
+        "point": "until you multiply...and find — 时间状语的悬念",
+        "example": "\"...seems almost embarrassingly small — until you multiply it by three hundred and sixty-five days and find a book waiting on the other side.\"",
+        "note": "until 句在此制造转折悬念；find + 宾语 + 现在分词（waiting）结构表示“发现某物正在……”。 举一反三：The seed looks dead — until you water it and find a green shoot waiting."
+      },
+      {
+        "point": "whether...or not — 让步状语从句",
+        "example": "\"They will build your life whether you notice or not.\"",
+        "note": "whether...or not 引导让步从句，表示“无论是否”，语气坚定，常用于警句。 举一反三：Time compounds whether you invest it or not."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "motivation",
+        "pos": "n.",
+        "meaning": "动力；动机",
+        "enExample": "Motivation starts the journey; habit finishes it.",
+        "zhExample": "动力启程，习惯抵达。",
+        "note": "用法：与 motivation 搭配：lack / sustain motivation"
+      },
+      {
+        "term": "enthusiasm",
+        "pos": "n.",
+        "meaning": "热情；热心",
+        "enExample": "Her enthusiasm for astronomy infected the whole class.",
+        "zhExample": "她对天文学的热情感染了全班。",
+        "note": "用法：enthusiasm for something 对……的热情"
+      },
+      {
+        "term": "automaticity",
+        "pos": "n.",
+        "meaning": "自动化；不假思索的状态",
+        "enExample": "Fluency in a language is really automaticity of speech.",
+        "zhExample": "语言的流利，本质上是言语的自动化。",
+        "note": "用法：学术用语，指行为的自动化程度"
+      },
+      {
+        "term": "humbling",
+        "pos": "adj.",
+        "meaning": "令人谦卑的",
+        "enExample": "Seeing her portfolio was a humbling experience.",
+        "zhExample": "看到她的作品集，我深感自己渺小。",
+        "note": "用法：现在分词作形容词，humbling experience 常用搭配"
+      },
+      {
+        "term": "multiply",
+        "pos": "v.",
+        "meaning": "乘；成倍增加",
+        "enExample": "Small savings multiply quietly over decades.",
+        "zhExample": "微小的积蓄在数十年间悄悄成倍增长。",
+        "note": "用法：multiply A by B 用乘法；比喻成倍增长"
+      },
+      {
+        "term": "accumulation",
+        "pos": "n.",
+        "meaning": "积累；堆积",
+        "enExample": "Great libraries are slow accumulations of care.",
+        "zhExample": "伟大的图书馆是关怀的缓慢积累。",
+        "note": "用法：accumulate 的名词形式，常与 of 连用"
+      },
+      {
+        "term": "friction",
+        "pos": "n.",
+        "meaning": "摩擦；阻力",
+        "enExample": "Good systems lower the friction of starting.",
+        "zhExample": "好的系统会降低启动的阻力。",
+        "note": "用法：物理与比喻义皆常用，lower friction 减少阻力"
+      },
+      {
+        "term": "architect",
+        "pos": "n.",
+        "meaning": "建筑师；设计者",
+        "enExample": "Be the architect of your own mornings.",
+        "zhExample": "做自己清晨的建筑师。",
+        "note": "用法：比喻义：人生的规划者"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-12",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "meticulous",
+      "pos": "adj.",
+      "phonetic": "/məˈtɪk.jə.ləs/",
+      "meaning": "一丝不苟的；极注意细节的",
+      "enExample": "She kept meticulous notes during every meeting, so nothing was ever forgotten.",
+      "zhExample": "她每次会议都做极为详尽的笔记，因此从未遗漏任何事项。",
+      "note": "来自拉丁语 metus（恐惧），原指\"因怕出错而格外小心\"。比 careful 更进一步：careful 是认真，meticulous 是连标点都不放过。常见搭配 meticulous planning / meticulous attention to detail。"
+    },
+    {
+      "word": "ambivalent",
+      "pos": "adj.",
+      "phonetic": "/æmˈbɪv.əl.ənt/",
+      "meaning": "矛盾的；举棋不定的",
+      "enExample": "He felt ambivalent about the promotion — higher pay, but much less time with his family.",
+      "zhExample": "他对这次升职心情矛盾——薪水更高了，但陪伴家人的时间少得多。",
+      "note": "ambi-（两边）+ valent（力量），两种力量相当 = 矛盾。名词 ambivalence（矛盾心理）。近义 torn / conflicted，但 ambivalent 最正式。"
+    },
+    {
+      "word": "eloquent",
+      "pos": "adj.",
+      "phonetic": "/ˈel.ə.kwənt/",
+      "meaning": "雄辩的；有说服力的；传神的",
+      "enExample": "Her eloquent speech about the old library moved the council to save it.",
+      "zhExample": "她关于老图书馆的动人演讲促使议会决定将它保留下来。",
+      "note": "e-（出）+ loqu（说）+ ent，把话\"说出来\"且说得漂亮。同根词：eloquence（雄辩）。注意也可修饰物：an eloquent silence（意味深长的沉默）。"
+    },
+    {
+      "word": "hinder",
+      "pos": "v.",
+      "phonetic": "/ˈhɪn.dər/",
+      "meaning": "阻碍；妨碍",
+      "enExample": "Heavy rain hindered the rescue team's progress up the mountain.",
+      "zhExample": "大雨阻碍了救援队伍上山的进程。",
+      "note": "hinder someone from doing something 阻止某人做某事。比 prevent 语气轻：prevent 是\"阻止\"，hinder 是\"拖慢、添乱\"。名词 hindrance（障碍物）。"
+    },
+    {
+      "word": "attain",
+      "pos": "v.",
+      "phonetic": "/əˈteɪn/",
+      "meaning": "（经长期努力）获得；达到",
+      "enExample": "After ten years of research, she attained a position among the top scientists in her field.",
+      "zhExample": "经过十年研究，她跻身本领域顶尖科学家之列。",
+      "note": "attain 强调经过努力达到某个高水平目标：attain a goal / attain success / attain proficiency。与 obtain（拿到）不同——obtain 一支笔也能 obtain，attain 通常用于抽象成就。"
+    }
+  ],
+  "essay": {
+    "title": "The Bridges We Build",
+    "author": "佚名",
+    "paragraphs": [
+      "No one becomes who they are alone. Behind every confident adult stands a chain of ordinary people — a teacher who stayed late, a neighbor who believed a rumor of talent, a friend who kept calling. We call our achievements personal, but they are built on bridges laid down by others.",
+      "A bridge is a good image because it does two things at once: it connects two separated places, and it holds weight without complaint. Good relationships do the same. They connect our private world to someone else's, and they carry the heavy traffic of bad days, borrowed money, midnight phone calls, and forgiven mistakes.",
+      "What surprises people late in life is not the bridges they crossed but the ones they never built. The colleague they never had lunch with. The estranged brother whose number is still in the phone. Bridges take effort while the other shore is still far away; that is precisely why we delay, and precisely why we regret it.",
+      "So build while the water is calm. Send the message that says: I have been thinking of you. Accept the invitation you would usually refuse. Every bridge begins as a small, slightly awkward act of reaching out — and every one of them changes the map of a life."
+    ],
+    "translations": [
+      "没有人能独自成为今天的自己。每一个自信的成年人身后，都站着一串平凡的人——留下来加班的老师、相信“这孩子有天分”这种传言的邻居、一直打电话来的朋友。我们称成就为个人的，但它们其实建立在别人为我们铺设的桥上。",
+      "桥是一个好意象，因为它同时做两件事：连接彼此分离的两地，并毫无怨言地承重。好的关系也是如此。它们把我们的私密世界与他人的世界相连，并承载着坏日子、借出的钱、午夜的来电和被原谅的错误这些繁重交通。",
+      "人到暮年最意外的，往往不是走过的桥，而是从未搭建的桥。从未一起吃过午饭的同事、关系疏远而号码仍存在手机里的兄弟。对岸尚远时，搭桥费力；这正是我们拖延的原因，也恰恰是日后遗憾的原因。",
+      "所以趁水面平静时动工吧。发出那条“我一直想起你”的消息，接受你通常会拒绝的邀请。每一座桥都始于一次微小而略带笨拙的主动伸手——而每一座，都会改变人生的地图。"
+    ],
+    "grammar": [
+      {
+        "point": "Behind every...stands... — 完全倒装",
+        "example": "\"Behind every confident adult stands a chain of ordinary people.\"",
+        "note": "方位状语（behind...）置于句首时，句子完全倒装：谓语 stands 提到主语 a chain 之前。用于描绘画面、制造庄重感。 举一反三：Behind the quiet success lies years of unnoticed practice."
+      },
+      {
+        "point": "it does two things at once — 指代与并列",
+        "example": "\"A bridge is a good image because it does two things at once: it connects..., and it holds...\"",
+        "note": "it 指代前文 a bridge；冒号后用两个并列分句展开 two things，冒号起解释列举作用，书面语常见。 举一反三：Journaling does two things at once: it records the day, and it reveals the self."
+      },
+      {
+        "point": "that is precisely why — 强调句式",
+        "example": "\"That is precisely why we delay, and precisely why we regret it.\"",
+        "note": "precisely 修饰 why 从句表示“恰恰因此”，重复使用形成排比递进，是议论文增强语势的常用手法。 举一反三：The plan is difficult; that is precisely why it is worth trying."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "confidence",
+        "pos": "n.",
+        "meaning": "自信；信任",
+        "enExample": "She answered the interview questions with quiet confidence.",
+        "zhExample": "她带着从容的自信回答了面试问题。",
+        "note": "用法：in someone's confidence 受某人信任；也可指秘密"
+      },
+      {
+        "term": "chain",
+        "pos": "n.",
+        "meaning": "链；连锁；一连串",
+        "enExample": "A chain of small kindnesses changed his whole year.",
+        "zhExample": "一连串小小的善意改变了他的整年。",
+        "note": "用法：a chain of 一连串的，比喻连续影响"
+      },
+      {
+        "term": "achievement",
+        "pos": "n.",
+        "meaning": "成就；成绩",
+        "enExample": "Graduating at night school was her proudest achievement.",
+        "zhExample": "从夜校毕业是她最自豪的成就。",
+        "note": "用法：可数名词，与 accomplishment 近义"
+      },
+      {
+        "term": "carry",
+        "pos": "v.",
+        "meaning": "承载；搬运；支撑",
+        "enExample": "These old friendships carry the weight of decades.",
+        "zhExample": "这些老友情承载着几十年的分量。",
+        "note": "用法：carry weight 既有承重也有“有分量”的双关"
+      },
+      {
+        "term": "forgive",
+        "pos": "v.",
+        "meaning": "原谅；宽恕",
+        "enExample": "It is easier to forgive a mistake than a silence.",
+        "zhExample": "原谅一个错误，比原谅一次沉默容易。",
+        "note": "用法：forgave-forgiven，forgiving adj. 宽容的"
+      },
+      {
+        "term": "estranged",
+        "pos": "adj.",
+        "meaning": "疏远的；不和的",
+        "enExample": "He remained estranged from his brother for ten years.",
+        "zhExample": "他与兄弟疏远了整整十年。",
+        "note": "用法：estranged from someone 与某人疏远"
+      },
+      {
+        "term": "awkward",
+        "pos": "adj.",
+        "meaning": "尴尬的；笨拙的",
+        "enExample": "The first message felt awkward, so she sent it anyway.",
+        "zhExample": "第一条消息显得笨拙，她还是发出去了。",
+        "note": "用法：slightly awkward 略显笨拙，程度适中"
+      },
+      {
+        "term": "reach out",
+        "pos": "phr.",
+        "meaning": "主动联系；伸出援手",
+        "enExample": "Reach out before the distance grows too wide.",
+        "zhExample": "趁距离还不算太远，先伸出你的手。",
+        "note": "用法：reach out to someone 主动接触某人"
+      }
+    ]
+  }
+}
