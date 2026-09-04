@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-25",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "implement",
+      "pos": "v.",
+      "phonetic": "/ˈɪmplɪment/",
+      "meaning": "实施；执行；落实",
+      "enExample": "The manager plans to implement the new feedback system next month.",
+      "zhExample": "经理计划下个月推行新的反馈机制。",
+      "note": "💡 im- + ple=填满，「把计划填成现实」即落地执行。搭配 implement a policy/plan/system。光有想法不够，关键看能否实施到位。"
+    },
+    {
+      "word": "incentive",
+      "pos": "n.",
+      "phonetic": "/ɪnˈsentɪv/",
+      "meaning": "激励；刺激；奖励",
+      "enExample": "The company offers financial incentives for employees who exceed their targets.",
+      "zhExample": "公司为超额完成目标的员工提供金钱奖励。",
+      "note": "💡 in-=向内 + cant=歌唱，古义为吹奏号角促人行动，引申为激发动力之物。搭配 incentive scheme / financial incentive。指标要配激励才真正驱动人。"
+    },
+    {
+      "word": "recruit",
+      "pos": "v.",
+      "phonetic": "/rɪˈkruːt/",
+      "meaning": "招聘；招募",
+      "enExample": "The startup is recruiting engineers with experience in AI.",
+      "zhExample": "这家初创公司正在招募有 AI 经验的工程师。",
+      "note": "💡 re-=再 + cru=生长，让队伍重新生长壮大。搭配 recruit new talent / recruiting campaign。HR 忙招聘季会说 We are recruiting for...。"
+    },
+    {
+      "word": "launch",
+      "pos": "v.",
+      "phonetic": "/lɔːntʃ/",
+      "meaning": "推出；发布；发起",
+      "enExample": "We will launch the upgraded app at the end of this month.",
+      "zhExample": "我们将在本月底发布升级版应用。",
+      "note": "💡 原义是「使船下水」，引申为启动大事。搭配 launch a product/campaign/project。产品发布日 launch day 是项目组最紧张的一天。"
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "phonetic": "/ˈsiːmləs/",
+      "meaning": "无缝的；顺畅的",
+      "enExample": "The merger was handled so well that the transition felt seamless.",
+      "zhExample": "这次合并处理得很好，过渡过程毫无障碍感。",
+      "note": "💡 seam 是接缝，-less 表没有，无接缝即丝滑顺畅。搭配 a seamless experience / seamless integration。用户体验的终极目标是 seamless。"
+    }
+  ],
+  "essay": {
+    "title": "The Letters We Never Send",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a drawer somewhere in every house that holds letters never sent. Apologies written and folded, thanks composed but never stamped, questions that would have changed everything had they been asked. We keep them out of habit, telling ourselves that someday we will finish what we began. The sealed envelope hardens into a monument of hesitation, and most of us never dare to reopen it.",
+      "The unsent letter is a strange genre. It speaks truer than the letters we actually mail, because it was written for no audience but the writer. In its sentences we find the courage that daily life removes from us. Regret does its clearest thinking in the second person, addressing the one who will never read the words. It is a monologue without a listener and without fear.",
+      "Some letters remain unsent because the right moment never arrives. Time is supposed to heal such things, but healing is not the same as resolution. We imagine that forgiveness must wait for the perfect sentence, the fair weather, the courage that never comes. Meanwhile the drawer fills, and the distance between two people grows the way a river grows wider the further it travels from its source.",
+      "Perhaps the bravest act is not writing the letter but sending it. To mail a letter is to admit that we were wrong, or that we cared, or that a year has passed and we are still thinking of someone. It is to place our dignity in a mailbox and walk away, hoping it lands gently. The reply, if it comes, is secondary.",
+      "At the end of our lives, the letters we sent will be forgotten; the ones we never wrote will keep asking their questions. So write the difficult letter. Buy the stamp. Walk to the corner where the blue box waits like an honest judge. Whatever the answer, you will have done something rare: you will have chosen closure over comfort, and begun again."
+    ],
+    "translations": [
+      "每座房子的某个抽屉里，都收着一些从未寄出的信。写好后叠起的道歉，写好却未贴邮票的感谢，还有那些一旦问出口就可能改变一切、却始终没有问的问题。我们出于习惯留着它们，告诉自己总有一天会完成当初开始的事。封好的信封渐渐硬化成一座犹豫的纪念碑，而我们大多数人始终不敢再把它打开。",
+      "未寄出的信是一种奇怪的体裁。它比真正寄出的信说得更真，因为它从不写给别的读者，只写给写信人自己。在它的句子里，我们找得到日常生活从我们身上拿走的那种勇气。遗憾最清醒的思考总是用第二人称进行，对着那个永远不会读到这些话的人。这是一场没有听众的独白，因此也没有恐惧。",
+      "有些信一直没有寄出，是因为对的时候始终没有到来。时间理应治愈这些事，但治愈并不等于了结。我们想象原谅必须等一个完美的句子、一个晴朗的日子、一份迟迟不来的勇气。与此同时抽屉越塞越满，两个人之间的距离不断拉大，就像河越流离源头越远，河面就越宽。",
+      "也许最勇敢的事不是写信，而是把它寄出去。寄出一封信，等于承认我们错了，或承认我们在乎，或承认一年已经过去而我们仍想着某个人。那是把自己的尊严放进邮筒然后走开，希望它轻轻落到对岸。回信若来，也只是次要的。",
+      "到生命尽头，我们寄出的信都会被遗忘；而那些从未写出的信，会一直追问。所以去写那封难写的信吧。买一张邮票。走到街角，那里蓝色的邮筒像一位诚实的法官等着你。无论答案如何，你都做成了一件稀罕的事：你选择了了结，而不是安逸，然后重新开始。"
+    ],
+    "grammar": [
+      {
+        "point": "过去分词作后置定语与虚拟倒装",
+        "example": "\"Apologies written and folded, thanks composed but never stamped, questions that would have changed everything had they been asked.\"",
+        "note": "written and folded、composed but never stamped 都是过去分词短语作后置定语，分别修饰 apologies 与 thanks，表示被动的状态；questions 后由 that 引导定语从句，其中 would have changed 表示与过去事实相反的虚拟，had they been asked 是省略 if 的倒装，等于 if they had been asked。 举一反三：当 if 从句含 had 时，可把 had 提前省去 if，形成 had they done 这样的倒装虚拟。"
+      },
+      {
+        "point": "be supposed to 与动名词作主语",
+        "example": "\"Time is supposed to heal such things, but healing is not the same as resolution.\"",
+        "note": "be supposed to do 表示理应、按道理应该；healing 是动名词短语作主语，谓语用 is；not the same as 表示与……不是一回事。 举一反三：动名词作主语时谓语用单数，翻译常处理为做某事或某种行为。"
+      },
+      {
+        "point": "将来完成时 will have done",
+        "example": "\"Whatever the answer, you will have done something rare: you will have chosen closure over comfort, and begun again.\"",
+        "note": "Whatever the answer 是让步状语从句的省略形式，等于 no matter what the answer is；主句用将来完成时 will have done，表示在将来的某个时刻回头看时已经完成；第二个分句承接 will have，begun 是 begin 的过去分词，构成 will have begun。 举一反三：将来完成时常用来表达到将来某一时间点为止已经完成的事，常与 by then、by the time 搭配。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "resolution",
+        "pos": "n.",
+        "meaning": "解决，了结；决心",
+        "enExample": "The apology brought a quiet resolution to years of silence.",
+        "zhExample": "那声道歉为多年的沉默带来了一份平静的了结。",
+        "note": "用法：指问题的解决或内心的决定；make a resolution to do sth 下定决心做某事。"
+      },
+      {
+        "term": "closure",
+        "pos": "n.",
+        "meaning": "了结，终结",
+        "enExample": "A single answered question gave her the closure she needed.",
+        "zhExample": "一个得到回答的问题，给了她所需要的释怀。",
+        "note": "用法：指情感上对往事的放下与收束；seek closure 寻求释怀。"
+      },
+      {
+        "term": "secondary",
+        "pos": "adj.",
+        "meaning": "次要的，第二位的",
+        "enExample": "His pride was secondary to the wish to make peace.",
+        "zhExample": "比起和解的愿望，他的骄傲是次要的。",
+        "note": "用法：be secondary to sth 次于某事；secondary school 中学。"
+      },
+      {
+        "term": "hesitation",
+        "pos": "n.",
+        "meaning": "犹豫，迟疑",
+        "enExample": "Without hesitation she sealed the envelope and walked out.",
+        "zhExample": "她毫不犹豫地封好信封，走了出去。",
+        "note": "用法：without hesitation 毫不犹豫；have no hesitation in doing sth 毫不迟疑地做某事。"
+      },
+      {
+        "term": "apology",
+        "pos": "n.",
+        "meaning": "道歉，歉意",
+        "enExample": "The apology he owed her had waited twenty years.",
+        "zhExample": "他欠她的那声道歉，已经等了二十年。",
+        "note": "用法：make an apology to sb for sth 因某事向某人道歉。"
+      },
+      {
+        "term": "dignity",
+        "pos": "n.",
+        "meaning": "尊严，庄重",
+        "enExample": "She walked away from the quarrel with her dignity intact.",
+        "zhExample": "她带着完好的尊严，离开了那场争吵。",
+        "note": "用法：with dignity 体面地；beneath one's dignity 有失身份。"
+      },
+      {
+        "term": "forgiveness",
+        "pos": "n.",
+        "meaning": "原谅，宽恕",
+        "enExample": "Forgiveness began, she learned, with a letter she never expected to receive.",
+        "zhExample": "她后来明白，原谅始于一封她从未料到会收到的信。",
+        "note": "用法：ask for forgiveness 请求原谅；the forgiveness of 对……的宽恕。"
+      },
+      {
+        "term": "monologue",
+        "pos": "n.",
+        "meaning": "独白，自言自语",
+        "enExample": "The unsent letter is a monologue that asks for no reply.",
+        "zhExample": "未寄出的信，是一场不求回应的独白。",
+        "note": "用法：指一人长篇讲话，也指内心自述；a monologue about 关于……的独白。"
+      }
+    ]
+  }
+}

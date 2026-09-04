@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-31",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "remedy",
+      "pos": "n.",
+      "phonetic": "/ˈremədi/",
+      "meaning": "补救办法；治疗方法",
+      "enExample": "The best remedy for low engagement is more meaningful feedback.",
+      "zhExample": "解决参与度低的最好办法，是给出更有意义的反馈。",
+      "note": "💡 re-=再次 + med=治愈（同源 medical），重新治好。两义：药物、补救措施。搭配 a remedy for sth。出了问题别只追责，要提 remedy。"
+    },
+    {
+      "word": "perceive",
+      "pos": "v.",
+      "phonetic": "/pərˈsiːv/",
+      "meaning": "认为；察觉；感知",
+      "enExample": "How do customers perceive our brand compared with our competitors?",
+      "zhExample": "与竞品相比，顾客如何看待我们的品牌？",
+      "note": "💡 per-=穿透 + ceive=拿取，透过现象抓住本质。搭配 perceive sth as sth / be widely perceived as。用户调研的核心就是看品牌被如何感知。"
+    },
+    {
+      "word": "authentic",
+      "pos": "adj.",
+      "phonetic": "/ɔːˈθentɪk/",
+      "meaning": "真实的；真诚的；正宗的",
+      "enExample": "Customers trust brands that tell authentic stories.",
+      "zhExample": "消费者信任讲真实故事的品牌。",
+      "note": "💡 与 author（作者）、authority（权威）同源，出自原作者之手即真品。搭配 authentic food / one's authentic self。面试做真实的自己更打动人。"
+    },
+    {
+      "word": "morale",
+      "pos": "n.",
+      "phonetic": "/məˈrɑːl/",
+      "meaning": "士气；精神状态",
+      "enExample": "The team's morale was low after the project was cancelled.",
+      "zhExample": "项目被取消后，团队士气十分低落。",
+      "note": "💡 词根 mor=风俗精神，与 moral（道德）同源。搭配 boost/raise morale / morale is high。定期庆祝小胜利是保士气最省钱的办法。"
+    },
+    {
+      "word": "touch base",
+      "pos": "phr.",
+      "phonetic": "/tʌtʃ beɪs/",
+      "meaning": "联系；碰头沟通",
+      "enExample": "Let's touch base next Monday to review the progress.",
+      "zhExample": "我们下周一碰个头，回顾一下进展。",
+      "note": "💡 棒球术语：击球员触垒确认安全，引申为短暂联络、对个进度。搭配 touch base with sb on sth。跟进项目用它简洁又专业。"
+    }
+  ],
+  "essay": {
+    "title": "The September Threshold",
+    "author": "佚名",
+    "paragraphs": [
+      "September is a door that does not slam; it simply stands open, and we walk through without quite noticing the threshold. The light changes first, growing courteous and slanted. Then the mornings arrive with a small chill folded inside them, like a note slipped under the door of summer, announcing that the season of bare arms is over and the season of sweaters has begun.",
+      "Every September, the year turns a corner and asks us to turn with it. School bells remember their old authority; calendars grow suddenly serious; the evenings pull in like a tide. Even those of us who left the classroom long ago feel the old summons, the particular ache of fresh notebooks and unnamed possibilities waiting to be sharpened.",
+      "A threshold is where two rooms meet, and we are rarely the same person on both sides of it. September is the threshold of intentions: the year's vague promises must either be honored or let go. Something in the slanting light insists on accounting, the way a good teacher insists that the answer, however late, be written out in full.",
+      "There is sadness in this season, and it is a useful sadness. It reminds us that nothing stays, that the particular summer will never be repeated, that the children who went back to school will not be the children they were in June. But the same current that carries things away also brings the next thing; the art is to stand still in the moving water and feel both at once.",
+      "So cross the threshold deliberately. Buy the new notebook even if no one requires it; clear a shelf for the books you have been meaning to read. Let September do what it has always done: harvest what was ripe, store what was good, and make room, with a firm and gentle hand, for what is trying to begin."
+    ],
+    "translations": [
+      "九月是一扇不会砰然关上的门，它只是敞开着，我们走进去，却几乎没留意那道门槛。先是光线变了，变得有礼而倾斜。接着清晨带着一小团叠在里面的凉意到来，像一张塞进夏天门缝的便条，宣告露出手臂的季节结束、穿毛衣的季节开始。",
+      "每年九月，一年都会转过一个弯，并邀请我们与它一同转弯。上课铃想起它昔日的权威；日历忽然变得严肃；黄昏像潮水一样越退越早。连那些早已离开教室多年的人，也会感到那古老的召唤：新笔记本与尚未命名的可能性正等着被削尖，那是一种特别的微痛。",
+      "门槛是两间屋子相接之处，而我们跨过它前后，很少还是同一个人。九月是意愿的门槛：这一年含混的许诺，要么兑现，要么放手。倾斜的光线里有某种东西坚持要算账，就像一位好老师坚持要求：答案无论多晚，都要完整地写出来。",
+      "这个季节有悲伤，而那是一种有用的悲伤。它提醒我们：什么都不会停留，那个独一无二的夏天再不会重演，回到学校的孩子们，也不再是六月里的那些孩子了。但把东西带走的那股水流，也把下一件东西带来；生活的艺术，是在流动的水里站定，同时感受这二者。",
+      "所以，故意地、郑重地跨过那道门槛吧。即使没有人要求，也去买一本新笔记本；清出一层书架，放那些你一直想读的书。让九月去做它一直在做的事：收割已成熟的，储藏还好的，然后用坚定而温柔的手，为正要开始的事物腾出地方。"
+    ],
+    "grammar": [
+      {
+        "point": "without + 动名词与分号连接",
+        "example": "\"September is a door that does not slam; it simply stands open, and we walk through without quite noticing the threshold.\"",
+        "note": "that does not slam 是定语从句修饰 door；分号连接两个并列分句，第二个分句中 without quite noticing the threshold 是介词 without 加动名词短语作伴随状语，表示走过门槛却没有察觉；stands open 中 open 是形容词作表语。 举一反三：without + 动名词可表伴随或条件，如 He left without saying goodbye。"
+      },
+      {
+        "point": "三个 that 引导的并列宾语从句",
+        "example": "\"It reminds us that nothing stays, that the particular summer will never be repeated, that the children who went back to school will not be the children they were in June.\"",
+        "note": "动词 reminds 后接间接宾语 us 与三个并列的 that 宾语从句；从句内部 the children who went back to school 含 who 定语从句，句末 the children they were 省略了关系词，they were 修饰 children；三个 that 层层递进地说明季节带来的提醒。 举一反三：并列宾语从句中第一个 that 可省略，但第二个及之后的 that 习惯上保留。"
+      },
+      {
+        "point": "并列分句与不定式作表语",
+        "example": "\"But the same current that carries things away also brings the next thing; the art is to stand still in the moving water and feel both at once.\"",
+        "note": "that carries things away 是定语从句修饰 current；分号后 the art is to stand still 是不定式作表语，and feel both at once 与 to stand still 并列；both 指带走旧物与带来新物这两件事。 举一反三：在较长的分号句中，先找主谓宾主干，再看定语从句与并列成分。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "threshold",
+        "pos": "n.",
+        "meaning": "门槛；临界点",
+        "enExample": "She stood on the threshold of September and felt the year shift.",
+        "zhExample": "她站在九月的门槛上，感到这一年正在调转方向。",
+        "note": "用法：指门口的门槛，也比喻事件的起点；on the threshold of 即将进入。"
+      },
+      {
+        "term": "intention",
+        "pos": "n.",
+        "meaning": "意图，打算",
+        "enExample": "The year's vague intentions had to be either honored or released.",
+        "zhExample": "这一年含混的打算，要么兑现，要么放下。",
+        "note": "用法：have no intention of doing sth 无意做某事；with good intentions 出于好意。"
+      },
+      {
+        "term": "honor",
+        "pos": "v./n.",
+        "meaning": "尊重；履行（承诺）",
+        "enExample": "He honored the small promises he made to himself each autumn.",
+        "zhExample": "他每年秋天对自己许下的小小诺言，都一一履行了。",
+        "note": "用法：honor a promise/agreement 履行诺言或协议；也指给……荣誉。"
+      },
+      {
+        "term": "current",
+        "pos": "n.",
+        "meaning": "水流，气流；趋势",
+        "enExample": "The current of the season carries away what is finished.",
+        "zhExample": "季节的水流，会把已经结束的东西带走。",
+        "note": "用法：指流动的水或空气，也比喻事态动向；against the current 逆流而行。"
+      },
+      {
+        "term": "summons",
+        "pos": "n.",
+        "meaning": "召唤；传唤",
+        "enExample": "The old summons of the school bell reached even the grown-ups.",
+        "zhExample": "上课铃那古老的召唤，连大人也无法免疫。",
+        "note": "用法：the summons to 对……的召唤；也指正式的传唤令。"
+      },
+      {
+        "term": "ache",
+        "pos": "n./v.",
+        "meaning": "疼痛；渴望",
+        "enExample": "There was a sweet ache in returning to the town of her childhood.",
+        "zhExample": "回到童年小镇，她心里泛起一种甜丝丝的隐痛。",
+        "note": "用法：指持续而隐约的痛，也比喻心中渴念；ache for 渴望。"
+      },
+      {
+        "term": "harvest",
+        "pos": "n./v.",
+        "meaning": "收获；收割",
+        "enExample": "September harvests what the careless summer left to ripen.",
+        "zhExample": "九月收割的是那个随意的夏天留下来成熟的果实。",
+        "note": "用法：指季节性的收成，也比喻成果；harvest time 收获时节。"
+      },
+      {
+        "term": "ripe",
+        "pos": "adj.",
+        "meaning": "成熟的；时机成熟的",
+        "enExample": "The moment was ripe for a quiet change of direction.",
+        "zhExample": "悄然改变方向的时机已经成熟。",
+        "note": "用法：指果实成熟，也指条件具备；be ripe for 时机成熟、宜于。"
+      }
+    ]
+  }
+}

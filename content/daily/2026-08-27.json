@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-27",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "consolidate",
+      "pos": "v.",
+      "phonetic": "/kənˈsɒlɪdeɪt/",
+      "meaning": "巩固；合并",
+      "enExample": "The two teams will be consolidated into one department next quarter.",
+      "zhExample": "下个季度，这两个团队将合并为一个部门。",
+      "note": "💡 con-=共同 + solid=坚固，使整体更坚固。两义：巩固成果、合并机构。搭配 consolidate teams/position。组织调整常用这个词。"
+    },
+    {
+      "word": "transparent",
+      "pos": "adj.",
+      "phonetic": "/trænsˈpærənt/",
+      "meaning": "透明的；公开的",
+      "enExample": "The hiring process should be transparent to all candidates.",
+      "zhExample": "招聘流程应该对所有候选人公开透明。",
+      "note": "💡 trans-=穿过 + par=显现，光能穿过看见里面。搭配 transparent communication / a transparent process。管理透明，团队才有信任感。"
+    },
+    {
+      "word": "streamline",
+      "pos": "v.",
+      "phonetic": "/ˈstriːmlaɪn/",
+      "meaning": "精简；使流程更高效",
+      "enExample": "We streamlined the approval process from five steps down to two.",
+      "zhExample": "我们把审批流程从五步精简到了两步。",
+      "note": "💡 stream（溪流）+ line，让流程像顺流一样畅通。搭配 streamline operations/process。提效减负是每家公司永恒的课题。"
+    },
+    {
+      "word": "escalate",
+      "pos": "v.",
+      "phonetic": "/ˈeskəleɪt/",
+      "meaning": "升级；加剧；逐级上报",
+      "enExample": "If the client is still unhappy, escalate the issue to your manager.",
+      "zhExample": "如果客户仍不满意，就把问题上报给你的经理。",
+      "note": "💡 源自 escalator（自动扶梯），像乘扶梯越升越高。两向：矛盾加剧或逐级上报。搭配 escalate a problem to sb。上报是协同，不是甩锅。"
+    },
+    {
+      "word": "consensus",
+      "pos": "n.",
+      "phonetic": "/kənˈsensəs/",
+      "meaning": "共识；一致意见",
+      "enExample": "After a long debate, the board finally reached a consensus.",
+      "zhExample": "经过长时间辩论，董事会终于达成了共识。",
+      "note": "💡 con- + sens=感觉，「大家感觉一致」。搭配 reach/build a consensus / a growing consensus。一场好会议的标准产物就是 consensus。"
+    }
+  ],
+  "essay": {
+    "title": "The Calendar Has No Seasons",
+    "author": "佚名",
+    "paragraphs": [
+      "Open any calendar and you will find months but no weather. The page shows numbers, neatly spaced, as if January and July were the same temperature and every Tuesday weighed the same. Yet the year we actually live is not counted in squares; it is measured in light, in rain, in the first day you notice the evenings growing short.",
+      "The seasons have their own timetable, indifferent to the numbers we print above them. Spring arrives not on a date but as a smell in the soil; autumn announces itself from a particular angle of the afternoon sun. The same week can feel like two different years, depending on which window you look through, and the calendar cannot settle the argument.",
+      "We invented the calendar to catch time, the way a net catches a river; we keep only what the mesh allows. Birthdays, deadlines, anniversaries: these are the fish we can see. But the rest of time flows through, and it is in that overflow that we actually live, in the unmarked afternoons that later become the memory we treasure most.",
+      "People who live close to the land do not need the page; they read the sky like scripture. The first frost, the migration of birds, the angle of shadows at noon: these are their dates, and they are never wrong twice. Somewhere between the printed month and the felt one lies the real year, which each of us must calibrate for ourselves, alone and again.",
+      "Perhaps the calendar is not a lie but a translation, and every translation leaves something behind. It is useful for arranging meetings and hopeless for arranging a life. So learn both alphabets: the one printed on the wall, and the one written in the behavior of light. The second is harder to read, but it is the only one that has ever been accurate."
+    ],
+    "translations": [
+      "翻开任何一本日历，你都会找到月份，却找不到天气。纸页上整整齐齐排着数字，仿佛一月和七月温度相同，每个星期二都同样沉重。然而我们真正度过的那一年，并不是用格子数出来的；它用光来衡量，用雨来衡量，用你第一次察觉黄昏在变短的那一天来衡量。",
+      "四季有自己的时刻表，对我们印在上面的数字漠不关心。春天不是某个日期，而是泥土里的一缕气味；秋天从午后阳光的某个角度宣告自己的到来。同一个星期，可以过得像两个不同的年份，全看你透过哪扇窗看出去，日历无法裁决这场争论。",
+      "我们发明日历是为了网住时间，就像用网去捞一条河；我们能留下的，只是网眼允许的东西。生日、截止日、纪念日：这些是我们看得见的鱼。但时间其余的河水都流走了，而我们真正活着的，恰恰就在那些溢出的部分里，在日后变成最珍贵记忆的那些无人标注的午后。",
+      "靠土地生活的人不需要那页纸，他们像读经文一样读天空。初霜、候鸟的迁徙、正午影子的角度：这些才是他们的日期，而且从不会错第二次。在印出来的月份和切身感受到的月份之间，藏着真正的一年，它需要我们每个人独自一遍又一遍地去校准。",
+      "也许日历并不是谎言，而是一种翻译，而每一种翻译都会漏掉一些东西。它适合用来安排会议，却完全不适合用来安排一生。所以要学会两套字母表：印在墙上的一套，和写进光的脾性里的一套。后一套难读得多，但它从来都是唯一准确的那一套。"
+    ],
+    "grammar": [
+      {
+        "point": "祈使句 + and 表条件与结果",
+        "example": "\"Open any calendar and you will find months but no weather.\"",
+        "note": "Open any calendar 是祈使句，and 连接后续陈述句表示自然的结果，整句相当于 If you open any calendar, you will find months but no weather；but 在此表示对比，译为却没有。 举一反三：祈使句 + and 相当于肯定的条件句；若想表达否定的条件，可把 and 换成 or。"
+      },
+      {
+        "point": "形容词与介词 for + 动名词的平行结构",
+        "example": "\"It is useful for arranging meetings and hopeless for arranging a life.\"",
+        "note": "useful for doing 与 hopeless for doing 是两组平行结构，同以 for + 动名词作状语，说明日历在不同用途上的表现；两个分句形成鲜明对照。 举一反三：平行结构要求词性、形式对称，写作中先写好第一组，再用相同结构接第二组。"
+      },
+      {
+        "point": "介词短语置于句首的完全倒装",
+        "example": "\"Somewhere between the printed month and the felt one lies the real year, which each of us must calibrate for ourselves, alone and again.\"",
+        "note": "正常语序为 The real year lies somewhere between the printed month and the felt one；将地点状语 Somewhere between... 提前后句子用完全倒装，谓语 lies 在前、主语 the real year 在后；which 引导非限制性定语从句修饰 the real year。 举一反三：当表示方位的介词短语置于句首、主语又是名词时，常引起完全倒装以平衡句式。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "calibrate",
+        "pos": "v.",
+        "meaning": "校准，标定",
+        "enExample": "Each generation must calibrate its own sense of a well-spent year.",
+        "zhExample": "每一代人，都必须校准自己对于怎样才算过好一年的判断。",
+        "note": "用法：指把仪器或判断调整到准确状态；calibrate against 对照……校准。"
+      },
+      {
+        "term": "accurate",
+        "pos": "adj.",
+        "meaning": "准确的，精确的",
+        "enExample": "The sundial was the most accurate clock the village owned.",
+        "zhExample": "那座日晷是全村最准的钟。",
+        "note": "用法：be accurate in 在……方面准确；an accurate description 准确的描述。"
+      },
+      {
+        "term": "overflow",
+        "pos": "n./v.",
+        "meaning": "溢出，容纳不下的部分",
+        "enExample": "She kept the overflow of her thoughts in a notebook by the bed.",
+        "zhExample": "她把盛不下的心事，收进床边的一本笔记里。",
+        "note": "用法：指容器盛不下的东西，也比喻情感满溢；overflow with joy 洋溢着喜悦。"
+      },
+      {
+        "term": "migration",
+        "pos": "n.",
+        "meaning": "迁徙，移居",
+        "enExample": "The migration of the geese marked autumn better than any date.",
+        "zhExample": "大雁的迁徙，比任何日期都更准确地标出秋天的到来。",
+        "note": "用法：指鸟类、鱼类或人群的季节性移动；the migration of birds 鸟类迁徙。"
+      },
+      {
+        "term": "translation",
+        "pos": "n.",
+        "meaning": "翻译；译文",
+        "enExample": "Every translation of a life into numbers leaves the best part untranslated.",
+        "zhExample": "把一生翻译成数字的任何尝试，都会漏掉最精彩的部分。",
+        "note": "用法：the translation of A into B 把 A 译成 B；也比喻信息的转换。"
+      },
+      {
+        "term": "indifferent",
+        "pos": "adj.",
+        "meaning": "漠不关心的，冷淡的",
+        "enExample": "The seasons are indifferent to whether we are ready for them.",
+        "zhExample": "四季并不在乎我们是否准备好了。",
+        "note": "用法：be indifferent to 对……毫不在意；an indifferent glance 漫不经心的一瞥。"
+      },
+      {
+        "term": "unmarked",
+        "pos": "adj.",
+        "meaning": "无记号的，未被留意的",
+        "enExample": "The best afternoons are usually the unmarked ones.",
+        "zhExample": "最好的午后，通常都是那些没有被标记的午后。",
+        "note": "用法：指没有标记或不受关注的；an unmarked grave 无名墓。"
+      },
+      {
+        "term": "settle",
+        "pos": "v.",
+        "meaning": "解决；安顿；平息",
+        "enExample": "No clock, however precise, can settle the argument between the two years.",
+        "zhExample": "再精确的钟，也无法平息这两个年份之间的争论。",
+        "note": "用法：settle an argument 平息争论；settle down 安定下来；settle for 将就。"
+      }
+    ]
+  }
+}

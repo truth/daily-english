@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-21",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "compromise",
+      "pos": "n.",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "meaning": "妥协；折中方案",
+      "enExample": "After two hours of discussion, they finally reached a compromise on the budget.",
+      "zhExample": "经过两小时讨论，他们终于在预算上达成了折中方案。",
+      "note": "💡 com-=共同 + promise=承诺，双方各让一步共同承诺。搭配 reach a compromise / compromise on sth。团队分歧大时找最大公约数最省时。"
+    },
+    {
+      "word": "cultivate",
+      "pos": "v.",
+      "phonetic": "/ˈkʌltɪveɪt/",
+      "meaning": "培养；培育；经营（关系）",
+      "enExample": "She makes time every week to cultivate relationships with her key clients.",
+      "zhExample": "她每周都抽出时间经营与重要客户的关系。",
+      "note": "💡 本义是「耕种」，引申为长期用心培育。搭配 cultivate a habit / cultivate relationships。好习惯、好人脉都像种田，需日积月累。"
+    },
+    {
+      "word": "draft",
+      "pos": "n.",
+      "phonetic": "/drɑːft/",
+      "meaning": "草稿；草案",
+      "enExample": "I'll send you the first draft of the report by Friday for your feedback.",
+      "zhExample": "我会在周五前把报告初稿发给你征求意见。",
+      "note": "💡 写作别指望一步到位，先出 draft 再打磨。搭配 a rough draft / draft a proposal。职场写方案都是先 draft、再迭代。"
+    },
+    {
+      "word": "elaborate",
+      "pos": "adj.",
+      "phonetic": "/ɪˈlæbərət/",
+      "meaning": "详尽复杂的；精心制作的",
+      "enExample": "The manager asked for a more elaborate plan with clear timelines.",
+      "zhExample": "经理要求一份更详尽、带清晰时间线的计划。",
+      "note": "💡 e-=out + labor=劳动，花大功夫做出来的自然精细。作动词读 /ɪˈlæbəreɪt/，意为详细说明，搭配 elaborate on sth。"
+    },
+    {
+      "word": "disclose",
+      "pos": "v.",
+      "phonetic": "/dɪsˈkləʊz/",
+      "meaning": "透露；披露；公开",
+      "enExample": "The company refused to disclose the details of the merger agreement.",
+      "zhExample": "该公司拒绝披露合并协议的细节。",
+      "note": "💡 dis-=相反 + close=关闭，「把关着的打开」即公开。搭配 disclose information / refuse to disclose。签了 NDA 后敏感信息绝不能披露。"
+    }
+  ],
+  "essay": {
+    "title": "The Stories Rooms Tell",
+    "author": "佚名",
+    "paragraphs": [
+      "Every room keeps a story it does not volunteer. The scratch on the floor speaks of a chair pushed once too hard; the sun-faded patch on the wall remembers a picture that hung there for years. We live inside these quiet records without reading them, the way we forget the grammar of our own mother tongue until someone points it out.",
+      "Homes are archives written in a language of marks and misplacements. A bookshelf tilted by too many books, a door that sticks in summer, a step that creaks only at three in the morning: each is a sentence the house has composed about the lives it shelters. We rarely read these sentences aloud, yet we trust them completely.",
+      "Kitchens are the most honest rooms. Scratches on the counter form a map of every hurried breakfast; the smell of coffee hides in the curtains long after the pot is empty. Here the story is told in stains and leftovers, and it always includes the ending, which is the family gathering again at the table, hungry and talking.",
+      "Children's bedrooms change their story overnight. One year the wall is a harbor for toy boats; the next, it is covered with maps of distant cities. Parents notice the transition in small ways: the door closed a little longer, music that arrives through the wall. A room does not tell us when its occupant has grown; it simply revises its sentences.",
+      "Perhaps we should learn to read our rooms the way we read poems, slowly and without hurry. The loose hinge is an apology; the worn armchair is an inheritance. And when visitors say your house feels welcoming, what they have done, without knowing it, is read a story you spent years writing in a language that has no words."
+    ],
+    "translations": [
+      "每个房间都藏着一个它不会主动讲出的故事。地板上的划痕述说一张曾被用力推过的椅子；墙上日晒褪色的印记记得一幅挂了多年的画。我们生活在这些安静的记录之中却从不阅读它们，就像忘记自己母语的语法，直到有人指出来。",
+      "家是用痕迹与错置写成的档案。被太多书压歪的书架、夏天总是卡住的门、只在凌晨三点作响的台阶：每一处都是房子为它所庇护的生活写下的句子。我们很少把这些句子读出声，却对它们深信不疑。",
+      "厨房是最诚实的房间。台面上的划痕拼出一张张仓促早餐的地图；壶早已空了，咖啡的气味却还藏在窗帘里。在这里，故事由污渍和剩菜写成，而且总带着结局：一家人再次聚到桌边，饿着肚子，聊着天。",
+      "孩子的卧室一夜之间就会改写自己的故事。头一年墙上还是玩具船的港湾，下一年就贴满了远方城市的地图。父母从小处察觉这种转变：门多关了一会儿，音乐隔着墙传了过来。房间不会告诉我们它的主人何时长大，它只是悄悄修改自己的句子。",
+      "也许我们该像读诗那样读自己的房间：缓慢，不急。松动的合页是一句道歉；磨旧的扶手椅是一笔遗产。而当客人说你家让人感到亲切，他们其实在不知不觉间读到了一个故事，一个你用多年时间、用一种没有词汇的语言写成的故事。"
+    ],
+    "grammar": [
+      {
+        "point": "分号连接两个独立分句",
+        "example": "\"Every room keeps a story it does not volunteer.\"",
+        "note": "it does not volunteer 是省略了关系词 that 的定语从句，修饰 story；主干是 Every room keeps a story。句子说明每个房间都藏着一段它不肯主动交出的往事，从句用否定式突出保留之意。 举一反三：名词后直接跟一个主谓结构时，往往隐藏着被省略的关系词 that 或 which。"
+      },
+      {
+        "point": "名词短语的并列与冒号补充",
+        "example": "\"A bookshelf tilted by too many books, a door that sticks in summer, a step that creaks only at three in the morning: each is a sentence the house has composed about the lives it shelters.\"",
+        "note": "冒号前用三个并列的名词短语列举细节，冒号后用 each 总括并给出结论；tilted by... 是过去分词短语作后置定语，sticks 与 creaks 都是第三人称单数一般现在时，表示反复发生的状态。 举一反三：写作中常用冒号连接列举与总结：先铺陈细节，再用一句话收束点题。"
+      },
+      {
+        "point": "非限制性定语从句 which",
+        "example": "\"Here the story is told in stains and leftovers, and it always includes the ending, which is the family gathering again at the table, hungry and talking.\"",
+        "note": "which 引导非限制性定语从句，修饰先行词 the ending，对结局作补充说明；which 前用逗号隔开，不能换用 that。hungry and talking 是形容词与现在分词并列作伴随状语，描绘一家人团聚用餐的画面。 举一反三：非限制性定语从句与主句之间必须有逗号，去掉后主句仍然完整。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "volunteer",
+        "pos": "v./n.",
+        "meaning": "自愿做；志愿者",
+        "enExample": "He volunteered to drive the old man to the station.",
+        "zhExample": "他主动提出开车送那位老人去车站。",
+        "note": "用法：volunteer to do sth 自愿做某事；作名词指志愿者。"
+      },
+      {
+        "term": "record",
+        "pos": "n.",
+        "meaning": "记录，痕迹",
+        "enExample": "The scratches on the floor are a record of every moved chair.",
+        "zhExample": "地板上的划痕是每一次挪动椅子的记录。",
+        "note": "用法：a record of sth 某事的记录；keep a record 保存记录。"
+      },
+      {
+        "term": "archive",
+        "pos": "n./v.",
+        "meaning": "档案，档案库；归档",
+        "enExample": "The old house was an archive of family holidays and silent arguments.",
+        "zhExample": "这座老屋是一部家庭度假与沉默争吵的档案。",
+        "note": "用法：作名词指成批的历史资料，作动词指存档保存。"
+      },
+      {
+        "term": "tilt",
+        "pos": "v./n.",
+        "meaning": "倾斜，使倾斜",
+        "enExample": "The shelf tilts slightly under the weight of too many novels.",
+        "zhExample": "书架在过重的书压下微微倾斜。",
+        "note": "用法：tilt toward 倾向；作名词意为倾斜、倾向。"
+      },
+      {
+        "term": "creak",
+        "pos": "v./n.",
+        "meaning": "吱吱作响；嘎吱声",
+        "enExample": "The wooden step creaks whenever someone walks past at night.",
+        "zhExample": "夜里有人走过时，那级木台阶总会吱嘎作响。",
+        "note": "用法：指门、楼梯等发出刺耳的摩擦声；比喻老旧。"
+      },
+      {
+        "term": "transition",
+        "pos": "n.",
+        "meaning": "过渡，转变",
+        "enExample": "The transition from childhood to adolescence is rarely smooth.",
+        "zhExample": "从童年到青春期的过渡很少是一帆风顺的。",
+        "note": "用法：the transition from A to B 从 A 到 B 的转变；transition period 过渡期。"
+      },
+      {
+        "term": "occupant",
+        "pos": "n.",
+        "meaning": "居住者，占有人",
+        "enExample": "The room told its occupant's age better than any ID card.",
+        "zhExample": "这房间比任何身份证都更能说明主人的年纪。",
+        "note": "用法：指房屋、座位等的使用者；the occupant of 某处的住户。"
+      },
+      {
+        "term": "welcoming",
+        "pos": "adj.",
+        "meaning": "热情的，给人宾至如归之感的",
+        "enExample": "The small hall with its worn armchairs felt strangely welcoming.",
+        "zhExample": "这个摆着旧扶手椅的小厅堂出奇地让人感到亲切。",
+        "note": "用法：a welcoming smile 热情的微笑；a welcoming atmosphere 亲切的氛围。"
+      }
+    ]
+  }
+}

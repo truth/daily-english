@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-03",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "diagnose",
+      "pos": "v.",
+      "phonetic": "/ˈdaɪəɡnəʊz/",
+      "meaning": "诊断；判断（问题成因）",
+      "enExample": "The technician diagnosed the problem as a faulty server configuration.",
+      "zhExample": "技术员诊断出问题出在服务器配置错误上。",
+      "note": "💡 dia-=通过 + gnos=知道（与 knowledge 同源），透过表象弄清病因。搭配 diagnose a problem/fault。修故障先 diagnose 再动手。"
+    },
+    {
+      "word": "intervene",
+      "pos": "v.",
+      "phonetic": "/ˌɪntərˈviːn/",
+      "meaning": "干预；插手；调停",
+      "enExample": "The manager had to intervene when the two teams couldn't agree.",
+      "zhExample": "两个团队争执不下时，经理不得不介入调停。",
+      "note": "💡 inter-=在之间 + ven=来，「来到中间」把两边拉开。搭配 intervene in a dispute/conflict。冲突升级前及时介入成本最低。"
+    },
+    {
+      "word": "confidential",
+      "pos": "adj.",
+      "phonetic": "/ˌkɒnfɪˈdenʃl/",
+      "meaning": "机密的；保密的",
+      "enExample": "Please keep this information confidential until the official announcement.",
+      "zhExample": "在正式公布之前，请对这条信息保密。",
+      "note": "💡 con-=加强 + fid=信任，只托付给可信之人，与 confidence 同源。搭配 strictly confidential。标了 confidential 的资料不可外传。"
+    },
+    {
+      "word": "settlement",
+      "pos": "n.",
+      "phonetic": "/ˈsetlmənt/",
+      "meaning": "和解；解决；结算",
+      "enExample": "The two companies reached a settlement without going to court.",
+      "zhExample": "两家公司没有对簿公堂就达成了和解。",
+      "note": "💡 settle=解决 + ment。多义：法律和解、账款结算、定居。搭配 reach a settlement / a financial settlement。合同纠纷多数以和解收场。"
+    },
+    {
+      "word": "carry out",
+      "pos": "phr.",
+      "phonetic": "/ˈkæri aʊt/",
+      "meaning": "执行；实施；进行",
+      "enExample": "The audit will be carried out by an independent firm next month.",
+      "zhExample": "下个月将由一家独立事务所执行这次审计。",
+      "note": "💡 及物短语，比 do 正式，常用于调查、实验、计划、命令。搭配 carry out a survey/experiment/order。定了的事就要 carry out 到底。"
+    }
+  ],
+  "essay": {
+    "title": "The Library of Unfinished Books",
+    "author": "佚名",
+    "paragraphs": [
+      "On my shelf stands a small library of books I never finished. Some were abandoned in the middle of a chapter, others after a single page, and a few lie open at the same sentence for years, like letters that could not decide to end. They are not failures; they are landmarks of where I was when I put them down.",
+      "We are taught to finish what we start, and the advice is mostly sound. But a book is a conversation, and some conversations end because both parties have said what they needed to say. I have learned to thank the books I left behind: they taught me what I did not need, which is a quieter kind of knowledge, and they kept their unread pages as a promise I might still keep.",
+      "There is a freedom in abandoning a book that we do not always allow ourselves. It is a small rehearsal of letting go, a permission slip for all the other things we will not finish: projects, arguments, plans, griefs. Not everything begun must be completed; some things are beginnings by nature, and to force an ending on them is to misread their purpose entirely.",
+      "Unfinished books are honest about time. They admit that a season of life ended before the story did, that attention is mortal, that interest, like weather, cannot be scheduled. The book left on page two hundred is not a reproach; it is a souvenir of a summer, a winter, a particular self that no longer reads in quite the same way.",
+      "So I keep my unfinished library with the same care I keep the finished one. Someday I may return to those pages, or I may not; either answer is acceptable. A shelf of abandoned books is not a confession of weakness but a record of becoming, and every bookmark left between the pages marks not a failure but a pausing that was, at the time, exactly right."
+    ],
+    "translations": [
+      "我的书架上，立着一小座由我没读完的书组成的图书馆。有些在章节中途被丢弃，有些只读了一页，还有几本在同一句话上摊开了好几年，像无法决定如何结尾的信。它们不是失败，而是我放下它们时、我正身处何处的路标。",
+      "我们从小被教导要善始善终，这条建议大体不错。但一本书是一场对话，而有些对话之所以结束，是因为双方都已说完该说的话。我已经学会感谢那些被我丢下的书：它们让我明白自己不需要什么，这是一种更安静的知识；它们还保留着未读的书页，像一句我或许仍会兑现的诺言。",
+      "放弃一本书，其中有一种我们并不总肯给自己的自由。它是放手的小小预演，也是给所有我们不会完成的事开的一张放行条：项目、争论、计划、哀伤。并非所有开了头的事都必须做完；有些东西生来就是开端，硬要给它安上结局，就是完全误读了它的用意。",
+      "未读完的书对时间很诚实。它们承认：人生的一个季节在故事结束前就先结束了，注意力是会消亡的，兴趣像天气一样无法排进日程。停在第二百页的书不是责备，而是一份纪念品，纪念一个夏天、一个冬天、一个如今已不再以同样方式读书的特别的自己。",
+      "所以，我以对待读过的书同样的细心，保存着这座未完成的书库。也许有一天我会回到那些书页，也许不会；两种答案都行。一整架被放弃的书，不是软弱的供词，而是成长的记录；每一枚夹在书页间的书签，标记的都不是失败，而是一段在当时恰好正确的停顿。"
+    ],
+    "grammar": [
+      {
+        "point": "地点状语前置的完全倒装",
+        "example": "\"On my shelf stands a small library of books I never finished.\"",
+        "note": "正常语序为 A small library of books I never finished stands on my shelf；将地点状语 On my shelf 前置后，谓语 stands 被提到主语之前，构成完全倒装；books I never finished 中省略了关系词 that。 举一反三：表示方位的介词短语位于句首且主语为名词时，可用完全倒装来使句子更生动。"
+      },
+      {
+        "point": "部分否定与不定式短语作主语",
+        "example": "\"Not everything begun must be completed; some things are beginnings by nature, and to force an ending on them is to misread their purpose entirely.\"",
+        "note": "not everything 表示并非所有，属部分否定而非全盘否定；begun 是过去分词作后置定语修饰 everything；to force an ending on them 是不定式短语作主语，谓语用 is，to misread 是不定式作表语。 举一反三：not everything、not all 表达部分否定，翻译时注意与 nothing 的全盘否定相区别。"
+      },
+      {
+        "point": "that 并列宾语从句与动词替代",
+        "example": "\"They admit that a season of life ended before the story did, that attention is mortal, that interest, like weather, cannot be scheduled.\"",
+        "note": "admit 后接三个并列的 that 宾语从句，第二个与第三个 that 习惯上不省略；before the story did 中 did 替代前面的 ended，避免重复；like weather 是插入语，解释 interest 的特点。 举一反三：英语中常用 do/does/did 替代前面出现过的实义动词，保持表达简洁。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "landmark",
+        "pos": "n.",
+        "meaning": "路标；地标；里程碑",
+        "enExample": "The unfinished novel became a landmark of the year she lost her mother.",
+        "zhExample": "那本没读完的小说，成了她失去母亲那一年的一块路标。",
+        "note": "用法：指地面上醒目的标记，也比喻人生或历史的标志性事件。"
+      },
+      {
+        "term": "abandon",
+        "pos": "v.",
+        "meaning": "放弃，抛弃",
+        "enExample": "She abandoned the book at page ninety and never felt guilty.",
+        "zhExample": "她在第九十页放弃了那本书，并且从未感到内疚。",
+        "note": "用法：abandon a plan 放弃计划；指彻底放手不再顾及。"
+      },
+      {
+        "term": "freedom",
+        "pos": "n.",
+        "meaning": "自由；不受拘束",
+        "enExample": "There is a strange freedom in admitting that some books will never be finished.",
+        "zhExample": "承认有些书永远读不完，其中有一种奇异的自由。",
+        "note": "用法：the freedom to do sth 做某事的自由；也指心理上的释放。"
+      },
+      {
+        "term": "souvenir",
+        "pos": "n.",
+        "meaning": "纪念品，纪念物",
+        "enExample": "The bookmark was the only souvenir she kept from that winter.",
+        "zhExample": "那枚书签，是她从那个冬天唯一留下的纪念品。",
+        "note": "用法：指带回来纪念某地或某事的物品；a souvenir of 的纪念。"
+      },
+      {
+        "term": "reproach",
+        "pos": "n./v.",
+        "meaning": "责备，指责",
+        "enExample": "The half-read books on the shelf made no reproach to her haste.",
+        "zhExample": "书架上那些读了一半的书，并没有责备她的匆忙。",
+        "note": "用法：a reproach to 对……的谴责；beyond reproach 无可指责。"
+      },
+      {
+        "term": "confession",
+        "pos": "n.",
+        "meaning": "供认；自白",
+        "enExample": "The shelf was less a confession than a record of becoming.",
+        "zhExample": "那层书架与其说是自白，不如说是一份成长的记录。",
+        "note": "用法：make a confession 坦白；a confession of 对……的承认。"
+      },
+      {
+        "term": "pause",
+        "pos": "v./n.",
+        "meaning": "停顿，暂停",
+        "enExample": "The pause between two chapters was where her life happened.",
+        "zhExample": "两个章节之间的那次停顿，正是她生活发生之处。",
+        "note": "用法：pause to do sth 停下来做某事；a pause in 中间的停顿。"
+      },
+      {
+        "term": "unread",
+        "pos": "adj.",
+        "meaning": "未读的；未受阅读影响的",
+        "enExample": "The unread pages waited patiently for a reader she no longer was.",
+        "zhExample": "那些未读的书页耐心等待着一个她已经不再是读者。",
+        "note": "用法：指书尚未被阅读，也指人尚未通过阅读被改变。"
+      }
+    ]
+  }
+}

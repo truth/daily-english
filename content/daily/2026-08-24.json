@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-24",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "phonetic": "/praɪˈɔːr.ə.taɪz/",
+      "meaning": "优先处理；按重要性排定先后",
+      "enExample": "She learned to prioritize her tasks by tackling the most demanding ones early in the morning.",
+      "zhExample": "她学会了优先处理工作，每天清晨先攻克最棘手的任务。",
+      "note": "💡 prior（在前的）+ -itize（使……化），把事情排到前面去。和 schedule 区别：schedule 是排时间，prioritize 是排先后等级。常见搭配：prioritize something over something else（把某事置于…之上），面试金句：I always prioritize customer feedback when triaging bugs."
+    },
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "phonetic": "/ˈæl.ə.keɪt/",
+      "meaning": "分配；配给；划拨（资源、时间、预算等）",
+      "enExample": "The manager allocated extra budget to the customer support team during the holiday rush.",
+      "zhExample": "经理在假期高峰期间为客户支持团队划拨了额外预算。",
+      "note": "💡 al-（向）+ loc（地方）+ -ate，把资源往某些地方\"派过去\"。搭配 allocate time / budget / resources to。名词 allocation（分配方案）。比 distribute 正式，常用于预算、岗位等场合：How should we allocate the engineering hours this quarter?"
+    },
+    {
+      "word": "optimize",
+      "pos": "v.",
+      "phonetic": "/ˈɑːp.tə.maɪz/",
+      "meaning": "优化；使达到最佳效果",
+      "enExample": "We optimized the loading speed of the site so customers no longer wait for ten seconds.",
+      "zhExample": "我们优化了网站的加载速度，顾客再也不用苦等十秒了。",
+      "note": "💡 optimum（最佳）+ -ize，使达到最佳。optimize for…（为某个目标优化）是产品、技术圈高频句式。名词 optimization（优化），形容词 optimal（最佳的）。近义 improve，但 optimize 强调\"以最优解为目标\"。"
+    },
+    {
+      "word": "acknowledge",
+      "pos": "v.",
+      "phonetic": "/əkˈnɑː.lɪdʒ/",
+      "meaning": "承认；认可；致谢",
+      "enExample": "She acknowledged her colleague's help in front of the whole team during the meeting.",
+      "zhExample": "她在会议上当着全组成员的面对同事的帮助表达了公开致谢。",
+      "note": "💡 ac-（向）+ knowledge（知道），让对方知道你看见了、记住了 = 致谢、承认。常见搭配：acknowledge receipt of（确认收到）/ acknowledge a mistake（认错）/ acknowledge one's contribution（致谢贡献）。职场反义文化：a thankless job（没人致谢的累活）。"
+    },
+    {
+      "word": "navigate",
+      "pos": "v.",
+      "phonetic": "/ˈnæv.ɪ.ɡeɪt/",
+      "meaning": "应对；处理；导航；穿过",
+      "enExample": "New employees often struggle to navigate the company's internal systems during their first month.",
+      "zhExample": "新员工在第一个月往往要花不少功夫才能摸清公司的内部系统。",
+      "note": "💡 nav（船）+ ig（驾驶）+ -ate，本义\"开船穿行\"，引申为\"穿越复杂局面\"。搭配 navigate through（穿越）/ navigate around（绕开）。职场/政经语境：navigate change（应对变化）/ navigate complexity（应对复杂性）/ navigate a tough conversation（应付困难的对话）。"
+    }
+  ],
+  "essay": {
+    "title": "The Door We Leave Open",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a kind of leaving that does not close the door behind it. We call it goodbye, but the word carries more finality than the feeling deserves. Some farewells are quiet agreements to keep loving from a distance, to hold a person in the mind's warm room long after the body has gone.",
+      "I remember the last afternoon with my grandmother, how she folded my hands around a cup of tea and said nothing that needed saying. The light leaned low against the wall, and I understood that what we had was not ending but changing shape. Love, once given, does not withdraw; it simply learns a new address.",
+      "We are taught to be brave about loss, to stand tall and unbroken. Yet the truer courage is to let the ache stay, to honor what was good by feeling its absence. A goodbye said well is not a small thing.",
+      "It is a way of telling someone, you mattered, and the mark you left will not fade with the year. So when the time comes, do not rush the door. Stand in the threshold a moment longer. The leaving is real, but so is everything that remains."
+    ],
+    "translations": [
+      "有一种离别，并不会在身后关上门。我们称之为\"再见\"，可这个词所承载的决绝，远胜过那份感受本身应有的分量。有些告别，是安静的约定——约定在远方继续爱着，在身体离去很久之后，仍把一个人留在心灵的暖房里。",
+      "我仍记得与祖母共度的最后一个下午，她把我的双手拢在一杯茶上，没说什么非说不可的话。光线低低地斜在墙上，我忽然明白，我们之间拥有的一切并非终结，只是换了形态。爱，一旦给出，便不会收回；它只是学会了新的地址。",
+      "我们被教导要勇敢面对失去，要站得笔直、不被击垮。然而更真实的勇气，是允许那份怅惘停留，是在空缺的滋味里，向曾拥有的美好致敬。一场好好说出口的告别，从来不是小事。",
+      "它是一种诉说——告诉某人：你曾如此重要，你留下的印记不会随岁月褪色。所以当时机到来，别急着关门。在门槛上再多站一会儿。离去是真实的，但留下的一切，同样真实。"
+    ],
+    "vocab": [
+      {
+        "term": "farewell",
+        "pos": "n.",
+        "meaning": "告别，辞别",
+        "enExample": "They waved a fond farewell as the train pulled away.",
+        "zhExample": "火车开动时，他们依依不舍地挥手道别。",
+        "note": "用法：a farewell dinner 欢送宴；farewell to sb. 向某人道别。近 goodbye / parting；反 greeting / hello。"
+      },
+      {
+        "term": "finality",
+        "pos": "n.",
+        "meaning": "终结；不可更改性，决断",
+        "enExample": "She shut the book with an air of finality.",
+        "zhExample": "她合上书，一副到此为止的神情。",
+        "note": "用法：speak with finality 决断地说。近 conclusion / definiteness；反 uncertainty / openness。"
+      },
+      {
+        "term": "absence",
+        "pos": "n.",
+        "meaning": "缺席；不在，空缺",
+        "enExample": "His absence was felt at the dinner table.",
+        "zhExample": "餐桌上大家都想念他的缺席。",
+        "note": "用法：in one's absence 在某人不在时。谚语 Absence makes the heart grow fonder. 近 lack / missing；反 presence。"
+      },
+      {
+        "term": "ache",
+        "pos": "n./v.",
+        "meaning": "隐隐作痛；渴望",
+        "enExample": "My heart ached for the home I had left.",
+        "zhExample": "我的心为离开的家而隐隐作痛。",
+        "note": "用法：heartache 心碎；an aching longing 深切的渴望。近 pain / long；反 ease / relief。"
+      },
+      {
+        "term": "unbroken",
+        "pos": "adj.",
+        "meaning": "未破损的；完整的；不间歇的",
+        "enExample": "She kept an unbroken smile through the long farewell.",
+        "zhExample": "在漫长的告别中，她始终保持着完整的微笑。",
+        "note": "用法：an unbroken record 未被打破的纪录。近 intact / whole；反 broken / shattered。"
+      },
+      {
+        "term": "threshold",
+        "pos": "n.",
+        "meaning": "门槛；起点，临界",
+        "enExample": "He paused at the threshold before stepping out.",
+        "zhExample": "他在门槛上停顿了一下，才迈步出门。",
+        "note": "用法：on the threshold of a new era 新时代的门槛。近 doorway / beginning；反 end。"
+      },
+      {
+        "term": "withdraw",
+        "pos": "v.",
+        "meaning": "撤回；收回；退下",
+        "enExample": "He withdrew his hand from the cold water.",
+        "zhExample": "他把收回了手，离开冷水。",
+        "note": "用法：withdraw an offer 撤回提议。近 retract / retreat；反 advance / offer。"
+      },
+      {
+        "term": "honor",
+        "pos": "v.",
+        "meaning": "尊敬；给予荣誉，致敬",
+        "enExample": "We honor her by telling her stories.",
+        "zhExample": "我们讲她的故事，以此向她致敬。",
+        "note": "用法：honor one's memory 缅怀。近 respect / celebrate；反 dishonor。"
+      },
+      {
+        "term": "matter",
+        "pos": "v.",
+        "meaning": "要紧，有关系，重要",
+        "enExample": "What you said mattered more than you know.",
+        "zhExample": "你说的话，比你知道的更重要。",
+        "note": "用法：It doesn't matter. 近 count / signify；反 be irrelevant。"
+      },
+      {
+        "term": "lean",
+        "pos": "v.",
+        "meaning": "倾斜；倚靠",
+        "enExample": "The old tree leaned toward the river.",
+        "zhExample": "那棵老树向河边倾斜。",
+        "note": "用法：lean against the wall 斜靠在墙上。近 tilt / rest；反 straighten。"
+      },
+      {
+        "term": "deserve",
+        "pos": "v.",
+        "meaning": "应得，值得",
+        "enExample": "Their kindness deserved more than a thank-you.",
+        "zhExample": "他们的善意，值得的远不止一句谢谢。",
+        "note": "用法：deserve credit 值得赞扬。近 earn / merit；反 not deserve。"
+      },
+      {
+        "term": "fade",
+        "pos": "v.",
+        "meaning": "褪色；逐渐消失",
+        "enExample": "The sunset colors slowly faded into night.",
+        "zhExample": "落日的色彩渐渐褪入夜色。",
+        "note": "用法：fade from memory 从记忆中淡去。近 dim / decline；反 brighten / intensify。"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "定语从句 + than 比较从句中的宾语省略",
+        "example": "There is a kind of leaving that does not close the door behind it. ... more finality than the feeling deserves.",
+        "note": "第一句 that does not close... 是限制性定语从句修饰 leaving。第二句 the word carries more finality than the feeling deserves 中，than 引导比较状语从句，deserves 后省略了关系代词（the feeling 在从句中作 deserves 的宾语），完整相当于 than what the feeling deserves，意为\"那份感受本应承载的分量\"。"
+      },
+      {
+        "point": "need + doing 主动表被动 + 时间状语",
+        "example": "...said nothing that needed saying. ...long after the body has gone.",
+        "note": "needed saying 是 need + 动名词结构，主动形式表被动含义（= needed to be said，非说不可的）。long after the body has gone 为介词 long after 引导的时间状语，修饰前面的 to hold，表示\"在身体离去很久之后\"。"
+      },
+      {
+        "point": "what 主语从句 + not...but 并列谓语",
+        "example": "...that what we had was not ending but changing shape.",
+        "note": "what we had 是名词性从句作主语，what 同时引导从句并在其中作 had 的宾语（我们所拥有的）。谓语 was not ending but changing shape 是 not A but B 并列结构，强调\"不是终结，而是换了形态\"，语气对比强烈。"
+      },
+      {
+        "point": "So + be + 主语 倒装（附和/强调）",
+        "example": "The leaving is real, but so is everything that remains.",
+        "note": "so is everything 是 so + 系动词 + 主语的倒装结构，表示\"……也同样（真实）\"，that remains 为定语从句修饰 everything。常见用法如 So am I. / So do they.，此处 so 承接前文 The leaving is real，强调\"留下的一切同样真实\"。"
+      }
+    ]
+  }
+}

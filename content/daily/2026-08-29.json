@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-29",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "breakthrough",
+      "pos": "n.",
+      "phonetic": "/ˈbreɪkθruː/",
+      "meaning": "重大突破；突破性进展",
+      "enExample": "The research team finally made a breakthrough in battery technology.",
+      "zhExample": "研究团队终于在电池技术上取得了重大突破。",
+      "note": "💡 break（破）+ through（穿过），冲破藩篱的那一下。搭配 make/achieve a breakthrough。销售打不开局面时，缺的就是一个 breakthrough。"
+    },
+    {
+      "word": "harness",
+      "pos": "v.",
+      "phonetic": "/ˈhɑːrnɪs/",
+      "meaning": "利用；驾驭（力量）",
+      "enExample": "The company is learning to harness AI to improve customer service.",
+      "zhExample": "公司正在学着利用人工智能改善客户服务。",
+      "note": "💡 原指马的挽具，引申为驾驭自然或技术之力。搭配 harness the power of sth。把新技术 harness 到业务里是转型的核心命题。"
+    },
+    {
+      "word": "pressing",
+      "pos": "adj.",
+      "phonetic": "/ˈpresɪŋ/",
+      "meaning": "紧迫的；迫切的",
+      "enExample": "The most pressing issue right now is the shortage of staff.",
+      "zhExample": "眼下最紧迫的问题是人员短缺。",
+      "note": "💡 press=压，压到头上来的事当然急，语感比 urgent 更强烈。搭配 pressing issue/problem/need。日程太满时先处理最 pressing 的三件事。"
+    },
+    {
+      "word": "authorize",
+      "pos": "v.",
+      "phonetic": "/ˈɔːθəraɪz/",
+      "meaning": "授权；批准",
+      "enExample": "Only the department head can authorize overtime payments.",
+      "zhExample": "只有部门主管才能批准加班费的发放。",
+      "note": "💡 词根 auth=权威，与 author（作者）同源。搭配 authorize sb to do sth / authorize payment。越权办事前先确认是否被授权。"
+    },
+    {
+      "word": "drawback",
+      "pos": "n.",
+      "phonetic": "/ˈdrɔːbæk/",
+      "meaning": "缺点；弊端",
+      "enExample": "The only drawback of working from home is the lack of face-to-face interaction.",
+      "zhExample": "在家办公唯一的缺点就是缺少面对面交流。",
+      "note": "💡 draw（拉）+ back（向后），往回拉的东西即阻力。同义 downside。搭配 a major drawback / the drawback of sth。选 offer 时也要想清岗位的 drawbacks。"
+    }
+  ],
+  "essay": {
+    "title": "The Economics of Attention",
+    "author": "佚名",
+    "paragraphs": [
+      "Attention is the only currency we are born with, and we spend it whether we choose to or not. Every scroll, every half-listened conversation, every glance at a glowing screen is a withdrawal from an account that never grows back. We treat it as free because it costs nothing to open the app; but the price is paid later, in the life we failed to notice.",
+      "The modern economy has discovered that human attention is scarce, and it has built vast machines to harvest it. Our evenings are mined for engagement, our commutes drilled for data, our silences sold to the highest bidder. We have become the resource, and we are running out of ourselves, the way a forest runs out when every tree is counted as lumber.",
+      "Yet focus cannot be forced; it can only be protected. The writer needs the empty desk, the scholar needs the closed door, the one who loves needs a room without a screen. Deep attention is not a talent but a territory, and we must mark its borders with the same care a nation gives its coasts. Guard the hours; they are all the land we truly own.",
+      "What we attend to becomes our biography. No one will remember how many messages you answered at midnight, but the book you finished, the child you listened to, the thought you followed to its end: these are the events that actually happened in your life. The rest was weather, passing over an unwatched field. It was never stolen; it simply went unseen.",
+      "The economics of attention has a simple rule, older than any market: you become what you look at. Look at anger and you thicken with it; look at wonder and it multiplies in you. So choose your curiosities as carefully as you choose your debts, for you will be paying for them, one glance at a time, for the rest of your life."
+    ],
+    "translations": [
+      "注意力是我们与生俱来的唯一货币，无论愿不愿意，我们都在花它。每一次滑动屏幕，每一场只听一半的谈话，每一次瞥向发光屏幕的眼神，都是从一笔永远不会回血的账户里取款。我们把它当成免费的，因为打开应用不花分文；但代价在日后才支付，付在我们没有注意到的那段人生里。",
+      "现代经济早已发现人的注意力是稀缺的，于是造出庞大的机器来收割它。我们的夜晚被开采成互动数据，通勤被钻探成信息，连沉默也卖给出价最高的人。我们变成了资源本身，正渐渐耗尽自己，就像一棵棵树都被算作木材时，森林也会耗尽。",
+      "然而专注无法靠强迫获得，只能被守护。作家需要空书桌，学者需要关上的门，恋爱中的人需要一个没有屏幕的房间。深度专注不是天赋，而是一片领土，我们要像国家守护海岸线那样，仔细标出它的边界。守住那些时间吧，那是我们真正拥有的全部土地。",
+      "我们关注什么，什么就变成我们的传记。没有人会记得你在午夜回复了多少条消息，但你读完的那本书、你认真听过的那个孩子、你一路追到尽头的那个念头：这些才是你人生里真正发生过的事件。其余的都只是天气，掠过一片无人照看的田野。它们从没有被偷走，只是无人看见。",
+      "注意力的经济学有一条比任何市场都古老的简单法则：你注视着什么，就会成为什么。你凝视愤怒，便与愤怒一同变得厚重；你凝视惊奇，惊奇便在你身上成倍生长。所以，挑选你的好奇对象，要像挑选债务一样慎重，因为你将用余生为它们付款，一次一个眼神。"
+    ],
+    "grammar": [
+      {
+        "point": "三个 every 并列作主语，谓语用单数",
+        "example": "\"Every scroll, every half-listened conversation, every glance at a glowing screen is a withdrawal from an account that never grows back.\"",
+        "note": "三个由 every 修饰的名词短语并列作主语时，谓语动词用单数 is；that never grows back 是定语从句修饰 account，其中 never 与 grows 配合表示永远不会回升。 举一反三：every、each、no one 等词作主语或修饰主语时，谓语一律用单数。"
+      },
+      {
+        "point": "not...but... 与省略关系词的定语从句",
+        "example": "\"Deep attention is not a talent but a territory, and we must mark its borders with the same care a nation gives its coasts.\"",
+        "note": "not...but... 连接两个表语，形成对比；with the same care a nation gives its coasts 中，care 后省略了关系词 that/with which，定语从句修饰 care，可理解为 a nation gives the same care to its coasts。 举一反三：当先行词前有 the same、all、the only 等修饰时，关系词常被省略。"
+      },
+      {
+        "point": "祈使句 + and 结构的两组并列",
+        "example": "\"Look at anger and you thicken with it; look at wonder and it multiplies in you.\"",
+        "note": "两个祈使句 Look at... 分别与 and 后的陈述句相连，构成条件与结果的逻辑关系，整句可译为你看愤怒，就与愤怒一同变得厚重；分号把两组对仗句并列起来，形成修辞上的排比。 举一反三：祈使句 + and 是口语与书面语都很常见的条件表达，使用时注意 and 前后时态的自然衔接。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "engagement",
+        "pos": "n.",
+        "meaning": "参与；约定；互动量",
+        "enExample": "Her engagement with the book was so deep that she missed her stop.",
+        "zhExample": "她读书读得太投入，错过了下车的站。",
+        "note": "用法：指投入与互动，也指约定；engagement with 与……的接触。"
+      },
+      {
+        "term": "protect",
+        "pos": "v.",
+        "meaning": "保护，守护",
+        "enExample": "He protected his mornings the way others protect their savings.",
+        "zhExample": "他守护自己的早晨，就像别人守护存款。",
+        "note": "用法：protect sb/sth from 保护……免受……；也可指守护时间与空间。"
+      },
+      {
+        "term": "curiosity",
+        "pos": "n.",
+        "meaning": "好奇心",
+        "enExample": "Choose your curiosities carefully, for they will raise you.",
+        "zhExample": "谨慎选择你的好奇对象，因为它们将塑造你。",
+        "note": "用法：the curiosity about 对……的好奇；out of curiosity 出于好奇。"
+      },
+      {
+        "term": "currency",
+        "pos": "n.",
+        "meaning": "货币；流通",
+        "enExample": "Time is the only currency that cannot be printed.",
+        "zhExample": "时间是唯一无法印制的货币。",
+        "note": "用法：指流通的货币，也比喻被普遍接受的事物；gain currency 开始流行。"
+      },
+      {
+        "term": "scarce",
+        "pos": "adj.",
+        "meaning": "稀缺的，不足的",
+        "enExample": "Undivided attention has become the scarcest gift of all.",
+        "zhExample": "不分心的陪伴，成了最稀缺的礼物。",
+        "note": "用法：指数量少而难以获得；scarce resources 稀缺资源。"
+      },
+      {
+        "term": "withdrawal",
+        "pos": "n.",
+        "meaning": "取款；退出；收回",
+        "enExample": "Each scroll was a small withdrawal from the account of his day.",
+        "zhExample": "每滑一次屏幕，都是从他那一天账户里的一次小额取款。",
+        "note": "用法：a withdrawal from 从……的取走或退出；withdrawal symptoms 戒断反应。"
+      },
+      {
+        "term": "territory",
+        "pos": "n.",
+        "meaning": "领土；领域",
+        "enExample": "Deep work is a territory that must be entered, not passed through.",
+        "zhExample": "深度工作是必须进入、而非路过的一片领地。",
+        "note": "用法：指国家疆土，也比喻个人或专业领域；unfamiliar territory 陌生的领域。"
+      },
+      {
+        "term": "biography",
+        "pos": "n.",
+        "meaning": "传记，生平记录",
+        "enExample": "What we attend to is the biography we are writing every day.",
+        "zhExample": "我们关注的东西，就是我们每天都在写的那本传记。",
+        "note": "用法：指记录一生的文字；也比喻由行为写成的生平。"
+      }
+    ]
+  }
+}

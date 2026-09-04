@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-20",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "anticipate",
+      "pos": "v.",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "meaning": "预期；预料；期望",
+      "enExample": "We don't anticipate any major problems with the new system rollout.",
+      "zhExample": "我们预计新系统的上线不会出什么大问题。",
+      "note": "💡 构词 anti-=前 + cip=拿取，即「提前想到」。搭配 anticipate + doing 或 anticipate that...。会前提前想对方会问什么，就是 anticipate。"
+    },
+    {
+      "word": "candid",
+      "pos": "adj.",
+      "phonetic": "/ˈkændɪd/",
+      "meaning": "坦率的；直言不讳的",
+      "enExample": "To be candid, I think the proposal needs more work before we present it.",
+      "zhExample": "坦率地说，我觉得这个方案在拿出来展示之前还需要再完善。",
+      "note": "💡 词源「白色」，引申为不遮遮掩掩、光明磊落。搭配 be candid with sb。面试被问短板时可坦诚作答，真诚比完美更打动人。"
+    },
+    {
+      "word": "benchmark",
+      "pos": "n.",
+      "phonetic": "/ˈbentʃmɑːrk/",
+      "meaning": "基准；标杆；参照标准",
+      "enExample": "Our customer satisfaction score is now the industry benchmark.",
+      "zhExample": "我们的客户满意度如今已成了行业标杆。",
+      "note": "💡 bench+mark，测量时刻在长凳上的记号，引申为参照标准。搭配 set a benchmark / above the benchmark。做目标先对标行业标杆更稳。"
+    },
+    {
+      "word": "execute",
+      "pos": "v.",
+      "phonetic": "/ˈeksɪkjuːt/",
+      "meaning": "执行；实施；履行",
+      "enExample": "The team executed the marketing plan exactly as scheduled.",
+      "zhExample": "团队严格按照日程表执行了营销计划。",
+      "note": "💡 ex-=向外 + sequ=跟随，跟着计划把它做完。搭配 execute a plan/strategy。职场常说的「执行力」，就是它的名词 execution。"
+    },
+    {
+      "word": "beforehand",
+      "pos": "adv.",
+      "phonetic": "/bɪˈfɔːrhænd/",
+      "meaning": "事先；预先",
+      "enExample": "Please prepare the meeting materials beforehand so we can start on time.",
+      "zhExample": "请提前准备好会议材料，这样我们才能准时开始。",
+      "note": "💡 before + hand，「在手前」，即在事情发生之前。搭配 know beforehand / plan beforehand。重要会议最好提前到场并备好资料。"
+    }
+  ],
+  "essay": {
+    "title": "The Art of Waking Early",
+    "author": "佚名",
+    "paragraphs": [
+      "To wake before the house wakes is to steal a few hours that belong to no one. The streets are empty, the birds are just beginning, and the kettle, when it boils, seems louder than it should. In this quiet, a day does not begin all at once; it unfolds, one soft edge at a time. Before anyone can claim us, we are simply ourselves.",
+      "There is a slow arithmetic of dawn: how much light, how much coffee, which window to open first. An early riser does not really conquer the morning; he negotiates with it. Some days the sky is dramatic, and other days it is a flat gray that asks for patience. Either way, the hour quietly rewards the one who shows up.",
+      "The body learns this habit slowly, the way a plant learns to lean toward light. At first the alarm feels like an accusation; soon it becomes a door. What the early hours lack in noise, they make up in depth. Problems that seemed tangled at midnight often lie, by sunrise, with their knots already loosened, waiting to be lifted.",
+      "To rise early is to side with beginnings. You notice the way paper catches the first light, the way a room holds yesterday's warmth a little longer. And because no one is watching, you practice being honest with yourself. The page is blank, the inbox is quiet, and the day has not yet learned to make demands. This is less discipline than a quiet friendship with possibility.",
+      "Perhaps that is the whole secret. The early morning is not a punishment but a loan. It lends you silence when you need it, and courage before the noise returns. By the time the world wakes and calls your name, you have already begun, which is the truest advantage anyone can carry into a day."
+    ],
+    "translations": [
+      "在整座房子醒来之前起床，等于偷来几小时不属于任何人的时光。街道空着，鸟鸣刚刚开始，水壶烧开时显得格外响。在这种安静里，一天并不是瞬间开始的，它缓缓展开，露出一条又一条柔软的边。趁还没有人需要我们，我们只是我们自己。",
+      "清晨自有一套缓慢的算计：多少光，多少咖啡，先推开哪一扇窗。早起的人并非真正征服了早晨，而是与它协商。有些日子天空戏剧性十足，另一些日子则是一整片灰色的平淡，考验人的耐心。无论哪种，这段时光都会静静奖赏那个肯到场的人。",
+      "身体学这个习惯学得很慢，就像植物学着向阳生长。起初闹钟像一声指责，很快它变成一扇门。清晨的时光缺少喧嚣，却用深邃来弥补。那些在午夜看来缠成一团的问题，到了日出时分往往已经松开绳结，只等着被人轻轻提起。",
+      "早起就是站到开端这一边。你会注意到纸如何接住第一缕光，房间如何把昨天的暖意多留一会儿。因为没有人看着，你可以练习对自己诚实。页面空白，收件箱安静，而这一天还没来得及学会提出要求。与其说这是自律，不如说是与可能性结下一段安静的友谊。",
+      "也许全部的秘密就在这里：清晨不是惩罚，而是一笔借款。它在你需要时借给你安静，在喧嚣回来之前借给你勇气。等到世界醒来呼唤你的名字，你已经开始了，这正是一个人能带进一天的最实在的优势。"
+    ],
+    "grammar": [
+      {
+        "point": "不定式短语作主语",
+        "example": "\"To wake before the house wakes is to steal a few hours that belong to no one.\"",
+        "note": "句首的 To wake before the house wakes 是不定式短语作主语，谓语动词用单数 is；that belong to no one 是定语从句修饰 hours。主语较长时，可改写为 It is ... to wake... 的形式，让句子更平衡。 举一反三：看到以 To do 开头的句子，先判断它是不是主语，再核对主谓是否一致。"
+      },
+      {
+        "point": "What 引导的名词性从句",
+        "example": "\"What the early hours lack in noise, they make up in depth.\"",
+        "note": "What the early hours lack in noise 是 what 引导的从句，作 make up 的宾语并前置以示强调；what 相当于 the thing that。整个句意是：清晨缺了喧闹，就用深邃来补足。 举一反三：What 从句可以作主语、宾语或表语，翻译时常处理为……的东西、……的事情。"
+      },
+      {
+        "point": "not...but... 并列否定与转折",
+        "example": "\"The early morning is not a punishment but a loan.\"",
+        "note": "not...but... 表示不是……而是……，这里连接两个并列的表语 punishment 和 loan，形成对比；朗读时 but 后面的部分通常重读。 举一反三：not...but... 可连接任意对等的成分，比如 not you but me、not to wait but to act。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "dawn",
+        "pos": "n.",
+        "meaning": "黎明，拂晓",
+        "enExample": "She rises at dawn to walk the empty streets before the city wakes.",
+        "zhExample": "她在黎明起身，赶在城市苏醒前走过空旷的街道。",
+        "note": "用法：指破晓时分，也常用来比喻开端；at dawn 在黎明。"
+      },
+      {
+        "term": "unfold",
+        "pos": "v.",
+        "meaning": "展开，逐渐展现",
+        "enExample": "Watch how the morning unfolds, minute by minute, like a letter being opened.",
+        "zhExample": "看清晨如何一分一秒地展开，像一封被拆开的信。",
+        "note": "用法：可指把折叠物打开，也指事情随时间逐步呈现；unfold to sb 向某人展现。"
+      },
+      {
+        "term": "conquer",
+        "pos": "v.",
+        "meaning": "征服，攻克",
+        "enExample": "He set out to conquer his fear of speaking in public.",
+        "zhExample": "他决心征服对当众讲话的恐惧。",
+        "note": "用法：既可指征服土地，也可指战胜困难或不良习惯。"
+      },
+      {
+        "term": "negotiate",
+        "pos": "v.",
+        "meaning": "协商，交涉；顺利通过",
+        "enExample": "The climbers had to negotiate a narrow ridge covered with ice.",
+        "zhExample": "登山者必须小心翼翼通过一道覆冰的窄脊。",
+        "note": "用法：negotiate with sb 与某人谈判；也指绕过障碍前行。"
+      },
+      {
+        "term": "accusation",
+        "pos": "n.",
+        "meaning": "指责，指控",
+        "enExample": "The accusation stung her more than she expected.",
+        "zhExample": "那句指责比她想得更伤人。",
+        "note": "用法：常与 make, lay 搭配，make an accusation against 指控某人。"
+      },
+      {
+        "term": "tangled",
+        "pos": "adj.",
+        "meaning": "纠缠的，纷乱的",
+        "enExample": "Years of habit had left his thinking tangled and slow.",
+        "zhExample": "多年的习惯让他的思绪缠结而迟缓。",
+        "note": "用法：形容线绳缠绕，也可指问题或思绪复杂难解；get tangled in 缠进。"
+      },
+      {
+        "term": "demand",
+        "pos": "n./v.",
+        "meaning": "要求，需求",
+        "enExample": "The new job makes heavy demands on her time.",
+        "zhExample": "新工作对她的时间提出了很高的要求。",
+        "note": "用法：make demands on 对……提出要求；demand to do sth 要求做某事。"
+      },
+      {
+        "term": "possibility",
+        "pos": "n.",
+        "meaning": "可能性",
+        "enExample": "Each quiet morning holds the possibility of a different day.",
+        "zhExample": "每个安静的早晨都蕴含着一个不一样的一天的可能。",
+        "note": "用法：the possibility of doing sth 做某事的可能性；常用 there is a possibility that。"
+      }
+    ]
+  }
+}

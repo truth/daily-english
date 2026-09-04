@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-19",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "endorse",
+      "pos": "v.",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "meaning": "赞同；公开支持；为…背书",
+      "enExample": "She endorsed the new wellness app because she had been using it every morning for a year.",
+      "zhExample": "她为这款新的健康应用背书，因为她连续一年每天早上都在使用它。",
+      "note": "💡 endo-（在内）+ orse，原指「在某人身上签字担保」→ 公开支持、背书。名词 endorsement（代言；公开支持）。职场搭配 endorse a proposal（赞同提案）/ endorse a candidate（支持候选人）。"
+    },
+    {
+      "word": "curb",
+      "pos": "v./n.",
+      "phonetic": "/kɜːrb/",
+      "meaning": "约束，抑制；（名词）路边镶边石",
+      "enExample": "He quit social media for a month to curb the habit of checking his phone every few minutes.",
+      "zhExample": "他戒了一个月社交媒体，以克制每隔几分钟就刷一次手机的习惯。",
+      "note": "💡 跟 curve 同源，原指路边的石头「弯成弧形」挡住马车。引申为「从源头限制」。高频搭配 curb spending（控制开支）/ curb enthusiasm（给热情泼冷水）。名词还指「路缘石」。"
+    },
+    {
+      "word": "articulate",
+      "pos": "adj./v.",
+      "phonetic": "/ɑːrˈtɪk.jə.lət/（形）/ɑːrˈtɪk.jə.leɪt/（动）",
+      "meaning": "（形）表达清晰的；口齿伶俐的（动）清楚地表达",
+      "enExample": "She is one of the most articulate speakers I have met — every sentence lands with surprising clarity.",
+      "zhExample": "她是我见过的最善于表达的人之一——每一句话都说得格外清晰。",
+      "note": "💡 articul（关节、连接）+ -ate，把想法用「关节」一样精巧地连起来。形容词和动词重音位置不同。搭配 articulate your thoughts（说清楚想法）/ an articulate answer（条理清晰的回答）。"
+    },
+    {
+      "word": "savor",
+      "pos": "v.",
+      "phonetic": "/ˈseɪ.vər/",
+      "meaning": "品味；细细欣赏；享受（美味或体验）",
+      "enExample": "Instead of rushing out the door, she took a moment to savor the smell of fresh coffee each morning.",
+      "zhExample": "她没有急着出门，而是每天早上都花一点时间细细品味新鲜咖啡的香气。",
+      "note": "💡 来自法语 saveur（味道）。英式拼写 savour。比 taste 更进一步——taste 是「尝」，savor 是「慢慢品味」。TED 高频金句：Savor the moment.（享受当下。）搭配 savor the memory / savor the victory。"
+    },
+    {
+      "word": "uphold",
+      "pos": "v.",
+      "phonetic": "/ʌpˈhoʊld/",
+      "meaning": "维护；坚持；维持（原则、法律、传统等）",
+      "enExample": "As a judge, she is expected to uphold the law even when public opinion is firmly against her.",
+      "zhExample": "作为法官，即使民意普遍反对，她依然被期望要维护法律。",
+      "note": "💡 up（向上）+ hold（握紧）→ 紧紧握住不放手 = 坚持、维护。常见搭配 uphold the law / uphold standards（坚持标准）/ uphold a tradition（维护传统）。近义 maintain，但 uphold 更强调「道义责任」。"
+    }
+  ],
+  "essay": {
+    "title": "Daily Essay",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a moment, somewhere between late August and early September, when the light begins to change. It does not announce itself with fanfare. The shadows lengthen by a breath, the air turns cooler at dusk, and the leaves — not yet falling — seem to pause, as though considering something.",
+      "We spend so much of our lives bracing for the dramatic: the sudden loss, the grand beginning, the storm that breaks the sky. Yet the world, more often than not, moves by quiet degrees. Autumn arrives not as a shout but as a whisper — a slow shifting of color, a softer sun, the first morning you step outside and reach, almost without thinking, for a sweater you had forgotten.",
+      "Perhaps that is the lesson. Change need not be loud to be real. A life is redrawn not only in its upheavals but in its small, unhurried turnings — the friendship that deepens without a word, the habit set down gently, the courage that grows while no one is watching.",
+      "So when the season turns, let it turn. Do not rush to name what is ending. Stand at the window a moment longer. The year is only learning, again, how to let go — and in letting go, how to begin."
+    ],
+    "translations": [
+      "有一段时光，介于八月底与九月初之间，光开始悄悄改变。它从不喧哗宣告自己的到来。影子多出一丝悠长，黄昏的空气转凉，而那些叶子——尚未飘落——仿佛停驻，像在思忖着什么。",
+      "我们大半生都在为戏剧性的时刻做准备：猝然的失去、盛大的开始、撕裂天空的暴雨。然而世界，多半时候，是以安静的尺度移动的。秋天不是以呐喊，而是以低语降临——颜色缓缓流转，阳光变得柔和，第一个清晨你走出门外，几乎不假思索地，伸手去取那件你已遗忘的毛衣。",
+      "或许这就是它的教诲。改变不必喧响，才成其为真实。生命被重新描画，不只在其剧变之中，也在那些微小、从容的转折里——友谊在无声中加深，习惯被轻轻放下，勇气在无人注视时生长。",
+      "所以，当季节流转，就由它流转吧。不要急着为正在结束的事物命名。在窗前再多站一刻。这一年不过是在重新学习，如何放手——而在放手之中，如何开始。"
+    ],
+    "vocab": [
+      {
+        "term": "fanfare",
+        "pos": "n.",
+        "meaning": "喧闹的号角声；大张旗鼓",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：常作 with (much) fanfare，指高调、隆重地。"
+      },
+      {
+        "term": "lengthen",
+        "pos": "v.",
+        "meaning": "变长，延长",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：及物 / 不及物皆可，描述时间、影子、道路等拉长。"
+      },
+      {
+        "term": "dusk",
+        "pos": "n.",
+        "meaning": "黄昏，傍晚",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：at dusk 在黄昏时分，写作中常营造静谧氛围。"
+      },
+      {
+        "term": "brace for",
+        "pos": "phr.v.",
+        "meaning": "做好准备（迎接困难）",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：后接名词，如 brace for impact / the worst / a storm。"
+      },
+      {
+        "term": "by quiet degrees",
+        "pos": "phr.",
+        "meaning": "以安静的、渐进的方式",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：degree 此处表\"程度 / 步骤\"，by degrees = 逐渐地。"
+      },
+      {
+        "term": "whisper",
+        "pos": "n./v.",
+        "meaning": "低语，耳语",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：文中作名词，与 shout 对比，拟人化秋的\"轻\"。"
+      },
+      {
+        "term": "upheaval",
+        "pos": "n.",
+        "meaning": "剧变，动荡",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：多指生活、社会的剧烈变动，含不安定感。"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "从容的，不慌不忙的",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：修饰节奏、语调、步伐，强调\"慢而稳\"。"
+      },
+      {
+        "term": "deepen",
+        "pos": "v.",
+        "meaning": "加深，变深",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：可用于感情、颜色、危机等，作及物或不及物。"
+      },
+      {
+        "term": "let go",
+        "pos": "phr.v.",
+        "meaning": "放手，放下",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：常接 of + 名词，表释怀、不再执着。"
+      },
+      {
+        "term": "turn",
+        "pos": "v.",
+        "meaning": "（文中）流转、转变",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：the season turns 表季节更替，文学化用法。"
+      },
+      {
+        "term": "pause",
+        "pos": "v./n.",
+        "meaning": "停顿，暂停",
+        "enExample": "",
+        "zhExample": "",
+        "note": "用法：作不及物，常接 to do 表\"停下去做\"。"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "1. 定语从句（when 引导，修饰表示时间的名词）",
+        "example": "There is a moment, … , when the light begins to change.",
+        "note": "when 引导限制性定语从句修饰 moment，在从句中作时间状语（= at which）。\"There be + 名词 + 定语从句\"是英语常见结构，when / where / that 依先行词而定。注意 when 不可换成 that，因为 moment 表时间且从句缺状语。"
+      },
+      {
+        "point": "2. 现在分词作插入语 / 伴随 + as though + 分词",
+        "example": "the leaves — not yet falling — seem to pause, as though considering something.",
+        "note": "not yet falling 是现在分词短语作插入修饰 leaves，表\"尚未飘落\"；as though considering something 是\"as though + 现在分词\"结构，分词 considering 的逻辑主语承前为 the leaves，表\"仿佛正在……\"的伴随状态，比 as though they were considering 更简洁。"
+      },
+      {
+        "point": "3. not…but… 对比并列结构",
+        "example": "Autumn arrives not as a shout but as a whisper — …",
+        "note": "not A but B 连接两个平行成分，此处为两个介词短语 as a shout 与 as a whisper，作方式状语。not 与 but 后结构须对称；本句用拟人手法把秋的\"降临\"对比为\"呐喊 vs 低语\"，突出其轻柔。"
+      },
+      {
+        "point": "4. \"疑问词 + 不定式\"作宾语 + 破折号平行省略",
+        "example": "The year is only learning, … , how to let go — and in letting go, how to begin.",
+        "note": "how to let go 与 how to begin 是\"疑问词 + 不定式\"短语，作 learning 的宾语。破折号后 in letting go 为介词短语作状语，并承前省略了 how to，与 how to begin 构成平行结构，节奏层层递进：放手之中，亦学会开始。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-04",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "commence",
+      "pos": "v.",
+      "phonetic": "/kəˈmens/",
+      "meaning": "开始；着手（正式用语）",
+      "enExample": "The training program will commence on the first Monday of October.",
+      "zhExample": "培训项目将于十月的第一个周一开始。",
+      "note": "💡 与 begin 同义的正式书面语，常见于公告、合同。搭配 commence the meeting / commence operations。正式通知用 commence 更有仪式感。"
+    },
+    {
+      "word": "excel",
+      "pos": "v.",
+      "phonetic": "/ɪkˈsel/",
+      "meaning": "擅长；出众；超越",
+      "enExample": "She excels at turning complicated data into simple charts.",
+      "zhExample": "她非常擅长把复杂的数据变成简洁的图表。",
+      "note": "💡 ex-=向外 + cel=升高，高人一头。不及物动词，搭配 excel at/in doing sth。找到你 excel at 的方向深耕，就是竞争力。"
+    },
+    {
+      "word": "paradigm",
+      "pos": "n.",
+      "phonetic": "/ˈpærədaɪm/",
+      "meaning": "范式；模式；典范",
+      "enExample": "Remote work represents a fundamental paradigm shift in how we think about offices.",
+      "zhExample": "远程办公代表着我们对办公室认知的根本性范式转变。",
+      "note": "💡 源出希腊语「例证」，经科学哲学著作广为人知。搭配 a paradigm shift / a new paradigm。新技术常带来 paradigm shift，先拥抱者受益。"
+    },
+    {
+      "word": "simultaneously",
+      "pos": "adv.",
+      "phonetic": "/ˌsaɪmlˈteɪniəsli/",
+      "meaning": "同时地",
+      "enExample": "The announcement was broadcast simultaneously in five countries.",
+      "zhExample": "这则公告同时在五个国家发布。",
+      "note": "💡 词根 simul=同一时刻，与 same 同源。别和 simulate（模拟）混淆。搭配 happen/run simultaneously。多线推进时几件事常同时发生。"
+    },
+    {
+      "word": "compatible",
+      "pos": "adj.",
+      "phonetic": "/kəmˈpætəbl/",
+      "meaning": "兼容的；合得来的",
+      "enExample": "The new software is compatible with all major operating systems.",
+      "zhExample": "这个新软件与所有主流操作系统都兼容。",
+      "note": "💡 com- + pat=忍受（与 patient 同源），能彼此包容即兼容。搭配 be compatible with sth。软件兼容、脾气相投都可用它。"
+    }
+  ],
+  "essay": {
+    "title": "After the Rain, the Map Changes",
+    "author": "佚名",
+    "paragraphs": [
+      "Rain is a cartographer with wet hands. After a storm the map of the world is never quite the same: rivers have moved their channels, small paths have disappeared under grass, and the pond behind the barn has widened into a country of its own. We who live on the land must learn to redraw what we thought was permanent.",
+      "We build our lives on assumptions of dry weather, and rain reminds us how provisional everything is. The bridge that crossed the creek in spring is measured against the creek of autumn; the shortcut through the field is reconsidered after every downpour. To live after rain is to accept a world in which the landmarks are revised without asking our permission.",
+      "Yet the changed map is not only a loss; it is also an invitation to look again. The flood that removed a ford has revealed a sandbar no one had noticed; the storm that felled an old tree has opened a view of hills that were always there, hidden behind leaves. Every erasure writes something new, if we are willing to read the new page.",
+      "After the rain, even familiar streets confess their true slopes. Water finds every low place and draws it honestly, pooling where we never guessed the ground dipped. It is the same with a life after difficulty: the low places are exposed, the hidden cracks become visible, and what could not be seen in clear weather is suddenly standing in plain light, asking to be repaired.",
+      "So when the map changes, change with it, and grieve first if you must. The path you lost was real, and the one that replaces it will be real too, in a different way. This is the oldest lesson of weather and of water: nothing is permanent, nothing is wasted, and the world, redrawn by rain, is always a world we have not yet learned to love."
+    ],
+    "translations": [
+      "雨是一位双手潮湿的地图绘制者。一场风暴过后，世界的地图再不会完全一样：河流改了道，小路消失在草丛下，谷仓后面的水塘涨成了自己的一方天地。住在陆地上的我们，必须学会重新描画那些我们曾以为永恒不变的东西。",
+      "我们把自己的生活建立在天不会下雨的假设上，而雨提醒我们一切是多么临时。春天跨过小溪的那座桥，要用秋天的小溪来丈量；穿过田埂的捷径，每场暴雨之后都要重新考虑。在雨后生活，意味着接受这样一个世界：那里的地标会被修改，而且并不征求我们的许可。",
+      "然而，改变了的地图不只是损失，它也是一次重新观看的邀请。冲走浅滩的洪水，露出了一处谁也没注意过的沙洲；刮倒老树的暴风，打开了一片山丘的视野，它们一直都在，只是藏在了树叶后面。每一次抹去都会写下新的东西，只要我们愿意去读新的一页。",
+      "雨后，连熟悉的街道也会坦白它们真实的坡度。水找到每一处低洼，诚实地把它画出来，在我们从未料到地面下陷的地方聚成水洼。经历艰难之后的人生也是如此：低洼暴露了，隐藏的裂缝变得清晰可见，那些晴天里看不见的东西，忽然站在明晃晃的光线里，请求被修补。",
+      "所以，当地图改变时，就随它改变；如果非要先难过一场，那就难过吧。你失去的那条路是真实的，取代它的那一条也会是真实的，只是真实的方式不同。这是天气与水最古老的教训：没有什么是永恒的，没有什么会被浪费，而被雨重新描画过的世界，永远是一个我们尚未学会去爱的世界。"
+    ],
+    "grammar": [
+      {
+        "point": "现在完成时并列与冒号解释",
+        "example": "\"After a storm the map of the world is never quite the same: rivers have moved their channels, small paths have disappeared under grass, and the pond behind the barn has widened into a country of its own.\"",
+        "note": "冒号后用三个并列分句具体说明地图如何改变，谓语均用现在完成时（have moved, have disappeared, has widened），强调过去的动作对现在造成的结果；never quite the same 表示永远不可能再完全相同。 举一反三：现在完成时强调动作与现在的联系，常用于列举变化带来的结果，注意主语为单数时用 has。"
+      },
+      {
+        "point": "不定式作主语与表语 + in which 定语从句",
+        "example": "\"To live after rain is to accept a world in which the landmarks are revised without asking our permission.\"",
+        "note": "To live after rain 是不定式短语作主语，to accept a world 是不定式作表语，前后形成对等；in which the landmarks are revised 是介词 in 加关系代词 which 引导的定语从句修饰 world，相当于 where；without asking 是介词短语作状语。 举一反三：介词 + which 引导定语从句时，介词的选择取决于先行词的搭配，如 the world in which、the pen with which。"
+      },
+      {
+        "point": "定语从句并列与现在完成时",
+        "example": "\"The flood that removed a ford has revealed a sandbar no one had noticed; the storm that felled an old tree has opened a view of hills that were always there, hidden behind leaves.\"",
+        "note": "两个并列分句结构对称：主语分别由 that 引导的定语从句修饰（that removed a ford、that felled an old tree），谓语都用现在完成时 has revealed 与 has opened；no one had noticed 前省略关系词，用过去完成时表示此前未被注意；hidden behind leaves 是过去分词短语作补充说明。 举一反三：并列句与排比结构能增强画面感，写作时保持各分句语法成分一致即可。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "provisional",
+        "pos": "adj.",
+        "meaning": "临时的，暂定的",
+        "enExample": "Every map, like every life, is only provisional until the next storm.",
+        "zhExample": "每一张地图，如同每一种人生，在下一场风暴到来之前都只是临时的。",
+        "note": "用法：指暂时生效、有待确定的；a provisional agreement 临时协议。"
+      },
+      {
+        "term": "grieve",
+        "pos": "v.",
+        "meaning": "悲痛，哀悼",
+        "enExample": "She allowed herself to grieve for the road the flood had taken.",
+        "zhExample": "她允许自己为洪水带走的那条路哀伤一场。",
+        "note": "用法：grieve for/over 为……而悲伤；指深切的哀伤。"
+      },
+      {
+        "term": "erasure",
+        "pos": "n.",
+        "meaning": "擦除，抹去",
+        "enExample": "The erasure of the old path made room for a wider one.",
+        "zhExample": "旧路的抹去，为一条更宽的路腾出了地方。",
+        "note": "用法：指清除痕迹的行为；the erasure of 对……的抹除。"
+      },
+      {
+        "term": "channel",
+        "pos": "n.",
+        "meaning": "水道，河床；渠道",
+        "enExample": "After the flood the river carved itself a new channel.",
+        "zhExample": "洪水过后，河流为自己冲出一条新的水道。",
+        "note": "用法：指水流的通道，也比喻信息或行动的渠道；change channels 改变河道。"
+      },
+      {
+        "term": "sandbar",
+        "pos": "n.",
+        "meaning": "沙洲，沙坝",
+        "enExample": "The sandbar that appeared overnight became a resting place for birds.",
+        "zhExample": "一夜之间出现的沙洲，成了鸟儿歇脚的地方。",
+        "note": "用法：指河口或近岸由泥沙堆积而成、常隐于水下的沙脊。"
+      },
+      {
+        "term": "slope",
+        "pos": "n./v.",
+        "meaning": "坡度，斜坡；倾斜",
+        "enExample": "The rain revealed the true slope of the street we thought was level.",
+        "zhExample": "雨水暴露了那条我们以为平坦的街道真实的坡度。",
+        "note": "用法：指地面或物体的倾斜度；a gentle slope 缓坡。"
+      },
+      {
+        "term": "redraw",
+        "pos": "v.",
+        "meaning": "重画，重新划定",
+        "enExample": "Every generation must redraw the maps its parents trusted.",
+        "zhExample": "每一代人都必须重画父母那一代深信不疑的地图。",
+        "note": "用法：指重新绘制地图或界线，也比喻重新规划生活。"
+      },
+      {
+        "term": "cartographer",
+        "pos": "n.",
+        "meaning": "地图绘制者，制图师",
+        "enExample": "The rain, that patient cartographer, redraws the valley every spring.",
+        "zhExample": "雨，这位耐心的制图师，每年春天都为山谷重新描画一次。",
+        "note": "用法：指绘制地图的专业人士；也比喻描画世界的人。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-17",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "pragmatic",
+      "pos": "adj.",
+      "phonetic": "/præɡˈmæt.ɪk/",
+      "meaning": "务实的；讲求实效的；实用的",
+      "enExample": "The new manager took a pragmatic approach to solving the team's backlog, focusing on what would actually work this quarter.",
+      "zhExample": "新经理采取了务实的办法来解决团队的积压任务，专注于本季度真正能见效的方案。",
+      "note": "词根 prag-（行动）+ -matic。idealistic 是\"理想的\"，pragmatic 是\"看落地\"的。面试谈规划时常见：We need a pragmatic timeline, not an ideal one."
+    },
+    {
+      "word": "alleviate",
+      "pos": "v.",
+      "phonetic": "/əˈliː.vi.eɪt/",
+      "meaning": "减轻；缓解（痛苦、压力、问题等）",
+      "enExample": "A short walk outside after lunch can often alleviate the stress of a long workday.",
+      "zhExample": "午饭后出去散个步，常常能缓解漫长工作日的压力。",
+      "note": "al-（加强）+ levi（轻）+ -ate，使变轻 = 减轻。和 relieve 近义，但 alleviate 更正式，书面、报告里更常用。搭配 alleviate pain / stress / burden。"
+    },
+    {
+      "word": "incorporate",
+      "pos": "v.",
+      "phonetic": "/ɪnˈkɔːr.pə.reɪt/",
+      "meaning": "包含；纳入；吸收；并入",
+      "enExample": "The updated policy incorporates feedback from employees across all departments.",
+      "zhExample": "更新后的政策吸纳了来自各部门员工的反馈意见。",
+      "note": "in-（进入）+ corpor（团体）+ -ate，并入一个整体。常见搭配 incorporate feedback / incorporate new ideas into... 比 include 多了\"真正融合\"的意味。"
+    },
+    {
+      "word": "thrive",
+      "pos": "v.",
+      "phonetic": "/θraɪv/",
+      "meaning": "茁壮成长；兴旺；蓬勃发展",
+      "enExample": "Plants thrive when they get enough sunlight and the right amount of water.",
+      "zhExample": "植物在获得充足阳光和适量水分时会长得格外茂盛。",
+      "note": "古北欧语 þrífa，意指\"成长、兴旺\"。常见搭配 thrive in（...中如鱼得水）/ thrive on（靠...越活越带劲）。She thrives on challenges. 是面试中的高分金句。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "phonetic": "/ˈded.laɪn/",
+      "meaning": "截止日期；最后期限",
+      "enExample": "The deadline for submitting the application is next Friday at 5 PM.",
+      "zhExample": "提交申请的最后期限是下周五下午 5 点。",
+      "note": "dead（死的）+ line（线）→ 美国南北战争期间监狱的死线，引申为不可逾越的期限。职场高频：meet a deadline（按时完成）/ miss a deadline（误期）/ tight deadline（紧迫期限）。"
+    }
+  ],
+  "essay": {
+    "title": "The Last Warm Page of Summer",
+    "author": "佚名",
+    "paragraphs": [
+      "The calendar still says August, but the evenings have begun to change their mind. The light arrives a little earlier in the morning and leaves a little sooner at dusk, as if summer were quietly closing a book it is not quite finished with.",
+      "You can feel it in small things. The crickets are louder now, as though trying to be remembered. The shade under the trees has grown greener, cooler, less like a refuge and more like a habit. Even the ice in your glass seems to melt with less urgency, as if it too knows the heat will not last.",
+      "There is a particular sadness to late summer, gentle and without regret. It is the sadness of a good letter you are reluctant to finish, of a road trip whose last miles feel both wanted and unwanted. We call it nostalgia, but it is really just attention — the sudden awareness that a thing is passing, and that passing is what makes it precious.",
+      "So let the season teach you. Do not rush to autumn. Sit once more on the steps as the air turns blue, and let the warmth settle into your shoulders like a hand you will miss. Summer does not end all at once; it leaves a little every evening, trusting you to remember the rest."
+    ],
+    "translations": [
+      "日历上仍写着八月，可黄昏已开始改变主意。晨光来得略早，暮色退得稍快，仿佛夏天正悄悄合上一本尚未读完的书。",
+      "你能在细微处察觉。蟋蟀此刻叫得更响，像是要被人记住。树荫变得更绿、更凉，少了几分庇护所的味道，多了几分习惯。就连杯中的冰，也融得少了些急切，仿佛它亦知暑热不会长久。",
+      "夏末有一种特别的哀愁，温柔而无悔。那是一封好信你舍不得读完的惆怅，是一段公路旅行最后几英里既盼又怕的心境。我们称之为怀旧，其实那只是专注——骤然意识到某物正在离去，而正是离去，让它变得珍贵。",
+      "那么就让季节教你。别忙着奔向秋天。当空气转蓝，再在台阶上坐一回，让暖意落进肩头，像一只你会想念的手。夏天并非一夕结束；它每个黄昏都留下一点，相信你会记得其余。"
+    ],
+    "grammar": [
+      {
+        "point": "as if + 虚拟语气（were closing…）",
+        "example": "\"…as if summer were quietly closing a book it is not quite finished with.\"",
+        "note": "as if 引导方式状语从句，当所述与现在事实相反时用“were + 现在分词/形容词/名词”的虚拟语气。此处 summer 并非真的在“合书”，故用 were closing 表虚构的拟人画面。 举一反三：He talks as if he were the only one who knew. （他说得仿佛只有他知道似的。）"
+      },
+      {
+        "point": "省略关系代词的定语从句",
+        "example": "\"It is the sadness of a good letter (that / which) you are reluctant to finish…\"",
+        "note": "先行词 letter 在从句中作 finish 的宾语，关系代词 that / which 可省略。这是口语与文学中极常见的“宾语关系代词省略”，让句子更紧凑流畅。 举一反三：The book you lent me changed how I see the world."
+      },
+      {
+        "point": "现在分词短语作伴随状语（trusting…）",
+        "example": "\"…it leaves a little every evening, trusting you to remember the rest.\"",
+        "note": "trusting 是现在分词，逻辑主语仍是主句主语 it（夏天），表示与主句动作“leaves”同时发生的伴随状态/结果，相当于 and it trusts you…。现在分词作状语是让长句有画面感的关键技巧。 举一反三：She walked away, smiling at the memory."
+      },
+      {
+        "point": "that 引导的同位语从句",
+        "example": "\"…the sudden awareness that a thing is passing, and that passing is what makes it precious.\"",
+        "note": "抽象名词 awareness 后接 that 从句，解释“意识”的具体内容，这种从句叫同位语从句（注意与定语从句区分：that 不充当成分，仅起连接作用）。连续两个 that 从句并列，由 and 连接，节奏舒缓而有重量。 举一反三：The belief that tomorrow will be better keeps us going."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "dusk",
+        "pos": "n.",
+        "meaning": "黄昏；暮色",
+        "enExample": "The light leaves a little sooner at dusk.",
+        "zhExample": "暮色退去得稍早了一些。",
+        "note": "用法：比 evening 更强调“天将黑未黑”的薄暮时分"
+      },
+      {
+        "term": "reluctant",
+        "pos": "adj.",
+        "meaning": "不情愿的；勉强的",
+        "enExample": "He was reluctant to finish the good letter.",
+        "zhExample": "他舍不得读完那封好信。",
+        "note": "用法：be reluctant to do 不情愿做某事"
+      },
+      {
+        "term": "nostalgia",
+        "pos": "n.",
+        "meaning": "怀旧；思乡之情",
+        "enExample": "We call it nostalgia, but it is really just attention.",
+        "zhExample": "我们称之为怀旧，其实那只是专注。",
+        "note": "用法：常指对过往温暖事物的眷恋"
+      },
+      {
+        "term": "refuge",
+        "pos": "n.",
+        "meaning": "避难所；庇护处",
+        "enExample": "The shade is less like a refuge and more like a habit.",
+        "zhExample": "树荫少了几分庇护所的味道，多了几分习惯。",
+        "note": "用法：a refuge from… 躲避……的处所"
+      },
+      {
+        "term": "urgency",
+        "pos": "n.",
+        "meaning": "急迫；急切",
+        "enExample": "The ice melts with less urgency, as if it knows.",
+        "zhExample": "冰融得少了些急切，仿佛它亦知。",
+        "note": "用法：with urgency 急切地；urgency 强调“必须马上做”的紧迫感"
+      },
+      {
+        "term": "melt",
+        "pos": "v.",
+        "meaning": "融化；消散",
+        "enExample": "Her anger melted when she heard the truth.",
+        "zhExample": "听到真相，她的怒气便消散了。",
+        "note": "用法：及物/不及物皆可；引申义“（愤怒、疑虑）消散”"
+      },
+      {
+        "term": "precious",
+        "pos": "adj.",
+        "meaning": "珍贵的；宝贵的",
+        "enExample": "Passing is what makes it precious.",
+        "zhExample": "正是离去，让它变得珍贵。",
+        "note": "用法：precious to sb. 对某人而言珍贵；比 valuable 多一层“情感珍视”"
+      },
+      {
+        "term": "settle",
+        "pos": "v.",
+        "meaning": "落下；安顿；沉淀",
+        "enExample": "Let the warmth settle into your shoulders.",
+        "zhExample": "让暖意落进你的肩头。",
+        "note": "用法：settle into 渗入/落入（某处）；settle down 安定"
+      },
+      {
+        "term": "rush",
+        "pos": "v.",
+        "meaning": "冲；匆忙（去做）",
+        "enExample": "Do not rush to autumn; sit once more.",
+        "zhExample": "别忙着奔向秋天，再坐一回。",
+        "note": "用法：rush to do 急着去做；rush sb. 催促某人"
+      },
+      {
+        "term": "trust",
+        "pos": "v.",
+        "meaning": "信任；托付",
+        "enExample": "Summer leaves a little, trusting you to remember.",
+        "zhExample": "夏天留下一点，相信你会记得。",
+        "note": "用法：trust sb. to do 相信某人会（做）；此处拟人，夏天“信任”你记得"
+      }
+    ]
+  }
+}

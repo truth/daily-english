@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-22",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "deliberate",
+      "pos": "adj.",
+      "phonetic": "/dɪˈlɪbərət/",
+      "meaning": "故意的；深思熟虑的",
+      "enExample": "Her deliberate choice to stay silent surprised everyone in the meeting.",
+      "zhExample": "她刻意保持沉默的选择让在座所有人惊讶。",
+      "note": "💡 liber=天平，本义是反复掂量，形容词即深思熟虑的、故意的。搭配 a deliberate decision / deliberate practice（刻意练习）。"
+    },
+    {
+      "word": "contingency",
+      "pos": "n.",
+      "phonetic": "/kənˈtɪndʒənsi/",
+      "meaning": "应急方案；意外情况",
+      "enExample": "We've set aside a contingency fund in case the project goes over budget.",
+      "zhExample": "我们预留了一笔应急资金，以防项目超支。",
+      "note": "💡 con + ting=触摸，未被预见的「偶然碰上」。搭配 contingency plan / contingency fund。做计划永远要留 Plan B。"
+    },
+    {
+      "word": "diminish",
+      "pos": "v.",
+      "phonetic": "/dɪˈmɪnɪʃ/",
+      "meaning": "减少；减弱；贬低",
+      "enExample": "His influence in the team has diminished since the reorganization.",
+      "zhExample": "重组之后，他在团队里的影响力减弱了。",
+      "note": "💡 词根 mini=小，使变小。搭配 diminish the risk / diminish over time。别当众贬低同事的功劳，那只会削弱团队信任。"
+    },
+    {
+      "word": "embark",
+      "pos": "v.",
+      "phonetic": "/ɪmˈbɑːrk/",
+      "meaning": "着手；开始（新事业）",
+      "enExample": "After graduation, she embarked on a career in product design.",
+      "zhExample": "毕业后，她开启了产品设计的职业生涯。",
+      "note": "💡 em-进入 + bark=船，字面是「上船启航」，引申为开启新阶段。搭配 embark on a journey/career。换岗、创业都是 embark on 一段旅程。"
+    },
+    {
+      "word": "explicit",
+      "pos": "adj.",
+      "phonetic": "/ɪkˈsplɪsɪt/",
+      "meaning": "明确的；清楚直言的",
+      "enExample": "He gave me explicit instructions on how to handle the complaint.",
+      "zhExample": "关于如何处理投诉，他给了我明确的指示。",
+      "note": "💡 ex-=向外 + plic=折叠，把折叠的展开即「摊开讲明」。搭配 explicit instructions / be explicit about sth。职场沟通要 explicit，别让人猜。"
+    }
+  ],
+  "essay": {
+    "title": "In Defense of Boredom",
+    "author": "佚名",
+    "paragraphs": [
+      "We have grown afraid of emptiness, especially the emptiness of an unscheduled hour. The moment a line forms or a screen loads, we reach for a phone, as though being briefly unoccupied were a small failure. But boredom is not a void; it is a fallow field, resting on purpose before the next planting. It is a pause that is secretly preparing.",
+      "Children understand this better than adults. Give a child an empty afternoon, and within an hour she has invented a game, a country, and a set of laws to govern it. Dullness is the raw material of imagination; the mind, left alone, begins to make its own weather instead of renting someone else's. Boredom, for a child, is simply the door before the story starts.",
+      "For adults the same empty space has become a nuisance to be eliminated rather than a room to be entered. Yet some of our clearest thoughts arrive only when nothing is scheduled: in the shower, on a long walk, in the last minutes before sleep. The mind, deprived of input, starts to sort its own shelves.",
+      "To defend boredom is not to praise laziness but to respect the intervals between efforts, the way music respects the silence between notes. A life without such gaps becomes noise. We need stretches of aimless time, not to waste our hours, but to let them ripen, the way fruit left longest on the branch grows sweet.",
+      "Perhaps the word boredom deserves a kinder meaning: the permission to be unproductive without guilt. Next time the schedule empties, resist the urge to fill it. Sit still and watch what surfaces. The best ideas are often shy; they wait for a quiet room before they agree to speak. Boredom may be the mind's way of setting the table for a guest it has not yet met."
+    ],
+    "translations": [
+      "我们渐渐害怕起空虚来，尤其是一段没有安排的时光。一旦要排队，或是屏幕加载，我们就伸手去拿手机，仿佛短暂地无所事事是一种小小的失败。但无聊并不是虚空，它是一块休耕的田，刻意歇着，等待下一次播种。那是一段暗自准备的停顿。",
+      "孩子比大人更懂这个道理。给孩子一个空白的下午，一小时内她就发明出一种游戏、一个国家，以及一套治理它的法律。乏味是想象力的原料；无人打扰的头脑会开始制造属于自己的天气，而不是租用别人的。对小孩来说，无聊不过是故事开始前的那扇门。",
+      "对大人而言，同样的空白已经变成一种需要消除的麻烦，而不是一间可以走进去的屋子。然而，我们最清晰的念头往往只在无事安排时到来：在淋浴时，在长路上，在入睡前的最后几分钟里。头脑失去输入，便开始整理自己的书架。",
+      "为无聊辩护，不是赞美懒惰，而是尊重努力之间的间隔，正如音乐尊重音符之间的静默。没有空隙的人生会变成噪音。我们需要大段无所事事的时间，不是为了挥霍光阴，而是为了让它们成熟，正如在枝头留得最久的果实最甜。",
+      "也许无聊这个词值得一个更温柔的定义：允许自己不产出什么而不感到内疚。下一次日程空下来时，忍住填补它的冲动。安静地坐着，看看什么会浮上水面。最好的想法往往害羞，它们要等一个安静的房间才肯开口。无聊或许是头脑在为一个尚未谋面的客人摆好餐桌。"
+    ],
+    "grammar": [
+      {
+        "point": "The moment 引导时间状语从句",
+        "example": "\"The moment a line forms or a screen loads, we reach for a phone, as though being briefly unoccupied were a small failure.\"",
+        "note": "The moment (that)... 相当于 as soon as...，表示一……就……，此处引导时间状语从句；主句中 as though 引出方式状语从句，表示好像，因与事实相反，从句用虚拟语气 were。 举一反三：the moment, the instant, the minute 都可当作连词使用，表示一……就……。"
+      },
+      {
+        "point": "祈使句 + and 结构表条件与结果",
+        "example": "\"Give a child an empty afternoon, and within an hour she has invented a game, a country, and a set of laws to govern it.\"",
+        "note": "祈使句 Give a child an empty afternoon 之后接 and 连接的陈述句，相当于 If you give a child an empty afternoon, she will...，是英语中表达条件与结果关系的常见结构；to govern it 是不定式作定语修饰 laws。 举一反三：祈使句 + and 表示肯定的结果；换成 or 则表示否则。"
+      },
+      {
+        "point": "过去分词短语作状语",
+        "example": "\"The mind, deprived of input, starts to sort its own shelves.\"",
+        "note": "deprived of input 是过去分词短语作状语，说明原因或条件，逻辑主语是 the mind，可改写为 when/if the mind is deprived of input；过去分词与主语之间是被动关系。 举一反三：过去分词作状语时，先找到它的逻辑主语，通常与句子主语一致。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "emptiness",
+        "pos": "n.",
+        "meaning": "空，空虚",
+        "enExample": "She felt a strange emptiness after the house fell silent.",
+        "zhExample": "房子安静下来之后，她感到一种奇异的空落。",
+        "note": "用法：指空间上的空，也指精神上的空落感；the emptiness of 某处的空。"
+      },
+      {
+        "term": "dullness",
+        "pos": "n.",
+        "meaning": "沉闷，乏味",
+        "enExample": "The dullness of the long drive was broken by a sudden rainbow.",
+        "zhExample": "漫长车程的乏味被一道突然出现的彩虹打破。",
+        "note": "用法：形容缺乏刺激与趣味的状态；the dullness of 某事的乏味。"
+      },
+      {
+        "term": "eliminate",
+        "pos": "v.",
+        "meaning": "消除，淘汰",
+        "enExample": "Good habits do not eliminate effort; they make it count.",
+        "zhExample": "好习惯并不消除努力，而是让努力更有价值。",
+        "note": "用法：eliminate the possibility 排除可能；eliminate from 从……中去除。"
+      },
+      {
+        "term": "aimless",
+        "pos": "adj.",
+        "meaning": "漫无目的的",
+        "enExample": "He spent an aimless hour watching clouds rearrange themselves.",
+        "zhExample": "他花了一整个无所事事的钟头看云朵重新排列。",
+        "note": "用法：指没有明确目标地移动或度过；wander aimlessly 漫无目的地游荡。"
+      },
+      {
+        "term": "ripen",
+        "pos": "v.",
+        "meaning": "成熟",
+        "enExample": "An idea, like fruit, needs time to ripen before it can be used.",
+        "zhExample": "想法如水果，需要时间成熟才能被使用。",
+        "note": "用法：指果实成熟，也指时机或想法趋于成熟；ripen into 成长为。"
+      },
+      {
+        "term": "interval",
+        "pos": "n.",
+        "meaning": "间隔，间歇",
+        "enExample": "The lights blinked at regular intervals all night long.",
+        "zhExample": "灯光整夜每隔固定时间闪动一次。",
+        "note": "用法：at intervals 每隔一段时间；the interval between 两者之间的间隔。"
+      },
+      {
+        "term": "nuisance",
+        "pos": "n.",
+        "meaning": "麻烦事，讨厌的人",
+        "enExample": "To a hurried mind, an empty hour is a nuisance.",
+        "zhExample": "对匆忙的头脑而言，一个空着的钟头是个麻烦。",
+        "note": "用法：make a nuisance of oneself 惹人烦；a public nuisance 妨害公众的事。"
+      },
+      {
+        "term": "unproductive",
+        "pos": "adj.",
+        "meaning": "没有产出的，徒劳的",
+        "enExample": "Some of the most valuable hours look completely unproductive.",
+        "zhExample": "有些最有价值的时光看起来完全无所产出。",
+        "note": "用法：形容不产生结果或效益；unproductive land 贫瘠的土地。"
+      }
+    ]
+  }
+}

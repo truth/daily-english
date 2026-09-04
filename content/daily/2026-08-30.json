@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-30",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "prescribe",
+      "pos": "v.",
+      "phonetic": "/prɪˈskraɪb/",
+      "meaning": "规定；开药方",
+      "enExample": "The policy prescribes a clear procedure for handling complaints.",
+      "zhExample": "该政策为投诉处理规定了清晰的程序。",
+      "note": "💡 pre-=预先 + scribe=写，「预先写好」。医生预先开药方，制度预先写明要求。同源词 describe、subscribe。制度层面常用 prescribe。"
+    },
+    {
+      "word": "reinforce",
+      "pos": "v.",
+      "phonetic": "/ˌriːɪnˈfɔːrs/",
+      "meaning": "加强；强化",
+      "enExample": "The training program reinforces the importance of data security.",
+      "zhExample": "这项培训强化了数据安全的重要性。",
+      "note": "💡 re-=再次 + in + force=力量，反复加力使之牢固。搭配 reinforce the message/idea。重要信息要反复强化，人很少一次就记住。"
+    },
+    {
+      "word": "adverse",
+      "pos": "adj.",
+      "phonetic": "/ˈædvɜːrs/",
+      "meaning": "不利的；有害的",
+      "enExample": "The project faced adverse weather conditions throughout the construction period.",
+      "zhExample": "整个施工期，项目都面临不利的天气条件。",
+      "note": "💡 ad-=朝向 + verse=转，「转到相反方向」即不利。别与 averse（反感）混淆。搭配 adverse effects/conditions。做预案先想最坏情形。"
+    },
+    {
+      "word": "substitute",
+      "pos": "n.",
+      "phonetic": "/ˈsʌbstɪtjuːt/",
+      "meaning": "替代品；代替者",
+      "enExample": "Coffee is not a substitute for sleep, no matter how much you drink.",
+      "zhExample": "咖啡再怎么喝也替代不了睡眠。",
+      "note": "💡 sub-=在下 + stitute=站，站在下面顶替别人的位置。搭配 a substitute for sth / substitute A for B。缺货时常用 substitute 标注替代品。"
+    },
+    {
+      "word": "make ends meet",
+      "pos": "phr.",
+      "phonetic": "/meɪk endz miːt/",
+      "meaning": "收支平衡；勉强维持生计",
+      "enExample": "With two kids in college, they work extra jobs just to make ends meet.",
+      "zhExample": "两个孩子都在上大学，他们打多份工才勉强维持收支平衡。",
+      "note": "💡 ends 指账本的两头（收入与支出），让两头接上即收支相抵。口语高频。刚工作时最懂什么是 make ends meet。"
+    }
+  ],
+  "essay": {
+    "title": "What We Owe the Future",
+    "author": "佚名",
+    "paragraphs": [
+      "The future is not an empty room we will one day enter; it is a guest already seated at our table, though we cannot see its face. Every decision we make today is a sentence written in a language that generation will have to read. The debt we owe the future is not money; it is foresight, the willingness to be inconvenienced now for someone else's comfort later.",
+      "We are good at loving what we can see and poor at loving what we can only imagine. A child in the room moves us; a child not yet born asks for a different kind of attention, one that must be given without applause. To act for the unseen is to be the ancestor someone will one day thank, though the thanks will arrive long after we are gone.",
+      "Some debts are paid with action; others are paid with restraint. We owe the future the forests we did not clear, the water we did not poison, the species we did not crowd out of existence. Restraint is invisible virtue, and it leaves no monument, only a world that is still able to begin again, which is the only monument that matters.",
+      "There is a comfort in small obligations done faithfully. Plant a tree you will never sit under; mend a road you will never drive; teach a skill to a child you will never see grown. These acts ask for no receipt, and that is exactly why they are trustworthy. The future is built less by grand plans than by unglamorous habits repeated until they become the shape of the world.",
+      "What we owe the future, finally, is the same thing we owe the past: honesty about what we inherited and what we leave behind. No generation finishes the work; each one only improves the odds for the next. To owe is human. To pay a little, on schedule, without complaint, is what turns obligation into dignity."
+    ],
+    "translations": [
+      "未来不是一间我们终将进入的空房间，而是一位已经坐在我们桌边的客人，只是我们看不见它的脸。我们今天做的每一个决定，都是用那个时代必须去读的语言写下的句子。我们欠未来的不是钱，而是远见：是愿意现在就麻烦一点，好让以后的人过得舒服些。",
+      "我们擅长爱看得见的东西，却不擅长爱只能想象的东西。屋里有个孩子会打动我们；尚未出生的孩子要求的是一种不同的关注，一种注定没有掌声的关注。为看不见的人行事，就是去做某个将来会感谢我们的祖先，尽管那声感谢要等我们离世很久之后才会到来。",
+      "有些债用行动偿还，另一些债用克制偿还。我们欠未来的，是我们没有砍掉的森林、没有污染的水、没有被我们挤到灭绝边缘的物种。克制是一种看不见的美德，它不留下纪念碑，只留下一个仍能重新开始的世界，而这正是唯一重要的纪念碑。",
+      "老老实实履行小小的义务，其中自有一种安慰。种一棵你永远不会在下面乘凉的树；修一条你永远不会驾车经过的路；教一个你看不到他长大的孩子一门手艺。这些行为不索取收据，正因如此，它们才值得信赖。未来与其说由宏大的计划建成，不如说由不起眼的习惯建成，这些习惯被反复练习，直到成为世界的形状。",
+      "说到底，我们欠未来的，与我们欠过去的，是同一件事：诚实地对待我们继承了什么、又留下什么。没有哪一代人能做完这项工作，每一代人只是为下一代提高胜算。有所亏欠，是人情之常；按时、毫无怨言地偿还一点，才把义务变成了尊严。"
+    ],
+    "grammar": [
+      {
+        "point": "过去分词短语作后置定语与 though 让步",
+        "example": "\"The future is not an empty room we will one day enter; it is a guest already seated at our table, though we cannot see its face.\"",
+        "note": "分号连接两个并列分句作对比；already seated at our table 是过去分词短语作后置定语修饰 guest，表示已经就座的；we will one day enter 前省略关系词 that；though 引导让步状语从句。 举一反三：过去分词短语作定语相当于一个被动的定语从句，如 a guest (who is) seated at the table。"
+      },
+      {
+        "point": "only 与 that 定语从句、which 非限制性定语从句",
+        "example": "\"Restraint is invisible virtue, and it leaves no monument, only a world that is still able to begin again, which is the only monument that matters.\"",
+        "note": "only 在此强调留下的只是 a world，它由 that 引导的定语从句修饰；句末 which 引导非限制性定语从句，指代 the only monument，其中又含 that matters 修饰 monument，matter 作动词表示要紧、重要。 举一反三：matter 作动词表示有关系、重要，常用句式是 What matters is...。"
+      },
+      {
+        "point": "不定式作主语与表语 + 省略关系词的定语从句",
+        "example": "\"To act for the unseen is to be the ancestor someone will one day thank, though the thanks will arrive long after we are gone.\"",
+        "note": "To act for the unseen 是不定式短语作主语，to be the ancestor 是不定式作表语；someone will one day thank 是省略关系词 whom 的定语从句修饰 ancestor；we are gone 是 be gone 结构，表示已经离开人世。 举一反三：不定式 to do 结构既可作主语也可作表语，二者形式对应时句子最为平衡。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "foresight",
+        "pos": "n.",
+        "meaning": "远见，先见之明",
+        "enExample": "Planting an oak tree is an act of ordinary foresight.",
+        "zhExample": "种下一棵橡树，是一种平凡的远见。",
+        "note": "用法：指预见未来并提前打算的能力；a man of foresight 有远见的人。"
+      },
+      {
+        "term": "restraint",
+        "pos": "n.",
+        "meaning": "克制，约束；限制",
+        "enExample": "The restraint of the builder saved the old wall for another century.",
+        "zhExample": "建筑者的克制，让那面老墙又多存续了一个世纪。",
+        "note": "用法：show restraint 表现出克制；with restraint 有节制地。"
+      },
+      {
+        "term": "obligation",
+        "pos": "n.",
+        "meaning": "义务，责任",
+        "enExample": "The obligation to the unborn is the oldest contract we sign.",
+        "zhExample": "对尚未出生的人的责任，是我们签署的最古老的契约。",
+        "note": "用法：have an obligation to do sth 有义务做某事；fulfill an obligation 履行义务。"
+      },
+      {
+        "term": "inherit",
+        "pos": "v.",
+        "meaning": "继承；经遗传而获得",
+        "enExample": "Every generation inherits both the debts and the gardens of the last.",
+        "zhExample": "每一代人都既继承了上一代的债务，也继承了上一代的花园。",
+        "note": "用法：inherit sth from sb 从某人那里继承某物；也指承继问题。"
+      },
+      {
+        "term": "dignity",
+        "pos": "n.",
+        "meaning": "尊严，庄重",
+        "enExample": "Paying what we owe, on time and without complaint, is a quiet form of dignity.",
+        "zhExample": "按时、毫无怨言地偿还自己亏欠的，是一种安静形式的尊严。",
+        "note": "用法：with dignity 体面地；the dignity of 的庄严。"
+      },
+      {
+        "term": "ancestor",
+        "pos": "n.",
+        "meaning": "祖先，先驱",
+        "enExample": "The roads we repair today will be walked by our descendants.",
+        "zhExample": "我们今天修补的路，将来会有子孙走过。",
+        "note": "用法：指家族祖先，也比喻事业的先行者；ancestor of 的源头。"
+      },
+      {
+        "term": "monument",
+        "pos": "n.",
+        "meaning": "纪念碑，遗迹；典范",
+        "enExample": "The clean river became the town's quietest monument.",
+        "zhExample": "那条清澈的河，成了小镇最安静的纪念碑。",
+        "note": "用法：a monument to 是……的纪念碑；也比喻留存后世的证明。"
+      },
+      {
+        "term": "applause",
+        "pos": "n.",
+        "meaning": "掌声，喝彩",
+        "enExample": "The work that shapes the future is done without applause.",
+        "zhExample": "塑造未来的工作，做起来总是没有掌声。",
+        "note": "用法：a round of applause 一阵掌声；也比喻公开的赞许。"
+      }
+    ]
+  }
+}

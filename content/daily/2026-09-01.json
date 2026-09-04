@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-01",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "postpone",
+      "pos": "v.",
+      "phonetic": "/pəˈspəʊn/",
+      "meaning": "推迟；延期",
+      "enExample": "The launch has been postponed until the software is stable.",
+      "zhExample": "产品发布已被推迟到软件稳定之后。",
+      "note": "💡 post-=向后 + pon=放，「往后放」。常与 until/to 连用。搭配 postpone a meeting/deadline。临时有事把会推到下周，提前告知是礼貌。"
+    },
+    {
+      "word": "deploy",
+      "pos": "v.",
+      "phonetic": "/dɪˈplɔɪ/",
+      "meaning": "部署；调配；上线（系统）",
+      "enExample": "The company will deploy the new system across all regional offices.",
+      "zhExample": "公司将在所有区域办公室部署新系统。",
+      "note": "💡 原为军事词「布阵」，引申为调配资源、上线系统。搭配 deploy resources/staff/a system。IT 圈代码上线就叫 deploy。"
+    },
+    {
+      "word": "viable",
+      "pos": "adj.",
+      "phonetic": "/ˈvaɪəbl/",
+      "meaning": "可行的；能存活的",
+      "enExample": "We need to determine whether this business model is financially viable.",
+      "zhExample": "我们需要判断这个商业模式在经济上是否可行。",
+      "note": "💡 词根 vi=生命（与 vital 同源），「活得下去」即可行。搭配 a viable option/solution。方案会上先问是否 viable，再谈细节。"
+    },
+    {
+      "word": "mandate",
+      "pos": "n.",
+      "phonetic": "/ˈmændeɪt/",
+      "meaning": "授权；任务；指令",
+      "enExample": "The team was given a clear mandate to cut costs by 20%.",
+      "zhExample": "团队接到了削减 20% 成本的明确指令。",
+      "note": "💡 man-=手 + dare=给，「交到手里」的任务，政企语境都常用。搭配 a clear mandate / within one's mandate。接活前先确认授权边界。"
+    },
+    {
+      "word": "discrepancy",
+      "pos": "n.",
+      "phonetic": "/dɪsˈkrepənsi/",
+      "meaning": "差异；不一致（多指账目数据）",
+      "enExample": "There is a discrepancy between the invoice and the amount we actually paid.",
+      "zhExample": "发票金额和我们实际支付的金额存在出入。",
+      "note": "💡 dis-=分开 + crep=发出咔嗒声，账对不上时发出的声响。搭配 a discrepancy between A and B。对账发现 discrepancy 先截图留证。"
+    }
+  ],
+  "essay": {
+    "title": "The Grammar of Goodbye",
+    "author": "佚名",
+    "paragraphs": [
+      "Every language has a grammar of goodbye, and we learn it the way we learn any grammar: by making mistakes. The first goodbyes are clumsy, rehearsed into a mirror, too long or too short. Gradually we discover that the truest farewells are rarely the ones we rehearse; they are the ones that slip out on ordinary days, from the porch, at the gate, without ceremony.",
+      "A good goodbye is a sentence that knows how to end. It does not drag its clauses or multiply its commas; it says what must be said and then stops, the way a poem stops, the way rain stops. We admire people who can do this, who can close a chapter and mean it, who can wave once and then turn, carrying the full weight of what they are leaving.",
+      "Some goodbyes are incomplete by design; they leave a door ajar, a sentence without a period, because both people know the story is not finished. Others are final, and the grammar shows it: short verbs, no qualifiers, a handshake where a hug used to be. The difficulty is never in the words. It is in accepting that the last page, however we write it, will never fully agree with us.",
+      "There is a skill in letting people go without letting them disappear from us. We keep them not in the present tense but in the way a river keeps the rain: changed, carried, and still itself. The farewell does not erase the conversation; it adds a silence to it, and in that silence the truest things finally become audible.",
+      "We are all learning the same lesson at different speeds: that goodbye is not the opposite of love but its final form of grammar, the tense in which we say what we were too shy to say in the present. Say it well, and the leaving becomes a kind of staying; say it poorly, and even the staying becomes a kind of leaving."
+    ],
+    "translations": [
+      "每种语言都有一套告别的语法，而我们像学任何语法一样学会它：靠犯错。最初的告别笨拙不堪，对着镜子排练，不是太长就是太短。慢慢地我们才发现，最真切的告别，很少是我们排练过的那一种；它们是平常日子里溜出来的那一种，在门廊上，在院门口，没有任何仪式。",
+      "一场好的告别，是一个懂得如何结尾的句子。它不拖沓从句，也不滥用逗号；它把该说的说完，然后停下，像诗停下那样，像雨停下那样。我们敬佩做得到这种事的人：能合上一章并且真的放下，能挥一次手然后转身，带着他们正要离开的一切的全部重量。",
+      "有些告别刻意地不完整；它们留着一扇虚掩的门，一个没有句号的句子，因为两个人都知道故事还没有完。另一些告别是最终的，语法也暴露了这一点：动词很短，没有修饰语，从前拥抱的地方变成一次握手。难处从来不在词句，而在于接受：最后那一页，无论我们怎么写，都不会完全合我们的意。",
+      "放人离开却不让他们从我们这里消失，是一种本领。我们留住他们，用的不是现在时，而是河流留住雨水的方式：改变了，带走了，却仍然是它自己。告别并不会抹去那段对话，只是为它添上一段静默；而正是在那段静默里，最真实的东西终于变得可以听见。",
+      "我们都在以不同的速度学习同一个道理：告别不是爱的反面，而是爱的最后一种语法形态，是我们在其中说出那些当下羞于启齿的话的时态。说得好，离别便成了一种停留；说得不好，连停留也会变成一种离别。"
+    ],
+    "grammar": [
+      {
+        "point": "疑问词 + 不定式作宾语",
+        "example": "\"A good goodbye is a sentence that knows how to end.\"",
+        "note": "that knows how to end 是定语从句修饰 sentence；knows 后接 how to end，即疑问词 how 加不定式作宾语，相当于 knows the way to end，译为懂得如何结束。 举一反三：动词后接疑问词 + 不定式时，该结构可改写为宾语从句，如 how to end 等于 how it should end。"
+      },
+      {
+        "point": "not...but... 连接介词短语",
+        "example": "\"We keep them not in the present tense but in the way a river keeps the rain: changed, carried, and still itself.\"",
+        "note": "not...but... 连接两个介词短语 in the present tense 与 in the way...，表明留住的方式不是前者而是后者；a river keeps the rain 前省略了关系词，冒号后 changed、carried、and still itself 是三个并列的补足语，说明雨被河流保存后的状态。 举一反三：not...but... 两边必须是对等的结构，常见连接名词、介词短语或不定式。"
+      },
+      {
+        "point": "祈使句 + and 结构的对仗并列",
+        "example": "\"Say it well, and the leaving becomes a kind of staying; say it poorly, and even the staying becomes a kind of leaving.\"",
+        "note": "两个分句均由祈使句 + and 连接陈述句构成，表达条件与结果的对应关系；分号将两句并列形成对仗，well 与 poorly、leaving 与 staying 彼此呼应，强化对比效果。 举一反三：对仗句中常用反义词构成对照，朗读时注意 and 前后的停顿与重音。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "rehearse",
+        "pos": "v.",
+        "meaning": "排练，预演",
+        "enExample": "She rehearsed the farewell so often that it lost all its meaning.",
+        "zhExample": "她反复排练那场告别，直到它失去全部意义。",
+        "note": "用法：指反复练习以便正式表演；也指在脑中预先演练；rehearse for 为……排练。"
+      },
+      {
+        "term": "admire",
+        "pos": "v.",
+        "meaning": "钦佩，欣赏",
+        "enExample": "I admire how quietly he closes the chapters he has finished.",
+        "zhExample": "我钦佩他合上已完成章节时那种安静的样子。",
+        "note": "用法：admire sb for sth 因某事钦佩某人；指怀着敬意观看。"
+      },
+      {
+        "term": "disappear",
+        "pos": "v.",
+        "meaning": "消失，不见",
+        "enExample": "The people we love never disappear; they become part of our grammar.",
+        "zhExample": "我们爱的人从不真正消失，他们会成为我们语法的一部分。",
+        "note": "用法：指逐渐或突然不见；disappear from 从……消失。"
+      },
+      {
+        "term": "speed",
+        "pos": "n.",
+        "meaning": "速度；进度",
+        "enExample": "Everyone learns the lesson of goodbye at a different speed.",
+        "zhExample": "每个人学会告别这个道理的速度都不一样。",
+        "note": "用法：at different speeds 以不同的速度；pick up speed 加快速度。"
+      },
+      {
+        "term": "farewell",
+        "pos": "n.",
+        "meaning": "告别，辞行",
+        "enExample": "They shared a long farewell on the platform as the rain began.",
+        "zhExample": "雨落下来时，他们在站台上依依不舍地告别了很久。",
+        "note": "用法：较正式的词，指郑重告别；bid farewell to 向……告别。"
+      },
+      {
+        "term": "ceremony",
+        "pos": "n.",
+        "meaning": "仪式，礼节",
+        "enExample": "The truest goodbyes happen without ceremony, at the kitchen door.",
+        "zhExample": "最真切的告别总是发生在厨房门口，没有任何仪式。",
+        "note": "用法：指正式礼仪，也指形式上的客套；without ceremony 不拘礼节。"
+      },
+      {
+        "term": "audible",
+        "pos": "adj.",
+        "meaning": "听得见的",
+        "enExample": "After the music stopped, the silence itself became audible.",
+        "zhExample": "音乐停止之后，连寂静本身也变得清晰可闻。",
+        "note": "用法：指声音清晰到可以听见；barely audible 几乎听不见。"
+      },
+      {
+        "term": "qualifier",
+        "pos": "n.",
+        "meaning": "修饰语；限定词",
+        "enExample": "A final goodbye has no qualifiers and no maybe attached.",
+        "zhExample": "一场最终的告别，不附带任何修饰语，也没有或许二字。",
+        "note": "用法：语法中指修饰或限定词义的成分，也指附加说明。"
+      }
+    ]
+  }
+}

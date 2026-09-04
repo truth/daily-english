@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-23",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "expedite",
+      "pos": "v.",
+      "phonetic": "/ˈekspədaɪt/",
+      "meaning": "加快；加速办理",
+      "enExample": "Please expedite the delivery of these documents — we need them by Monday.",
+      "zhExample": "请加急递送这些文件——我们周一之前要用。",
+      "note": "💡 ex-=向外 + ped=脚，「让脚走得快」。同源词 pedestrian 步行者。搭配 expedite the process / expedite approval。催流程时用 expedite 更地道。"
+    },
+    {
+      "word": "encompass",
+      "pos": "v.",
+      "phonetic": "/ɪnˈkʌmpəs/",
+      "meaning": "包含；涵盖",
+      "enExample": "The new role encompasses both sales and customer support duties.",
+      "zhExample": "这个新职位同时涵盖销售与客户支持两类职责。",
+      "note": "💡 en- + compass（圆规、范围），「圈进来」即包含。搭配 encompass a wide range of。描述项目范围、岗位职责时用它很正式。"
+    },
+    {
+      "word": "expertise",
+      "pos": "n.",
+      "phonetic": "/ˌekspɜːrˈtiːz/",
+      "meaning": "专业知识；专长",
+      "enExample": "We hired a consultant with expertise in data security.",
+      "zhExample": "我们聘请了一位在数据安全方面有专长的顾问。",
+      "note": "💡 由 expert（专家）变来，指专家级别的本事。搭配 technical expertise / share one's expertise。简历里核心能力可用 areas of expertise。"
+    },
+    {
+      "word": "enforce",
+      "pos": "v.",
+      "phonetic": "/ɪnˈfɔːrs/",
+      "meaning": "强制执行；实施",
+      "enExample": "The company strictly enforces its policy on remote work hours.",
+      "zhExample": "公司严格执行远程办公时长政策。",
+      "note": "💡 en- + force（力量），用强制力保证执行。搭配 enforce the law/rules/policy。制度定了就得 enforce，否则形同虚设。"
+    },
+    {
+      "word": "promptly",
+      "pos": "adv.",
+      "phonetic": "/ˈprɒmptli/",
+      "meaning": "立即；迅速地",
+      "enExample": "She promptly replied to the client's email within the hour.",
+      "zhExample": "她在收到邮件一小时内就迅速回复了客户。",
+      "note": "💡 prompt 意为迅速的、提示，加 -ly 成副词。搭配 reply promptly / act promptly。商务邮件礼仪：尽量 24 小时内回复。"
+    }
+  ],
+  "essay": {
+    "title": "The Harvest of Patience",
+    "author": "佚名",
+    "paragraphs": [
+      "Patience is not passive waiting; it is an active form of trust in the timing of things. The farmer does not rush the seed, yet he waters it, guards it, and watches the sky. He understands that growth happens in its own rhythm, and that no amount of shouting at the soil will make the corn taller by supper.",
+      "Modern life trains us to expect the opposite. We want answers before the question is finished and results before the work has cooled. Yet almost everything worth keeping is slow: friendships, reputations, calluses, the trust of a wary animal, a child's confidence. Each is accumulated grain by grain, and each can be undone in a single careless minute.",
+      "There is a particular kind of joy that only arrives late, like a guest who misses the first course on purpose. The musician who repeats one phrase for a month finally hears it open; the gardener who waited three winters for a tree smells its first blossom and understands the price of fragrance. Delayed rewards have a deeper flavor.",
+      "Patience, however, should not be confused with resignation. The patient person is not someone who stops trying; he is someone who keeps a steady hand on the tiller while the current does its work. To wait well is to remain alert, to keep the sails ready, and to trust that the tide, which has never once consulted us, is nevertheless moving toward a shore we will recognize.",
+      "The harvest of patience is not always what we planted. Sometimes the tree bears a different fruit, sometimes the rain comes late, and sometimes the season itself changes. But those who have learned to wait discover that the field they tended with slow hands has also been tending them, quietly and steadily, all along. It is a trade we only understand in retrospect."
+    ],
+    "translations": [
+      "耐心不是被动地等待，而是一种对事物时机的积极信任。农夫不催促种子，却为它浇水、守护它、望着天空。他懂得成长自有其节奏，无论对着泥土喊得多响，玉米都不会在晚饭前长得更高。",
+      "现代生活训练我们期待相反的东西。问题还没问完我们就想要答案，工作还没凉下来就想要结果。然而几乎一切值得留住的东西都很慢：友谊、名声、老茧、一只警惕动物的信任、一个孩子的信心。它们都一粒一粒地累积，却可能在一分钟的大意中被毁掉。",
+      "有一种特别的喜悦只肯姗姗来迟，像一位故意错过头盘的客人。把同一句乐句练了一个月的乐手，终于听到它舒展开来；为一棵树等了三个冬天的园丁，闻见第一朵花开时，才懂得芬芳的代价。迟来的回报，滋味更深。",
+      "然而耐心不该与听天由命混为一谈。有耐心的人不是停止尝试的人，而是任水流做工时仍把稳舵盘的人。善于等待，意味着保持警觉、随时备好风帆，并相信那从不与我们商量的潮水，终究是在朝一处我们认得的海岸移动。",
+      "耐心的收成并不总是我们当初种下的东西。有时树上结出另一种果实，有时雨来迟了，有时连季节本身也变了。但学会等待的人会发现，那片他们用缓慢的双手照料的田野，也一直在照料着他们，安静而持续。这笔交换，要到回头看时才明白。"
+    ],
+    "grammar": [
+      {
+        "point": "that 引导的并列宾语从句",
+        "example": "\"He understands that growth happens in its own rhythm, and that no amount of shouting at the soil will make the corn taller by supper.\"",
+        "note": "动词 understands 后接两个由 that 引导的并列宾语从句，第二个 that 一般不可省略；第二个从句的主语是 no amount of shouting，of 后接动名词，表达无论多少叫喊都无济于事。 举一反三：多个 that 宾语从句并列时，除第一个外 that 通常保留，以标明从句边界。"
+      },
+      {
+        "point": "each 作主语用单数 + 被动语态",
+        "example": "\"Each is accumulated grain by grain, and each can be undone in a single careless minute.\"",
+        "note": "each 作主语时谓语用单数 is，随后承接被动语态 can be undone；grain by grain 是一种 A by A 的结构，表示一点一点地，类似的还有 step by step、day by day。 举一反三：A by A 结构在英语中非常能产，可用于时间、数量、程度等多种维度。"
+      },
+      {
+        "point": "不定式作主语与表语 + which 插入语",
+        "example": "\"To wait well is to remain alert, to keep the sails ready, and to trust that the tide, which has never once consulted us, is nevertheless moving toward a shore we will recognize.\"",
+        "note": "句首 To wait well 是不定式作主语，表语部分由三个并列的不定式 to remain, to keep, to trust 构成；trust 后接 that 宾语从句，其中插入非限制性定语从句 which has never once consulted us 修饰 the tide，that 从句谓语是 is moving；a shore we will recognize 中省略了关系词。 举一反三：在较长的宾语从句中插入定语或状语时，先找主干的谓语动词，句子结构就清楚了。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "rhythm",
+        "pos": "n.",
+        "meaning": "节奏，韵律",
+        "enExample": "Growth follows a rhythm that no calendar can force.",
+        "zhExample": "成长遵循着一种日历无法强加的节奏。",
+        "note": "用法：指声音、动作或生活中反复出现的规律；in one's own rhythm 按自己的节奏。"
+      },
+      {
+        "term": "accumulate",
+        "pos": "v.",
+        "meaning": "积累，积聚",
+        "enExample": "Trust is accumulated in small acts and lost in one betrayal.",
+        "zhExample": "信任靠微小的行为积累，却因一次背叛而失去。",
+        "note": "用法：指一点一点地堆积；accumulate wealth 积累财富。"
+      },
+      {
+        "term": "steady",
+        "pos": "adj.",
+        "meaning": "稳定的，沉着的",
+        "enExample": "She held the lantern with a steady hand through the storm.",
+        "zhExample": "暴风雨中，她稳稳地提着灯。",
+        "note": "用法：a steady hand 沉稳的手；keep a steady pace 保持平稳的步伐。"
+      },
+      {
+        "term": "wary",
+        "pos": "adj.",
+        "meaning": "警惕的，小心翼翼的",
+        "enExample": "The wary bird waited until the garden was empty before landing.",
+        "zhExample": "那只警惕的鸟一直等到花园无人，才落下来。",
+        "note": "用法：be wary of sb/sth 对……保持警惕；指因不信任而谨慎。"
+      },
+      {
+        "term": "resignation",
+        "pos": "n.",
+        "meaning": "顺从，听任；辞职",
+        "enExample": "He shrugged with resignation when the train pulled away.",
+        "zhExample": "火车开走时，他无可奈何地耸了耸肩。",
+        "note": "用法：指无奈地接受现实；with resignation 无奈地。"
+      },
+      {
+        "term": "blossom",
+        "pos": "n./v.",
+        "meaning": "花朵；开花，绽放",
+        "enExample": "The old tree burst into blossom after a single warm night.",
+        "zhExample": "一夜回暖之后，那棵老树忽然开满了花。",
+        "note": "用法：指果树的花，也比喻进入繁荣期；in blossom 正值花期。"
+      },
+      {
+        "term": "fragrance",
+        "pos": "n.",
+        "meaning": "芳香，香气",
+        "enExample": "The fragrance of rain on dry earth filled the courtyard.",
+        "zhExample": "干土逢雨的芳香弥漫了整个院子。",
+        "note": "用法：指清淡宜人的气味；the fragrance of 某物的芳香。"
+      },
+      {
+        "term": "harvest",
+        "pos": "n./v.",
+        "meaning": "收成；收获",
+        "enExample": "The harvest of kindness arrives long after the seed is forgotten.",
+        "zhExample": "善意的收成，在种子被遗忘很久之后才到来。",
+        "note": "用法：指庄稼成熟收割的季节，也比喻努力换来的成果；reap a harvest 获得回报。"
+      }
+    ]
+  }
+}

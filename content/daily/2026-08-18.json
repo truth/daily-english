@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-18",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "delegate",
+      "pos": "v.",
+      "phonetic": "/ˈdel.ɪ.ɡeɪt/",
+      "meaning": "授权；委派（任务或职责）",
+      "enExample": "A good leader knows when to delegate tasks rather than trying to do everything alone.",
+      "zhExample": "优秀的领导者懂得何时委派任务，而不是试图独自包揽一切。",
+      "note": "de-（向下）+ legate（派遣），把任务派下去。职场高频：delegate tasks / delegate authority。名词 delegation（代表团；授权）。注意名词 delegate /ˈdel.ɪ.ɡət/ 重音在后。"
+    },
+    {
+      "word": "resilient",
+      "pos": "adj.",
+      "phonetic": "/rɪˈzɪl.i.ənt/",
+      "meaning": "有韧性的；能恢复的；抗压的",
+      "enExample": "Children are remarkably resilient — they bounce back from setbacks far faster than most adults do.",
+      "zhExample": "孩子们非常有韧性——他们从挫折中恢复的速度远比大多数成年人快。",
+      "note": "re-（回）+ sili（跳），跳回来 = 有韧性。名词 resilience（韧性、恢复力）。职场热词：resilient mindset / build resilience。近义 tough，但 resilient 强调恢复力而非硬抗。"
+    },
+    {
+      "word": "negotiate",
+      "pos": "v.",
+      "phonetic": "/nɪˈɡoʊ.ʃi.eɪt/",
+      "meaning": "谈判；协商；交涉",
+      "enExample": "She managed to negotiate a better salary by highlighting her five years of experience in the field.",
+      "zhExample": "她通过强调自己在该领域五年的经验，成功协商到了更高的薪水。",
+      "note": "neg（否认）+ otium（休闲），不休闲 = 谈正事。搭配 negotiate with someone about something。名词 negotiation（谈判）。职场高频：negotiate a salary / negotiate a contract。"
+    },
+    {
+      "word": "concise",
+      "pos": "adj.",
+      "phonetic": "/kənˈsaɪs/",
+      "meaning": "简明的；简洁的；言简意赅的",
+      "enExample": "Your presentation should be concise — managers rarely have time for lengthy explanations.",
+      "zhExample": "你的演示应该简洁明了——管理者很少有耐心听冗长的解释。",
+      "note": "con-（一起）+ cise（切），把多余的都切掉 = 简洁。名词 conciseness。近义 brief / succinct。写作课高频：a concise summary / keep it concise。反义 verbose（啰嗦的）。"
+    },
+    {
+      "word": "empathy",
+      "pos": "n.",
+      "phonetic": "/ˈem.pə.θi/",
+      "meaning": "共情；同理心；换位思考",
+      "enExample": "Great doctors combine technical skill with empathy, making patients feel truly heard and cared for.",
+      "zhExample": "好医生将专业技能与同理心结合，让患者感到真正被倾听和关怀。",
+      "note": "em-（进入）+ pathy（感受），进入对方的感受 = 共情。形容词 empathetic。与 sympathy（同情）不同：sympathy 是可怜对方，empathy 是设身处地理解。职场软技能高频词。"
+    }
+  ],
+  "essay": {
+    "title": "The Grace of Beginning Again",
+    "author": "佚名",
+    "paragraphs": [
+      "We are taught, almost from the start, that falling is the opposite of success. But look closely at anyone who has built something lasting, and you will find not the absence of failure, but a friendship with it.",
+      "There is a quiet kind of courage in beginning again. It is not the dramatic heroism of never breaking; it is the softer, truer strength of gathering the pieces and trying once more. Each time we fail, we are not starting from nothing. We are starting from experience.",
+      "We often pretend that growth is a straight line upward, when in truth it moves like the tide—pulling back, then returning, then pulling back again. The setback is not the end of the story. It is simply a sentence, not the final page.",
+      "So be gentle with yourself on the days that do not go as planned. The person who begins again, who refuses to let one stumble define them, is learning a far more useful thing than how to win. They are learning how to keep going—and that, in the end, is what carries us through."
+    ],
+    "translations": [
+      "几乎从一开始，我们就被教导：跌倒是与成功相对立的事。但仔细观察任何一个成就过持久事业的人，你会发现他并非没有失败，而是与失败成了朋友。",
+      "重新开始，藏着一种静默的勇气。它不是从不破碎的戏剧性英雄主义；而是拾起碎片、再度尝试的更柔软、也更真实的力气。每当我们失败，并非从零开始。我们是从经验出发。",
+      "我们常假装成长是一条向上的直线，而真相是它如潮汐般运动——退去，再涌回，再退去。挫折不是故事的结局。它不过是一个句子，而非最后一页。",
+      "所以，在那些事与愿违的日子里，请对自己温柔些。那个重新开始、拒绝让一次踉跄定义自己的人，学到的远比\"如何取胜\"更有用。他们在学习如何继续前行——而最终，正是这一点带我们穿越一切。"
+    ],
+    "vocab": [
+      {
+        "term": "lasting",
+        "pos": "adj.",
+        "meaning": "持久的，持续的",
+        "enExample": "The war left a lasting impact on the village.",
+        "zhExample": "那场战争给村庄留下了持久的影响。",
+        "note": "用法：用法：lasting + n.，强调经得起时间考验，不轻易消逝。；近义：enduring, permanent　反义：temporary, fleeting"
+      },
+      {
+        "term": "absence",
+        "pos": "n.",
+        "meaning": "缺乏，不存在",
+        "enExample": "In the absence of evidence, we cannot convict him.",
+        "zhExample": "缺乏证据，我们无法给他定罪。",
+        "note": "用法：用法：the absence of sth. 表示\"某物的缺失\"；in the absence of 意为\"在缺乏……时\"。；近义：lack, want　反义：presence"
+      },
+      {
+        "term": "friendship",
+        "pos": "n.",
+        "meaning": "友谊（文中比喻与失败相处）",
+        "enExample": "She formed a close friendship with her mentor.",
+        "zhExample": "她与导师建立了深厚的友谊。",
+        "note": "用法：用法：a friendship with... 与……的友谊；可作比喻，表示\"与某事和解、共处\"。；近义：companionship, bond"
+      },
+      {
+        "term": "heroism",
+        "pos": "n.",
+        "meaning": "英雄主义，英勇",
+        "enExample": "His quiet heroism inspired the whole town.",
+        "zhExample": "他默默的英雄气概鼓舞了整个小镇。",
+        "note": "用法：用法：an act of heroism 英勇之举；可作引申，指默默的勇敢。；近义：bravery, valor　反义：cowardice"
+      },
+      {
+        "term": "setback",
+        "pos": "n.",
+        "meaning": "挫折，倒退",
+        "enExample": "The project hit a major setback last month.",
+        "zhExample": "项目上个月遭遇重大挫折。",
+        "note": "用法：用法：suffer / face / hit a setback 遭遇挫折。；近义：reversal, blow　反义：advance, progress"
+      },
+      {
+        "term": "tide",
+        "pos": "n.",
+        "meaning": "潮汐；潮流",
+        "enExample": "She rode the tide of public opinion.",
+        "zhExample": "她顺应了舆论的潮流。",
+        "note": "用法：用法：the tide of... ……的潮流；ebb and flow 涨落（喻起伏）。；近义：current, flow"
+      },
+      {
+        "term": "stumble",
+        "pos": "n. / v.",
+        "meaning": "踉跄，跌跤（喻指失误）",
+        "enExample": "He recovered quickly from his stumble in the speech.",
+        "zhExample": "他很快从演讲中的失误恢复过来。",
+        "note": "用法：用法：a stumble 一次失误；stumble over / into 绊倒、失足。；近义：trip, falter　反义：glide"
+      },
+      {
+        "term": "gentle",
+        "pos": "adj.",
+        "meaning": "温和的，温柔的",
+        "enExample": "Be gentle with the puppy.",
+        "zhExample": "对小奶狗温柔一点。",
+        "note": "用法：用法：be gentle with sb. 对某人和善、不苛责。；近义：kind, mild　反义：harsh, rough"
+      },
+      {
+        "term": "define",
+        "pos": "v.",
+        "meaning": "界定，定义；决定……的特征",
+        "enExample": "Money does not define a person's worth.",
+        "zhExample": "金钱不能界定一个人的价值。",
+        "note": "用法：用法：define sb. / sth. as... 把……定义为；也可引申为\"决定一个人的本质\"。；近义：characterize, determine"
+      },
+      {
+        "term": "carry through",
+        "pos": "phr.v.",
+        "meaning": "使渡过难关，支撑到底",
+        "enExample": "Her faith carried her through the hardest years.",
+        "zhExample": "她的信念支撑她度过了最艰难的岁月。",
+        "note": "用法：用法：carry sb. through (sth.) 支撑某人度过（艰难时期）。；近义：sustain, see through"
+      },
+      {
+        "term": "in truth",
+        "pos": "phr.",
+        "meaning": "事实上，真实地",
+        "enExample": "He seemed calm, but in truth he was terrified.",
+        "zhExample": "他看似镇定，实则惊恐万分。",
+        "note": "用法：用法：用作插入语或句首，表\"其实 / 说真的\"，语气比 in fact 更文学。；近义：in fact, indeed"
+      },
+      {
+        "term": "gather the pieces",
+        "pos": "idiom",
+        "meaning": "收拾残局，重整旗鼓",
+        "enExample": "After the failure, she gathered the pieces and tried again.",
+        "zhExample": "失败后，她重整旗鼓，再度尝试。",
+        "note": "用法：用法：gather (up) the pieces (after sth.) 在某事后重新整理、再出发。；近义：pick up the pieces, regroup"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "① not...but... 并列对比结构（否定前者、肯定后者）",
+        "example": "\"...you will find not the absence of failure, but a friendship with it.\" / \"The setback is not the end of the story. It is simply a sentence, not the final page.\"",
+        "note": "not A but B 连接两个语法对等的并列成分（此处为名词短语），强调后者、否定前者，翻译对应\"不是……而是……\"。注意 but 后的成分须与 not 后成分词性、结构一致，否则句子失衡。"
+      },
+      {
+        "point": "② 现在分词作伴随 / 方式状语",
+        "example": "\"...the softer, truer strength of gathering the pieces and trying once more.\" / \"...it moves like the tide—pulling back, then returning, then pulling back again.\"",
+        "note": "现在分词短语（gathering / pulling back...）表示与谓语动词同时发生的伴随动作或方式。第一处 of gathering... 作介词宾语，说明 strength 的具体内容；第二处破折号后用三个分词并列，生动描摹潮汐\"退—回—退\"的往复，相当于省略的状语从句。"
+      },
+      {
+        "point": "③ who 引导的限定性定语从句",
+        "example": "\"anyone who has built something lasting\" / \"The person who begins again, who refuses to let one stumble define them...\"",
+        "note": "who 在从句中作主语，指代先行词 anyone / the person。第二句用了两个 who 引导的从句并列修饰 the person，构成\"双重定语从句\"，使人物刻画更立体——不仅\"重新开始\"，而且\"拒绝被一次失误定义\"。"
+      },
+      {
+        "point": "④ 破折号解释说明 + what 引导的名词性从句",
+        "example": "\"They are learning how to keep going—and that, in the end, is what carries us through.\"",
+        "note": "破折号后 and that... 回指前句\"继续前行\"这件事，作进一步解释。what carries us through 是 what 引导的名词性从句作表语，what 在从句中充当主语，意为\"带我们穿越一切的东西\"。整句把抽象的\"坚持\"具象为真正支撑我们的人生态度。"
+      }
+    ]
+  }
+}

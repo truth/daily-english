@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-28",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "stipulate",
+      "pos": "v.",
+      "phonetic": "/ˈstɪpjuleɪt/",
+      "meaning": "明确规定；约定",
+      "enExample": "The contract stipulates that payments must be made within 30 days.",
+      "zhExample": "合同明确规定款项须在 30 天内付清。",
+      "note": "💡 古罗马签约前折断木棍作证，stipulate 由此表正式约定。常见于合同条款 the contract stipulates that...。读到它后面往往是硬性条件。"
+    },
+    {
+      "word": "pledge",
+      "pos": "n.",
+      "phonetic": "/pledʒ/",
+      "meaning": "承诺；保证；誓言",
+      "enExample": "The CEO made a pledge to cut carbon emissions by 30% by 2030.",
+      "zhExample": "首席执行官作出承诺：到 2030 年将碳排放减少 30%。",
+      "note": "💡 词源与担保物有关，交出的信物就是 pledge。搭配 make/keep a pledge / a pledge to do sth。愿景要落实，靠的是能兑现的 pledge。"
+    },
+    {
+      "word": "rigorous",
+      "pos": "adj.",
+      "phonetic": "/ˈrɪɡərəs/",
+      "meaning": "严格的；严谨的；缜密的",
+      "enExample": "All products go through rigorous quality testing before shipment.",
+      "zhExample": "所有产品在出厂前都要经过严格的质量检测。",
+      "note": "💡 rigor=严苛 + -ous，形容标准高、毫不含糊。搭配 rigorous testing/analysis/training。质检、审稿、风控都讲究 rigorous。"
+    },
+    {
+      "word": "rectify",
+      "pos": "v.",
+      "phonetic": "/ˈrektɪfaɪ/",
+      "meaning": "纠正；修正",
+      "enExample": "We will rectify the billing error and refund the difference immediately.",
+      "zhExample": "我们会立即更正账单错误并退还差额。",
+      "note": "💡 rect=正、直，与 correct 同源，使回到正轨。搭配 rectify an error/a mistake/the situation。给客户添了麻烦先 rectify 再道歉才专业。"
+    },
+    {
+      "word": "interim",
+      "pos": "adj.",
+      "phonetic": "/ˈɪntərɪm/",
+      "meaning": "临时的；过渡的",
+      "enExample": "She will serve as the interim manager while the team searches for a permanent one.",
+      "zhExample": "在团队物色正式经理期间，由她担任临时经理。",
+      "note": "💡 inter-=在…之间，两段之间的空档即过渡期。搭配 interim report（中期报告）/ interim measures。领导空缺时常先任命 interim 人选稳住局面。"
+    }
+  ],
+  "essay": {
+    "title": "A Window Facing East",
+    "author": "佚名",
+    "paragraphs": [
+      "My window faces east, which means my days begin with light arriving like a guest who respects no alarm clock. First the rooftops turn the color of old brass; then the antenna wires catch fire one by one; then the room fills with the particular gold that exists only between six and seven. I have watched this ceremony for years and cannot name its colors.",
+      "An east window is a course in attention, because its light never repeats itself. Yesterday the sky was rinsed and pale; today it is thick as honey; tomorrow it will invent a color that has no word. The view is always the same, yet never the same twice, and the difference is not in the scene but in the observer, who brings a slightly different mood each morning.",
+      "Observation is not a passive hobby; it is a decision to let things matter. The woman who notices the first crocus in March has agreed to be surprised; the man who watches the same cloud bank for an hour has agreed to be taught. We see so little because we have decided, in advance, that there is nothing new to see.",
+      "There is a discipline in looking closely, the way a painter looks before the brush moves. Notice how the light enters a room: does it arrive all at once, or does it seep in sideways, learning the room the way a cat learns a house? To ask such questions is to slow time down, and everyone who has ever felt life slipping past has wished for that skill.",
+      "The gift of the east window is not the sunrise but the practice. Every morning it asks the same question, and every morning the answer is different. Look longer. Look as if you had never seen light before. Somewhere in that patient looking, the world stops being a backdrop and begins to acknowledge you, the way it acknowledges anyone willing to truly watch."
+    ],
+    "translations": [
+      "我的窗子朝东，这意味着一整天是从光开始的，那光像一个不理会闹钟的客人。先是屋顶变成旧黄铜的颜色；接着天线一根根被点亮；然后整个房间灌满那种只存在于六点到七点之间的金色。我看了这场仪式许多年，仍然叫不出它的颜色。",
+      "一扇朝东的窗是一堂关于专注的课，因为它的光线从不重复。昨天天空被洗得发白；今天稠得像蜜；明天它会发明一种没有名字的颜色。风景总是一样，却又没有两次相同；差异不在景致，而在观看的人，他每个早晨都带着略有不同的心情。",
+      "观察不是被动的消遣，而是一种让事物变得重要的决定。注意到三月第一株番红花开放的女子，已经同意让自己被惊喜；对着同一片云看上整整一个钟头的男子，已经同意让自己被教导。我们看得那样少，是因为我们早就决定：没有什么新东西可看。",
+      "仔细看，是需要纪律的，就像画家落笔之前那样看。留意光如何进入房间：它是一下子涌进来，还是斜斜地渗进来，像猫熟悉一所房子那样熟悉房间？提出这样的问题，就等于把时间放慢，而每一个觉得生命从指缝间溜走的人，都曾在某个时刻渴望这种本领。",
+      "朝东的窗给的礼物不是日出，而是练习。每天早晨它提出同一个问题，每天早晨答案都不同。看得久一些。看得像从未见过光一样。在那耐心的注视里，世界不再只是一块背景布，而开始承认你，就像它承认任何真正愿意观看的人。"
+    ],
+    "grammar": [
+      {
+        "point": "which 引导的非限制性定语从句",
+        "example": "\"My window faces east, which means my days begin with light arriving like a guest who respects no alarm clock.\"",
+        "note": "which 引导非限制性定语从句，指代前面整个主句的内容，译为这一点；从句中 arriving like a guest 是现在分词短语作 light 的补足语，who respects no alarm clock 是定语从句修饰 guest。 举一反三：当 which 指代整个主句时，谓语用单数，写作中注意与 that 区分，非限制性定语从句不能用 that。"
+      },
+      {
+        "point": "as if 引导的虚拟语气",
+        "example": "\"Look as if you had never seen light before.\"",
+        "note": "as if 表示好像，从句与过去事实相反，因此用过去完成时 had never seen；整个句子是祈使句，谓语动词用原形 look。 举一反三：as if 后若与现在事实相反用过去时，与过去事实相反用过去完成时。"
+      },
+      {
+        "point": "不定式作主语与表语",
+        "example": "\"To ask such questions is to slow time down, and everyone who has ever felt life slipping past has wished for that skill.\"",
+        "note": "句首 To ask such questions 是不定式作主语，to slow time down 是不定式作表语，构成对等的说明关系；who 引导的定语从句中 has ever felt life slipping past 是 feel + 宾语 + 现在分词的结构，表示感觉到生命正在流逝。 举一反三：不定式作主语时谓语用单数；see/hear/feel 等感官动词后可用宾语 + 现在分词表示看到或感到正在发生。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "ceremony",
+        "pos": "n.",
+        "meaning": "仪式，典礼",
+        "enExample": "The sunrise, for her, was a small ceremony that needed no audience.",
+        "zhExample": "日出对她而言，是一场不需要观众的小小仪式。",
+        "note": "用法：指郑重举行的仪式，也指日常中具有仪式感的时刻；without ceremony 不拘礼节地。"
+      },
+      {
+        "term": "observer",
+        "pos": "n.",
+        "meaning": "观察者，目击者",
+        "enExample": "As an observer of light, he could date a painting by its shadows.",
+        "zhExample": "作为光的观察者，他能凭阴影判断一幅画的年代。",
+        "note": "用法：指仔细观察的人；a keen observer of 敏锐的……观察者。"
+      },
+      {
+        "term": "crocus",
+        "pos": "n.",
+        "meaning": "番红花，藏红花",
+        "enExample": "The first crocus pushed through the snow while the calendar still said winter.",
+        "zhExample": "日历还写着冬天时，第一株番红花已经顶开积雪。",
+        "note": "用法：早春最先开放的小花，常被当作春天来临的信号。"
+      },
+      {
+        "term": "seep",
+        "pos": "v.",
+        "meaning": "渗出，渗漏",
+        "enExample": "Cold light seeped through the curtain long before the alarm rang.",
+        "zhExample": "闹钟还远没响，冷光就已经从窗帘缝里渗进来。",
+        "note": "用法：指液体缓慢渗入；也比喻消息或情绪悄悄扩散；seep in 渗进来。"
+      },
+      {
+        "term": "acknowledge",
+        "pos": "v.",
+        "meaning": "承认；致意；认可",
+        "enExample": "The old street finally acknowledged her as one of its own.",
+        "zhExample": "那条老街终于把她当作自己人一般接纳。",
+        "note": "用法：acknowledge sb/sth as 承认……是；指公开认可或注意到。"
+      },
+      {
+        "term": "backdrop",
+        "pos": "n.",
+        "meaning": "背景，幕布",
+        "enExample": "The mountains became a quiet backdrop to their daily walk.",
+        "zhExample": "群山成为他们每日散步的安静背景。",
+        "note": "用法：指舞台背景，也比喻事情发生的背景环境；against a backdrop of 在……的背景下。"
+      },
+      {
+        "term": "discipline",
+        "pos": "n.",
+        "meaning": "纪律；训练",
+        "enExample": "Looking closely is a discipline the eye must practice every day.",
+        "zhExample": "仔细看，是一种眼睛每天都要练习的功夫。",
+        "note": "用法：指自我约束，也指某一学科领域；a discipline of 一门……的功课。"
+      },
+      {
+        "term": "rinse",
+        "pos": "v./n.",
+        "meaning": "冲洗，漂洗",
+        "enExample": "The rain rinsed the sky until it was a pale, clean blue.",
+        "zhExample": "雨水把天空冲洗成一片清淡而干净的蓝。",
+        "note": "用法：指用清水冲掉泡沫或杂质；rinse out 冲洗干净。"
+      }
+    ]
+  }
+}

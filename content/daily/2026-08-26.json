@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-26",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "accommodate",
+      "pos": "v.",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "容纳；为…提供方便；适应",
+      "enExample": "The new office can accommodate up to 200 employees.",
+      "zhExample": "新办公室最多能容纳 200 名员工。",
+      "note": "💡 词根 mod=尺度，为某人调配合适的尺度，有三义：容纳、通融、适应。搭配 accommodate the needs of sb。订会议室先确认能容纳多少人。"
+    },
+    {
+      "word": "offset",
+      "pos": "n.",
+      "phonetic": "/ˈɒfset/",
+      "meaning": "抵消；补偿",
+      "enExample": "The increase in salary was an offset for the longer working hours.",
+      "zhExample": "加薪是对更长工作时间的一种补偿。",
+      "note": "💡 off + set，「设到别处去平衡」，即抵销。搭配 as an offset for / carbon offset（碳抵消）。谈加薪时可说希望以此 offset 额外付出。"
+    },
+    {
+      "word": "momentum",
+      "pos": "n.",
+      "phonetic": "/məˈmentəm/",
+      "meaning": "势头；动力",
+      "enExample": "The project gained momentum after we secured the key partnership.",
+      "zhExample": "拿下关键合作后，项目势头越来越旺。",
+      "note": "💡 源自物理学「动量」，滚动的球越滚越有劲。搭配 gain/lose momentum / build momentum。做事要趁势而为，别让好势头冷下来。"
+    },
+    {
+      "word": "deteriorate",
+      "pos": "v.",
+      "phonetic": "/dɪˈtɪəriəreɪt/",
+      "meaning": "恶化；变坏",
+      "enExample": "Relations between the two departments deteriorated after the budget dispute.",
+      "zhExample": "预算之争过后，两个部门之间的关系恶化了。",
+      "note": "💡 拉丁语 deterior=更坏的，加 -ate 成动词，反义词 improve。搭配 deteriorate rapidly / health deteriorates。矛盾要及时化解，别任其恶化。"
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adj.",
+      "phonetic": "/ˈvʌlnərəbl/",
+      "meaning": "脆弱的；易受伤害的",
+      "enExample": "Older employees may feel vulnerable when new technology is introduced.",
+      "zhExample": "引入新技术时，年长员工可能会感到无助脆弱。",
+      "note": "💡 词根 vulner=伤口，容易受伤的。搭配 be vulnerable to attack/change。变革期要多支持那些感到 vulnerable 的同事。"
+    }
+  ],
+  "essay": {
+    "title": "Learning to Swim in Deep Water",
+    "author": "佚名",
+    "paragraphs": [
+      "The water is honest in a way that land rarely is. It does not pretend to be shallow when it is deep, and it will not hold you up just because you are afraid. You learn its moods by entering them: the cold shock at the ankles, the slow surrender of the knees, the moment when your feet leave the bottom and the world tilts.",
+      "Most of us learn to swim in shallow water and mistake that for courage. But there comes a day when the pool ends, when the rope of safety runs out, when we are asked to trust a depth we cannot see. Uncertainty, we discover, is the actual water we have been training in all along; every challenge is just deeper practice.",
+      "The first strokes in deep water are never graceful. Panic asks the body to hurry; the water asks it to be patient. Between these two voices, a swimmer learns something the pool never taught: that floating is not giving up, that breathing is a form of thinking, and that the surface will always be there if we simply stop fighting it.",
+      "What changes, eventually, is not the depth but the swimmer. The water stays as deep and as dark as ever; only the chest stops tightening. There is a day, unannounced, when the feet kick without being ordered and the arms find their own rhythm, and the swimmer realizes that the fear he carried so carefully was heavier than any water he would ever enter. Courage is simply that recognition, arriving late.",
+      "And yet we go on entering cold lakes and new jobs and honest conversations, because the alternative is a shore we already know too well. Deep water asks a question we must answer with our whole body: will you trust what you cannot see? Those who learn to say yes discover that the depths, once fathomed, are not an enemy but a home."
+    ],
+    "translations": [
+      "水有一种陆地少有的诚实。它不会在很深时假装很浅，也不会仅仅因为你害怕就把你托住。你得走进它的情绪里去了解它：脚踝处冰凉的冲击，膝盖慢慢放弃抵抗，双脚离开水底的那一刻，整个世界倾斜过来。",
+      "我们多数人都是在浅水里学会游泳，并把那误当成勇气。但总有一天池子到了尽头，安全的绳索用完了，我们被要求去相信一片看不见底的深度。我们会发现，不确定性其实才是我们一直在其中训练的真正水域；每一个挑战，不过是更深一层的练习。",
+      "在深水里划出的头几下永远谈不上优美。恐慌让身体快起来，水却叫它耐心。在这两种声音之间，游泳的人学到泳池从未教过的东西：漂浮不是放弃，呼吸是一种思考，而只要我们停止搏斗，水面就永远在那里。",
+      "最终改变的并不是水的深度，而是游泳的人。水仍旧那么深那么暗，只有胸口不再收紧。会有那样不期而至的一天：脚没有被命令就蹬动，手臂找到了自己的节奏，游泳的人终于明白，他小心翼翼携带的那份恐惧，比他将要进入的任何一片水都更沉重。勇气，不过就是这份迟到的领悟。",
+      "然而我们仍不断走进冰冷的湖、陌生的工作和坦诚的谈话，因为另一种选择，不过是一处我们早已熟悉到厌倦的岸。深水用必须用整个身体来回答的问题发问：你愿意相信你看不见的东西吗？学会回答愿意的人会发现，那片一旦被探明的深处，不是敌人，而是家。"
+    ],
+    "grammar": [
+      {
+        "point": "介词 by + 动名词表方式",
+        "example": "\"You learn its moods by entering them: the cold shock at the ankles, the slow surrender of the knees, the moment when your feet leave the bottom and the world tilts.\"",
+        "note": "by entering them 表示通过走进水里的方式来了解它的脾性，介词 by 后接动名词；冒号后面三个并列的名词短语是同位语，具体说明 learned 的内容，第三个名词短语中嵌套 when 引导的定语从句。 举一反三：by doing 结构常用来回答 how 的问题，表示凭借某种行为或手段。"
+      },
+      {
+        "point": "there comes 倒装与三个 when 从句排比",
+        "example": "\"But there comes a day when the pool ends, when the rope of safety runs out, when we are asked to trust a depth we cannot see.\"",
+        "note": "there comes a day 是倒装句，正常语序为 a day comes，主语后置以强调到来的那天；三个 when 从句并列作定语修饰 a day，构成排比；we cannot see 前省略了关系词 that。 举一反三：there comes/goes/lies 等倒装结构常出现在书面语中，表示某事物的到来或存在。"
+      },
+      {
+        "point": "what 引导的宾语从句",
+        "example": "\"will you trust what you cannot see?\"",
+        "note": "what you cannot see 是 what 引导的名词性从句作 trust 的宾语，what 相当于 the thing that，翻译为你无法看见的东西；整个问句为一般将来时。 举一反三：what 从句跟在及物动词后就是宾语从句，也可以放在介词后，如 think about what he said。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "uncertainty",
+        "pos": "n.",
+        "meaning": "不确定，难以预料",
+        "enExample": "Uncertainty, he learned, was the water in which he had always swum.",
+        "zhExample": "他明白了，不确定性正是他一直以来在其中游泳的水。",
+        "note": "用法：指对未来的没有把握；with uncertainty 心中没底地。"
+      },
+      {
+        "term": "patient",
+        "pos": "adj.",
+        "meaning": "有耐心的，能忍耐的",
+        "enExample": "The deep water rewarded her with the patient strokes she finally allowed it.",
+        "zhExample": "深水以她终于肯给它的耐心划水作为回报。",
+        "note": "用法：be patient with sb 对某人有耐心；patient effort 持之以恒的努力。"
+      },
+      {
+        "term": "fathom",
+        "pos": "v.",
+        "meaning": "测深；彻底理解",
+        "enExample": "No one could fathom why he kept returning to that cold lake.",
+        "zhExample": "没人能理解他为什么一次次回到那片冰冷的湖。",
+        "note": "用法：原义测量水深，引申为弄清深意；cannot fathom 无法理解。"
+      },
+      {
+        "term": "unannounced",
+        "pos": "adj.",
+        "meaning": "未事先通知的，突然的",
+        "enExample": "The breakthrough came on an unannounced Tuesday, like all true breakthroughs.",
+        "zhExample": "突破发生在一个毫无预兆的星期二，正如一切真正的突破那样。",
+        "note": "用法：arrive unannounced 不期而至；an unannounced visit 突然造访。"
+      },
+      {
+        "term": "recognition",
+        "pos": "n.",
+        "meaning": "认识；承认；领悟",
+        "enExample": "The recognition that fear was heavier than water changed everything.",
+        "zhExample": "意识到恐惧比水更沉重，改变了一切。",
+        "note": "用法：in recognition of 作为对……的表彰；the recognition that 意识到。"
+      },
+      {
+        "term": "graceful",
+        "pos": "adj.",
+        "meaning": "优雅的，优美的",
+        "enExample": "After years of practice, her first stroke into deep water looked graceful.",
+        "zhExample": "经过多年练习，她跃入深水的第一划看起来优雅从容。",
+        "note": "用法：指动作姿态优美从容；a graceful exit 体面的退出。"
+      },
+      {
+        "term": "surrender",
+        "pos": "v./n.",
+        "meaning": "投降，放弃抵抗",
+        "enExample": "To float is not to surrender but to cooperate with the water.",
+        "zhExample": "漂浮不是缴械投降，而是与水合作。",
+        "note": "用法：surrender to 向……屈服；也指交出、让出。"
+      },
+      {
+        "term": "alternative",
+        "pos": "n./adj.",
+        "meaning": "可供选择的事物；另外的",
+        "enExample": "The quiet shore offered no alternative to the deep, honest water.",
+        "zhExample": "那安静的岸边，并不能提供任何取代这片诚实深水的选择。",
+        "note": "用法：have no alternative but to do 别无选择只能做；an alternative plan 备选方案。"
+      }
+    ]
+  }
+}

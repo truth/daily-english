@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-02",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "expire",
+      "pos": "v.",
+      "phonetic": "/ɪkˈspaɪər/",
+      "meaning": "到期；期满失效",
+      "enExample": "My passport expires next year, so I need to renew it before travelling.",
+      "zhExample": "我的护照明年到期，出行前需要换新。",
+      "note": "💡 ex-=向外 + spir=呼吸，「吐出最后一口气」，引申为期满。名词是 expiration。搭配 expire soon / the contract expires。证件、会员卡到期日要记牢。"
+    },
+    {
+      "word": "compensate",
+      "pos": "v.",
+      "phonetic": "/ˈkɒmpenseɪt/",
+      "meaning": "补偿；赔偿；弥补",
+      "enExample": "The company compensated the clients for the delay in delivery.",
+      "zhExample": "公司就交付延迟向客户作出了赔偿。",
+      "note": "💡 com- + pens=称重付钱，按分量补足。搭配 compensate sb for sth。服务出问题时及时补偿，往往能挽回客户信任。"
+    },
+    {
+      "word": "legitimate",
+      "pos": "adj.",
+      "phonetic": "/lɪˈdʒɪtɪmət/",
+      "meaning": "合法的；正当的",
+      "enExample": "Working from home is a legitimate request if you meet your deadlines.",
+      "zhExample": "只要能按期完成任务，居家办公就是正当要求。",
+      "note": "💡 词根 leg=法律，与 legal 同源。搭配 a legitimate reason/concern/request。员工诉求只要是 legitimate，管理者就该认真对待。"
+    },
+    {
+      "word": "tactic",
+      "pos": "n.",
+      "phonetic": "/ˈtæktɪk/",
+      "meaning": "策略；战术；手段",
+      "enExample": "Delaying the announcement was a deliberate tactic to control the narrative.",
+      "zhExample": "推迟公告是刻意控制舆论节奏的一种手段。",
+      "note": "💡 词根 tact=安排、触碰。搭配 sales tactics / a smart tactic。谈判前想好 tactic，比临场发挥更稳妥。"
+    },
+    {
+      "word": "turn down",
+      "pos": "phr.",
+      "phonetic": "/tɜːrn daʊn/",
+      "meaning": "拒绝；调低（音量等）",
+      "enExample": "She turned down the offer because the commute was too long.",
+      "zhExample": "因为通勤太远，她拒绝了那份工作邀请。",
+      "note": "💡 本义把音量调低，引申为拒绝人、请求或邀约，反义是 turn up。收到不合适的 offer 敢于 turn down，也是成熟的取舍。"
+    }
+  ],
+  "essay": {
+    "title": "Roads That Choose Us",
+    "author": "佚名",
+    "paragraphs": [
+      "We like to think we choose our roads, laying plans like rulers on a map. But the roads that changed us were rarely planned. A missed train, a detour through an unfamiliar district, a stranger's offhand remark that rearranged the furniture of the mind: these are the routes we did not select, and they are the ones we remember longest.",
+      "Some encounters arrive like weather, and we mistake them for accidents. The colleague who left a book on your desk, the city you visited only because the fare was cheap, the sentence you overheard and could not put down: chance has a way of disguising itself as circumstance, and only years later do we see the thread that connected them all.",
+      "There is a difference between having a direction and having a map. The map shows where the roads are; the direction is felt in the body, like the pull of a current on a swimmer who cannot yet see the sea. Those who trust the pull more than the paper often arrive late, ragged, and certain, while those who trusted only the map arrive on time and wonder why the place feels so empty.",
+      "The roads that choose us seem to know our needs better than we do. The detour that cost an hour may have saved a decade; the friendship that began with a mishap may be the one that holds, while the carefully arranged meetings dissolve into politeness. We plan for efficiency; the roads plan for us, and their schedule is written in a language of delays.",
+      "Perhaps the wise traveler keeps both maps and an open mind, planning the route but surrendering the journey. The road we end up on is rarely the one drawn in ink; it is the one discovered in weather, in conversation, in the sudden willingness to turn where nothing required us to turn. Choose your direction, then let the road choose its way."
+    ],
+    "translations": [
+      "我们总爱以为路是我们选的，像用尺子在图上规划。但真正改变我们的路，很少是被规划出来的。错过的一班火车，穿过陌生街区的一次绕行，一个陌生人随口说出、却重新摆布了内心陈设的一句话：这些是我们没有选的路，而它们正是我们记得最久的路。",
+      "有些相遇像天气一样降临，而我们误以为那是意外。把一本书留在你桌上的同事，只因票价便宜才去的城市，无意中听到却再也放不下的那句话：偶然很擅长把自己伪装成际遇，我们要到许多年之后，才看得见把这一切连起来的那根线。",
+      "有方向和有地图，是两回事。地图告诉你路在哪里；方向是用身体感觉到的，像水流拉扯着一个还看不见大海的游泳者。比起纸更相信那股牵引的人，往往到得晚、走得狼狈，却笃定；而只相信地图的人准时抵达，却疑惑这地方为何如此空旷。",
+      "选择我们的路，似乎比我们更懂我们的需要。绕路损失的一小时，也许省下了十年；始于一次小事故的友谊，也许就是能长久的那一段，而那些精心安排的会面，却在客气中散了。我们为效率做计划，路却为我们做计划，而它们的时刻表，是用延迟这种语言写成的。",
+      "也许聪明的旅人同时带着地图和开放的头脑：规划路线，却把旅程交出去。我们最终走上的那条路，很少是墨水画出的那一条；它是在天气里、在交谈里、在某个没有任何东西要求我们转弯却忽然想要转弯的念头里被发现的。先选定你的方向，然后让路去选它自己的走法。"
+    ],
+    "grammar": [
+      {
+        "point": "现在分词短语作伴随状语",
+        "example": "\"We like to think we choose our roads, laying plans like rulers on a map.\"",
+        "note": "we choose our roads 是 think 后的宾语从句，省略了连词 that；laying plans like rulers on a map 是现在分词短语作伴随状语，说明我们一边这样想、一边像用尺子一样规划路线。 举一反三：现在分词作伴随状语时，其逻辑主语就是主句主语，动作与谓语动词几乎同时发生。"
+      },
+      {
+        "point": "where 引导的宾语从句与被动语态",
+        "example": "\"The map shows where the roads are; the direction is felt in the body, like the pull of a current on a swimmer who cannot yet see the sea.\"",
+        "note": "where the roads are 是 where 引导的名词性从句作 shows 的宾语；分号后 is felt 是被动语态，feel 意为感觉到，这里指方向感源于身体；who cannot yet see the sea 是定语从句修饰 swimmer。 举一反三：where 从句既能表地点，也能像名词一样充当句子的主语、宾语或表语。"
+      },
+      {
+        "point": "only + 状语提前引起的部分倒装",
+        "example": "\"chance has a way of disguising itself as circumstance, and only years later do we see the thread that connected them all.\"",
+        "note": "has a way of doing sth 表示总有办法做某事；第二个分句以 only + 时间状语 years later 开头，主句采用部分倒装，助动词 do 提前，语序为 do we see；that connected them all 是定语从句修饰 the thread。 举一反三：only 修饰状语且位于句首时才倒装；若 only 修饰主语则不倒装。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "detour",
+        "pos": "n./v.",
+        "meaning": "绕行，迂回",
+        "enExample": "The unexpected detour led her past the house she had been looking for.",
+        "zhExample": "那次意料之外的绕行，让她经过了那栋她一直在找的房子。",
+        "note": "用法：make a detour 绕道而行；指偏离原定路线，也比喻人生中的曲折。"
+      },
+      {
+        "term": "disguise",
+        "pos": "v./n.",
+        "meaning": "伪装，掩饰",
+        "enExample": "Luck has a way of disguising itself as a bad day.",
+        "zhExample": "运气很擅长把自己伪装成糟糕的一天。",
+        "note": "用法：disguise oneself as 把自己伪装成；a blessing in disguise 因祸得福。"
+      },
+      {
+        "term": "encounter",
+        "pos": "n./v.",
+        "meaning": "相遇，遭遇",
+        "enExample": "The chance encounter on the platform changed the course of his year.",
+        "zhExample": "站台上那次偶然的相遇，改变了他那一年的走向。",
+        "note": "用法：指偶然或意外的相遇；a close encounter 近距离接触。"
+      },
+      {
+        "term": "mishap",
+        "pos": "n.",
+        "meaning": "小事故，不幸的意外",
+        "enExample": "The wedding was saved from mishap by a stranger with a sewing kit.",
+        "zhExample": "一场婚礼因为一位带针线包的陌生人而免于小小灾难。",
+        "note": "用法：指不严重却打乱安排的差错；without mishap 平安无事。"
+      },
+      {
+        "term": "surrender",
+        "pos": "v./n.",
+        "meaning": "交出；放弃抵抗",
+        "enExample": "She surrendered her perfect plan and let the trip improvise itself.",
+        "zhExample": "她放弃了那个完美的计划，让旅途自己临场发挥。",
+        "note": "用法：surrender sth to 把某物交给；也指向……屈服或让渡。"
+      },
+      {
+        "term": "offhand",
+        "pos": "adj.",
+        "meaning": "随口而出的；漫不经心的",
+        "enExample": "An offhand compliment from a stranger stayed with her for decades.",
+        "zhExample": "陌生人一句随口而出的赞美，她记了几十年。",
+        "note": "用法：指不经意的、未加思索的；an offhand remark 随口的一句话。"
+      },
+      {
+        "term": "ragged",
+        "pos": "adj.",
+        "meaning": "破烂的；不齐整的；疲惫的",
+        "enExample": "They arrived ragged but radiant, having followed the river all night.",
+        "zhExample": "他们沿着河走了一整夜，到得狼狈，却神采奕奕。",
+        "note": "用法：形容衣衫褴褛，也形容行进踉跄或声音嘶哑。"
+      },
+      {
+        "term": "thread",
+        "pos": "n.",
+        "meaning": "线；线索",
+        "enExample": "Years later she finally saw the thread that joined all her detours.",
+        "zhExample": "许多年后，她终于看清连接自己所有绕行的那根线。",
+        "note": "用法：指缝纫的线，也比喻贯穿事物之间的线索；lose the thread 断了思路。"
+      }
+    ]
+  }
+}
