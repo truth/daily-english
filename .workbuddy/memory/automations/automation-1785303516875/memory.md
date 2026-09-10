@@ -45,3 +45,10 @@
 - 内容状态：09-09 美文 ✅（content/daily/2026-09-09.json + dist/daily/2026-09-09.html + 2026-09-09_essay.mp3 424KB）；09-09 单词 ❌ 全磁盘无 words 源（json 中 words:0）→ 今日 5 词缺失。09-07 仍完全缺失（ESSAY_WS 与全盘均无源）。
 - ✅ 部署令牌阻塞已解除：手动执行 `wrangler pages deploy dist --project-name dailyecho` 验证，非交互鉴权成功（exit 0，505 文件）。此前 09-07/09-08 的 CLOUDFLARE_API_TOKEN 报错不再复现。已借手动部署把当前 dist（含 09-09 美文）上线。
 - ⚠️ 待办/缺口：(1) 09-09 单词尚未产出，站点缺今日 5 词；(2) 09-07 内容缺口持续；(3) git 自 09-04 后无新提交（sync.js 的 gitSync 因此前 deploy 崩溃/跳过未执行），待内容补齐后由 sync.js 正常提交推送。
+
+## 2026-09-10 09:44 (GMT+8) 执行
+- 运行 `node sync.js`（前台超时转后台，总时长 ~4m13s）。
+- 合并成功：检测到新内容 → 美文 2026-09-10「The Quiet Courage Within」。已合并进 content/daily/2026-09-10.json，生成美文语音（2026-09-10_essay.mp3 484KB），构建 dist/ 成功（dist/daily/2026-09-10.html 4846B + index.html 同步更新）。
+- ✅ 部署成功：git 新提交「chore: 同步每日英语内容 2026-09-10」（sync.js 的 gitSync 在部署后执行，证明非交互部署未崩溃、已成功上线）；线上核验 dailyecho.pages.dev/daily/2026-09-10.html 返回 200、正文 4846B 含美文标题「Quiet Courage」。部署令牌阻塞自 09-09 起已解除，本次无人值守部署正常。
+- ⚠️ 缺口：(1) 2026-09-10 words count: 0 —— 今日 5 词源缺失（words-*.json 未产出，延续 09-09 同模式）；(2) 2026-09-07 整日缺失（ESSAY_WS 与全盘无源）仍待补。
+- 后台 stdout 捕获异常：运行中途实时输出显示「新内容：美文 2026-09-10」并完成语音生成，最终 TaskOutput 却显示「无新内容」——与 09-08 同款捕获矛盾，已据磁盘真实状态（content/daily + dist + git 提交 + 线上页面）确认确已合并+构建+部署。

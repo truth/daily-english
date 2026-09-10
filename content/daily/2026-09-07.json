@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-07",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "persist",
+      "pos": "v.",
+      "phonetic": "/pərˈsɪst/",
+      "meaning": "坚持，持续存在，执意",
+      "enExample": "Despite the setbacks, the team persisted with the original plan.",
+      "zhExample": "尽管屡遭挫折，团队仍坚持原来的计划。",
+      "note": "💡 per-（贯穿）+ sist（站立）→ 一直站着不退；常见搭配 persist in / persist with；适合描述「面对困难仍坚持推进项目」的韧性。"
+    },
+    {
+      "word": "responsive",
+      "pos": "adj.",
+      "phonetic": "/rɪˈspɑːnsɪv/",
+      "meaning": "反应迅速的，积极响应的",
+      "enExample": "A responsive manager builds trust faster with the client.",
+      "zhExample": "反应迅速的经理能更快和客户建立信任。",
+      "note": "💡 response（回应）+ -ive → 反应快的；常见搭配 responsive to / customer-responsive；面试谈「对客户反馈响应迅速」很加分。"
+    },
+    {
+      "word": "tentative",
+      "pos": "adj.",
+      "phonetic": "/ˈtentətɪv/",
+      "meaning": "暂定的，试探性的，犹豫的",
+      "enExample": "We've set a tentative date for the kick-off meeting next Monday.",
+      "zhExample": "我们把启动会的日期暂定在下周一。",
+      "note": "💡 tent（尝试）+ -ative → 试探性的、未定的；常见搭配 tentative plan / tentative date；常用于「tentative 排期」等商务初稿沟通。"
+    },
+    {
+      "word": "undergo",
+      "pos": "v.",
+      "phonetic": "/ˌʌndərˈɡoʊ/",
+      "meaning": "经历，遭受，接受（过程）",
+      "enExample": "New hires will undergo a two-week onboarding training.",
+      "zhExample": "新员工将接受为期两周的入职培训。",
+      "note": "💡 under-（在…下）+ go（走）→ 经历过程；常见搭配 undergo training / undergo change；适合描述「员工经历培训或公司转型」。"
+    },
+    {
+      "word": "likewise",
+      "pos": "adv.",
+      "phonetic": "/ˈlaɪkwaɪz/",
+      "meaning": "同样地，也，照样",
+      "enExample": "Thanks for your help — likewise, let me know if you need anything.",
+      "zhExample": "谢谢你的帮助——同样，需要什么也尽管告诉我。",
+      "note": "💡 like（像）+ wise（方式）→ 同样地；常见搭配 yours likewise / and likewise；邮件结尾「祝好」或表示「同感」时简洁得体。"
+    }
+  ],
+  "essay": {
+    "title": "The Long Way Around",
+    "author": "佚名",
+    "paragraphs": [
+      "The old map on my wall still shows the river we used to fear, the one that once made us turn back. Years later I learned the bridge had been rebuilt, but by then I had grown fond of the longer road. Some mornings the detour is not a mistake but a quiet invitation to see the world sideways.",
+      "We are taught early that the shortest distance is always best, that efficiency is a kind of virtue. Yet the path that bends teaches more than the one that runs straight. I have met my truest friends at a kitchen table meant only for a quick coffee, and found my calmest thoughts on a train that was supposed to be a faster one.",
+      "There is a wisdom in wandering that planners never capture. The garden behind the bakery, the song hummed by a stranger, the hill you climb only because the sign pointed the other way — these are the gifts of going around. What looks like delay is often the moment life finally has room to speak to you.",
+      "So I have stopped apologizing for the roads I take slowly. The scenic route home, the book read twice, the conversation that refuses to end — none of it was wasted time. To arrive by the long way is to arrive with a fuller heart, carrying stories and small wonders the straight line could never have given me.",
+      "Perhaps the point was never the destination, nor the clock that measured it with such impatience. It was the unhurried turning, the quiet willingness to be late and unlost. When I look back, the long way around was the road that took me — gently, and without any hurry — into the person I was slowly becoming."
+    ],
+    "translations": [
+      "墙上那张旧地图仍标示着我们曾经害怕的河流，那条曾让我们掉头的河。多年后我才知道桥早已重建，但那时我已爱上了那条更长的路。有些清晨，绕远并非错误，而是一份安静的邀约，让你换个角度看见世界。",
+      "我们从小被教导，最短的距离总是最好，效率仿佛是一种美德。然而弯路教会我们的，比直路更多。我那些最真挚的朋友，相识于本只想匆匆喝杯咖啡的厨房桌旁；我最平静的思绪，出现在那班本应更快的列车上。",
+      "漫步之中自有规划者永远捕捉不到的智慧。面包店后的花园、陌生人哼起的歌、只因路牌指向别处而你偏要爬上的小山——这些都是绕路馈赠的礼物。看似耽搁的时刻，往往正是生活终于有空隙对你说话的瞬间。",
+      "于是我不再为自己走得慢的路道歉。回家的风景线、读了两遍的书、不愿结束的谈话——没有一样是被浪费的时光。绕远抵达，是带着更丰盈的心抵达，携着直路永远无法给予我的故事与微小惊喜。",
+      "或许重点从来不是终点，也不是丈量它的那只急躁的钟。而是那不慌不忙的回转，是甘愿迟到、甘愿迷失的安静心意。当我回望，绕远的路并非少有人走的路，而是那条温柔而不急地，把我带成了正在慢慢成为的那个人的路。"
+    ],
+    "grammar": [
+      {
+        "point": "现在完成时：经历与持续的状态",
+        "example": "\"I have grown fond of the longer road.\"",
+        "note": "现在完成时（have + 过去分词）用来描述从过去延续至今的状态或经历。句中 grown fond 表示「渐渐爱上」这一持续至今的心境，强调对长路的态度已发生变化并延续到现在。 举一反三：举一反三：把「have grown」换成「have come to realize」，可表达「渐渐意识到」，同样强调过程延续到现在。"
+      },
+      {
+        "point": "破折号后的同位强调",
+        "example": "\"the hill you climb only because the sign pointed the other way — these are the gifts of going around.\"",
+        "note": "破折号（—）在此引出前面列举内容的总结性同位语，these 回指前文的 garden、song、hill，起到强调与收束的作用，使句式富有朗读的停顿感。 举一反三：举一反三：可用冒号或「that is」替换破折号，但破折号最自然，适合口语与美文朗读。"
+      },
+      {
+        "point": "不定式作主语与表语的对等",
+        "example": "\"To arrive by the long way is to arrive with a fuller heart.\"",
+        "note": "句中 To arrive... 作主语，to arrive... 作表语，前后两个不定式形成对等结构，表达「做 A 即意味着做 B」的深层含义，语气庄重，常用于散文式的哲理陈述。 举一反三：举一反三：可套用「To understand X is to love X」的句式，把抽象道理讲得凝练有力。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "detour",
+        "pos": "n.",
+        "meaning": "绕行；迂回的路",
+        "enExample": "We took a scenic detour through the hills.",
+        "zhExample": "我们沿着山间风景线绕了远路。",
+        "note": "用法：指为避开障碍或纯为欣赏风景而绕行的路线"
+      },
+      {
+        "term": "wander",
+        "pos": "v.",
+        "meaning": "漫步；闲逛",
+        "enExample": "She likes to wander along the quiet river.",
+        "zhExample": "她喜欢沿着安静的河边漫步。",
+        "note": "用法：强调无明确目的、随性而行"
+      },
+      {
+        "term": "scenic",
+        "pos": "adj.",
+        "meaning": "风景优美的",
+        "enExample": "The scenic route home took an extra hour.",
+        "zhExample": "回家的风景线多花了一个小时。",
+        "note": "用法：形容沿途或地点景色宜人"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "从容的；不慌不忙的",
+        "enExample": "He spoke in his usual unhurried way.",
+        "zhExample": "他仍以一贯从容的语调说话。",
+        "note": "用法：形容节奏舒缓、不受时间逼迫的状态"
+      },
+      {
+        "term": "wisdom",
+        "pos": "n.",
+        "meaning": "智慧；明智",
+        "enExample": "There is a quiet wisdom in taking the long way.",
+        "zhExample": "绕远而行中藏着一种安静的智慧。",
+        "note": "用法：可指经验沉淀出的判断力"
+      },
+      {
+        "term": "delay",
+        "pos": "n./v.",
+        "meaning": "耽搁；延迟",
+        "enExample": "The small delay gave us time to breathe.",
+        "zhExample": "这小小的耽搁让我们得以喘息。",
+        "note": "用法：既可作名词也可作动词，指时间上的推迟"
+      },
+      {
+        "term": "fond",
+        "pos": "adj.",
+        "meaning": "喜爱的；温柔的",
+        "enExample": "I grew fond of the longer road home.",
+        "zhExample": "我渐渐爱上了那条更长的回家路。",
+        "note": "用法：常用于 be fond of，表达对人或事的偏爱"
+      },
+      {
+        "term": "gentle",
+        "pos": "adj.",
+        "meaning": "温柔的；温和的",
+        "enExample": "The path took me gently toward who I am.",
+        "zhExample": "这条路温柔地把我带向如今的自己。",
+        "note": "用法：形容态度、动作或变化柔和而不突兀"
+      }
+    ]
+  }
+}

@@ -1,7 +1,53 @@
 {
   "date": "2026-09-09",
   "title": "每日一词一文",
-  "words": [],
+  "words": [
+    {
+      "word": "accomplish",
+      "pos": "v.",
+      "phonetic": "/əˈkʌm.plɪʃ/",
+      "meaning": "完成，实现（目标、任务等）",
+      "enExample": "She worked hard to accomplish her goals before the end of the year.",
+      "zhExample": "她努力工作，在年底前完成了自己的目标。",
+      "note": "ac-（加强）+ complish（完成）→ 强调彻底完成。比 finish 更正式，常搭配 goal / task / mission。"
+    },
+    {
+      "word": "budget",
+      "pos": "n./v.",
+      "phonetic": "/ˈbʌdʒ.ɪt/",
+      "meaning": "预算；编制预算",
+      "enExample": "We need to create a monthly budget to track our spending more effectively.",
+      "zhExample": "我们需要制定月度预算，更有效地追踪支出。",
+      "note": "生活职场双高频：on a budget（精打细算）、over budget（超预算）、budget for something（为某事做预算）。"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "phonetic": "/ˈded.laɪn/",
+      "meaning": "截止日期，最后期限",
+      "enExample": "The project deadline is next Friday, so we need to hurry up.",
+      "zhExample": "项目的截止日期是下周五，所以我们得抓紧了。",
+      "note": "dead（死）+ line（线）→ 过了这条线就死定了。职场最常用词之一：meet the deadline（赶上截止日）。"
+    },
+    {
+      "word": "essential",
+      "pos": "adj./n.",
+      "phonetic": "/ɪˈsen.ʃəl/",
+      "meaning": "必不可少的，极其重要的；必需品",
+      "enExample": "Drinking enough water is essential for maintaining good health.",
+      "zhExample": "喝足够的水对保持健康至关重要。",
+      "note": "essence（本质）+ -tial → 本质上的，不可或缺的。比 important 程度更强。daily essentials（日常必需品）。"
+    },
+    {
+      "word": "routine",
+      "pos": "n./adj.",
+      "phonetic": "/ruːˈtiːn/",
+      "meaning": "常规，例行公事；常规的",
+      "enExample": "My morning routine includes exercise, breakfast, and reading the news.",
+      "zhExample": "我的早晨常规包括锻炼、吃早餐和看新闻。",
+      "note": "route（路线）→ 每天走的固定路线，引申为惯例。建立 good routine 是高效生活的基础。"
+    }
+  ],
   "essay": {
     "title": "The Quiet Gift of Friendship",
     "author": "佚名",

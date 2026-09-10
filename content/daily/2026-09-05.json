@@ -1,7 +1,53 @@
 {
   "date": "2026-09-05",
   "title": "每日一词一文",
-  "words": [],
+  "words": [
+    {
+      "word": "abundant",
+      "pos": "adj.",
+      "phonetic": "/əˈbʌndənt/",
+      "meaning": "丰富的，充裕的，大量的",
+      "enExample": "The region is abundant in natural resources and cheap labor.",
+      "zhExample": "该地区自然资源丰富，劳动力也很廉价。",
+      "note": "💡 词根 abund（丰富）+ -ant；常见搭配 abundant in / abundant resources；常用于简历描述资源充足，或面试中谈「机会丰富」「空间广阔」的场景。"
+    },
+    {
+      "word": "commit",
+      "pos": "v.",
+      "phonetic": "/kəˈmɪt/",
+      "meaning": "承诺，投入，致力于",
+      "enExample": "She committed herself to finishing the project ahead of schedule.",
+      "zhExample": "她承诺自己要提前完成这个项目。",
+      "note": "💡 com-（共同）+ mit（送）→ 把心思「送出去」即全身投入；常见搭配 commit to / commit oneself；面试中表「承诺投入项目」很地道。"
+    },
+    {
+      "word": "elicit",
+      "pos": "v.",
+      "phonetic": "/ɪˈlɪsɪt/",
+      "meaning": "引出，探出，使发出",
+      "enExample": "The interviewer's open questions elicited honest feedback from the team.",
+      "zhExample": "面试官开放式的问题引出了团队真实的反馈。",
+      "note": "💡 e-（出）+ licit（引诱）→ 把话「引出来」；常见搭配 elicit a response / elicit feedback；适合调研或面试追问时「引导对方说出真实想法」。"
+    },
+    {
+      "word": "indispensable",
+      "pos": "adj.",
+      "phonetic": "/ˌɪndɪˈspensəbl/",
+      "meaning": "不可或缺的，必不可少的",
+      "enExample": "Her bilingual skill made her indispensable to the overseas team.",
+      "zhExample": "她的双语能力让她成了海外团队里不可或缺的人。",
+      "note": "💡 in-（不）+ dispensable（可省去的）→ 缺了不行的；常见搭配 indispensable to / become indispensable；用于强调「团队里不可或缺的角色」。"
+    },
+    {
+      "word": "notion",
+      "pos": "n.",
+      "phonetic": "/ˈnoʊʃn/",
+      "meaning": "概念，想法，看法",
+      "enExample": "He had only a vague notion of how the new system worked.",
+      "zhExample": "他只对这套新系统怎么运作有个模糊的概念。",
+      "note": "💡 来自 note（知道）→ 脑中的「想法、概念」；常见搭配 have a notion / vague notion；可用在「对某事有个粗略概念」的职场沟通中。"
+    }
+  ],
   "essay": {
     "title": "The Quiet Shape of Growth",
     "author": "佚名",
