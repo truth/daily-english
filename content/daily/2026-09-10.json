@@ -1,7 +1,53 @@
 {
   "date": "2026-09-10",
   "title": "每日一词一文",
-  "words": [],
+  "words": [
+    {
+      "word": "adequate",
+      "pos": "adj.",
+      "phonetic": "/ˈædɪkwət/",
+      "meaning": "足够的，适当的，胜任的",
+      "enExample": "The current budget is not adequate to cover the expansion.",
+      "zhExample": "目前的预算不足以覆盖这次扩张。",
+      "note": "💡 ad-（向）+ equ（相等）+ -ate → 够得上的；常见搭配 adequate to / adequate supply；用于说明「资源或准备是否充足」的客观评估。"
+    },
+    {
+      "word": "convince",
+      "pos": "v.",
+      "phonetic": "/kənˈvɪns/",
+      "meaning": "使信服，说服，使承认",
+      "enExample": "He convinced the board that the risk was manageable.",
+      "zhExample": "他说服了董事会，让他们相信风险是可控的。",
+      "note": "💡 con-（加强）+ vince（征服）→ 说服对方；常见搭配 convince sb of / be convinced；汇报时用「说服客户/领导」展现影响力。"
+    },
+    {
+      "word": "diligent",
+      "pos": "adj.",
+      "phonetic": "/ˈdɪlɪdʒənt/",
+      "meaning": "勤勉的，用功的，细致的",
+      "enExample": "She is diligent in double-checking every figure before submission.",
+      "zhExample": "她很勤勉，提交前会把每个数字都复核一遍。",
+      "note": "💡 来自拉丁 diligere（珍视）→ 勤奋用心的；常见搭配 diligent in / a diligent worker；推荐信与面试中夸「做事踏实勤勉」的高频词。"
+    },
+    {
+      "word": "foster",
+      "pos": "v.",
+      "phonetic": "/ˈfɔːstər/",
+      "meaning": "培养，促进，收养",
+      "enExample": "Good leaders foster collaboration across departments.",
+      "zhExample": "优秀的领导者会促进跨部门之间的协作。",
+      "note": "💡 原义「养育」→ 培养、促进；常见搭配 foster collaboration / foster growth；适合谈「营造团队氛围、培养合作关系」。"
+    },
+    {
+      "word": "subtle",
+      "pos": "adj.",
+      "phonetic": "/ˈsʌtl/",
+      "meaning": "微妙的，细微的，不易察觉的",
+      "enExample": "There is a subtle difference between these two proposals.",
+      "zhExample": "这两份方案之间有一个微妙的区别。",
+      "note": "💡 源自拉丁 subtilis（精细的）→ 微妙不易察觉的；常见搭配 subtle difference / subtle hint；用于「细微差别、含蓄表达」的精准描述。"
+    }
+  ],
   "essay": {
     "title": "The Quiet Courage Within",
     "author": "佚名",
@@ -16,6 +62,126 @@
       "我们总以为勇敢属于无所畏惧的人。然而真相要温柔得多。勇气不是恐惧的缺席，而是即便恐惧仍在，依然决定向前。走进新教室的孩子，分享未完诗作的文字者，说出\"我错了\"的朋友——每个人都比自己所知的更勇敢。",
       "一些最勇敢的行为无人见证。在世人要求喧闹时选择休息。带着爱设立边界。在失去之后重新开始，且不担保第二次会更轻松。这些无人喝彩的安静胜利，却比任何聚光灯都更能塑造一生。",
       "所以如果今天让你感到沉重，请记住：你无需无所畏惧才算勇敢。你只需用整颗心迈出下一步。说到底，勇气一向如此——不是不跌倒，而是跌倒后依然起身。"
+    ],
+    "vocab": [
+      {
+        "term": "trembling",
+        "pos": "adj.",
+        "meaning": "颤抖的，发抖的",
+        "enExample": "She signed the paper with a trembling hand.",
+        "zhExample": "她用一只颤抖的手签下了名字。",
+        "note": "用法：常用于描述因紧张、害怕或激动而微微发抖的手、声音。名词形式 tremor。；近义：shaking · quivering ｜ 反义：steady（稳健的）"
+      },
+      {
+        "term": "unnoticed",
+        "pos": "adj.",
+        "meaning": "未被注意的，被忽视的",
+        "enExample": "The small kindness passed unnoticed by most.",
+        "zhExample": "那份小小的善意大多没人察觉。",
+        "note": "用法：由 notice（注意）+ 否定前缀 un- + 后缀 -ed 构成，常作表语或后置定语。；近义：overlooked · ignored ｜ 反义：noticed（被注意到的）"
+      },
+      {
+        "term": "reach out",
+        "pos": "phr.",
+        "meaning": "伸出（手）；主动联系；伸出援手",
+        "enExample": "Don't be afraid to reach out when you need help.",
+        "zhExample": "需要帮助时，别怕主动开口。",
+        "note": "用法：本义为伸手够取，引申义为\"主动关心/求助/联络他人\"，口语极常用。；近义：reach for · make contact ｜ 反义：withdraw（退缩）"
+      },
+      {
+        "term": "tend to",
+        "pos": "phr.",
+        "meaning": "往往，倾向于，通常会",
+        "enExample": "People tend to remember how you made them feel.",
+        "zhExample": "人们往往会记住你带给他们的感受。",
+        "note": "用法：后接动词原形，表示一种习惯性、大概率的倾向，比 always 更柔和。；近义：be inclined to · usually ｜ 反义：rarely（很少）"
+      },
+      {
+        "term": "absence",
+        "pos": "n.",
+        "meaning": "缺席，缺乏，不存在",
+        "enExample": "Courage is not the absence of fear.",
+        "zhExample": "勇气并非恐惧的缺席。",
+        "note": "用法：固定搭配 in the absence of（在缺乏……的情况下）；反义词 presence。；近义：lack · missing ｜ 反义：presence（存在）"
+      },
+      {
+        "term": "move forward",
+        "pos": "phr.",
+        "meaning": "前进，继续前行，向前迈进",
+        "enExample": "We must move forward despite the uncertainty.",
+        "zhExample": "即便前路未明，我们也得继续前行。",
+        "note": "用法：既指物理上的前进，也指人生、关系、事业上的\"继续往前走\"。；近义：press on · progress ｜ 反义：hold back（退缩）"
+      },
+      {
+        "term": "witness",
+        "pos": "n. / v.",
+        "meaning": "目击者；见证（者）；目睹",
+        "enExample": "She was a witness to his kindness.",
+        "zhExample": "她是他善意的见证者。",
+        "note": "用法：作名词\"见证者\"，作动词\"目睹、见证\"。文中 leave no witness 意为\"无人见证\"。；近义：observer · testify ｜ 反义：ignore（无视）"
+      },
+      {
+        "term": "boundary",
+        "pos": "n.",
+        "meaning": "边界，界限；人际边界",
+        "enExample": "It's healthy to set a boundary with love.",
+        "zhExample": "带着爱设立边界，是健康的事。",
+        "note": "用法：心理学高频词，指保护自己而设的\"边界\"。set a boundary = 设立边界。；近义：limit · edge ｜ 反义：openness（无界）"
+      },
+      {
+        "term": "victory",
+        "pos": "n.",
+        "meaning": "胜利，战胜",
+        "enExample": "Every small step is a quiet victory.",
+        "zhExample": "每迈出一小步，都是一场安静的胜利。",
+        "note": "用法：可指比赛、战争，也常比喻\"克服困难的胜利\"。quiet victory = 安静的胜利。；近义：triumph · win ｜ 反义：defeat（失败）"
+      },
+      {
+        "term": "applaud",
+        "pos": "v.",
+        "meaning": "鼓掌，喝彩；称赞",
+        "enExample": "No one applauds, yet the effort matters.",
+        "zhExample": "无人喝彩，但这份努力自有分量。",
+        "note": "用法：本义鼓掌，引申为\"赞许、认可\"。名词 applause。；近义：cheer · praise ｜ 反义：criticize（批评）"
+      },
+      {
+        "term": "spotlight",
+        "pos": "n.",
+        "meaning": "聚光灯；公众关注",
+        "enExample": "She stepped out of the spotlight to rest.",
+        "zhExample": "她走下聚光灯，去歇一歇。",
+        "note": "用法：本义舞台聚光灯，比喻\"众人瞩目的焦点\"。in the spotlight = 处于聚光灯下/受关注。；近义：limelight · attention ｜ 反义：obscurity（默默无闻）"
+      },
+      {
+        "term": "get up",
+        "pos": "phr.",
+        "meaning": "起身；站起来；振作",
+        "enExample": "What matters is that you get up again.",
+        "zhExample": "重要的是你再次站了起来。",
+        "note": "用法：文中 the presence of getting up 指\"重新站起\"的姿态，象征逆境后的复原。；近义：rise · stand up ｜ 反义：give up（放弃）"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "1. not...but... 并列平行结构",
+        "example": "Courage is not the absence of fear, but the decision to move forward…",
+        "note": "\"not A, but B\" 否定前者、肯定后者，前后成分需结构对称。此处 not 后接名词短语 the absence of fear，but 后接名词短语 the decision to move forward，结构平行，形成强烈对比。文末 \"not the absence of falling, but the presence of getting up\" 同理，用动名词 falling / getting up 保持对称。"
+      },
+      {
+        "point": "2. 动名词短语作主语",
+        "example": "Choosing rest when the world demands noise. Setting a boundary with love. Beginning again after loss…",
+        "note": "三个以动词 -ing 形式开头的短句，动词-ing 构成动名词短语，在句中充当主语（省略了共有的谓语 are courageous acts）。动名词作主语强调\"行为本身\"，语气凝练有力，是英文美文常见的排比手法。"
+      },
+      {
+        "point": "3. that 引导的同位语从句",
+        "example": "…without any promise that it will be easier the second time.",
+        "note": "名词 promise（承诺/保证）后接 that 引导的同位语从句，that 不充当成分、只起连接作用，解释 promise 的具体内容（\"它会更轻松\"）。注意区分：定语从句的 that 一定在从句中作成分，而同位语从句的 that 不作成分。"
+      },
+      {
+        "point": "4. far 修饰比较级（程度副词）",
+        "example": "Yet the truth is far gentler.",
+        "note": "far 在此作程度副词，修饰比较级 gentler，表示\"……得多\"。常见可修饰比较级的词还有 much, a lot, even, still, slightly 等。\"far + 比较级\"在书面语中很常见，强调差距明显。"
+      }
     ]
   }
 }
