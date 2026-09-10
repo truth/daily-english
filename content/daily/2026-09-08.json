@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-08",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "awkward",
+      "pos": "adj.",
+      "phonetic": "/ˈɔː.kwɚd/",
+      "meaning": "尴尬的；笨拙的；不便的",
+      "enExample": "There was an awkward silence after his question, and nobody knew how to respond.",
+      "zhExample": "他的问题之后是一阵尴尬的沉默，没人知道怎么接话。",
+      "note": "\"awk-\" 像被卡住的 \"awk-\" 音，加上 \"ward\"（方向）→ 事情卡在某个方向，转不过去。日常：awkward silence（尬场）/ awkward situation（尴尬局面）/ awkward pause（尴尬的停顿）。"
+    },
+    {
+      "word": "deposit",
+      "pos": "n./v.",
+      "phonetic": "/dɪˈpɑː.zɪt/",
+      "meaning": "押金；订金；存款；（使）沉积",
+      "enExample": "Please pay a twenty percent deposit to confirm your hotel reservation.",
+      "zhExample": "请支付20%的订金以确认您的酒店预订。",
+      "note": "\"de-\"（向下）+ \"posit\"（放置）→ 把钱往下放、放到账上。名词 = 一笔钱（订金/押金/存款），动词 = 放下/存钱。银行场景：make a deposit（存款）/ deposit account（存款账户）。"
+    },
+    {
+      "word": "prompt",
+      "pos": "adj./n./v.",
+      "phonetic": "/prɑːmpt/",
+      "meaning": "迅速的；及时的；提示；（计算机）提示符",
+      "enExample": "A prompt reply to customer complaints can prevent a small issue from turning into a big one.",
+      "zhExample": "对客户投诉的及时回复能避免小事变大。",
+      "note": "形容词和副词表示\"快且准\"，名词是\"提示\"，动词是\"促使\"。职场高频：prompt response（即时回复）/ prompt delivery（即时配送）/ AI prompt（给 AI 的指令）。拼写容易跟 \"promptly\"（副词）混淆。"
+    },
+    {
+      "word": "refund",
+      "pos": "n./v.",
+      "phonetic": "/ˈriː.fʌnd/",
+      "meaning": "退款；退还",
+      "enExample": "If the product arrives damaged, the store will issue a full refund within seven days.",
+      "zhExample": "如果商品到达时损坏，商店将在七天内全额退款。",
+      "note": "\"re-\"（回）+ \"fund\"（资金）→ 把钱退回去。动词用法：refund the money / refund the customer。名词：full refund（全额退款）/ partial refund（部分退款）/ refund policy（退款政策）。和 \"return\"（退商品）的区别：refund 强调退钱。"
+    },
+    {
+      "word": "venue",
+      "pos": "n.",
+      "phonetic": "/ˈven.juː/",
+      "meaning": "场地；会场；举办地点",
+      "enExample": "The wedding venue was decorated with flowers and fairy lights for the evening reception.",
+      "zhExample": "婚礼场地用鲜花和小彩灯装饰，准备晚上的招待会。",
+      "note": "源自法语 \"venir\"（来）→ 人们聚集的\"地方\"。活动策划高频词：event venue / concert venue / sports venue / venue hire（场地租赁）。口语常说：\"What's the venue?\"（地点在哪？）"
+    }
+  ],
+  "essay": {
+    "title": "What the Seasons Teach Us",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a quiet wisdom in the way the year turns. Spring arrives not with a shout but with a whisper—a single green shoot pushing through the thawing soil, a softness returning to the light. We are reminded that beginnings need not be loud to be real.",
+      "Summer teaches a different lesson. It asks us to open outward, to give our warmth freely, to let the long golden days stretch without apology. There is a generosity in fullness, a trust that what we offer now will ripen in its own time.",
+      "Then autumn comes, and the trees let go. They do not cling to their leaves out of fear; they release them with a grace that trusts the cycle. We learn from this unhurried surrender that holding on too tightly is often its own kind of poverty.",
+      "And winter, far from being an ending, is the season of rest. Beneath the stillness, roots deepen and the earth gathers its strength. If we are patient enough to be still, we too may find that every ending is only the ground from which the next spring quietly grows."
+    ],
+    "translations": [
+      "年岁流转的方式里，藏着一种安静的智慧。春天不是以一声呼喊，而是以一句低语到来的——一株绿色的嫩芽顶开正在解冻的泥土，一缕柔光回到天地之间。我们由此想起：开始，未必喧响才算真实。",
+      "夏天教的是另一课。它要我们向外敞开，慷慨地给出自己的温热，让悠长的金色白日毫无歉意地舒展开来。丰盈之中自有慷慨，是一种笃信：此刻我们付出的，终会在它自己的时令里成熟。",
+      "接着秋天来了，树木放手。它们不因恐惧而紧抓枝叶不放；它们以一种信任轮回的优雅将其释下。我们从这份从容的释然中学到：抓得太紧，往往本身就是一种贫乏。",
+      "而冬天绝非终点，它是休憩的季节。在静谧之下，根须深扎，大地积聚力量。若我们耐得住性子、守得住安静，也会发现：每一次结束，都不过是下个春天悄然生长的那片土壤。"
+    ],
+    "grammar": [
+      {
+        "point": "1. not...but... 并列结构（否定+转折）",
+        "example": "\"Spring arrives not with a shout but with a whisper...\"",
+        "note": "not A but B 连接两个对等的语法成分，此处连接两个介词短语（with a shout / with a whisper），表\"不是…而是…\"，语气对比鲜明。 注意 but 后成分须与 not 后成分词性一致；文中把\"呼喊\"与\"低语\"对照，突出春天的不张扬。"
+      },
+      {
+        "point": "2. 现在分词短语作后置定语",
+        "example": "\"a single green shoot pushing through the thawing soil\"",
+        "note": "pushing through the thawing soil 是现在分词短语，修饰名词 shoot，相当于定语从句 which pushes through...，表示主动、进行中的动作，使画面更具动态感。 thawing 同样是现在分词作定语，修饰 soil，意为\"正在解冻的泥土\"。"
+      },
+      {
+        "point": "3. that 引导宾语从句 + 动名词短语作主语",
+        "example": "\"We learn ... that holding on too tightly is often its own kind of poverty.\"",
+        "note": "that 引导宾语从句，作 learn 的宾语。从句主语是动名词短语 holding on too tightly（\"抓得太紧\"这一行为），谓语 is，表语 poverty。 动名词作主语表\"一件事/一种状态\"，谓语用单数；holding on 来自短语 hold on（坚持/抓住不放）。"
+      },
+      {
+        "point": "4. if 条件状语从句 + that 宾语从句 + 介词+which 定语从句",
+        "example": "\"If we are patient enough to be still, we too may find that every ending is only the ground from which the next spring quietly grows.\"",
+        "note": "If 引导条件状语从句（\"若我们耐得住…\"）；主句 find 后接 that 宾语从句；从句末尾 from which the next spring grows 是\"介词 + which\"定语从句，修饰 ground，which 指代 ground，表\"春天从中生长的那片土壤\"。 from which = from the ground，把地点名词提前作先行词，句式比 where 更正式、书面。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "wisdom",
+        "pos": "n.",
+        "meaning": "智慧，明智",
+        "enExample": "The old library held the wisdom of centuries. 这座旧图书馆收藏着数个世纪的智慧。",
+        "zhExample": "",
+        "note": "用法：指经过阅历沉淀的判断力与通达，比 knowledge 更侧重\"如何用\"。近：insight, sense 反：foolishness"
+      },
+      {
+        "term": "whisper",
+        "pos": "n./v.",
+        "meaning": "低语，耳语；悄悄说",
+        "enExample": "She whispered a secret into his ear. 她凑近他耳边低声说了一个秘密。",
+        "zhExample": "",
+        "note": "用法：可作名/动；常喻指轻微、不张扬的事物（如 a whisper of wind）。近：murmur 反：shout"
+      },
+      {
+        "term": "shoot",
+        "pos": "n.",
+        "meaning": "嫩芽，新枝；苗",
+        "enExample": "Bamboo shoots appear after the spring rain. 春雨过后，竹笋便冒了出来。",
+        "zhExample": "",
+        "note": "用法：植物学常用，a green shoot 指破土的新芽。近：sprout, bud 反：—"
+      },
+      {
+        "term": "thaw",
+        "pos": "v.",
+        "meaning": "融化，解冻；（关系）缓和",
+        "enExample": "The ice began to thaw under the morning sun. 晨光下，冰开始融化。",
+        "zhExample": "",
+        "note": "用法：本义冰雪消融，亦可喻指态度/气氛回暖。thawing 为现在分词作定语。近：melt 反：freeze"
+      },
+      {
+        "term": "generosity",
+        "pos": "n.",
+        "meaning": "慷慨，大方，宽宏",
+        "enExample": "His generosity to strangers amazed everyone. 他对陌生人的慷慨让所有人惊讶。",
+        "zhExample": "",
+        "note": "用法：源于 generous；a generosity in sth 表\"在…中体现出的慷慨\"。近：kindness 反：meanness"
+      },
+      {
+        "term": "fullness",
+        "pos": "n.",
+        "meaning": "充实，丰满，饱满",
+        "enExample": "She lived life in its fullness. 她把生活过得饱满而充实。",
+        "zhExample": "",
+        "note": "用法：in the fullness of time 为固定搭配，意为\"在恰当时机\"。近：completeness 反：emptiness"
+      },
+      {
+        "term": "ripen",
+        "pos": "v.",
+        "meaning": "成熟，使成熟",
+        "enExample": "The plan ripened over many conversations. 这个计划在多次交谈中渐渐成熟。",
+        "zhExample": "",
+        "note": "用法：常作不及物（果实/计划/关系成熟）；ripe 为形容词。近：mature 反：wither"
+      },
+      {
+        "term": "let go",
+        "pos": "phr.",
+        "meaning": "放手，放下，释怀",
+        "enExample": "It is hard to let go of old dreams. 放下旧日的梦想很难。",
+        "zhExample": "",
+        "note": "用法：及物需加 of（let go of sth）；此处作不及物，指\"放开、不再执着\"。近：release, surrender 反：hold on"
+      },
+      {
+        "term": "cling",
+        "pos": "v.",
+        "meaning": "紧抓，依附，依恋",
+        "enExample": "Don't cling to the past. 别再紧抓过去不放。",
+        "zhExample": "",
+        "note": "用法：cling to sth 固定搭配，含\"不肯放手\"之意，常带贬义。近：hold, grasp 反：release"
+      },
+      {
+        "term": "grace",
+        "pos": "n.",
+        "meaning": "优雅，体面，恩典",
+        "enExample": "She accepted the news with grace. 她优雅地接受了这个消息。",
+        "zhExample": "",
+        "note": "用法：with grace 表\"优雅地、体面地\"；也可指上天的恩典。近：elegance, dignity 反：awkwardness"
+      },
+      {
+        "term": "surrender",
+        "pos": "n./v.",
+        "meaning": "投降；释然，顺应",
+        "enExample": "Peace came from a quiet surrender to the moment. 平静，来自对当下安静的顺应。",
+        "zhExample": "",
+        "note": "用法：本义\"投降\"，文中取积极义\"放下执念、顺应自然\"。近：yield, let go 反：resist"
+      },
+      {
+        "term": "stillness",
+        "pos": "n.",
+        "meaning": "静谧，静止，安宁",
+        "enExample": "He found clarity in the stillness of dawn. 他在黎明的静谧里找到了清明。",
+        "zhExample": "",
+        "note": "用法：由 still 派生；beneath the stillness 表\"在平静表象之下\"。近：calm, silence 反：commotion"
+      }
+    ]
+  }
+}

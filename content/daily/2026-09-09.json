@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-09",
+  "title": "每日一词一文",
+  "words": [],
+  "essay": {
+    "title": "The Quiet Gift of Friendship",
+    "author": "佚名",
+    "paragraphs": [
+      "We often measure friendship by grand gestures — the elaborate surprises, the dramatic reunions. Yet the truest friends are usually the ones who ask nothing of us but our company. They sit with us in comfortable silence, and that silence feels warm rather than awkward.",
+      "A real friend does not rush to fix your pain. Instead, they make room for it. They listen without rehearsing their reply, and somehow their quiet presence alone reminds you that you were never meant to carry everything by yourself.",
+      "Friendship is not measured in frequency but in reliability. Years may pass between meetings, yet the moment you speak again, it is as if no time had ever slipped away. That continuity — steady, unhurried — is its own quiet kind of love.",
+      "So treasure those who stay. Not because they are loud in your life, but because, across the noise of ordinary days, they remain the people you can simply be with. In a world that asks so much of us, such friendship is no small thing. It is, in the end, one of the few things that ever truly mattered."
+    ],
+    "translations": [
+      "我们常常用盛大的姿态来衡量友谊——精心准备的惊喜、戏剧性的重逢。然而，最真挚的朋友，往往只是要求我们陪伴，别无他求。他们与我们一同静坐，安然无语，而那份静默让人感到温暖，而非尴尬。",
+      "真正的朋友不会急于替你消解痛苦。相反，他们为你的痛苦留出空间。他们倾听时不会急着想好如何回应；而他们安静的陪伴本身，便让你意识到：你本不必独自扛下一切。",
+      "友谊不在频繁，而在可靠。相聚之间也许相隔数年，可当你再次开口，仿佛时光从未流逝。那份绵长而从容的延续，本就是一种安静的爱。",
+      "所以，请珍惜那些留在你生命里的人。不是因为他们喧嚣热闹，而是因为在平凡日子的嘈杂中，他们始终是那个你只需待在一起就好的人。在一个对我们索求诸多的世界里，这样的友谊绝非小事。归根结底，它是少数真正有意义的事物之一。"
+    ],
+    "grammar": [
+      {
+        "point": "1. not...but... 并列结构（否定 + 转折）",
+        "example": "\"Friendship is not measured in frequency but in reliability.\"",
+        "note": "not A but B 连接两个对等的语法成分，此处连接两个介词短语（in frequency / in reliability），表\"不是…而是…\"，对比鲜明。 文末再次出现同类结构：\"Not because... but because...\"，连接两个原因状语从句，强调真正的理由所在。but 后成分须与 not 后成分词性/结构一致。"
+      },
+      {
+        "point": "2. as if 引导的虚拟语气（与过去事实相反）",
+        "example": "\"...it is as if no time had ever slipped away.\"",
+        "note": "as if 后的从句用过去完成时 had slipped，表示与过去事实相反的虚拟，意为\"仿佛时光从未流逝过\"——此处以夸张手法写出重逢时时光凝固之感。 若表示与现在/将来相反，as if 后用一般过去时（were / did）；与过去相反用过去完成时（had done）。"
+      },
+      {
+        "point": "3. who 引导的定语从句（指人，作主语）",
+        "example": "\"the ones who ask nothing of us but our company\" / \"So treasure those who stay.\"",
+        "note": "关系代词 who 指人，在从句中作主语。the ones / those who... 是高频结构，意为\"那些…的人/朋友\"；who 后接完整主谓（ask / stay）。 区分 who / whom：who 作主语或表语，whom 作宾语。此处均作主语，故用 who。"
+      },
+      {
+        "point": "4. that 引导的定语从句（one of + 复数名词，谓语用复数）",
+        "example": "\"It is... one of the few things that ever truly mattered.\"",
+        "note": "that 指代 things，在从句中作主语。主句为 \"one of + 复数名词\"，定语从句的先行词是复数 things 而非 one，故从句谓语用复数 mattered（而非 mattered 单数）。 口诀：one of the + 复数名词 + that + 复数动词；若强调\"唯一的一个\"，用 the only one of the... that + 单数动词。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "gesture",
+        "pos": "n.",
+        "meaning": "姿态；手势；举动",
+        "enExample": "His small gift was a kind gesture of apology. 他送的小礼物是善意的道歉之举。",
+        "zhExample": "",
+        "note": "用法：常指\"以示善意或态度的举动\"，如 a friendly gesture / a grand gesture。近：signal, sign 反：—"
+      },
+      {
+        "term": "elaborate",
+        "pos": "adj.",
+        "meaning": "精心制作的；详尽的",
+        "enExample": "She wore an elaborate dress to the party. 她穿了条精致的礼服去派对。",
+        "zhExample": "",
+        "note": "用法：elaborate plan / meal / preparation 指\"费心思准备的、讲究的\"。近：detailed, intricate 反：simple, plain"
+      },
+      {
+        "term": "dramatic",
+        "pos": "adj.",
+        "meaning": "戏剧性的；引人注目的",
+        "enExample": "The sky turned a dramatic shade of orange. 天空变成了引人注目的橘色。",
+        "zhExample": "",
+        "note": "用法：dramatic change / reunion 强调\"突然而令人印象深刻的\"，文中含\"大阵仗\"意。近：striking, sudden 反：undramatic, mild"
+      },
+      {
+        "term": "reunion",
+        "pos": "n.",
+        "meaning": "重逢；团聚",
+        "enExample": "The class reunion brought old friends together. 同学聚会让老友重聚。",
+        "zhExample": "",
+        "note": "用法：family reunion（家庭团聚）是美式常见节日场景；a class reunion 同学聚会。近：gathering, reuniting 反：separation, parting"
+      },
+      {
+        "term": "company",
+        "pos": "n.",
+        "meaning": "陪伴；同伴",
+        "enExample": "I love her company on long walks. 我喜欢长途散步时有她作伴。",
+        "zhExample": "",
+        "note": "用法：enjoy someone's company / keep someone company 表\"陪伴\"；ask nothing but our company 指\"只求我们在旁\"。近：companionship, presence 反：solitude"
+      },
+      {
+        "term": "awkward",
+        "pos": "adj.",
+        "meaning": "尴尬的；笨拙的",
+        "enExample": "There was an awkward pause in the conversation. 对话中出现尴尬的停顿。",
+        "zhExample": "",
+        "note": "用法：awkward silence / moment 表社交尴尬；rather than awkward 意为\"而非尴尬\"。近：embarrassing, clumsy 反：graceful, smooth"
+      },
+      {
+        "term": "rehearse",
+        "pos": "v.",
+        "meaning": "排练；在心里预演",
+        "enExample": "He rehearsed his answer before the interview. 面试前他预演了回答。",
+        "zhExample": "",
+        "note": "用法：rehearse a speech / rehearse what to say 表\"预先演练\"；文中指\"倾听时不在脑中预演回复\"。近：practice, drill 反：improvise"
+      },
+      {
+        "term": "presence",
+        "pos": "n.",
+        "meaning": "在场；存在；气场",
+        "enExample": "Her presence made everyone feel at ease. 她的在场让众人安心。",
+        "zhExample": "",
+        "note": "用法：your presence is requested；a calming presence 表\"安定的气场\"；文中 quiet presence 指\"安静的陪伴本身\"。近：attendance, aura 反：absence"
+      },
+      {
+        "term": "reliability",
+        "pos": "n.",
+        "meaning": "可靠性",
+        "enExample": "We value reliability over speed. 我们看重可靠胜过速度。",
+        "zhExample": "",
+        "note": "用法：the reliability of a friend / service；not in frequency but in reliability 表\"不在频繁，而在可靠\"。近：dependability, consistency 反：unreliability"
+      },
+      {
+        "term": "continuity",
+        "pos": "n.",
+        "meaning": "连续性；持续性",
+        "enExample": "The tradition gives a feeling of continuity. 这传统带来延续感。",
+        "zhExample": "",
+        "note": "用法：a sense of continuity 表\"延续感\"；文中指友谊跨越岁月的绵长不绝。近：continuation, consistency 反：discontinuity, break"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "从容不迫的；不慌不忙的",
+        "enExample": "She spoke in an unhurried voice. 她以从容的语调说话。",
+        "zhExample": "",
+        "note": "用法：an unhurried pace / manner 表\"不慌不忙\"；steady, unhurried 并列修饰 continuity。近：leisurely, calm 反：hurried, rushed"
+      },
+      {
+        "term": "treasure",
+        "pos": "v.",
+        "meaning": "珍视；珍藏",
+        "enExample": "I treasure the letters she wrote. 我珍藏着她写的信。",
+        "zhExample": "",
+        "note": "用法：treasure the moment / someone 表\"倍加珍惜\"，比 value 更带感情色彩。近：cherish, value 反：disregard, scorn"
+      },
+      {
+        "term": "make room for",
+        "pos": "phr.",
+        "meaning": "为…留出空间；给…余地",
+        "enExample": "We should make room for different opinions. 我们应给不同意见留出余地。",
+        "zhExample": "",
+        "note": "用法：字面\"腾出地方\"，喻指\"不急于解决，而是接纳、容纳（情绪等）\"；文中指朋友容纳你的痛苦。近：allow for, accommodate 反：crowd out"
+      }
+    ]
+  }
+}

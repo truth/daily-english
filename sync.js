@@ -122,7 +122,12 @@ function moveEssayToDone(srcDir, date) {
 }
 function run(cmd, args) {
   // shell:true 让 Windows 能解析 wrangler.cmd、git 等可执行文件
-  execFileSync(cmd, args, { cwd: ROOT, stdio: "inherit", shell: true });
+  // 注意：shell 模式下 argv 会被拼成一条字符串，含空格的参数必须加英文双引号包裹，
+  // 否则 git commit -m "同步每日英语内容 2026-09-04" 会被拆成多个 pathspec 而失败。
+  const safe = args.map((a) =>
+    /[\s"]/.test(String(a)) ? '"' + String(a).replace(/"/g, "'") + '"' : String(a)
+  );
+  execFileSync(cmd, safe, { cwd: ROOT, stdio: "inherit", shell: true });
 }
 function gitSync() {
   if (process.env.SYNC_NO_PUSH) {

@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-05",
+  "title": "每日一词一文",
+  "words": [],
+  "essay": {
+    "title": "The Quiet Shape of Growth",
+    "author": "佚名",
+    "paragraphs": [
+      "Growth rarely announces itself. It does not arrive with fireworks or a sudden change of heart, but in the small, almost invisible decisions we make when no one is clapping. You become braver not on the day you leap, but on the quiet mornings you choose to try again after falling.",
+      "We measure growth wrongly, by distance traveled rather than by weight carried. A person who has learned to stay kind in a hard season has grown more than one who has simply moved to a new city. The roots deepen where the soil is difficult; comfort, though pleasant, teaches little.",
+      "There is also a courage in staying. To keep showing up at the desk, in the relationship, with the difficult skill is its own form of growth. Progress is not always a line moving upward; sometimes it is a circle that returns you to the same problem, only wiser.",
+      "So be patient with your own becoming. The tree does not hurry, yet its rings tell the whole story. One day you will look back and notice that the person you were afraid of becoming has, without noise, already arrived."
+    ],
+    "translations": [
+      "成长很少会宣告自己的到来。它不来于烟花绚烂或一时的心血来潮，而来于那些微小、几乎看不见的选择——在我们无人喝彩时做出的选择。你变得勇敢，不在纵身一跃的那天，而在那些安静的清晨，你选择跌倒后再次尝试。",
+      "我们衡量成长的方式是错的：看的是走过的距离，而非扛起的重量。一个在艰难季节里学会保持善意的人，比一个只是搬去了新城市的人，成长得更多。根在贫瘠的土壤里扎得更深；安逸虽好，却教不了我们多少。",
+      "留下来，本身也是一种勇气。坚持出现在书桌前、关系里、那门艰难的技艺中——这本身就是一种成长。进步不总是一条向上的直线；有时它是一圈轮回，把你带回到同一个问题面前，只是你已更智慧。",
+      "所以，对你正在成为的样子，请多一些耐心。树从不匆忙，可它的年轮却讲述着全部故事。终有一天你回头去看，会忽然发现：那个你曾害怕成为的人，早已在悄无声息中，走到了你面前。"
+    ],
+    "grammar": [
+      {
+        "point": "not...but... 并列否定与对比",
+        "example": "\"It does not arrive with fireworks or a sudden change of heart, but in the small, almost invisible decisions...\"",
+        "note": "not A but B 结构否定前者、肯定后者，前后成分需对称（均为介词短语 with... / in...）。其中 or 连接 fireworks 与 a sudden change of heart，同属被否定的\"戏剧性方式\"，强化\"成长并非轰轰烈烈\"的语义。 举一反三：写作中可用 not...but... 制造反差，如 Not by chance, but by choice.（非出于偶然，而出于选择。）"
+      },
+      {
+        "point": "more than 比较结构 + 嵌套定语从句",
+        "example": "\"A person who has learned to stay kind in a hard season has grown more than one who has simply moved to a new city.\"",
+        "note": "主语 a person 后接 who 引导的定语从句（who has learned...）；比较对象 one 后接 who 引导的另一定语从句（who has simply moved...）。more than 连接两个\"人\"，比较的是成长的多寡，而非字面距离。 举一反三：比较句前后被比项语法功能须一致，这里都是\"人\"，故比较成立。"
+      },
+      {
+        "point": "where 引导的地点状语从句",
+        "example": "\"The roots deepen where the soil is difficult.\"",
+        "note": "where 在此不引导定语从句（前面无先行词），而是引导地点/条件状语从句，相当于 in the place where / wherever，表示\"在……的地方\"。整句意为：土壤越艰难，根扎得越深，暗喻困境促人成长。 举一反三：where 作连词还可表\"在……情况下\"，如 Where there is a will, there is a way.（有志者事竟成。）"
+      },
+      {
+        "point": "非谓语动词作主语（不定式与动名词）",
+        "example": "\"To keep showing up... is its own form of growth.\" ／ \"There is also a courage in staying.\"",
+        "note": "第一句以不定式短语 To keep showing up 作主语，谓语用单数 is；第二句中介词 in 后接动名词 staying 作宾语，表示\"停留\"这一行为本身。两句分别展示了不定式与动名词都可用来指称\"一件事/一种行为\"，在句中充当核心成分。 举一反三：句首表\"一件具体的事\"多用不定式（To learn is to grow.）；介词后则必须用动名词（He is good at staying calm.）。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "announce",
+        "pos": "v.",
+        "meaning": "宣告，宣布",
+        "enExample": "Spring announces itself with the first warm wind.",
+        "zhExample": "春天用第一缕暖风，宣告自己的到来。",
+        "note": "用法：指正式或公开地告知；announce itself 比喻\"显现、宣告到来\"，文学味浓。"
+      },
+      {
+        "term": "invisible",
+        "pos": "adj.",
+        "meaning": "看不见的，隐形的",
+        "enExample": "The most important work is often invisible.",
+        "zhExample": "最重要的工作，常常是无形的。",
+        "note": "用法：in-（不）+ visible（可见的）；形容肉眼或常被忽略的事物。"
+      },
+      {
+        "term": "leap",
+        "pos": "v./n.",
+        "meaning": "跳跃；猛然行动",
+        "enExample": "Real change begins before the big leap.",
+        "zhExample": "真正的改变，在那次大跳跃之前就已经开始。",
+        "note": "用法：指用力跳，也比喻果断迈步；a leap of faith 信仰之跃（勇敢尝试）。"
+      },
+      {
+        "term": "measure",
+        "pos": "v.",
+        "meaning": "衡量，测量",
+        "enExample": "We measure success too often by money.",
+        "zhExample": "我们太常以金钱来衡量成功。",
+        "note": "用法：measure A by B 以 B 来衡量 A；也可作名词\"衡量标准\"。"
+      },
+      {
+        "term": "deepen",
+        "pos": "v.",
+        "meaning": "加深，变深",
+        "enExample": "Difficult times deepen our friendships.",
+        "zhExample": "艰难的时光，加深了我们的友谊。",
+        "note": "用法：deep（深的）+ -en（使动）；可指物理深度，也可指感情、理解加深。"
+      },
+      {
+        "term": "comfort",
+        "pos": "n.",
+        "meaning": "安逸，舒适",
+        "enExample": "Too much comfort can quietly stop our growth.",
+        "zhExample": "过多的安逸，会悄悄止住我们的成长。",
+        "note": "用法：指身体或心理上的舒适状态；out of one's comfort zone 舒适区之外。"
+      },
+      {
+        "term": "showing up",
+        "pos": "phr. v.",
+        "meaning": "出现，到场；坚持出现",
+        "enExample": "Half of success is simply showing up every day.",
+        "zhExample": "成功的一半，就是每天简单地\"到场\"。",
+        "note": "用法：show up 本义\"露面\"，文中指日复一日地\"到场、不缺席\"。"
+      },
+      {
+        "term": "progress",
+        "pos": "n.",
+        "meaning": "进步，进展",
+        "enExample": "Small daily progress is still progress.",
+        "zhExample": "每天一点微小的进步，也是进步。",
+        "note": "用法：不可数名词；make progress 取得进步；progress 作动词读 /prəˈɡres/。"
+      },
+      {
+        "term": "patient",
+        "pos": "adj.",
+        "meaning": "耐心的",
+        "enExample": "Be patient with the slow work of becoming.",
+        "zhExample": "对\"成为自己\"这件慢活，请多些耐心。",
+        "note": "用法：be patient with 对……有耐心；名词 patience 耐心。"
+      },
+      {
+        "term": "becoming",
+        "pos": "n.",
+        "meaning": "成为；逐渐形成中的样子",
+        "enExample": "Your becoming is more important than your arrival.",
+        "zhExample": "你\"正在成为\"的过程，比\"抵达\"更重要。",
+        "note": "用法：来自动词 become，文中作名词指\"正在成为的过程/状态\"；亦可作形容词\"合适的\"。"
+      },
+      {
+        "term": "ring",
+        "pos": "n.",
+        "meaning": "（树木的）年轮；环，圈",
+        "enExample": "Each ring is a quiet record of a hard year.",
+        "zhExample": "每一圈年轮，都是艰难一年的安静记录。",
+        "note": "用法：tree rings 树木年轮，每一圈记录一年生长；也可指戒指、鸣响。"
+      },
+      {
+        "term": "arrive",
+        "pos": "v.",
+        "meaning": "到达，达成（某种状态）",
+        "enExample": "You arrive long before you think you have.",
+        "zhExample": "你抵达的时刻，远比你以为的更早。",
+        "note": "用法：arrive at/in 到达某地；文中比喻\"成为想成为的人\"。"
+      }
+    ]
+  }
+}
