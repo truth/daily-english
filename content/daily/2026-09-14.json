@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-14",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "kindness",
+      "pos": "n.",
+      "phonetic": "/ˈkaɪndnəs/",
+      "meaning": "善意；仁慈",
+      "enExample": "A small act of kindness can change someone's whole day.",
+      "zhExample": "一个小小的善意举动，能改变某人一整天的状态。",
+      "note": "kind（善良的）+ -ness（名词后缀）。反义：cruelty。短语 out of kindness = 出于善意。"
+    },
+    {
+      "word": "gesture",
+      "pos": "n.",
+      "phonetic": "/ˈdʒestʃər/",
+      "meaning": "姿态；表示（善意的行为）",
+      "enExample": "He paid for my coffee as a friendly gesture.",
+      "zhExample": "他帮我付了咖啡钱，算是个友好的表示。",
+      "note": "原义“手势”，引申为“表达态度的小举动”。a kind gesture / a generous gesture。近义：act / sign。"
+    },
+    {
+      "word": "uplift",
+      "pos": "v.",
+      "phonetic": "/ʌpˈlɪft/",
+      "meaning": "使振奋；鼓舞",
+      "enExample": "Her encouraging words uplifted the whole team.",
+      "zhExample": "她鼓励的话语让整个团队为之一振。",
+      "note": "up（向上）+ lift（举起）→ 把情绪托起来。名词 uplift 亦可：a mood of uplift。近义：encourage / cheer up；反义：discourage。"
+    },
+    {
+      "word": "acknowledge",
+      "pos": "v.",
+      "phonetic": "/əkˈnɒlɪdʒ/",
+      "meaning": "认可；承认；致意",
+      "enExample": "Take a moment to acknowledge someone's effort.",
+      "zhExample": "花点时间认可一下别人的付出。",
+      "note": "ac-（朝向）+ know（知道）→ 让人知道你看见了。acknowledge a mistake（承认错误），acknowledge someone（向人致意）。名词 acknowledgement。近义：recognize。"
+    },
+    {
+      "word": "ripple",
+      "pos": "n./v.",
+      "phonetic": "/ˈrɪpl/",
+      "meaning": "涟漪；层层扩散的影响",
+      "enExample": "Kindness creates a ripple that reaches far beyond us.",
+      "zhExample": "善意会激起涟漪，波及远超我们自身的地方。",
+      "note": "本义“水的涟漪”，比喻“层层扩散的影响”。ripple effect = 连锁反应 / 涟漪效应。近义：wave / spread。"
+    }
+  ],
+  "essay": {
+    "title": "The Ripple of Small Kindness",
+    "author": "佚名",
+    "paragraphs": [
+      "ENKindness is often imagined as something grand—a fortune given, a life saved. But the kindness that changes a day is usually small: a door held, a message answered, a name remembered. We underestimate how little these cost us and how much they mean to someone else.",
+      "ENA kind gesture does not only help the receiver. It tells them they are seen, that they matter, that the world is not as cold as it looked that morning. And strangely, the giver leaves warmer than before—as if kindness, once offered, warms the hand that gives it.",
+      "ENSo look for the small openings. Acknowledge the person who serves your food. Uplift a colleague with one honest sentence. Kindness is not a resource that runs out; the more you spend it, the more it seems to grow."
+    ],
+    "translations": [
+      "中文善意常被想象成某种宏大的东西——一笔巨款、一次救命。但真正改变一天的善意，往往很小：扶一下门、回一条消息、记住一个人的名字。我们低估了这些举动的代价之轻，也低估了它们对另一个人的意义之重。",
+      "中文一个善意的举动不止帮助了接受者。它告诉对方：你被看见了，你重要，这世界并不像那个早晨看起来那般冰冷。而奇妙的是，给予者离开时比之前更温暖——仿佛善意一旦给出，便会温暖那只伸出的手。",
+      "中文所以，去寻找那些微小的缝隙。认可一下为你端上饭菜的人。用一句真诚的话鼓舞同事。善意不是会耗尽的资源；你越是付出，它仿佛越是增长。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"But the kindness that changes a day is usually small: a door held, a message answered, a name remembered.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"as if kindness, once offered, warms the hand that gives it.\"",
+        "note": ""
+      }
+    ]
+  }
+}

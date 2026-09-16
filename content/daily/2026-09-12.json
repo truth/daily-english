@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-12",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "habit",
+      "pos": "n.",
+      "phonetic": "/ˈhæbɪt/",
+      "meaning": "习惯；习性",
+      "enExample": "Reading before bed is a habit I picked up years ago.",
+      "zhExample": "睡前阅读是我多年前养成的一个习惯。",
+      "note": "源自拉丁语 habitus（状态、习惯）。常见搭配 form / build / develop a habit（养成习惯），break a habit（改掉习惯）。近义：custom / routine；区别：habit 偏个人日常，custom 偏群体传统。"
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "phonetic": "/kənˈsɪstənt/",
+      "meaning": "始终如一的；一致的",
+      "enExample": "Small, consistent effort beats occasional bursts of ambition.",
+      "zhExample": "微小而持久的努力，胜过偶尔的雄心爆发。",
+      "note": "con-（共同）+ sist（站立）+ -ent → 稳稳站在一起、不摇摆。反义：inconsistent。副词 consistently 很常用：He shows up consistently.（他始终如一地出现。）"
+    },
+    {
+      "word": "compound",
+      "pos": "v.",
+      "phonetic": "/kəmˈpaʊnd/",
+      "meaning": "使复利增长；使累积加重",
+      "enExample": "Small wins compound into remarkable results over time.",
+      "zhExample": "小小的胜利随时间复利式累积，终成惊人的结果。",
+      "note": "作动词读 /kəmˈpaʊnd/，作名词“化合物”同形。金融里 compound interest = 复利；此处用其比喻义“累积放大”。近义：accumulate / multiply。"
+    },
+    {
+      "word": "routine",
+      "pos": "n.",
+      "phonetic": "/ruːˈtiːn/",
+      "meaning": "常规；日常程序",
+      "enExample": "A calm morning routine sets the tone for the whole day.",
+      "zhExample": "一个平静的晨间例行程序，定下整天的基调。",
+      "note": "来自 route（路线）。daily routine 指“日常安排”。routine 也可作形容词：a routine task（常规任务）。近义：habit / schedule。"
+    },
+    {
+      "word": "transform",
+      "pos": "v.",
+      "phonetic": "/trænsˈfɔːrm/",
+      "meaning": "使改变；使转化",
+      "enExample": "Daily reading can transform the way you think.",
+      "zhExample": "每日阅读能改变你的思维方式。",
+      "note": "trans-（跨越）+ form（形状）→ 改变形态。名词 transformation。强调由内而外的根本变化，比 change 更彻底。近义：change / convert。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Power of Habits",
+    "author": "佚名",
+    "paragraphs": [
+      "ENHabits are the invisible architecture of our days. We rarely notice them, yet they quietly decide far more of our lives than the occasional bold decision ever will.",
+      "ENThe good news is that habits compound. A small action repeated daily—reading ten pages, walking after lunch, writing one honest line—seems trivial in a single day, but over a year it quietly turns you into a different person.",
+      "ENSo do not wait for motivation to arrive. Build the tiny system, show up for it imperfectly, and let consistency do the heavy lifting. The life you want is mostly a collection of ordinary days, lived with care."
+    ],
+    "translations": [
+      "中文习惯是我们日子的隐形架构。我们很少留意它们，但它们静悄悄地决定了我们生活的绝大部分——远胜于偶尔那几个大胆的决定。",
+      "中文好消息是，习惯会复利式增长。每天重复的一个小动作——读十页书、饭后走一走、写一句真诚的话——在一天里看似微不足道，但一年之后，它会把你静悄悄地变成另一个人。",
+      "中文所以，别等动力自己找上门。搭好那个微小的系统，哪怕完成得不够完美也坚持去做，把重担交给\"坚持\"。你想要的生活，多半只是一连串被好好度过的平凡日子。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"We rarely notice them, yet they quietly decide far more of our lives than the occasional bold decision ever will.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"A small action repeated daily—reading ten pages, walking after lunch, writing one honest line—seems trivial in a single day...\"",
+        "note": ""
+      }
+    ]
+  }
+}

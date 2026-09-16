@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-13",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "present",
+      "pos": "adj.",
+      "phonetic": "/ˈprezənt/",
+      "meaning": "在场的；专注当下的",
+      "enExample": "When you listen, be fully present, not planning your reply.",
+      "zhExample": "倾听时，要全然在场，而不是盘算你的回应。",
+      "note": "此处作形容词“在场的、当下的”，与 gift（礼物）同形不同义，靠语境区分。the present moment = 当下。反义：absent。"
+    },
+    {
+      "word": "distract",
+      "pos": "v.",
+      "phonetic": "/dɪˈstrækt/",
+      "meaning": "使分心；分散注意力",
+      "enExample": "Phones easily distract us from what matters.",
+      "zhExample": "手机轻易地把我们从重要的事上拉开。",
+      "note": "dis-（离开）+ tract（拉）→ 把注意力拉走。名词 distraction。形容词 distracted（分心的）：a distracted mind。近义：divert。"
+    },
+    {
+      "word": "anchor",
+      "pos": "v./n.",
+      "phonetic": "/ˈæŋkər/",
+      "meaning": "使稳住；锚；安定之物",
+      "enExample": "A short walk can anchor you when the day feels chaotic.",
+      "zhExample": "当一天乱成一团时，一次短途散步能把你稳住。",
+      "note": "原义“锚”，引申为“使人安定下来的事物或动作”。可作动词：anchor yourself in the present。近义：steady / ground。"
+    },
+    {
+      "word": "savor",
+      "pos": "v.",
+      "phonetic": "/ˈseɪvər/",
+      "meaning": "细细品味；慢享",
+      "enExample": "Savor the quiet morning instead of rushing through it.",
+      "zhExample": "细细品味安静的清晨，而不是匆匆掠过。",
+      "note": "美式拼法 savor，英式 savour。强调“慢享、体会细节”，比 enjoy 更有画面感。名词 savoring。近义：enjoy / relish。"
+    },
+    {
+      "word": "regain",
+      "pos": "v.",
+      "phonetic": "/rɪˈɡeɪn/",
+      "meaning": "重新获得；恢复",
+      "enExample": "A few deep breaths help me regain my focus.",
+      "zhExample": "几次深呼吸帮我重新集中注意力。",
+      "note": "re-（重新）+ gain（获得）→ 失而复得。常见 regain control / composure / focus。近义：recover / restore。"
+    }
+  ],
+  "essay": {
+    "title": "The Art of Being Present",
+    "author": "佚名",
+    "paragraphs": [
+      "ENWe live in a strange time: our bodies are here, but our minds are already three messages ahead. We miss the smell of coffee, the sound of rain, the face across the table—because we are somewhere else.",
+      "ENBeing present is not a talent; it is a small choice, made again and again. It is putting the phone down to really hear a friend, or noticing the light on the wall instead of the deadline in your head. Each moment of attention is a quiet gift you give to the people around you.",
+      "ENYou do not need a retreat or an hour of silence. Start with the next breath, the next task, the next person you meet. Presence is simply this: come back, gently, to where you actually are."
+    ],
+    "translations": [
+      "中文我们活在一个奇怪的时代：身体在此，心却已经飘到三条消息之外。我们错过了咖啡的香气、雨落的声音、对面那个人的神情——因为我们人在别处。",
+      "中文专注当下不是一种天赋，而是一个个被反复做出的小选择。它是放下手机去真正听懂一位朋友，或是留意墙上光影而非脑中那个截止日期。每一次专注，都是你送给身边人的一份安静礼物。",
+      "中文你不需要一场闭关或一小时的静默。从下一次呼吸、下一项任务、下一个遇见的人开始。专注当下不过如此：温柔地，回到你真正所在之处。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"We live in a strange time: our bodies are here, but our minds are already three messages ahead.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"It is putting the phone down to really hear a friend, or noticing the light on the wall instead of the deadline in your head.\"",
+        "note": ""
+      }
+    ]
+  }
+}

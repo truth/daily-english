@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-15",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "restart",
+      "pos": "v.",
+      "phonetic": "/riːˈstɑːrt/",
+      "meaning": "重新开始",
+      "enExample": "It's never too late to restart with what you've learned.",
+      "zhExample": "带着你学到的东西重新开始，永远不嫌晚。",
+      "note": "re-（重新）+ start（开始）。比 begin again 更干脆，常用于项目、关系、习惯的重启。名词 restart。近义：renew / reboot。"
+    },
+    {
+      "word": "hesitate",
+      "pos": "v.",
+      "phonetic": "/ˈhezɪteɪt/",
+      "meaning": "犹豫；迟疑",
+      "enExample": "Don't hesitate to ask for help when you're stuck.",
+      "zhExample": "卡住的时候，别犹豫，去求助。",
+      "note": "词根含“粘住”之意 → 像被粘住迈不动脚。hesitate to do sth. 固定搭配。名词 hesitation。近义：pause / waver；反义：dare。"
+    },
+    {
+      "word": "momentum",
+      "pos": "n.",
+      "phonetic": "/moʊˈmentəm/",
+      "meaning": "势头；推进力",
+      "enExample": "Once you start, momentum carries you forward.",
+      "zhExample": "一旦开始，势头就会推着你往前走。",
+      "note": "物理“动量”，比喻做事的“惯性推进力”。gain / build / keep momentum（获得 / 积累 / 保持势头）。近义：drive / impetus。"
+    },
+    {
+      "word": "embrace",
+      "pos": "v.",
+      "phonetic": "/ɪmˈbreɪs/",
+      "meaning": "拥抱；欣然接受",
+      "enExample": "Embrace the messy early stage instead of fearing it.",
+      "zhExample": "欣然接纳那个笨拙的初期，而不是害怕它。",
+      "note": "em-（入）+ brace（臂）→ 用双臂围住，引申“热情接受新事物”。embrace change / uncertainty。近义：accept / welcome；反义：reject。"
+    },
+    {
+      "word": "setback",
+      "pos": "n.",
+      "phonetic": "/ˈsetbæk/",
+      "meaning": "挫折；倒退",
+      "enExample": "A setback is just data, not a verdict on your worth.",
+      "zhExample": "挫折只是数据，不是对你价值的判决。",
+      "note": "set（使）+ back（后退）→ 让进度后退一步。suffer a setback / recover from a setback。近义：obstacle / reversal；反义：progress。"
+    }
+  ],
+  "essay": {
+    "title": "The Courage to Begin Again",
+    "author": "佚名",
+    "paragraphs": [
+      "ENEvery ending carries a beginning inside it, though we rarely notice while grieving what we lost. The project that failed, the habit that slipped, the version of ourselves we thought we'd be—all of it can become the ground we start from, not the wall we stop at.",
+      "ENBeginning again asks for less than we fear. Not a perfect plan, only the next small honest step. You do not have to be ready; you only have to be willing to move, and let momentum gather as you go.",
+      "ENSo if you stalled, begin. If you fell, begin. The page does not care how many times you restarted; it only waits for the next true line. Courage, it turns out, is mostly just beginning again—quietly, and one more time."
+    ],
+    "translations": [
+      "中文每一次结束都内含着一个开始，尽管我们在为失去而哀伤时很少察觉。那个失败的项目、那个中断的习惯、我们曾以为会成为的自己——这一切，都可以成为我们起步的土壤，而非止步的高墙。",
+      "中文重新开始，所求比我们恐惧的要少。不是一份完美的计划，只是下一个微小而真诚的脚步。你不必万事俱备；你只需愿意迈步，并让势头在行进中自行汇聚。",
+      "中文所以，若你停下了，就重新开始。若你跌倒了，就重新开始。纸页不在乎你重来了多少次；它只等待下一行真诚的字。原来，勇气多半不过是：再重新开始一次——安静地，再一次。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"though we rarely notice while grieving what we lost.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"Not a perfect plan, only the next small honest step. You do not have to be ready; you only have to be willing to move, and let momentum gather as you go.\"",
+        "note": ""
+      }
+    ]
+  }
+}
