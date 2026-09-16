@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-16",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "clarify",
+      "pos": "v.",
+      "phonetic": "/ˈklærəfaɪ/",
+      "meaning": "澄清；阐明，使清楚明白",
+      "enExample": "Could you clarify what you mean by the second point?",
+      "zhExample": "你能说明一下第二点的具体意思吗？",
+      "note": "“clar-”（clear，清楚）+ “-ify”（使…）→ 使变清楚。开会听不懂时，一句“Could you clarify?”比“I don't understand”专业得多。近义：explain / make clear。反义：confuse / muddy。"
+    },
+    {
+      "word": "overwhelm",
+      "pos": "v.",
+      "phonetic": "/ˌəʊvərˈwelm/",
+      "meaning": "（情感上）压倒，使不知所措；淹没，压垮",
+      "enExample": "Don't let the length of the to-do list overwhelm you — just start with the most important task.",
+      "zhExample": "别让长长的待办清单压垮你——先从最重要的那件事开始。",
+      "note": "“over”（覆盖）+ “whelm”（古语：淹没）→ 像浪头盖过来，被淹没了。职场最常说“I'm overwhelmed”（我快扛不住了）。形容词 overwhelming = 压倒性的：overwhelming demand / overwhelming response。"
+    },
+    {
+      "word": "insight",
+      "pos": "n.",
+      "phonetic": "/ˈɪnsaɪt/",
+      "meaning": "洞察力；深刻见解，独到的理解",
+      "enExample": "Her feedback gave me a valuable insight into how customers actually use the product.",
+      "zhExample": "她的反馈让我对客户实际如何使用这个产品有了宝贵的洞见。",
+      "note": "“in”（向内）+ “sight”（看见）→ 看到里面去，即“看透本质”。搭配：gain / provide / offer an insight into sth.（对某事有/提供洞见）。形容词 insightful = 有见地的，夸人报告好用这个词。"
+    },
+    {
+      "word": "resilient",
+      "pos": "adj.",
+      "phonetic": "/rɪˈzɪliənt/",
+      "meaning": "有韧性的；能迅速恢复的，抗压的",
+      "enExample": "Small teams that stay resilient can recover quickly from a bad quarter.",
+      "zhExample": "保持韧性的小团队能很快从糟糕的一个季度里恢复过来。",
+      "note": "“re-”（回）+ “sil”（跳）→ 被压弯后能弹回来。联想橡皮筋：拉长也不断，一松手就回弹。名词 resilience（韧性、恢复力），近年的职场热词。近义：tough / adaptable。"
+    },
+    {
+      "word": "straightforward",
+      "pos": "adj.",
+      "phonetic": "/ˌstreɪtˈfɔːrwərd/",
+      "meaning": "直截了当的，坦诚的；（事情）简单明了的",
+      "enExample": "The setup steps were straightforward, so I finished them in ten minutes.",
+      "zhExample": "安装步骤很简单明了，所以我十分钟就搞定了。",
+      "note": "“straight”（直）+ “forward”（向前）→ 一路直着走，不绕弯。形容人 = 坦诚直率；形容事 = 不复杂。写作/汇报时夸人表达清晰：clear and straightforward。反义：complicated / roundabout。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Art of Patience",
+    "author": "佚名",
+    "paragraphs": [
+      "ENPatience is not a passive thing. We often mistake it for waiting, for doing nothing while time passes. But real patience is active: it is the steady work of tending something you cannot yet see, trusting that roots are growing even when the ground above looks bare.",
+      "ENEverything worth having asks for time. A friendship deepens slowly, one honest conversation at a time. A skill sharpens through a thousand ordinary repetitions. A heart heals not in a single moment, but across countless quiet days that look, from the outside, like nothing is happening. Patience is what keeps us present when the results we long for are still far away.",
+      "ENImpatience promises speed, but it usually costs more than it saves. Rushing a plant breaks the stem; rushing a person breaks the trust; rushing ourselves breaks the joy. Patience, by contrast, is a form of respect, for the pace of things, for other people, and for our own fragile beginnings.",
+      "ENSo when progress feels invisible, remember that the seed is not idle beneath the soil. Keep showing up, keep tending, keep doing the small faithful thing. One day, without a sound, the harvest will arrive, and it will feel, at last, like it was always meant to."
+    ],
+    "translations": [
+      "中文耐心并非消极之物。我们常把它误当作等待——在时间流逝中无所作为。但真正的耐心是主动的：它是一种持续的照料，照料着你暂时还看不见的东西；并相信纵使地表一片光秃，根系仍在悄然生长。",
+      "中文一切值得拥有的东西，都需要时间。友谊慢慢加深，一次一次真诚的交谈；技艺慢慢锐利，一千次平凡的重复；而一颗心的愈合，不在某一瞬，而在无数个安静的日夜里——从外面看，仿佛什么都没发生。当渴望的结果仍遥不可及时，是耐心让我们留在当下。",
+      "中文急躁许诺高效，可它付出的代价通常比省下的更多。催一株植物，会折断它的茎；催一个人，会毁掉那份信任；催自己，会弄丢那份喜悦。相反的，耐心是一种尊重——尊重事物本来的节奏，尊重他人，也尊重我们自己那些脆弱的开端。",
+      "中文所以，当进展难以察觉时，请记得：种子在泥土之下并不是在无所事事。继续出现，继续照料，继续做那件微小而忠诚的事。终有一天，无声无息地，收成会到来——而到那时你会觉得，仿佛一切本就该如此。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"We often mistake it for waiting, for doing nothing while time passes.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"trusting that roots are growing even when the ground above looks bare.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"A heart heals not in a single moment, but across countless quiet days that look, from the outside, like nothing is happening.\"",
+        "note": ""
+      }
+    ]
+  }
+}

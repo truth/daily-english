@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-11",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "allocate",
+      "pos": "v.",
+      "phonetic": "/ˈæl.ə.keɪt/",
+      "meaning": "分配，分派；划拨（资源、资金等）",
+      "enExample": "The manager decided to allocate more budget to the marketing team for the new product launch.",
+      "zhExample": "经理决定为新产品发布向营销团队划拨更多预算。",
+      "note": "“al-”前缀 + “locate”（定位）→ 把资源“定位”到某个用途。职场搭配：allocate budget/resources/time（分配预算/资源/时间），allocate to sb/sth（分配给某人/某事）。和 distribute（分发）的区别：allocate 强调“指派、定量分配”，常用于抽象资源。"
+    },
+    {
+      "word": "confident",
+      "pos": "adj.",
+      "phonetic": "/ˈkɑːn.fə.dənt/",
+      "meaning": "自信的；有把握的",
+      "enExample": "She felt confident about her presentation after rehearsing it several times with her team.",
+      "zhExample": "和团队排练了几次之后，她对自己的演讲充满自信。",
+      "note": "“con-”+“fid”（信任）→ 内心“有信任感”，引申为自信。搭配：be confident about/in something（对……有信心）、confident smile（自信的微笑）、self-confident（自我感觉良好的）。注意区分 confident（自信的）和 confidential（机密的）。"
+    },
+    {
+      "word": "eager",
+      "pos": "adj.",
+      "phonetic": "/ˈiː.ɡɚ/",
+      "meaning": "热切的，渴望的",
+      "enExample": "The new hires were eager to learn how the company's products actually worked in real projects.",
+      "zhExample": "新员工们渴望了解公司产品在实际项目中是如何运作的。",
+      "note": "源自古英语“æcere”（尖锐），引申为“迫切的、渴望的”。搭配：eager to do sth（渴望做某事）、eager for（渴望得到）。和 anxious（焦虑的）不同：eager 是正面“期待”，anxious 常带“担心”。注意 eager 比 keen 更强烈、更书面。"
+    },
+    {
+      "word": "grasp",
+      "pos": "v./n.",
+      "phonetic": "/ɡræsp/",
+      "meaning": "抓住；理解，领会",
+      "enExample": "It took me a few minutes to grasp the main idea of the new policy explained by the director.",
+      "zhExample": "我花了几分钟才领会到主管讲解的新政策的主旨。",
+      "note": "动词既可指物理上“抓住”，也可指“理解”。搭配：grasp the opportunity/chance（抓住机会）、grasp the meaning（领会含义）、beyond one's grasp（力所不能及）。名词短语：a firm grasp（牢固掌握）。学习场景高频：grasp the basics（掌握基础）。"
+    },
+    {
+      "word": "hectic",
+      "pos": "adj.",
+      "phonetic": "/ˈhek.tɪk/",
+      "meaning": "忙乱的，紧张的；繁忙的",
+      "enExample": "The weeks before the product launch were so hectic that the team barely had time for lunch.",
+      "zhExample": "产品发布前的几周非常忙碌，团队几乎没时间吃午饭。",
+      "note": "源自希腊语“hektikos”（持续的），形容“持续忙乱的状态”。搭配：a hectic day/morning/schedule（忙碌的一天/上午/日程）、hectic pace（紧张的节奏）。口语里常说：“Things have been really hectic lately.”（最近事情真的太忙了）。和 busy 相比，hectic 更强调“混乱、让人喘不过气”。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Power of Hope",
+    "author": "佚名",
+    "paragraphs": [
+      "ENHope is not a loud thing. It does not arrive with fireworks or fanfare. Most often, it shows up as a small, steady light in the middle of a long night, quiet and unassuming, yet impossible to ignore once you notice it.",
+      "ENWhen life feels heavy and the road ahead disappears into fog, hope whispers that this moment is not the whole story. It reminds us that seasons change, that wounds heal, and that we are stronger than the fears telling us otherwise. To hope is not to deny the difficulty; it is to believe that difficulty is not the end.",
+      "ENHope also grows when shared. A kind word from a stranger, a friend who stays when things fall apart, a community that refuses to give up, these small acts keep hope alive in all of us. We do not carry light alone; we pass it to one another.",
+      "ENSo if today feels dark, hold on to the smallest spark. Water it with patience, surround it with people who believe in you, and one morning you will look up and find that the night has quietly given way to dawn. Hope was never gone. It was simply waiting for you to notice."
+    ],
+    "translations": [
+      "中文希望并非喧闹之物。它不会伴着烟花与喧闹登场。大多数时候，它只是一盏在漫漫长夜中静静亮起、稳定不灭的小灯——安静、不张扬，可一旦你注意到它，便再也无法忽视。",
+      "中文当生活沉重，前路隐没于迷雾之中，希望会轻声诉说：此刻并非全部的故事。它提醒我们，四季会更替，伤口会愈合，而我们比那些告诉我们\"你不行\"的恐惧更强大。怀抱希望，不是否认困境的存在；而是相信困境并非终点。",
+      "中文希望也会在分享中生长。陌生人一句善意的话，在一切崩塌时仍不离不弃的朋友，一个拒绝放弃的群体——这些微小的举动，让希望在我们每个人心中延续。我们并非独自举着光；我们把它彼此传递。",
+      "中文所以，如果今天感觉黑暗，请抓住那最小的一点星火。用耐心浇灌它，让相信你的人围绕在身旁；终有一日清晨，你抬起头，会发现长夜已悄然退让给黎明。希望从未离开。它只是等你，去看见。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"To hope is not to deny the difficulty; it is to believe that difficulty is not the end.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"a friend who stays when things fall apart\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"quiet and unassuming, yet impossible to ignore once you notice it.\"",
+        "note": ""
+      }
+    ]
+  }
+}
