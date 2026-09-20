@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-19",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "incremental",
+      "pos": "adj.",
+      "phonetic": "/ˌɪŋkrəˈmentl/",
+      "meaning": "递增的；逐步的",
+      "enExample": "Real change is incremental, not overnight.",
+      "zhExample": "真正的改变是逐步的，而非一夜之间。",
+      "note": "in-（进入）+ cre（增长）+ -mental → 一点点增长的。incremental progress = 渐进式进步。名词 increment（增量）。近义：gradual / step-by-step。"
+    },
+    {
+      "word": "steady",
+      "pos": "adj.",
+      "phonetic": "/ˈstedi/",
+      "meaning": "稳定的；持续的",
+      "enExample": "A steady pace beats a sudden burst that fades.",
+      "zhExample": "稳定的节奏，胜过转瞬即逝的爆发。",
+      "note": "stead（站立处）+ -y → 站得稳的。副词 steadily 常用：progress steadily。近义：stable / consistent；反义：erratic。"
+    },
+    {
+      "word": "accumulate",
+      "pos": "v.",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "meaning": "积累；积聚",
+      "enExample": "Small efforts accumulate into something substantial.",
+      "zhExample": "微小的努力，会积累成可观的成果。",
+      "note": "ac-（朝向）+ cum（堆积）+ -ate → 堆到一起。名词 accumulation。近义：gather / amass；反义：dissipate。"
+    },
+    {
+      "word": "threshold",
+      "pos": "n.",
+      "phonetic": "/ˈθreʃhoʊld/",
+      "meaning": "门槛；临界点",
+      "enExample": "You cross a threshold the moment you begin.",
+      "zhExample": "你开始的那个瞬间，就已跨过一道门槛。",
+      "note": "本义“门槛”，比喻“临界点、起始点”。cross the threshold 喻指“迈出第一步”。近义：boundary / onset。"
+    },
+    {
+      "word": "stride",
+      "pos": "n./v.",
+      "phonetic": "/straɪd/",
+      "meaning": "大步；阔步前进",
+      "enExample": "Make progress in confident strides, not frantic steps.",
+      "zhExample": "以自信的大步前进，而非慌乱的小碎步。",
+      "note": "原义“大步”，make strides = 取得进展（固定搭配）。亦可作动词：stride ahead。近义：pace / progress。"
+    }
+  ],
+  "essay": null
+}

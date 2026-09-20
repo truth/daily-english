@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-18",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "boundary",
+      "pos": "n.",
+      "phonetic": "/ˈbaʊndri/",
+      "meaning": "边界；底线",
+      "enExample": "Setting a boundary is not rejection; it is self-respect.",
+      "zhExample": "设立边界不是拒绝，而是自重。",
+      "note": "bound（界限）+ -ary（名词后缀）。人际中常指“心理/情绪边界”。set boundaries 固定搭配。近义：limit / line。"
+    },
+    {
+      "word": "decline",
+      "pos": "v.",
+      "phonetic": "/dɪˈklaɪn/",
+      "meaning": "婉拒；谢绝",
+      "enExample": "You can decline extra work without a long excuse.",
+      "zhExample": "你可以婉拒额外的工作，无需长篇解释。",
+      "note": "de-（向下）+ clin（倾斜）→ 向下倾斜、衰退；作动词亦指“谢绝”。decline an invitation。反义：accept。"
+    },
+    {
+      "word": "prioritize",
+      "pos": "v.",
+      "phonetic": "/praɪˈɔːrətaɪz/",
+      "meaning": "优先处理；排序",
+      "enExample": "Prioritize what truly matters over what merely urgent.",
+      "zhExample": "把真正重要的事，排在仅仅紧急的事之前。",
+      "note": "priority（优先）+ -ize（使…化）→ 使…成为优先。名词 priority。常用于时间管理：prioritize tasks。近义：rank / order。"
+    },
+    {
+      "word": "guilt",
+      "pos": "n.",
+      "phonetic": "/ɡɪlt/",
+      "meaning": "内疚；自责",
+      "enExample": "Do not let guilt push you into saying yes.",
+      "zhExample": "别让内疚逼你点头答应。",
+      "note": "古英语 gylt（罪、过失）。说“不”时常伴随 guilt。guilty（adj.）感到内疚的。近义：remorse / shame。"
+    },
+    {
+      "word": "assertive",
+      "pos": "adj.",
+      "phonetic": "/əˈsɜːrtɪv/",
+      "meaning": "果断的；自信主张的",
+      "enExample": "A calm, assertive 'no' earns more respect than a resentful 'yes'.",
+      "zhExample": "一句平静而果断的“不”，比一句满腹牢骚的“好”更赢得尊重。",
+      "note": "as-（朝向）+ sert（加入、放置）→ 坚定地表达自己。与 aggressive（攻击性）不同，assertive 是健康的主张。名词 assertiveness。反义：passive。"
+    }
+  ],
+  "essay": null
+}

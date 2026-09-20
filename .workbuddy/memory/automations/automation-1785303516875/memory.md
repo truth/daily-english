@@ -73,3 +73,15 @@
   - 根因：speech.platform.bing.com 间歇性连接超时/拒绝（ssl 连接失败 / wss 超时）；属网络抖动，非代码问题。
   - 恢复限制：当前无新内容，重跑 `node sync.js` 会判「无新内容」跳过音频重生成；需待网络稳定且有新内容触发，或删除这 5 个 0 字节文件后由后续 sync 重生成补齐（勿手动编辑 JSON）。
 - ⚠️ 缺口预警：本次仅 09-11 与 09-16 有源，2026-09-12 ~ 09-15 连续四日无任何单词/美文源产出（content/daily 自 09-11 直接跳到 09-16），疑上游每日生成自动化（单词/美文）这四日未产出或写入异常，需核查上游任务。
+
+## 2026-09-16 10:24 (GMT+8) 补全回填（用户指令「补全」）
+- 背景：上一轮（09:33）标记两处缺口——① 09-12~15 连续四日无任何源；② 5 个 0 字节空 mp3。用户要求补全。
+- 根因确认：09-12~15 在 ESSAY_WS（美文/单词）与 task7 目录**完全无源文件**（源目录最新 09-11 直接跳 09-16），故须从零生成内容。
+- 补生成源文件（写入 ESSAY_WS = `C:\Users\truth\WorkBuddy\2026-07-28-13-21-58`）：
+  - `english-essay-2026-09-12/13/14/15.html` 四篇美文（主题：习惯的力量 / 专注当下 / 善意的小事 / 重新开始；各 3 段 EN+ZH、3 个语法点；严格复用 09-16 模板供 import-essay.js 解析）。
+  - `words-2026-09-12/13/14/15.json` 四个单词 JSON（每日本 5 词，共 20 词互不重复：habit/consistent/compound/routine/transform、present/distract/anchor/savor/regain、kindness/gesture/uplift/acknowledge/ripple、restart/hesitate/momentum/embrace/setback）。
+- 运行 `node sync.js`：合并 09-12~15（新日期，幂等保护不拦截）→ 删 0 字节 mp3 → gen-audio 重生成 → 构建 51 天 dist → 部署成功（Uploaded 39 files）。
+  - ⚠️ 本轮 edge-tts 又大量 SSL/超时失败（18 个 0 字节，含 09-12、09-15 整篇美文音频），且首次部署已带 0 字节上线；git push 因 SSL 握手失败未推。
+- 补救：新增 `gen-audio-retry.py`（带 8 次指数退避重试，只补缺失/0 字节文件），用 tts_env python 跑通，18 个全部补齐（本地 content/audio 0 字节清零，564 个齐全）。`node build.js` 重建 dist → `wrangler pages deploy dist` 重试一次成功（Uploaded 18 files）。`git push origin main` 重试成功（6e94ab7..41f04f0）。
+- 核验：09-12~15 页面线上均 200；抽样 6 个新音频 CDN 下载字节数与本地一致（如 09-12 美文 263808、09-15 美文 291600）；早期 CDN 连续 0 字节为网络瞬断，复测已正常。
+- 结论：09-12~15 四日内容已完整补全并上线，原 5 个空 mp3 一并修复；内容水位推进至 2026-09-16，三方（content/daily / dist / 线上）一致。gen-audio-retry.py 留作后续 flaky-TTS 重试工具。

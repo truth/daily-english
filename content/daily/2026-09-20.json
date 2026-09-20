@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-20",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "accept",
+      "pos": "v.",
+      "phonetic": "/əkˈsept/",
+      "meaning": "接受；承认",
+      "enExample": "Accept what you cannot change, and change what you can.",
+      "zhExample": "接受你无法改变的，改变你能够改变的。",
+      "note": "ac-（朝向）+ cept（拿、收）→ 收下。与 except（除…外）拼写/读音相近易混。名词 acceptance。反义：reject。"
+    },
+    {
+      "word": "forgive",
+      "pos": "v.",
+      "phonetic": "/fərˈɡɪv/",
+      "meaning": "原谅；宽恕",
+      "enExample": "Forgive yourself for the days you did not do your best.",
+      "zhExample": "原谅那些你没能做到最好的日子。",
+      "note": "for-（完全）+ give（给）→ 把过错“给”出去、放下。forgive oneself 固定搭配（原谅自己）。名词 forgiveness。反义：blame。"
+    },
+    {
+      "word": "imperfect",
+      "pos": "adj.",
+      "phonetic": "/ɪmˈpɜːrfɪkt/",
+      "meaning": "不完美的",
+      "enExample": "An imperfect effort today is better than a perfect plan never started.",
+      "zhExample": "今天不完美的行动，胜过永远未开始的完美计划。",
+      "note": "im-（不）+ perfect（完美）→ 不完美的。名词 imperfection。反义：flawless。"
+    },
+    {
+      "word": "worthy",
+      "pos": "adj.",
+      "phonetic": "/ˈwɜːrði/",
+      "meaning": "值得的；有价值的",
+      "enExample": "You are worthy of rest, not only of results.",
+      "zhExample": "你配得上休息，而不仅仅是结果。",
+      "note": "worth（价值）+ -y（形容词后缀）→ 有价值的。be worthy of sth. 固定搭配。反义：unworthy。"
+    },
+    {
+      "word": "settle",
+      "pos": "v.",
+      "phonetic": "/ˈsetl/",
+      "meaning": "安顿；平息",
+      "enExample": "Settle into who you are, instead of chasing who you should be.",
+      "zhExample": "安于你本来的样子，而非追逐“应该成为”的模样。",
+      "note": "源自古英语 setl（座位、安放）。多义：安顿、解决、平息。settle down 喻指“安下心来”。近义：calm / resolve。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Practice of Gratitude",
+    "author": "佚名",
+    "paragraphs": [
+      "ENGratitude is not only a feeling we save for big moments. We tend to reserve it for the extraordinary — a promotion, a reunion, a narrow escape. Yet the quiet practice of gratitude lives in the ordinary: in the warmth of a cup held between both hands, in the soft light that finds the floor each morning, in the simple fact that we woke, and the day is ours to begin again.",
+      "ENIt asks nothing grand of us. A kind word from a stranger, a message that arrives when we needed it, the steady hum of a refrigerator that means we are fed and sheltered. To notice these is not to pretend life is easy, but to admit that even on heavy days, something small and good is also true.",
+      "ENGratitude, practiced this way, changes how we see. The same walk becomes a chance to look, the same face a reason to smile. What we pay attention to grows; what we take for granted quietly shrinks. A thankful heart does not deny the dark — it simply remembers to leave a light on.",
+      "ENSo tonight, before the day folds into sleep, name one small thing you are glad of. It need not be important to anyone else. Let it be enough. In time, these small thanks gather, and what once felt ordinary begins to feel like a kind of grace."
+    ],
+    "translations": [
+      "中文感恩，并非只该留给那些大时刻的情绪。我们往往把它留待不寻常之事——一次升职、一场久别重逢、一次死里逃生。然而，感恩这件安静的练习，藏在平凡之中：藏在双手捧着一杯温热里，藏在每天清晨落在地板上的柔光里，也藏在一个简单的事实中——我们醒来了，而这一天，又归我们重新开启。",
+      "中文它不向我们索取任何宏大之物。陌生人的一句善意，一条恰在需要时抵达的消息，冰箱稳定低鸣——意味着我们有饭吃、有屋遮。注意到这些，并不是假装生活轻松，而是承认：即便在沉重的日子里，也有某件微小而美好的事，同样真实。",
+      "中文以这样的方式练习感恩，会改变我们看世界的方式。同一条路，成了去留意的契机；同一张脸，成了微笑的理由。我们注意什么，什么便生长；我们视为什么理所当然，什么便悄悄萎缩。一颗感恩的心，不否认黑暗——它只是记得，留一盏灯亮着。",
+      "中文所以今夜，在一天折叠入眠之前，说出一件你心怀感激的小事。它不必对任何人而言重要。让它足够就好。久而久之，这些细小的感谢会汇聚；而那些曾被我们视作平凡的一切，会开始像一种恩典。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"in the simple fact that we woke, and the day is ours to begin again.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"To notice these is not to pretend life is easy, but to admit that even on heavy days, something small and good is also true.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"What we pay attention to grows; what we take for granted quietly shrinks.\"",
+        "note": ""
+      }
+    ]
+  }
+}

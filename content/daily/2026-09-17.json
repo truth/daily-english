@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-17",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "pause",
+      "pos": "v./n.",
+      "phonetic": "/pɔːz/",
+      "meaning": "暂停；停顿",
+      "enExample": "Take a pause between tasks to let your mind settle.",
+      "zhExample": "在两件事之间暂停一下，让思绪沉淀。",
+      "note": "源自古法语，原指“休止、停顿”。作名词/动词皆可：a brief pause / pause to think。近义：break / halt；反义：continue。"
+    },
+    {
+      "word": "appreciate",
+      "pos": "v.",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meaning": "欣赏；感激",
+      "enExample": "Learn to appreciate the small, quiet moments.",
+      "zhExample": "学会欣赏那些微小而安静的时刻。",
+      "note": "ap-（朝向）+ preti（价值）→ 看清其价值。两义：①欣赏（事物之美）②感激（他人之恩）。名词 appreciation。近义：value / treasure。"
+    },
+    {
+      "word": "moment",
+      "pos": "n.",
+      "phonetic": "/ˈmoʊmənt/",
+      "meaning": "片刻；时刻",
+      "enExample": "This moment is the only one you truly have.",
+      "zhExample": "这一刻，才是你真正拥有的。",
+      "note": "来自拉丁 momentum（运动、片刻）。live in the moment = 活在当下。复数为 moments。近义：instant / minute。"
+    },
+    {
+      "word": "unhurried",
+      "pos": "adj.",
+      "phonetic": "/ʌnˈhɜːrɪd/",
+      "meaning": "从容的；不慌不忙的",
+      "enExample": "An unhurried morning sets a calm tone for the day.",
+      "zhExample": "一个从容的早晨，定下整天的平和基调。",
+      "note": "un-（不）+ hurried（匆忙的）→ 不慌张的。由 hurry 加否定前缀构成，描述从容节奏。近义：relaxed / leisurely；反义：rushed。"
+    },
+    {
+      "word": "wander",
+      "pos": "v.",
+      "phonetic": "/ˈwɑːndər/",
+      "meaning": "漫步；走神",
+      "enExample": "Let your mind wander without judging it.",
+      "zhExample": "让思绪随意飘荡，不去评判它。",
+      "note": "源自古英语，表“漫游、游荡”。wander 与 wonder（想知道）拼写易混。也可指走神：mind wanders。近义：roam / drift。"
+    }
+  ],
+  "essay": null
+}
