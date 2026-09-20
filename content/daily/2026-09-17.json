@@ -48,5 +48,30 @@
       "note": "源自古英语，表“漫游、游荡”。wander 与 wonder（想知道）拼写易混。也可指走神：mind wanders。近义：roam / drift。"
     }
   ],
-  "essay": null
+  "essay": {
+    "title": "The Quiet Gift of Time",
+    "author": "佚名",
+    "paragraphs": [
+      "ENWe treat time as something to defeat—to save, to hack, to squeeze into smaller boxes. But time is not an enemy to outrun. It is the medium in which a life actually happens, and the only resource that, once spent, is gone for good.",
+      "ENA slower day is not a wasted day. To pause and watch light move across a wall, to really taste a meal, to listen without planning your reply—these are not luxuries. They are the texture of being alive, and they cost nothing but attention.",
+      "ENSo give time the respect it deserves. Protect a few unhurried hours. Let your mind wander now and then. The urgent will always return; the quiet moment, once missed, will not."
+    ],
+    "translations": [
+      "中文我们把时间当成要击败的东西——要节省、要优化、要塞进更小的格子。但时间不是要甩开的敌人。它是一段生命真实发生的介质，也是唯一一种一旦花掉就永不回来的资源。",
+      "中文慢下来的一天，不是被浪费的一天。停下脚步看光在墙上移动，认真尝一口饭，不带盘算地去倾听——这些都不是奢侈。它们正是\"活着\"的质感，除了注意力，分文不取。",
+      "中文所以，请给予时间它应得的尊重。守护几个不被催促的小时。偶尔让思绪飘荡。紧急的事总会回来；而那安静的一刻，一旦错过，便不再来。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"It is the medium in which a life actually happens, and the only resource that, once spent, is gone for good.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"To pause and watch light move across a wall, to really taste a meal, to listen without planning your reply—these are not luxuries.\"",
+        "note": ""
+      }
+    ]
+  }
 }

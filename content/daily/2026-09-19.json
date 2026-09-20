@@ -48,5 +48,30 @@
       "note": "原义“大步”，make strides = 取得进展（固定搭配）。亦可作动词：stride ahead。近义：pace / progress。"
     }
   ],
-  "essay": null
+  "essay": {
+    "title": "Small Progress",
+    "author": "佚名",
+    "paragraphs": [
+      "ENWe are obsessed with the leap—the breakthrough, the overnight transformation. But most real change is quiet and incremental. A page written, a habit kept for one more day, a hard conversation finally started: these are the moves that actually move a life forward.",
+      "ENProgress does not need to be visible to be real. The seed under soil is not idle; it is accumulating the strength to break through. Trust the unseen work. Steady effort, repeated without drama, is how substantial things are built.",
+      "ENSo lower the bar to a stride you can keep. Do not wait for the perfect plan or the motivated morning. Begin where you are, with what you have, and let the threshold be crossed by a single, ordinary step."
+    ],
+    "translations": [
+      "中文我们痴迷于\"跨越\"——那突破、那一夜之间的蜕变。但多数真正的改变，是安静而渐进的。写下一页、多坚持一天的习惯、终于开启的那场艰难对话：这些，才是真正推动生活向前的动作。",
+      "中文进步不必被看见才真实。泥土下的种子并非无所事事；它在积聚破土的力量。请相信那些看不见的功夫。不带戏剧性地、反复进行的稳定努力，才是构筑可观成果的方式。",
+      "中文所以，把门槛降到你能守住的一步。别等完美的计划，也别等动力满满的清晨。从你所在之处、用你拥有之物开始，让那道临界，由一次平凡的步骤跨过。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"A page written, a habit kept for one more day, a hard conversation finally started: these are the moves that actually move a life forward.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"The seed under soil is not idle; it is accumulating the strength to break through.\"",
+        "note": ""
+      }
+    ]
+  }
 }

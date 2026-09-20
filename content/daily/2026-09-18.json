@@ -48,5 +48,30 @@
       "note": "as-（朝向）+ sert（加入、放置）→ 坚定地表达自己。与 aggressive（攻击性）不同，assertive 是健康的主张。名词 assertiveness。反义：passive。"
     }
   ],
-  "essay": null
+  "essay": {
+    "title": "The Power of Saying No",
+    "author": "佚名",
+    "paragraphs": [
+      "ENEvery yes costs something. When we say yes to everything, we quietly say no to rest, to focus, to the people and projects that matter most. A boundary is not a wall against others; it is the fence that keeps your own life from being trampled.",
+      "ENSaying no feels uncomfortable at first, because guilt rushes in to tell you that you are selfish. But a calm, assertive no often serves everyone better than a resentful yes. You cannot pour from an empty cup, and declining one thing is how you protect the cup.",
+      "ENSo practice the small no first. Decline the extra meeting, the favor you cannot give, the task that is not yours. Prioritize with honesty, and let the word grow lighter each time you use it."
+    ],
+    "translations": [
+      "中文每一次\"好\"，都是有代价的。当我们对一切都说\"好\"，其实是在悄悄对休息、对专注、对最要紧的人和事说\"不\"。边界不是一道对着别人的墙；它是围栏，让你的生活不被踩踏。",
+      "中文说\"不\"起初令人不适，因为内疚会涌上来，告诉你自己自私。但一句平静而果断的\"不\"，往往比一句满腹牢骚的\"好\"更能成全所有人。空杯无法倒水；而拒绝一件事，正是你护住那只杯子的办法。",
+      "中文所以，先从小小的\"不\"练起。谢绝那场多余的会、那个你给不出的帮忙、那件本不属于你的任务。坦诚地排序轻重，让这个词每被说出一次，就轻上一分。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"When we say yes to everything, we quietly say no to rest, to focus, to the people and projects that matter most.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"But a calm, assertive no often serves everyone better than a resentful yes.\"",
+        "note": ""
+      }
+    ]
+  }
 }

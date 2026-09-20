@@ -29,7 +29,8 @@ async def gen(text: str, path: str):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             comm = edge_tts.Communicate(text, VOICE)
-            await comm.save(path)
+            # 单轮加 60s 超时，避免 edge-tts 连接挂死（无超时可能无限等待）
+            await asyncio.wait_for(comm.save(path), timeout=60)
             if os.path.exists(path) and os.path.getsize(path) > 0:
                 print("  ->", os.path.basename(path))
                 return
