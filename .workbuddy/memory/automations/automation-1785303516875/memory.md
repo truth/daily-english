@@ -92,3 +92,10 @@
 - ✅ 部署成功（无人值守）：wrangler 非交互鉴权通过，Uploaded 49 files（617 已传），部署完成；git 新提交 41f04f0..22a02e9 已推送 GitHub；线上核验 dailyecho.pages.dev/daily/2026-09-20、/2026-09-17、/ 均返回 200。内容水位推进至 2026-09-20。
 - ✅ 语音质量核验：本次新生成音频（09-17~20）经 find+ls 检查无 0 字节空文件，edge-tts 连接稳定。
 - 无报错。当前三方（content/daily / dist / 线上）一致至 2026-09-20。
+
+## 2026-09-20 补修（修复 09-17~09-19 美文缺漏）
+- 核验发现：09-17/18/19 三日**美文文本与语音均缺失**（content/daily 中 hasEssay=false，无 `*_essay.mp3`），仅 09-20 完整。根因：sync.js 幂等守卫（`existing.has(date)` 即跳过美文导入）——09-20 合并时 09-17/18/19 已因单词先合并而存在，致其美文 HTML 被跳过、未导入。
+- 修复：用 sync.js 手动单文件导入模式（绕过守卫）合并美文；09-18/19 用 `node import-essay.js` CLI 直接合并（更快、不触发语音/构建），均保留原 words。
+- 语音：用 `gen-audio-retry.py`（tts_env python，8×退避）补生成 3 个美文 mp3（293760/298656/299952 字节，无 0 字节）；期间给该脚本单轮加 60s `asyncio.wait_for` 超时防 edge-tts 挂死。
+- 发布：`node build.js`（608 语音）→ 直接 node 调用 `wrangler.js` 部署（本会话 PATH 损坏、wrangler sh 包装跑不起来，改用绝对路径 wrangler.js；Uploaded 9 files）→ `git push`（提交 bd6ba16）。
+- 核验：dailyecho.pages.dev/daily/2026-09-17~20.html 均 200，含各自美文标题与 essay mp3 引用；3 个 essay mp3 均 200、字节正确。09-17~20 四日（单词+美文+语音）现已完整一致。
