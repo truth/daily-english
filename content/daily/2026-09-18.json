@@ -52,14 +52,14 @@
     "title": "The Power of Saying No",
     "author": "佚名",
     "paragraphs": [
-      "ENEvery yes costs something. When we say yes to everything, we quietly say no to rest, to focus, to the people and projects that matter most. A boundary is not a wall against others; it is the fence that keeps your own life from being trampled.",
-      "ENSaying no feels uncomfortable at first, because guilt rushes in to tell you that you are selfish. But a calm, assertive no often serves everyone better than a resentful yes. You cannot pour from an empty cup, and declining one thing is how you protect the cup.",
-      "ENSo practice the small no first. Decline the extra meeting, the favor you cannot give, the task that is not yours. Prioritize with honesty, and let the word grow lighter each time you use it."
+      "Every yes costs something. When we say yes to everything, we quietly say no to rest, to focus, to the people and projects that matter most. A boundary is not a wall against others; it is the fence that keeps your own life from being trampled.",
+      "Saying no feels uncomfortable at first, because guilt rushes in to tell you that you are selfish. But a calm, assertive no often serves everyone better than a resentful yes. You cannot pour from an empty cup, and declining one thing is how you protect the cup.",
+      "So practice the small no first. Decline the extra meeting, the favor you cannot give, the task that is not yours. Prioritize with honesty, and let the word grow lighter each time you use it."
     ],
     "translations": [
-      "中文每一次\"好\"，都是有代价的。当我们对一切都说\"好\"，其实是在悄悄对休息、对专注、对最要紧的人和事说\"不\"。边界不是一道对着别人的墙；它是围栏，让你的生活不被踩踏。",
-      "中文说\"不\"起初令人不适，因为内疚会涌上来，告诉你自己自私。但一句平静而果断的\"不\"，往往比一句满腹牢骚的\"好\"更能成全所有人。空杯无法倒水；而拒绝一件事，正是你护住那只杯子的办法。",
-      "中文所以，先从小小的\"不\"练起。谢绝那场多余的会、那个你给不出的帮忙、那件本不属于你的任务。坦诚地排序轻重，让这个词每被说出一次，就轻上一分。"
+      "每一次\"好\"，都是有代价的。当我们对一切都说\"好\"，其实是在悄悄对休息、对专注、对最要紧的人和事说\"不\"。边界不是一道对着别人的墙；它是围栏，让你的生活不被踩踏。",
+      "说\"不\"起初令人不适，因为内疚会涌上来，告诉你自己自私。但一句平静而果断的\"不\"，往往比一句满腹牢骚的\"好\"更能成全所有人。空杯无法倒水；而拒绝一件事，正是你护住那只杯子的办法。",
+      "所以，先从小小的\"不\"练起。谢绝那场多余的会、那个你给不出的帮忙、那件本不属于你的任务。坦诚地排序轻重，让这个词每被说出一次，就轻上一分。"
     ],
     "grammar": [
       {
@@ -71,6 +71,72 @@
         "point": "",
         "example": "\"But a calm, assertive no often serves everyone better than a resentful yes.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "boundary",
+        "pos": "n.",
+        "meaning": "边界；界限，分寸",
+        "enExample": "A boundary is not a wall against others.",
+        "zhExample": "界限并不是用来挡住别人的墙。",
+        "note": "心理/职场高频词：set a boundary（设定边界）。近义 limit / border；反义 boundlessness（无边界）。"
+      },
+      {
+        "term": "trample",
+        "pos": "v.",
+        "meaning": "践踏；踩踏",
+        "enExample": "It is the fence that keeps your own life from being trampled.",
+        "zhExample": "它是那道栅栏，防止你自己的生活被踩踏。",
+        "note": "trample on/over sth.。trampled 在原文中为被动，比喻生活被他人侵占。近义 crush / stomp on；反义 protect / shelter。"
+      },
+      {
+        "term": "guilt",
+        "pos": "n.",
+        "meaning": "内疚；罪责感",
+        "enExample": "Guilt rushes in to tell you that you are selfish.",
+        "zhExample": "内疚涌上心头，告诉你这样太自私。",
+        "note": "形容词 guilty（有罪的；心虚的）。guilt 是内在感受，shame 更偏「羞耻」。近义 remorse；反义 innocence。"
+      },
+      {
+        "term": "assertive",
+        "pos": "adj.",
+        "meaning": "坚定而自信的；不卑不亢的",
+        "enExample": "A calm, assertive no often serves everyone better.",
+        "zhExample": "一个平静而坚定的「不」，往往对大家都更好。",
+        "note": "介于 passive（被动）与 aggressive（攻击性）之间，是沟通学理想姿态。名词 assertiveness。近义 firm / confident。"
+      },
+      {
+        "term": "resentful",
+        "pos": "adj.",
+        "meaning": "怨恨的；不情愿的",
+        "enExample": "A resentful yes serves no one well.",
+        "zhExample": "一个带着怨气的「好」，对谁都没好处。",
+        "note": "动词 resent（怨恨），名词 resentment。注意 resent 后接 doing。近义 bitter / begrudging；反义grateful / willing。"
+      },
+      {
+        "term": "decline",
+        "pos": "v.",
+        "meaning": "婉拒；谢绝",
+        "enExample": "Declining one thing is how you protect the cup.",
+        "zhExample": "拒绝一件事，正是你守护那只杯子的方式。",
+        "note": "比 refuse 更礼貌正式。也可作「下降」讲（a sharp decline）。近义 turn down / politely refuse；反义 accept。"
+      },
+      {
+        "term": "prioritize",
+        "pos": "v.",
+        "meaning": "确定优先顺序；优先处理",
+        "enExample": "Prioritize with honesty, and let the word grow lighter.",
+        "zhExample": "诚实地排定优先级，这个字会越来越轻。",
+        "note": "名词 priority（优先事项）。搭配 prioritize A over B。近义 rank / put first；反义 neglect / deprioritize。"
+      },
+      {
+        "term": "pour from an empty cup",
+        "pos": "phr.",
+        "meaning": "杯空无以倒水；自身耗尽便无法给予",
+        "enExample": "You cannot pour from an empty cup.",
+        "zhExample": "空杯子里倒不出水来。",
+        "note": "英文谚语，讲「先照顾好自己才能照顾别人」。同类说法：put on your own oxygen mask first。反义 refill the cup（重新蓄能）。"
       }
     ]
   }

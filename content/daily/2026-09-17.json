@@ -52,14 +52,14 @@
     "title": "The Quiet Gift of Time",
     "author": "佚名",
     "paragraphs": [
-      "ENWe treat time as something to defeat—to save, to hack, to squeeze into smaller boxes. But time is not an enemy to outrun. It is the medium in which a life actually happens, and the only resource that, once spent, is gone for good.",
-      "ENA slower day is not a wasted day. To pause and watch light move across a wall, to really taste a meal, to listen without planning your reply—these are not luxuries. They are the texture of being alive, and they cost nothing but attention.",
-      "ENSo give time the respect it deserves. Protect a few unhurried hours. Let your mind wander now and then. The urgent will always return; the quiet moment, once missed, will not."
+      "We treat time as something to defeat—to save, to hack, to squeeze into smaller boxes. But time is not an enemy to outrun. It is the medium in which a life actually happens, and the only resource that, once spent, is gone for good.",
+      "A slower day is not a wasted day. To pause and watch light move across a wall, to really taste a meal, to listen without planning your reply—these are not luxuries. They are the texture of being alive, and they cost nothing but attention.",
+      "So give time the respect it deserves. Protect a few unhurried hours. Let your mind wander now and then. The urgent will always return; the quiet moment, once missed, will not."
     ],
     "translations": [
-      "中文我们把时间当成要击败的东西——要节省、要优化、要塞进更小的格子。但时间不是要甩开的敌人。它是一段生命真实发生的介质，也是唯一一种一旦花掉就永不回来的资源。",
-      "中文慢下来的一天，不是被浪费的一天。停下脚步看光在墙上移动，认真尝一口饭，不带盘算地去倾听——这些都不是奢侈。它们正是\"活着\"的质感，除了注意力，分文不取。",
-      "中文所以，请给予时间它应得的尊重。守护几个不被催促的小时。偶尔让思绪飘荡。紧急的事总会回来；而那安静的一刻，一旦错过，便不再来。"
+      "我们把时间当成要击败的东西——要节省、要优化、要塞进更小的格子。但时间不是要甩开的敌人。它是一段生命真实发生的介质，也是唯一一种一旦花掉就永不回来的资源。",
+      "慢下来的一天，不是被浪费的一天。停下脚步看光在墙上移动，认真尝一口饭，不带盘算地去倾听——这些都不是奢侈。它们正是\"活着\"的质感，除了注意力，分文不取。",
+      "所以，请给予时间它应得的尊重。守护几个不被催促的小时。偶尔让思绪飘荡。紧急的事总会回来；而那安静的一刻，一旦错过，便不再来。"
     ],
     "grammar": [
       {
@@ -71,6 +71,72 @@
         "point": "",
         "example": "\"To pause and watch light move across a wall, to really taste a meal, to listen without planning your reply—these are not luxuries.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "defeat",
+        "pos": "v.",
+        "meaning": "战胜；击败",
+        "enExample": "We treat time as something to defeat.",
+        "zhExample": "我们把时间当成某种需要战胜的东西。",
+        "note": "名词 defeat 意为「失败」（a heavy defeat）。原文用 defeat time 讽刺效率至上的心态。近义 beat / conquer；反义 surrender to。"
+      },
+      {
+        "term": "squeeze",
+        "pos": "v.",
+        "meaning": "挤压；塞进，压缩",
+        "enExample": "We try to squeeze life into smaller boxes.",
+        "zhExample": "我们试图把生活塞进更小的盒子里。",
+        "note": "squeeze sth. into sth. 为高频搭配。名词 squeeze 可指「紧缩」，如 credit squeeze。近义 compress / cram；反义 expand。"
+      },
+      {
+        "term": "outrun",
+        "pos": "v.",
+        "meaning": "跑得比…快；超越，逃脱",
+        "enExample": "Time is not an enemy to outrun.",
+        "zhExample": "时间不是可以甩在身后的敌人。",
+        "note": "out-（超过）+ run。同类构词：outperform（表现优于）、outgrow（长得超过）。近义 outpace / outstrip；反义 lag behind。"
+      },
+      {
+        "term": "medium",
+        "pos": "n.",
+        "meaning": "媒介；介质，载体",
+        "enExample": "It is the medium in which a life actually happens.",
+        "zhExample": "它是生命真正得以展开的媒介。",
+        "note": "复数 media / mediums。也指「传媒」（social media）与「中等的」（medium size）。近义 vehicle / channel。"
+      },
+      {
+        "term": "for good",
+        "pos": "phr.",
+        "meaning": "永远；永久地",
+        "enExample": "It is the only resource that, once spent, is gone for good.",
+        "zhExample": "它是唯一一种一旦花掉就永远消失的资源。",
+        "note": "此处 good 作名词，意为「益处」，for good = 定局。近义 permanently / once and for all；反义 temporarily。"
+      },
+      {
+        "term": "texture",
+        "pos": "n.",
+        "meaning": "质感；质地，纹理",
+        "enExample": "These are the texture of being alive.",
+        "zhExample": "这些正是「活着」的质感。",
+        "note": "本义指布料、食物的触感，引申为「生活的质地」。近义 grain / feel。反义 smoothness 仅在物理语境下成立。"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "从容的；不慌不忙的",
+        "enExample": "Protect a few unhurried hours.",
+        "zhExample": "为自己守住几个从容的小时。",
+        "note": "un- + hurried。副词 unhurriedly。近义 leisurely / relaxed；反义 rushed / frantic / hectic。"
+      },
+      {
+        "term": "wander",
+        "pos": "v.",
+        "meaning": "漫游；游走，走神",
+        "enExample": "Let your mind wander now and then.",
+        "zhExample": "时不时让你的思绪散散步。",
+        "note": "mind wanders = 走神；wander off = 偏离。比 walk 更强调「无固定方向」。近义 drift / roam；反义 focus / concentrate。"
       }
     ]
   }

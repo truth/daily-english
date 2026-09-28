@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-25",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "tailor",
+      "pos": "v.",
+      "phonetic": "/ˈteɪlə(r)/",
+      "meaning": "量身定制，使适应",
+      "enExample": "We tailor our proposal to each client's specific needs.",
+      "zhExample": "我们针对每位客户的具体需求来定制方案。",
+      "note": "💡 名词是裁缝，动词引申为量身定制。常见用法 tailor A to B，如 tailor the pitch to the client，面试谈方案定制非常加分。"
+    },
+    {
+      "word": "influx",
+      "pos": "n.",
+      "phonetic": "/ˈɪnflʌks/",
+      "meaning": "涌入，大量流入",
+      "enExample": "The city saw a huge influx of young professionals last year.",
+      "zhExample": "这座城市去年迎来了大量年轻职场人的涌入。",
+      "note": "💡 in（向内）+ flux（流动），即涌入。搭配 an influx of orders/talent 订单或人才涌入，描述业务增长、人口流动时常用。"
+    },
+    {
+      "word": "intuitive",
+      "pos": "adj.",
+      "phonetic": "/ɪnˈtjuːɪtɪv/",
+      "meaning": "直观易用的，凭直觉的",
+      "enExample": "The new dashboard is so intuitive that new hires need no training.",
+      "zhExample": "新的数据面板非常直观，新员工无需培训就能上手。",
+      "note": "💡 与 intuition（直觉）同源，指凭直觉就能懂的。搭配 intuitive interface/design 界面直观易上手，产品评审中评价体验的高频词。"
+    },
+    {
+      "word": "respectively",
+      "pos": "adv.",
+      "phonetic": "/rɪˈspektɪvli/",
+      "meaning": "分别地，各自地",
+      "enExample": "Revenue in Q1 and Q2 was 2.1 and 2.8 million, respectively.",
+      "zhExample": "第一季度和第二季度的营收分别为 210 万和 280 万。",
+      "note": "💡 用来对应列举顺序，如 A and B are 30 and 40 respectively。写报告、邮件罗列数据时能避免歧义，显得严谨专业。"
+    },
+    {
+      "word": "spare no effort",
+      "pos": "phr.",
+      "phonetic": "/speə(r) nəʊ ˈefət/",
+      "meaning": "不遗余力，全力以赴",
+      "enExample": "We will spare no effort to deliver the project before the deadline.",
+      "zhExample": "我们将不遗余力地在截止日期前交付这个项目。",
+      "note": "💡 spare 此处意为「吝惜」，字面是不吝惜力气。搭配 spare no effort to do sth 不遗余力做某事，表决心时比 try hard 有力得多。"
+    }
+  ],
+  "essay": {
+    "title": "Learning the Shape of Rest",
+    "author": "佚名",
+    "paragraphs": [
+      "For years I treated rest as the leftover part of a day, the crumbs after the meal. I would work until I could not, then collapse, then feel vaguely ashamed of the collapsing. It never occurred to me that rest might have a shape — that it could be planned, protected, and learned the way any other skill is learned. I had simply assumed it was what happened when I failed to continue.",
+      "A friend who plays the piano told me something useful. She said the rests are part of the music, written into the score, counted aloud like the notes. Nobody apologises for them. A passage without rest is not more serious; it is just noise. I think of this often when I catch myself calling an idle afternoon unproductive, as though silence were a defect in the score.",
+      "So I began to give rest an outline. Not a grand holiday, which mostly required recovery afterwards, but small deliberate shapes: twenty minutes with no screen, a walk taken slowly on purpose, one evening a week with nothing scheduled and nothing to report. The first attempts were uncomfortable. I kept reaching for a task the way a hand reaches for a rail.",
+      "Slowly the discomfort changed into something else. I noticed that ideas arrive more often in the empty slots than in the crowded ones, and that a tired mind does not become sharper by being pushed. Rest is not the opposite of the work. It is the part of the work that happens where nobody can see it, the way roots work in the dark.",
+      "I am still a poor student of this. Some weeks I forget the outline entirely and slide back into the old arithmetic of collapse and shame. But the shape is there now, waiting to be relearned, and it is always smaller and plainer than I expect: a chair, a window, and permission to stop. It costs nothing, which is the hardest part."
+    ],
+    "translations": [
+      "多年来，我一直把休息当成一天剩下的部分，一顿饭后的残渣。我会工作到不能再工作，然后垮掉，再对垮掉感到隐隐的羞耻。我从未想过休息也会有形状——它可以被计划、被保护，可以像任何别的技艺一样被学会。我只是默认，休息就是我无法继续时发生的事。",
+      "一个弹钢琴的朋友说过一句有用的话。她说休止符是音乐的一部分，写在谱子上，像音符一样被数出来。没有人为它们道歉。一段没有休止的乐句并不更郑重，它只是噪声。当我发现自己把一个闲散的下午叫作「没产出」时，我常想起这句话，仿佛沉默是乐谱上的一处缺陷。",
+      "于是我开始给休息一个轮廓。不是盛大的假期——那种多半还需要事后恢复——而是一些刻意的小形状：二十分钟不看屏幕，一次故意放慢的散步，一周里一个没有任何安排、也无需汇报的夜晚。最初的几次令人不适，我总伸手去够一件任务，像手去够栏杆。",
+      "渐渐地，那份不适变成了别的东西。我注意到，念头更多出现在空着的格子里，而不是挤满的格子里；我也注意到，疲惫的头脑不会因为被推搡而变得更锋利。休息不是工作的反面，它是工作中发生在无人看见之处的那一部分，就像根在黑暗里生长。",
+      "我在这件事上仍然是个笨学生。有些星期我会把轮廓忘得一干二净，滑回崩溃与羞耻的旧算式里。但那个形状如今就在那里，等着被重新学会，而且它总比我预想的更小、更朴素：一把椅子，一扇窗，以及停下来的许可。它分文不取，而这恰恰是最难的部分。"
+    ],
+    "grammar": [
+      {
+        "point": "would 表示过去的习惯性动作",
+        "example": "\"I would work until I could not, then collapse.\"",
+        "note": "would + 动词原形用于追述过去反复发生的动作，带有回忆色彩；它不用于表示过去的状态，那是 used to 的职责。 举一反三：举一反三：Every evening she would practice for an hour, then rest. / 每晚她都练一小时，然后休息。"
+      },
+      {
+        "point": "the way 引导的方式状语从句",
+        "example": "\"I kept reaching for a task the way a hand reaches for a rail.\"",
+        "note": "the way 相当于 as，意为「正如……那样」，引导方式状语从句，口语中常省略其后的 that。 举一反三：举一反三：He rests the way the music rests: on purpose. / 他休息，就像音乐里的休止：是刻意的。"
+      },
+      {
+        "point": "比较级 more ... than 结构",
+        "example": "\"Ideas arrive more often in the empty slots than in the crowded ones.\"",
+        "note": "多音节副词用 more 加原级构成比较级，后接 than 引出比较对象；句末 ones 替代前文复数名词 slots，避免重复。 举一反三：举一反三：A short rest helps more than a long explanation. / 短暂的休息比长篇的解释更有用。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "restore",
+        "pos": "v.",
+        "meaning": "使恢复；修复",
+        "enExample": "A short walk restores more than an hour of forcing it.",
+        "zhExample": "一小段散步，比硬撑一小时恢复得更多。",
+        "note": "用法：restore energy / confidence / order"
+      },
+      {
+        "term": "idle",
+        "pos": "adj.",
+        "meaning": "闲散的；闲置的",
+        "enExample": "An idle hour is not always a wasted hour.",
+        "zhExample": "闲散的一小时，不总是被浪费的一小时。",
+        "note": "用法：an idle afternoon；lie idle"
+      },
+      {
+        "term": "recharge",
+        "pos": "v.",
+        "meaning": "充电；恢复精力",
+        "enExample": "I recharge on Sunday afternoons by doing nothing at all.",
+        "zhExample": "我在周日下午什么都不做，以此充电。",
+        "note": "用法：recharge your batteries"
+      },
+      {
+        "term": "slumber",
+        "pos": "n./v.",
+        "meaning": "睡眠；安睡（文学用语）",
+        "enExample": "The house fell into a slumber that lasted till morning.",
+        "zhExample": "整座房子陷入了一场持续到清晨的安睡。",
+        "note": "用法：fall into a deep slumber"
+      },
+      {
+        "term": "weary",
+        "pos": "adj.",
+        "meaning": "疲倦的；厌倦的",
+        "enExample": "A weary mind does not become sharper by being pushed.",
+        "zhExample": "疲惫的头脑不会因为被推搡而变得更锋利。",
+        "note": "用法：weary of sth；a weary mind"
+      },
+      {
+        "term": "repose",
+        "pos": "n.",
+        "meaning": "休息；安憩（正式、文学）",
+        "enExample": "Her face in repose looked younger than her years.",
+        "zhExample": "她安憩时的脸，看上去比她的年纪年轻。",
+        "note": "用法：in repose"
+      },
+      {
+        "term": "drowsy",
+        "pos": "adj.",
+        "meaning": "昏昏欲睡的；令人困倦的",
+        "enExample": "A drowsy room is often the most honest one in the house.",
+        "zhExample": "令人困倦的房间，常是屋子里最诚实的一间。",
+        "note": "用法：a drowsy room / afternoon"
+      },
+      {
+        "term": "rhythm",
+        "pos": "n.",
+        "meaning": "节律；节奏",
+        "enExample": "Rest works best when it follows a rhythm, not a rescue.",
+        "zhExample": "当休息遵循的是节律而非补救时，效果最好。",
+        "note": "用法：the rhythm of work and rest"
+      }
+    ]
+  }
+}

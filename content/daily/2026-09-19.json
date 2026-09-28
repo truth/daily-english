@@ -52,14 +52,14 @@
     "title": "Small Progress",
     "author": "佚名",
     "paragraphs": [
-      "ENWe are obsessed with the leap—the breakthrough, the overnight transformation. But most real change is quiet and incremental. A page written, a habit kept for one more day, a hard conversation finally started: these are the moves that actually move a life forward.",
-      "ENProgress does not need to be visible to be real. The seed under soil is not idle; it is accumulating the strength to break through. Trust the unseen work. Steady effort, repeated without drama, is how substantial things are built.",
-      "ENSo lower the bar to a stride you can keep. Do not wait for the perfect plan or the motivated morning. Begin where you are, with what you have, and let the threshold be crossed by a single, ordinary step."
+      "We are obsessed with the leap—the breakthrough, the overnight transformation. But most real change is quiet and incremental. A page written, a habit kept for one more day, a hard conversation finally started: these are the moves that actually move a life forward.",
+      "Progress does not need to be visible to be real. The seed under soil is not idle; it is accumulating the strength to break through. Trust the unseen work. Steady effort, repeated without drama, is how substantial things are built.",
+      "So lower the bar to a stride you can keep. Do not wait for the perfect plan or the motivated morning. Begin where you are, with what you have, and let the threshold be crossed by a single, ordinary step."
     ],
     "translations": [
-      "中文我们痴迷于\"跨越\"——那突破、那一夜之间的蜕变。但多数真正的改变，是安静而渐进的。写下一页、多坚持一天的习惯、终于开启的那场艰难对话：这些，才是真正推动生活向前的动作。",
-      "中文进步不必被看见才真实。泥土下的种子并非无所事事；它在积聚破土的力量。请相信那些看不见的功夫。不带戏剧性地、反复进行的稳定努力，才是构筑可观成果的方式。",
-      "中文所以，把门槛降到你能守住的一步。别等完美的计划，也别等动力满满的清晨。从你所在之处、用你拥有之物开始，让那道临界，由一次平凡的步骤跨过。"
+      "我们痴迷于\"跨越\"——那突破、那一夜之间的蜕变。但多数真正的改变，是安静而渐进的。写下一页、多坚持一天的习惯、终于开启的那场艰难对话：这些，才是真正推动生活向前的动作。",
+      "进步不必被看见才真实。泥土下的种子并非无所事事；它在积聚破土的力量。请相信那些看不见的功夫。不带戏剧性地、反复进行的稳定努力，才是构筑可观成果的方式。",
+      "所以，把门槛降到你能守住的一步。别等完美的计划，也别等动力满满的清晨。从你所在之处、用你拥有之物开始，让那道临界，由一次平凡的步骤跨过。"
     ],
     "grammar": [
       {
@@ -71,6 +71,72 @@
         "point": "",
         "example": "\"The seed under soil is not idle; it is accumulating the strength to break through.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "obsessed",
+        "pos": "adj.",
+        "meaning": "痴迷的；着迷的",
+        "enExample": "We are obsessed with the leap.",
+        "zhExample": "我们痴迷于一跃而就。",
+        "note": "be obsessed with/by sth.。动词 obsess，名词 obsession。语气偏负面，暗示过度执迷。近义 fixated / hooked；反义 indifferent。"
+      },
+      {
+        "term": "breakthrough",
+        "pos": "n.",
+        "meaning": "突破；重大进展",
+        "enExample": "We wait for the breakthrough and the overnight transformation.",
+        "zhExample": "我们等着突破，等着一夜之间的蜕变。",
+        "note": "break + through 合成。搭配 make/achieve a breakthrough in sth.。近义 leap / milestone；反义 setback / plateau。"
+      },
+      {
+        "term": "incremental",
+        "pos": "adj.",
+        "meaning": "渐进的；逐步累积的",
+        "enExample": "Most real change is quiet and incremental.",
+        "zhExample": "大多数真实的改变是安静而渐进的。",
+        "note": "名词 increment（增量）。商业中 incremental progress 指「小步改进」。近义 gradual / step-by-step；反义 radical / overnight。"
+      },
+      {
+        "term": "idle",
+        "pos": "adj.",
+        "meaning": "闲置的；无所事事的",
+        "enExample": "The seed under soil is not idle.",
+        "zhExample": "土壤下的那颗种子并非无所事事。",
+        "note": "注意与 lazy（懒惰）区分：idle 指「没在运作」，不带道德评价。近义 inactive / dormant；反义 productive。"
+      },
+      {
+        "term": "accumulate",
+        "pos": "v.",
+        "meaning": "积累；积聚",
+        "enExample": "It is accumulating the strength to break through.",
+        "zhExample": "它正在积蓄破土而出的力量。",
+        "note": "强调「一点一滴攒起来」，比 gather 更书面。名词 accumulation。近义 amass / build up；反义 deplete / drain。"
+      },
+      {
+        "term": "substantial",
+        "pos": "adj.",
+        "meaning": "实质的；大量的，可观的",
+        "enExample": "Steady effort is how substantial things are built.",
+        "zhExample": "持续的努力，正是厚重之物被建成的方式。",
+        "note": "substance（实质）+ ial。也可指「丰盛的一餐」a substantial meal。近义 considerable / solid；反义 trivial / negligible。"
+      },
+      {
+        "term": "lower the bar",
+        "pos": "phr.",
+        "meaning": "降低标准；放低门槛",
+        "enExample": "Lower the bar to a stride you can keep.",
+        "zhExample": "把门槛降到你能长期保持的步幅。",
+        "note": "来自跳高横杆（bar）。此处为中性甚至正面用法，指「设得可达到」。反义 raise the bar（提高标准）。近义 ease up。"
+      },
+      {
+        "term": "threshold",
+        "pos": "n.",
+        "meaning": "门槛；起点，临界点",
+        "enExample": "Let the threshold be crossed by a single, ordinary step.",
+        "zhExample": "让那道门槛，被一个平凡的单步跨过。",
+        "note": "注意发音 /ˈθreʃhəʊld/，拼写不是 -hold 变来的。引申比喻「开始发生变化的临界值」。近义 doorway / tipping point。"
       }
     ]
   }

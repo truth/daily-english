@@ -52,14 +52,14 @@
     "title": "The Ripple of Small Kindness",
     "author": "佚名",
     "paragraphs": [
-      "ENKindness is often imagined as something grand—a fortune given, a life saved. But the kindness that changes a day is usually small: a door held, a message answered, a name remembered. We underestimate how little these cost us and how much they mean to someone else.",
-      "ENA kind gesture does not only help the receiver. It tells them they are seen, that they matter, that the world is not as cold as it looked that morning. And strangely, the giver leaves warmer than before—as if kindness, once offered, warms the hand that gives it.",
-      "ENSo look for the small openings. Acknowledge the person who serves your food. Uplift a colleague with one honest sentence. Kindness is not a resource that runs out; the more you spend it, the more it seems to grow."
+      "Kindness is often imagined as something grand—a fortune given, a life saved. But the kindness that changes a day is usually small: a door held, a message answered, a name remembered. We underestimate how little these cost us and how much they mean to someone else.",
+      "A kind gesture does not only help the receiver. It tells them they are seen, that they matter, that the world is not as cold as it looked that morning. And strangely, the giver leaves warmer than before—as if kindness, once offered, warms the hand that gives it.",
+      "So look for the small openings. Acknowledge the person who serves your food. Uplift a colleague with one honest sentence. Kindness is not a resource that runs out; the more you spend it, the more it seems to grow."
     ],
     "translations": [
-      "中文善意常被想象成某种宏大的东西——一笔巨款、一次救命。但真正改变一天的善意，往往很小：扶一下门、回一条消息、记住一个人的名字。我们低估了这些举动的代价之轻，也低估了它们对另一个人的意义之重。",
-      "中文一个善意的举动不止帮助了接受者。它告诉对方：你被看见了，你重要，这世界并不像那个早晨看起来那般冰冷。而奇妙的是，给予者离开时比之前更温暖——仿佛善意一旦给出，便会温暖那只伸出的手。",
-      "中文所以，去寻找那些微小的缝隙。认可一下为你端上饭菜的人。用一句真诚的话鼓舞同事。善意不是会耗尽的资源；你越是付出，它仿佛越是增长。"
+      "善意常被想象成某种宏大的东西——一笔巨款、一次救命。但真正改变一天的善意，往往很小：扶一下门、回一条消息、记住一个人的名字。我们低估了这些举动的代价之轻，也低估了它们对另一个人的意义之重。",
+      "一个善意的举动不止帮助了接受者。它告诉对方：你被看见了，你重要，这世界并不像那个早晨看起来那般冰冷。而奇妙的是，给予者离开时比之前更温暖——仿佛善意一旦给出，便会温暖那只伸出的手。",
+      "所以，去寻找那些微小的缝隙。认可一下为你端上饭菜的人。用一句真诚的话鼓舞同事。善意不是会耗尽的资源；你越是付出，它仿佛越是增长。"
     ],
     "grammar": [
       {
@@ -71,6 +71,72 @@
         "point": "",
         "example": "\"as if kindness, once offered, warms the hand that gives it.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "ripple",
+        "pos": "n.",
+        "meaning": "涟漪；连锁影响",
+        "enExample": "Small kindness sends a ripple far beyond the moment.",
+        "zhExample": "小小的善意激起的涟漪，远超那一刻本身。",
+        "note": "标题 The Ripple of Small Kindness 的核心意象。动词 ripple 意为「泛起涟漪」。习语 ripple effect（连锁效应）。近义 wave / echo。"
+      },
+      {
+        "term": "grand",
+        "pos": "adj.",
+        "meaning": "宏大的；壮观的，隆重的",
+        "enExample": "Kindness is often imagined as something grand.",
+        "zhExample": "善意常被想象成某种宏大的东西。",
+        "note": "含「排场大、气派足」的意味，如 grand gesture / grand plan。近义 magnificent / majestic；反义 modest / humble。"
+      },
+      {
+        "term": "underestimate",
+        "pos": "v.",
+        "meaning": "低估；看轻",
+        "enExample": "We underestimate how little these cost us and how much they mean to someone else.",
+        "zhExample": "我们低估了它们成本之低，也低估了它们对别人的意义之重。",
+        "note": "under-（不足）+ estimate（估计）。名词亦读 /ˌʌndərˈestɪmət/。近义 underrate；反义 overestimate / overrate。"
+      },
+      {
+        "term": "gesture",
+        "pos": "n.",
+        "meaning": "举动；姿态，表示",
+        "enExample": "A kind gesture does not only help the receiver.",
+        "zhExample": "一个善意的举动，受益的不只是接受者。",
+        "note": "本义「手势」，引申为「表达心意的举动」。搭配 a gesture of goodwill / a small gesture。近义 act / token。"
+      },
+      {
+        "term": "acknowledge",
+        "pos": "v.",
+        "meaning": "致意；认可，表示注意到",
+        "enExample": "Acknowledge the person who serves your food.",
+        "zhExample": "对为你上菜的人致以一句回应。",
+        "note": "ac-（加强）+ knowledge → 承认知道。正式用法为「答谢、确认收到」。近义 recognize / greet；反义 ignore / overlook。"
+      },
+      {
+        "term": "uplift",
+        "pos": "v.",
+        "meaning": "鼓舞；使振奋，提升",
+        "enExample": "Uplift a colleague with one honest sentence.",
+        "zhExample": "用一句真诚的话让同事振作起来。",
+        "note": "up + lift，比 encourage 更强调「把情绪托起来」。名词 uplift 意为「振奋」。近义 inspire / buoy up；反义 discourage。"
+      },
+      {
+        "term": "run out",
+        "pos": "phr.",
+        "meaning": "用完；耗尽",
+        "enExample": "Kindness is not a resource that runs out.",
+        "zhExample": "善意并不是一种会用完的资源。",
+        "note": "不及物短语，主语是被耗尽之物：Time is running out。接宾语需加 of：run out of money。近义 be exhausted；反义 replenish。"
+      },
+      {
+        "term": "opening",
+        "pos": "n.",
+        "meaning": "机会；缺口，可切入之处",
+        "enExample": "So look for the small openings.",
+        "zhExample": "那么，去寻找那些细小的切入口吧。",
+        "note": "open + ing，此处指「可以行善的缝隙」。也指职位空缺、开场白。近义 opportunity / gap；反义 dead end。"
       }
     ]
   }

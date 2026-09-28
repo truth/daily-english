@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-24",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "oversee",
+      "pos": "v.",
+      "phonetic": "/ˌəʊvəˈsiː/",
+      "meaning": "监督，监管",
+      "enExample": "She was promoted to oversee the daily operations of two branches.",
+      "zhExample": "她获得晋升，负责监管两家分支机构的日常运营。",
+      "note": "💡 over（在上）+ see（看），即监督。注意过去式 oversaw、过去分词 overseen。搭配 oversee the project，描述管理经验时比 manage 更强调把控。"
+    },
+    {
+      "word": "toll",
+      "pos": "n.",
+      "phonetic": "/təʊl/",
+      "meaning": "代价，损失；（道路）通行费",
+      "enExample": "Working late every night has started to take a toll on his health.",
+      "zhExample": "每晚加班已经开始损害他的健康。",
+      "note": "💡 常用 take a toll on（对…造成损害），也可指通行费。搭配 exact a heavy toll，说加班 take a toll on health，比 harm 更形象。"
+    },
+    {
+      "word": "cumbersome",
+      "pos": "adj.",
+      "phonetic": "/ˈkʌmbəsəm/",
+      "meaning": "繁琐的，笨重不便的",
+      "enExample": "The approval process is so cumbersome that nobody wants to file expenses.",
+      "zhExample": "审批流程太繁琐了，没人愿意走报销。",
+      "note": "💡 来自 cumber（阻碍），-some 形容词后缀表「令人…的」。搭配 cumbersome process 繁琐流程，吐槽流程冗长时比 complex 更精准。"
+    },
+    {
+      "word": "scarcely",
+      "pos": "adv.",
+      "phonetic": "/ˈskeəsli/",
+      "meaning": "几乎不，简直不",
+      "enExample": "We had scarcely finished the report when the client asked for changes.",
+      "zhExample": "我们刚写完报告，客户就要求修改。",
+      "note": "💡 表「几乎不」，含否定意味，置于句首时主谓倒装。搭配 scarcely enough time 强调时间紧，写作中替代 hardly 可提升语言层次。"
+    },
+    {
+      "word": "wind down",
+      "pos": "phr.",
+      "phonetic": "/waɪnd daʊn/",
+      "meaning": "逐步收尾；放松下来",
+      "enExample": "After a busy week, I like to wind down with a long walk.",
+      "zhExample": "忙碌一周后，我喜欢散个长步放松一下。",
+      "note": "💡 与 wind up（结束公司）不同，wind down 指逐步收尾或放松。搭配 wind down the project/after work，周五闲聊说 winding down 很自然。"
+    }
+  ],
+  "essay": {
+    "title": "The Trade We Make with Time",
+    "author": "佚名",
+    "paragraphs": [
+      "Every hour is a small transaction. We hand it over at a counter we cannot see, and something is placed in our palms in return — a finished page, a long walk, an evening spent answering messages that will not be remembered. The trade happens whether or not we notice. Time does not ask whether we meant it; it only asks what we gave.",
+      "I once said yes to every invitation for a whole season, and I remember almost none of them. What I remember is the one afternoon I refused — because refusing left a hole in the calendar, and in that hole I finished something that still has my name on it. Saying no is not a withdrawal from life. It is a purchase of something else.",
+      "The trouble is that the price is never printed on the label. Nobody tells you that an extra hour of scrolling costs a chapter, or that a tidy reputation costs a decade of quiet resentment. We pay in a currency we cannot see leaving, and then wonder why the account feels thin. Cheap things are rarely free.",
+      "So I have started keeping accounts in the plainest way I know. At the end of a day I write two lines: what I spent the hours on, and what came back. Most entries are honest and unremarkable. But once or twice a week the ledger shows a trade I would make again, and that is enough to tell me the day was not wasted.",
+      "We will not get better at this by becoming ruthless. We will get better by becoming honest — by admitting that a life is a long series of exchanges, and that we are allowed to choose the terms. The hours keep coming regardless. The only question is what we are willing to hand them over for, and what we are finally finished paying for."
+    ],
+    "translations": [
+      "每一个小时都是一笔小小的交易。我们在一个看不见的柜台前把它递出去，掌心里便会换回某样东西——一页写完的字，一次长长的散步，或是一整晚回复那些不会被记住的消息。无论我们是否留意，这场交易都在发生。时间不问我们是否出于本意，它只问我们给出了什么。",
+      "有一整季我对每个邀请都说好，如今几乎一个也想不起来。我记得的反而是我拒绝的那个下午——因为拒绝在日历上留下一个洞，而我在那个洞里完成了某样至今还写着我的名字的东西。说「不」并不是从生活里退场，它是把另一样东西买了下来。",
+      "麻烦在于，价签从不印出来。没人告诉你，多刷一小时要花掉一个章节；也没人告诉你，体面的名声要花掉十年安静的怨气。我们用一种看不见流走的货币付款，然后纳闷账户为何变薄。便宜的东西很少是免费的。",
+      "于是我开始用自己知道的最笨的方法记账。一天结束时写两行：时辰花在了哪里，换回了什么。大多数条目诚实而平淡。但一周总有一两次，账本上会出现一笔我愿意再做的交易，那便足以告诉我：这一天没有浪费。",
+      "我们不会因为变得冷酷而更擅长此事，只会因为变得诚实而更擅长——承认一生就是一连串漫长的交换，而我们有权选择交换的条件。时辰照旧不断到来。唯一的问题是：我们愿意用它们换什么，又有什么，我们终于不想再付了。"
+    ],
+    "grammar": [
+      {
+        "point": "whether or not 引导的让步状语从句",
+        "example": "\"The trade happens whether or not we notice.\"",
+        "note": "whether or not 意为「无论是否」，引导让步状语从句；or not 也可移至句末，写作 whether we notice or not。 举一反三：举一反三：The bill arrives whether or not you read it. / 不管你看不看，账单都会来。"
+      },
+      {
+        "point": "that 引导的定语从句与不定代词先行词",
+        "example": "\"I finished something that still has my name on it.\"",
+        "note": "先行词为 something、anything 等不定代词时，关系代词通常用 that 而非 which；that 在从句中作主语。 举一反三：举一反三：There is nothing here that cannot wait until tomorrow. / 这里没有哪件事不能等到明天。"
+      },
+      {
+        "point": "by + 动名词表示方式手段",
+        "example": "\"We will not get better at this by becoming ruthless.\"",
+        "note": "by doing 说明达成结果的方式，回答 how 提出的问题；注意与表示工具的 with + 名词区分开。 举一反三：举一反三：She saved an hour by leaving the meeting early. / 她靠提前离开会议省下了一小时。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "trade-off",
+        "pos": "n.",
+        "meaning": "取舍；权衡",
+        "enExample": "Every yes carries a trade-off you will meet later.",
+        "zhExample": "每个「是」都带着一个你日后会遇到的取舍。",
+        "note": "用法：a trade-off between A and B"
+      },
+      {
+        "term": "forgo",
+        "pos": "v.",
+        "meaning": "放弃；舍弃（较正式）",
+        "enExample": "I forgo the second hour of scrolling to keep the first hour of writing.",
+        "zhExample": "我舍弃刷手机的第二小时，保住写作的第一小时。",
+        "note": "用法：forgo sth for sth"
+      },
+      {
+        "term": "invest",
+        "pos": "v.",
+        "meaning": "投入（时间、精力）；投资",
+        "enExample": "Invest the hours where the return is invisible but real.",
+        "zhExample": "把时辰投到回报无形却真实的地方。",
+        "note": "用法：invest time and energy in sth"
+      },
+      {
+        "term": "finite",
+        "pos": "adj.",
+        "meaning": "有限的；有穷的",
+        "enExample": "A finite day forces us to decide what matters.",
+        "zhExample": "有限的一天逼我们决定什么才重要。",
+        "note": "用法：finite time and resources"
+      },
+      {
+        "term": "yield",
+        "pos": "v./n.",
+        "meaning": "产生（结果）；让步；产量",
+        "enExample": "That quiet afternoon yielded more than a noisy week.",
+        "zhExample": "那个安静的下午，产出多过喧闹的一周。",
+        "note": "用法：yield results；yield to sth"
+      },
+      {
+        "term": "sacrifice",
+        "pos": "v./n.",
+        "meaning": "牺牲；舍弃",
+        "enExample": "We sacrifice comfort whenever we choose the harder road.",
+        "zhExample": "每当选择更难的路，我们就牺牲了舒适。",
+        "note": "用法：sacrifice A for B"
+      },
+      {
+        "term": "reckon",
+        "pos": "v.",
+        "meaning": "估算；认为",
+        "enExample": "Reckon the cost before you promise the hour away.",
+        "zhExample": "把时辰许诺出去之前，先算一算代价。",
+        "note": "用法：reckon with sth；reckon that 从句"
+      },
+      {
+        "term": "consequence",
+        "pos": "n.",
+        "meaning": "后果；重要（性）",
+        "enExample": "Small refusals have consequences that outlast the day.",
+        "zhExample": "小小的拒绝，其后果比这一天更长久。",
+        "note": "用法：as a consequence；of no consequence"
+      }
+    ]
+  }
+}

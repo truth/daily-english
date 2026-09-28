@@ -70,6 +70,11 @@ function parseWordEx(cleaned) {
 // ---------- 双语段落 ----------
 // 兼容两套容器命名：旧版 .pair 与新版 .para
 function parsePairs(html) {
+  // 结构F（当前自动化常用）：.pair > .en(>span.lbl>EN + <p>) / .zh(>span.lbl>中文 + <p>)
+  // 注意：通用正则会把 <span class="lbl">EN</span> 里的 "EN" 一起吃进正文，必须优先单独匹配
+  const reF = /<div class="pair">\s*<div class="en">\s*<span class="lbl">[\s\S]*?<\/span>\s*<p>([\s\S]*?)<\/p>[\s\S]*?<div class="zh">\s*<span class="lbl">[\s\S]*?<\/span>\s*<p>([\s\S]*?)<\/p>/g;
+  const pairsF = extractAll(reF, html).map((m) => ({ en: clean(m[1]), zh: clean(m[2]) }));
+  if (pairsF.length) return pairsF;
   const re = /<div class="(?:pair|para)">\s*(?:<div class="en">|<p class="en">)([\s\S]*?)(?:<\/div>|<\/p>)\s*(?:<div class="zh">|<p class="zh">)([\s\S]*?)(?:<\/div>|<\/p>)\s*<\/div>/g;
   return extractAll(re, html).map((m) => ({ en: clean(m[1]), zh: clean(m[2]) }));
 }

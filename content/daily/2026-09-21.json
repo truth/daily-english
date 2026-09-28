@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-21",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "assess",
+      "pos": "v.",
+      "phonetic": "/əˈses/",
+      "meaning": "评估，评定",
+      "enExample": "We need to assess the impact of the new policy before rolling it out.",
+      "zhExample": "在推行新政策之前，我们需要评估它的影响。",
+      "note": "💡 词根 sess 表「坐」，原指法官落座定案，引申为评估。常见搭配 assess the impact/performance；面试中被问如何评估方案效果时可直接使用。"
+    },
+    {
+      "word": "criterion",
+      "pos": "n.",
+      "phonetic": "/kraɪˈtɪəriən/",
+      "meaning": "标准，准则",
+      "enExample": "Cost is not the only criterion when we choose a supplier.",
+      "zhExample": "选择供应商时，成本不是唯一的标准。",
+      "note": "💡 希腊词根 krit 表「判断」，与 critic 同源；复数为 criteria，别写错。搭配 evaluation criteria 评价标准，写方案或招聘 JD 时高频出现。"
+    },
+    {
+      "word": "robust",
+      "pos": "adj.",
+      "phonetic": "/rəʊˈbʌst/",
+      "meaning": "稳健的，结实耐用的",
+      "enExample": "The team built a robust system that handles peak traffic smoothly.",
+      "zhExample": "团队搭建了一个稳健的系统，能顺畅应对流量高峰。",
+      "note": "💡 源自拉丁语 robur（橡木），含「结实」之意。搭配 robust system/robust growth 稳健的系统或增长，形容抗压能力强的方案很地道。"
+    },
+    {
+      "word": "accordingly",
+      "pos": "adv.",
+      "phonetic": "/əˈkɔːdɪŋli/",
+      "meaning": "相应地，因此",
+      "enExample": "The requirements changed, so we adjusted the schedule accordingly.",
+      "zhExample": "需求发生了变化，于是我们相应地调整了排期。",
+      "note": "💡 accord 一致 + -ing + -ly，表示「照着情况相应地做」。邮件中常用于 Please adjust the plan accordingly，比直接说 so 更正式得体。"
+    },
+    {
+      "word": "take stock of",
+      "pos": "phr.",
+      "phonetic": "/teɪk stɒk ɒv/",
+      "meaning": "盘点，评估现状",
+      "enExample": "Let's take stock of what we have achieved so far this quarter.",
+      "zhExample": "我们来盘点一下本季度到目前为止取得的成果。",
+      "note": "💡 来自盘点库存，引申为盘点现状。搭配 take stock of the situation/progress，季度述职或复盘开场时使用很自然。"
+    }
+  ],
+  "essay": {
+    "title": "The Weather in Our Hands",
+    "author": "佚名",
+    "paragraphs": [
+      "We cannot choose the weather. That was decided long before any of us learned to hold an umbrella. What we can choose is quieter and smaller: the coat we reach for, the road we take, the hour we step outside. Each morning sets out the same modest inventory of choices, and most of us hurry past them without looking up. The sky was never ours. The answer still is.",
+      "I learned this from a woman who keeps a garden on a windy hill. She cannot stop the frost, so she studies it instead. She knows which bed holds warmth after dark, which wall turns the wind aside, which young plants will forgive a cold night. Her mastery is not command but conversation: a long, patient exchange with conditions she will never fully govern.",
+      "Most of us spend our energy on the wrong half of that sentence. We rehearse the storm before it arrives, argue with the forecast, and call the whole performance preparation. Meanwhile the part we might actually steer — the tone we use, the pace we keep, the one small thing we do next — goes unattended. Worry feels like work. It very rarely is.",
+      "So I have begun to ask a smaller question each morning. Not what the day will bring, but what I will bring to it. One warm coat. One unhurried breath before the door. One promise I can actually keep by evening. That is a narrow kind of control, and it is enough. The rest is weather, and the weather has always been very good at being itself.",
+      "There is relief in this, if you let it land. You were never asked to hold the whole sky in your hands. You were asked to carry an umbrella, and to notice, and to choose. The wind will do what the wind has always done. Somewhere inside that fact, there is room to breathe — and room, at last, to begin."
+    ],
+    "translations": [
+      "我们无法选择天气。早在学会撑伞之前，这件事就已注定。我们能选择的更小、也更安静：拿哪件外套，走哪条路，几点出门。每个早晨都摆出同样一份朴素的清单，而大多数人低着头匆匆走过，未曾抬眼。天空从来不属于我们，但回应属于我们。",
+      "这是我在山上一个种花的女人那里学到的。她挡不住霜，于是便去研究霜。她知道哪片苗床在天黑后还留着暖意，哪堵墙能把风拨开，哪些幼苗会原谅一个寒夜。她的掌控不是发号施令，而是一场漫长耐心的对话，与她永远无法完全支配的环境对话。",
+      "我们大多数人把力气花在了这句话错的一半上。风暴未至，我们先在脑中排演；我们与预报争辩，还把这整场表演称作准备。而真正能由我们掌舵的那部分——说话的语气、行进的节奏、接下来要做的那一件小事——却没人照看。忧虑像是在做事，其实很少是。",
+      "于是我开始在每个早晨问一个更小的问题。不是这天会带来什么，而是我将带什么给它。一件暖和的外套。出门前一次从容的呼吸。一个到傍晚真的能守住的小承诺。这是一种很窄的掌控，但已经足够。剩下的都是天气，而天气一向很擅长做它自己。",
+      "这其中有宽慰，只要你让它落下来。从来没有人要求你把整片天空捧在手里。要求你的是带一把伞，是留意，是选择。风会做风一向做的事。在这个事实深处，留有呼吸的余地——也终于，留有开始的余地。"
+    ],
+    "grammar": [
+      {
+        "point": "what 引导的名词性从句作主语与宾语",
+        "example": "\"What we can choose is quieter and smaller.\"",
+        "note": "what 相当于 the thing that，既引导从句又充当从句宾语；整个从句作主句主语，谓语用单数 is。 举一反三：举一反三：What she studies is the frost, not the forecast. / 她研究的是霜，不是预报。"
+      },
+      {
+        "point": "which 引导的限制性定语从句",
+        "example": "\"She knows which bed holds warmth after dark, which wall turns the wind aside.\"",
+        "note": "which 在从句中作主语，修饰前面的名词 bed 与 wall，用于从若干已知选项中挑出特定的一个，比 that 更强调选择。 举一反三：举一反三：She chose the coat which kept out the wind best. / 她挑了那件最挡风的外套。"
+      },
+      {
+        "point": "not ... but ... 并列结构",
+        "example": "\"Her mastery is not command but conversation.\"",
+        "note": "not A but B 连接两个并列成分，语义重心落在 B 上；谓语动词通常与靠近的主语保持一致。 举一反三：举一反三：The answer is not worry but preparation. / 答案不是忧虑，而是准备。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "govern",
+        "pos": "v.",
+        "meaning": "支配；管理；控制",
+        "enExample": "We cannot stop the wind, but we can govern how we answer it.",
+        "zhExample": "我们挡不住风，但可以支配自己如何回应它。",
+        "note": "用法：govern + n.，正式语境中指掌管或起决定作用"
+      },
+      {
+        "term": "forecast",
+        "pos": "n./v.",
+        "meaning": "预报；预测",
+        "enExample": "The forecast promised rain, so I left the umbrella by the door.",
+        "zhExample": "预报说有雨，我便把伞留在门边。",
+        "note": "用法：check the forecast；forecast + n."
+      },
+      {
+        "term": "shelter",
+        "pos": "v./n.",
+        "meaning": "庇护；遮蔽；避难所",
+        "enExample": "A low wall shelters the young plants from the worst of the wind.",
+        "zhExample": "一堵矮墙为幼苗挡住了最猛的风。",
+        "note": "用法：shelter sb/sth from sth"
+      },
+      {
+        "term": "adjust",
+        "pos": "v.",
+        "meaning": "调整；适应",
+        "enExample": "She adjusted the plan after a single night of frost.",
+        "zhExample": "一夜霜冻之后，她调整了计划。",
+        "note": "用法：adjust to sth；adjust sth"
+      },
+      {
+        "term": "circumstance",
+        "pos": "n.",
+        "meaning": "环境；情况（常用复数）",
+        "enExample": "We cannot choose our circumstances, only our response to them.",
+        "zhExample": "我们无法选择处境，只能选择对处境的回应。",
+        "note": "用法：under no circumstances；beyond your control"
+      },
+      {
+        "term": "sway",
+        "pos": "v./n.",
+        "meaning": "摇摆；影响，支配",
+        "enExample": "No argument could sway her once she had looked at the sky.",
+        "zhExample": "她看过天色之后，任何说辞都动摇不了她。",
+        "note": "用法：sway sb；hold sway"
+      },
+      {
+        "term": "province",
+        "pos": "n.",
+        "meaning": "（职责、知识的）领域，范围",
+        "enExample": "The weather is not my province; my coat is.",
+        "zhExample": "天气不归我管，我的外套归我管。",
+        "note": "用法：be within your province"
+      },
+      {
+        "term": "brace",
+        "pos": "v.",
+        "meaning": "使做好准备；支撑",
+        "enExample": "Every autumn we brace for the first hard frost.",
+        "zhExample": "每到秋天，我们都为第一场严霜做准备。",
+        "note": "用法：brace for sth；brace yourself"
+      }
+    ]
+  }
+}

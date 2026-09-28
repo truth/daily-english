@@ -52,14 +52,14 @@
     "title": "The Quiet Power of Habits",
     "author": "佚名",
     "paragraphs": [
-      "ENHabits are the invisible architecture of our days. We rarely notice them, yet they quietly decide far more of our lives than the occasional bold decision ever will.",
-      "ENThe good news is that habits compound. A small action repeated daily—reading ten pages, walking after lunch, writing one honest line—seems trivial in a single day, but over a year it quietly turns you into a different person.",
-      "ENSo do not wait for motivation to arrive. Build the tiny system, show up for it imperfectly, and let consistency do the heavy lifting. The life you want is mostly a collection of ordinary days, lived with care."
+      "Habits are the invisible architecture of our days. We rarely notice them, yet they quietly decide far more of our lives than the occasional bold decision ever will.",
+      "The good news is that habits compound. A small action repeated daily—reading ten pages, walking after lunch, writing one honest line—seems trivial in a single day, but over a year it quietly turns you into a different person.",
+      "So do not wait for motivation to arrive. Build the tiny system, show up for it imperfectly, and let consistency do the heavy lifting. The life you want is mostly a collection of ordinary days, lived with care."
     ],
     "translations": [
-      "中文习惯是我们日子的隐形架构。我们很少留意它们，但它们静悄悄地决定了我们生活的绝大部分——远胜于偶尔那几个大胆的决定。",
-      "中文好消息是，习惯会复利式增长。每天重复的一个小动作——读十页书、饭后走一走、写一句真诚的话——在一天里看似微不足道，但一年之后，它会把你静悄悄地变成另一个人。",
-      "中文所以，别等动力自己找上门。搭好那个微小的系统，哪怕完成得不够完美也坚持去做，把重担交给\"坚持\"。你想要的生活，多半只是一连串被好好度过的平凡日子。"
+      "习惯是我们日子的隐形架构。我们很少留意它们，但它们静悄悄地决定了我们生活的绝大部分——远胜于偶尔那几个大胆的决定。",
+      "好消息是，习惯会复利式增长。每天重复的一个小动作——读十页书、饭后走一走、写一句真诚的话——在一天里看似微不足道，但一年之后，它会把你静悄悄地变成另一个人。",
+      "所以，别等动力自己找上门。搭好那个微小的系统，哪怕完成得不够完美也坚持去做，把重担交给\"坚持\"。你想要的生活，多半只是一连串被好好度过的平凡日子。"
     ],
     "grammar": [
       {
@@ -71,6 +71,72 @@
         "point": "",
         "example": "\"A small action repeated daily—reading ten pages, walking after lunch, writing one honest line—seems trivial in a single day...\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "architecture",
+        "pos": "n.",
+        "meaning": "架构；结构，构造方式",
+        "enExample": "Habits are the invisible architecture of our days.",
+        "zhExample": "习惯是我们每一天的隐形架构。",
+        "note": "原指建筑学，引申为「底层结构」。原文用 invisible architecture 比喻习惯暗中支撑生活。近义 structure / framework；反义 chaos。"
+      },
+      {
+        "term": "compound",
+        "pos": "v.",
+        "meaning": "复合增长；累积叠加",
+        "enExample": "The good news is that habits compound.",
+        "zhExample": "好消息是：习惯会产生复利效应。",
+        "note": "名词 compound interest 即「复利」，动词化后指效果越滚越大。写作中比 accumulate 更强调指数式增长。反义 diminish。"
+      },
+      {
+        "term": "trivial",
+        "pos": "adj.",
+        "meaning": "微不足道的；琐碎的",
+        "enExample": "A small action repeated daily seems trivial in a single day.",
+        "zhExample": "每天重复的小事，单看一天似乎微不足道。",
+        "note": "侧重「不值一提」，语气比 small 更强。搭配 trivial matter / seem trivial。近义 insignificant；反义 significant / crucial。"
+      },
+      {
+        "term": "consistency",
+        "pos": "n.",
+        "meaning": "持续性；一贯，稳定不变",
+        "enExample": "Let consistency do the heavy lifting.",
+        "zhExample": "让「持续」去承担最吃力的那部分。",
+        "note": "形容词 consistent（始终如一的）。自我提升类文章高频词：consistency beats intensity（持续胜过强度）。近义 regularity；反义 inconsistency。"
+      },
+      {
+        "term": "do the heavy lifting",
+        "pos": "phr.",
+        "meaning": "承担最繁重/最吃力的部分",
+        "enExample": "Build the tiny system and let consistency do the heavy lifting.",
+        "zhExample": "搭好那个小系统，然后让持续去做最吃力的活。",
+        "note": "口语习语，heavy lifting 本义「搬重物」。常用于「让机制替你出力」。近义 shoulder the burden；反义 coast along。"
+      },
+      {
+        "term": "motivation",
+        "pos": "n.",
+        "meaning": "动力；动机，积极性",
+        "enExample": "Do not wait for motivation to arrive.",
+        "zhExample": "别等着动力自己来敲门。",
+        "note": "motivation 偏外部诱因，drive 偏内在冲劲。反义 procrastination（拖延）。相关词 motivate（激励）、motive（动机）。"
+      },
+      {
+        "term": "show up",
+        "pos": "phr.",
+        "meaning": "到场；露面，坚持出现",
+        "enExample": "Show up for it imperfectly, and let consistency do the heavy lifting.",
+        "zhExample": "不完美地坚持到场，然后让持续替你出力。",
+        "note": "比 attend 更口语，含「不缺席、肯扛着」的态度。名言：80% of success is showing up。近义 turn up；反义 bail out。"
+      },
+      {
+        "term": "imperfectly",
+        "pos": "adv.",
+        "meaning": "不完美地；有瑕疵地",
+        "enExample": "Build the tiny system and show up for it imperfectly.",
+        "zhExample": "搭好小系统，然后不完美地坚持去做。",
+        "note": "im-（否定）+ perfectly。原文劝人别等准备好才开始。近义 roughly / messily；反义 flawlessly / perfectly。"
       }
     ]
   }

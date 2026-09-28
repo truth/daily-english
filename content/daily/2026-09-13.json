@@ -52,14 +52,14 @@
     "title": "The Art of Being Present",
     "author": "佚名",
     "paragraphs": [
-      "ENWe live in a strange time: our bodies are here, but our minds are already three messages ahead. We miss the smell of coffee, the sound of rain, the face across the table—because we are somewhere else.",
-      "ENBeing present is not a talent; it is a small choice, made again and again. It is putting the phone down to really hear a friend, or noticing the light on the wall instead of the deadline in your head. Each moment of attention is a quiet gift you give to the people around you.",
-      "ENYou do not need a retreat or an hour of silence. Start with the next breath, the next task, the next person you meet. Presence is simply this: come back, gently, to where you actually are."
+      "We live in a strange time: our bodies are here, but our minds are already three messages ahead. We miss the smell of coffee, the sound of rain, the face across the table—because we are somewhere else.",
+      "Being present is not a talent; it is a small choice, made again and again. It is putting the phone down to really hear a friend, or noticing the light on the wall instead of the deadline in your head. Each moment of attention is a quiet gift you give to the people around you.",
+      "You do not need a retreat or an hour of silence. Start with the next breath, the next task, the next person you meet. Presence is simply this: come back, gently, to where you actually are."
     ],
     "translations": [
-      "中文我们活在一个奇怪的时代：身体在此，心却已经飘到三条消息之外。我们错过了咖啡的香气、雨落的声音、对面那个人的神情——因为我们人在别处。",
-      "中文专注当下不是一种天赋，而是一个个被反复做出的小选择。它是放下手机去真正听懂一位朋友，或是留意墙上光影而非脑中那个截止日期。每一次专注，都是你送给身边人的一份安静礼物。",
-      "中文你不需要一场闭关或一小时的静默。从下一次呼吸、下一项任务、下一个遇见的人开始。专注当下不过如此：温柔地，回到你真正所在之处。"
+      "我们活在一个奇怪的时代：身体在此，心却已经飘到三条消息之外。我们错过了咖啡的香气、雨落的声音、对面那个人的神情——因为我们人在别处。",
+      "专注当下不是一种天赋，而是一个个被反复做出的小选择。它是放下手机去真正听懂一位朋友，或是留意墙上光影而非脑中那个截止日期。每一次专注，都是你送给身边人的一份安静礼物。",
+      "你不需要一场闭关或一小时的静默。从下一次呼吸、下一项任务、下一个遇见的人开始。专注当下不过如此：温柔地，回到你真正所在之处。"
     ],
     "grammar": [
       {
@@ -71,6 +71,72 @@
         "point": "",
         "example": "\"It is putting the phone down to really hear a friend, or noticing the light on the wall instead of the deadline in your head.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "present",
+        "pos": "adj.",
+        "meaning": "在场的；专注于当下的",
+        "enExample": "Being present is not a talent; it is a small choice.",
+        "zhExample": "保持专注当下不是天赋，而是一个小小的选择。",
+        "note": "be present 指「人在心也在」。名词 presence（临在感）。反义 absent-minded / distracted。近义 attentive / mindful。"
+      },
+      {
+        "term": "notice",
+        "pos": "v.",
+        "meaning": "注意到；察觉",
+        "enExample": "Noticing the light on the wall instead of the deadline in your head.",
+        "zhExample": "去留意墙上的光，而不是脑子里那个截止日期。",
+        "note": "强调「主动把注意力放上去」，比 see 多一层意识。搭配 notice sb. doing sth.。近义 observe / register；反义 overlook / miss。"
+      },
+      {
+        "term": "put down",
+        "pos": "phr.",
+        "meaning": "放下；搁下（手中之物）",
+        "enExample": "It is putting the phone down to really hear a friend.",
+        "zhExample": "它是把手机放下，去真正听朋友说话。",
+        "note": "与 put up（举起）相对。也作「镇压」「记下」讲，需看语境。近义 lay down / set aside；反义 pick up。"
+      },
+      {
+        "term": "attention",
+        "pos": "n.",
+        "meaning": "注意力；关注",
+        "enExample": "Each moment of attention is a quiet gift you give to the people around you.",
+        "zhExample": "每一个专注的瞬间，都是你送给身边人的安静礼物。",
+        "note": "pay attention to 为最常用搭配。近义 focus / awareness；反义 distraction。原文把注意力比作「礼物」，是全文比喻核心。"
+      },
+      {
+        "term": "deadline",
+        "pos": "n.",
+        "meaning": "截止期限；最后期限",
+        "enExample": "Noticing the light on the wall instead of the deadline in your head.",
+        "zhExample": "留意墙上的光，而不是脑中的截止期限。",
+        "note": "dead（死）+ line（线），源自监狱「越线者死」。搭配 meet / miss a deadline（赶上/错过期限）。近义 time limit。"
+      },
+      {
+        "term": "retreat",
+        "pos": "n.",
+        "meaning": "静修；隐退，僻静的休养处",
+        "enExample": "You do not need a retreat or an hour of silence.",
+        "zhExample": "你并不需要一次静修，或一个小时的静默。",
+        "note": "重音在第二音节 /rɪˈtriːt/。作动词意为「撤退」。常见 yoga retreat / weekend retreat。近义 getaway；反义 advance。"
+      },
+      {
+        "term": "presence",
+        "pos": "n.",
+        "meaning": "临在；在场的状态，专注当下",
+        "enExample": "Presence is simply this: come back, gently, to where you actually are.",
+        "zhExample": "所谓临在，不过如此：温柔地回到你真正所在的地方。",
+        "note": "也可指「气场」：stage presence（舞台感染力）。反义 absence。近义 mindfulness（正念），但 presence 更日常。"
+      },
+      {
+        "term": "gently",
+        "pos": "adv.",
+        "meaning": "温柔地；轻轻地，不粗暴地",
+        "enExample": "Come back, gently, to where you actually are.",
+        "zhExample": "温柔地回到你真正所在的地方。",
+        "note": "形容词 gentle。原文用 gently 强调自我提醒不该带自责。近义 softly / kindly；反义 harshly / abruptly。"
       }
     ]
   }

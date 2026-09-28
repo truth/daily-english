@@ -52,16 +52,16 @@
     "title": "The Quiet Power of Hope",
     "author": "佚名",
     "paragraphs": [
-      "ENHope is not a loud thing. It does not arrive with fireworks or fanfare. Most often, it shows up as a small, steady light in the middle of a long night, quiet and unassuming, yet impossible to ignore once you notice it.",
-      "ENWhen life feels heavy and the road ahead disappears into fog, hope whispers that this moment is not the whole story. It reminds us that seasons change, that wounds heal, and that we are stronger than the fears telling us otherwise. To hope is not to deny the difficulty; it is to believe that difficulty is not the end.",
-      "ENHope also grows when shared. A kind word from a stranger, a friend who stays when things fall apart, a community that refuses to give up, these small acts keep hope alive in all of us. We do not carry light alone; we pass it to one another.",
-      "ENSo if today feels dark, hold on to the smallest spark. Water it with patience, surround it with people who believe in you, and one morning you will look up and find that the night has quietly given way to dawn. Hope was never gone. It was simply waiting for you to notice."
+      "Hope is not a loud thing. It does not arrive with fireworks or fanfare. Most often, it shows up as a small, steady light in the middle of a long night, quiet and unassuming, yet impossible to ignore once you notice it.",
+      "When life feels heavy and the road ahead disappears into fog, hope whispers that this moment is not the whole story. It reminds us that seasons change, that wounds heal, and that we are stronger than the fears telling us otherwise. To hope is not to deny the difficulty; it is to believe that difficulty is not the end.",
+      "Hope also grows when shared. A kind word from a stranger, a friend who stays when things fall apart, a community that refuses to give up, these small acts keep hope alive in all of us. We do not carry light alone; we pass it to one another.",
+      "So if today feels dark, hold on to the smallest spark. Water it with patience, surround it with people who believe in you, and one morning you will look up and find that the night has quietly given way to dawn. Hope was never gone. It was simply waiting for you to notice."
     ],
     "translations": [
-      "中文希望并非喧闹之物。它不会伴着烟花与喧闹登场。大多数时候，它只是一盏在漫漫长夜中静静亮起、稳定不灭的小灯——安静、不张扬，可一旦你注意到它，便再也无法忽视。",
-      "中文当生活沉重，前路隐没于迷雾之中，希望会轻声诉说：此刻并非全部的故事。它提醒我们，四季会更替，伤口会愈合，而我们比那些告诉我们\"你不行\"的恐惧更强大。怀抱希望，不是否认困境的存在；而是相信困境并非终点。",
-      "中文希望也会在分享中生长。陌生人一句善意的话，在一切崩塌时仍不离不弃的朋友，一个拒绝放弃的群体——这些微小的举动，让希望在我们每个人心中延续。我们并非独自举着光；我们把它彼此传递。",
-      "中文所以，如果今天感觉黑暗，请抓住那最小的一点星火。用耐心浇灌它，让相信你的人围绕在身旁；终有一日清晨，你抬起头，会发现长夜已悄然退让给黎明。希望从未离开。它只是等你，去看见。"
+      "希望并非喧闹之物。它不会伴着烟花与喧闹登场。大多数时候，它只是一盏在漫漫长夜中静静亮起、稳定不灭的小灯——安静、不张扬，可一旦你注意到它，便再也无法忽视。",
+      "当生活沉重，前路隐没于迷雾之中，希望会轻声诉说：此刻并非全部的故事。它提醒我们，四季会更替，伤口会愈合，而我们比那些告诉我们\"你不行\"的恐惧更强大。怀抱希望，不是否认困境的存在；而是相信困境并非终点。",
+      "希望也会在分享中生长。陌生人一句善意的话，在一切崩塌时仍不离不弃的朋友，一个拒绝放弃的群体——这些微小的举动，让希望在我们每个人心中延续。我们并非独自举着光；我们把它彼此传递。",
+      "所以，如果今天感觉黑暗，请抓住那最小的一点星火。用耐心浇灌它，让相信你的人围绕在身旁；终有一日清晨，你抬起头，会发现长夜已悄然退让给黎明。希望从未离开。它只是等你，去看见。"
     ],
     "grammar": [
       {
@@ -78,6 +78,104 @@
         "point": "",
         "example": "\"quiet and unassuming, yet impossible to ignore once you notice it.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "fanfare",
+        "pos": "",
+        "meaning": "n. 号角齐鸣；大张旗鼓",
+        "enExample": "The product launched without fanfare.",
+        "zhExample": "该产品低调上线，毫无声张。",
+        "note": "常指\"隆重喧闹的登场\"。近：commotion；反：silence"
+      },
+      {
+        "term": "unassuming",
+        "pos": "",
+        "meaning": "adj. 不张扬的；谦逊的",
+        "enExample": "She is a quiet, unassuming leader.",
+        "zhExample": "她是一位沉静而不张扬的领导者。",
+        "note": "形容人或物低调不浮夸。近：modest；反：pretentious"
+      },
+      {
+        "term": "steady",
+        "pos": "",
+        "meaning": "adj. 稳定的；持续的",
+        "enExample": "He took a steady breath and began.",
+        "zhExample": "他深吸一口平稳的气息，开始了。",
+        "note": "a steady light 指\"不闪烁、恒定的光\"。近：stable；反：flickering"
+      },
+      {
+        "term": "whisper",
+        "pos": "",
+        "meaning": "v. 低声说；（拟人）轻声诉说",
+        "enExample": "The wind whispered through the trees.",
+        "zhExample": "风穿过树林，轻声低语。",
+        "note": "此处拟物用法，让\"希望\"像人一样低语。近：murmur"
+      },
+      {
+        "term": "fog",
+        "pos": "",
+        "meaning": "n. 雾；迷雾",
+        "enExample": "My mind was lost in a fog of doubt.",
+        "zhExample": "我的脑海迷失在怀疑的迷雾里。",
+        "note": "比喻\"看不清前路的状态\"。近：mist；反：clarity"
+      },
+      {
+        "term": "heal",
+        "pos": "",
+        "meaning": "v. 愈合；痊愈",
+        "enExample": "Time will heal the broken heart.",
+        "zhExample": "时间会治愈破碎的心。",
+        "note": "wounds heal 是地道搭配。近：recover；反：worsen"
+      },
+      {
+        "term": "deny",
+        "pos": "",
+        "meaning": "v. 否认；拒绝承认",
+        "enExample": "He did not deny the mistake.",
+        "zhExample": "他没有否认这个错误。",
+        "note": "deny + n./that 从句。近：refuse；反：admit"
+      },
+      {
+        "term": "spark",
+        "pos": "",
+        "meaning": "n. 火花；星火",
+        "enExample": "Her smile lit a spark in him.",
+        "zhExample": "她的微笑在他心中点燃了一星火光。",
+        "note": "a spark of hope 指\"希望的微光\"。近：glimmer"
+      },
+      {
+        "term": "water",
+        "pos": "",
+        "meaning": "v. 浇水；浇灌（比喻）",
+        "enExample": "Water your dreams with action.",
+        "zhExample": "用行动浇灌你的梦想。",
+        "note": "water it with patience 比喻\"以耐心滋养\"。近：nurture"
+      },
+      {
+        "term": "surround",
+        "pos": "",
+        "meaning": "v. 围绕；包围",
+        "enExample": "She surrounded herself with good books.",
+        "zhExample": "她让好书环绕在身边。",
+        "note": "surround sb. with... 指\"让……环绕在身边\"。近：enclose"
+      },
+      {
+        "term": "give way to",
+        "pos": "",
+        "meaning": "phrase 让位于；退让给",
+        "enExample": "Snow gave way to spring rain.",
+        "zhExample": "雪消融，化作春雨。",
+        "note": "night gives way to dawn 比喻\"长夜退去、黎明到来\"。"
+      },
+      {
+        "term": "pass it to one another",
+        "pos": "",
+        "meaning": "phrase 彼此传递",
+        "enExample": "They passed the lantern to one another.",
+        "zhExample": "他们把灯笼彼此传递。",
+        "note": "pass sth. to one another 强调\"相互传递、接力\"。"
       }
     ]
   }

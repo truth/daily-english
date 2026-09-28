@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-22",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "gauge",
+      "pos": "v.",
+      "phonetic": "/ɡeɪdʒ/",
+      "meaning": "衡量，判断，估计",
+      "enExample": "We ran a small survey to gauge how users feel about the new feature.",
+      "zhExample": "我们做了一次小调查，来判断用户对新功能的感受。",
+      "note": "💡 原指测量工具量规，引申为判断。搭配 gauge interest/reaction 摸清意向或反应，做用户访谈、试探对方态度时常说。"
+    },
+    {
+      "word": "tenure",
+      "pos": "n.",
+      "phonetic": "/ˈtenjə(r)/",
+      "meaning": "任期，任职期",
+      "enExample": "During her three-year tenure, the department doubled its output.",
+      "zhExample": "在她三年的任期内，这个部门的产出翻了一番。",
+      "note": "💡 词根 ten 表「持有」，即任职的持有期。搭配 tenure of office/average tenure 平均任职时长，谈跳槽或简历描述经历时长时用。"
+    },
+    {
+      "word": "prone",
+      "pos": "adj.",
+      "phonetic": "/prəʊn/",
+      "meaning": "易于…的，有…倾向的",
+      "enExample": "Manual data entry is prone to error, so we automated it.",
+      "zhExample": "手工录入数据容易出错，所以我们把它自动化了。",
+      "note": "💡 常接 to，如 be prone to error/bias 易出错或有偏见。汇报风险时说明哪个环节易出问题很自然，注意与 supine 拼写区分。"
+    },
+    {
+      "word": "readily",
+      "pos": "adv.",
+      "phonetic": "/ˈredɪli/",
+      "meaning": "容易地，乐意地",
+      "enExample": "All the reference materials are readily available online.",
+      "zhExample": "所有参考资料在网上都能轻松获取。",
+      "note": "💡 ready 的副词，含「毫不迟疑」之意，不只是「容易地」。搭配 readily available/readily admit，说 readily available resources 资源随手可得。"
+    },
+    {
+      "word": "phase out",
+      "pos": "phr.",
+      "phonetic": "/feɪz aʊt/",
+      "meaning": "逐步淘汰，分阶段停用",
+      "enExample": "The company will phase out the old system by the end of next year.",
+      "zhExample": "公司将在明年年底前逐步停用旧系统。",
+      "note": "💡 与 phase in（逐步引入）相对，指分阶段淘汰。搭配 phase out the old system 旧系统下线，技术迭代、政策调整场景中很常见。"
+    }
+  ],
+  "essay": {
+    "title": "A Table with Two Chairs",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a table in my grandmother's kitchen with exactly two chairs. Nobody planned it that way; the others simply wore out and were carried upstairs. For forty years, two people sat there at six o'clock, saying very little, and meaning a great deal. I used to think the quiet meant something had gone missing. Now I think the quiet was the thing itself.",
+      "Companionship is often photographed as noise: a crowded room, laughter over glasses, someone talking. But the harder kind is quieter. It is the willingness to sit in the same light with another person, doing nothing in particular, and to let the silence be shared rather than filled. Anyone can perform at a party. Far fewer can keep someone company on an ordinary Tuesday.",
+      "I have had evenings when a friend drove across the city and said almost nothing. They poured tea, looked out at the rain, and stayed. Nothing was solved. And yet I went to bed lighter, as though some weight had been divided in half simply by being witnessed. We underestimate how much of grief is arithmetic. It shrinks when someone else holds part of it.",
+      "The two chairs understood this long before I did. They never tried to entertain each other. They simply stayed in position, year after year, close enough to be reached and far enough to be comfortable, worn smooth at the same places. That is the whole design. Two chairs, one table, and no requirement to be interesting.",
+      "So when I set my own table now, I leave the second chair out. Not for a guest, and not for ceremony. I leave it out because a room arranged for one person teaches you to expect no one, and I would rather be wrong about that. The chair is a small, wooden act of hope."
+    ],
+    "translations": [
+      "祖母的厨房里有张桌子，配的正好是两把椅子。没有人刻意如此，只是别的椅子用坏了，被搬去了楼上。四十年来，两个人在六点钟坐在那里，说得很少，意思却很多。我曾以为那份安静意味着有什么东西不见了。现在我明白，那份安静就是那件东西本身。",
+      "陪伴常被拍成热闹的样子：一屋子人、碰杯的笑声、总有人在说话。但更难的那种是安静的。它是愿意与另一个人坐在同一片光里，不特别做什么，让沉默被分享，而不是被填满。谁都能在聚会上表演，却少有人能在一个寻常的星期二陪着一个人。",
+      "有过这样的傍晚：朋友穿过整座城赶来，却几乎什么也没说。他们倒上茶，望着外面的雨，然后留下来。什么问题都没有解决。可我上床时轻快了些，仿佛那份重量只是被看见，就已经被分成了两半。我们低估了悲伤里有多少是算术：别人分担了一部分，它就缩小了。",
+      "那两把椅子比我更早懂得这件事。它们从不试图取悦彼此，只是一年又一年待在原处，近到伸手可及，又远到彼此舒服，在同一处被磨得发亮。设计全在这里：两把椅子，一张桌子，以及不必有趣的自由。",
+      "所以如今我摆自己的桌子时，会把第二把椅子留在外面。不是为了客人，也不是为了仪式。我留着它，是因为一个为一个人布置的房间，会教你不期待任何人，而我宁愿在这件事上弄错。那把椅子是一个小小的、木头做的希望之举。"
+    ],
+    "grammar": [
+      {
+        "point": "used to do 与 be used to doing 的区别",
+        "example": "\"I used to think the quiet meant something had gone missing.\"",
+        "note": "used to + 动词原形表示过去的习惯或状态，暗含现在已不如此；be used to doing 则表示习惯于某事，两者不可混用。 举一反三：举一反三：She used to sit there at six, before the table changed. / 桌子变了之前，她总在六点坐在那里。"
+      },
+      {
+        "point": "rather than 连接的对比结构",
+        "example": "\"Let the silence be shared rather than filled.\"",
+        "note": "rather than 后接与前面平行的成分，表示「而不是」；连接动词时须与前文形式对称，如此处 shared 与 filled 同为过去分词。 举一反三：举一反三：I would stay rather than explain why. / 我宁愿留下，也不愿解释原因。"
+      },
+      {
+        "point": "as though 引导的方式状语从句与虚拟语气",
+        "example": "\"I went to bed lighter, as though some weight had been divided in half.\"",
+        "note": "as though 意为「仿佛」，表示与事实或可能相反的假设时，从句用虚拟语气，此处用过去完成时 had been divided。 举一反三：举一反三：He looked at the empty chair as though someone had just left it. / 他望着空椅子，仿佛刚有人离开。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "accompany",
+        "pos": "v.",
+        "meaning": "陪伴；伴随",
+        "enExample": "She accompanied me to the door and said nothing at all.",
+        "zhExample": "她陪我走到门口，什么也没说。",
+        "note": "用法：accompany sb to a place"
+      },
+      {
+        "term": "solitude",
+        "pos": "n.",
+        "meaning": "独处；幽居（多含褒义）",
+        "enExample": "An hour of solitude can be a form of company, not its absence.",
+        "zhExample": "一小时的独处可以是陪伴的一种形式，而非它的缺席。",
+        "note": "用法：in solitude；seek solitude"
+      },
+      {
+        "term": "witness",
+        "pos": "v./n.",
+        "meaning": "见证；目击；目击者",
+        "enExample": "To be witnessed is sometimes enough to halve a grief.",
+        "zhExample": "被看见，有时就足以让悲伤减半。",
+        "note": "用法：witness sth；be a witness to sth"
+      },
+      {
+        "term": "steadfast",
+        "pos": "adj.",
+        "meaning": "坚定的；忠贞不渝的",
+        "enExample": "He was steadfast in the ordinary way: he simply kept arriving.",
+        "zhExample": "他的坚定很平常：他只是一直出现。",
+        "note": "用法：steadfast in sth；a steadfast friend"
+      },
+      {
+        "term": "mutual",
+        "pos": "adj.",
+        "meaning": "相互的；彼此的",
+        "enExample": "Their silence was mutual, and neither of them suffered for it.",
+        "zhExample": "他们的沉默是相互的，两人都不因此难受。",
+        "note": "用法：mutual respect / silence / understanding"
+      },
+      {
+        "term": "presence",
+        "pos": "n.",
+        "meaning": "在场；存在；气场",
+        "enExample": "His presence changed the room more than anything he said.",
+        "zhExample": "他的在场比他说过的任何话都更能改变这间屋子。",
+        "note": "用法：the presence of sb；in the presence of sb"
+      },
+      {
+        "term": "intimate",
+        "pos": "adj.",
+        "meaning": "亲密的；私密的",
+        "enExample": "The most intimate conversations often have the fewest words.",
+        "zhExample": "最亲密的对话，常常话最少。",
+        "note": "用法：an intimate conversation / friend"
+      },
+      {
+        "term": "endure",
+        "pos": "v.",
+        "meaning": "忍受；持续存在",
+        "enExample": "What endures is not the party but the ordinary Tuesday.",
+        "zhExample": "能持久的不是聚会，而是寻常的星期二。",
+        "note": "用法：endure sth；endure over time"
+      }
+    ]
+  }
+}

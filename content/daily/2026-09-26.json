@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-26",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "quantify",
+      "pos": "v.",
+      "phonetic": "/ˈkwɒntɪfaɪ/",
+      "meaning": "量化，确定…的数量",
+      "enExample": "It is hard to quantify the benefit of good team morale, but it matters.",
+      "zhExample": "良好的团队士气带来的好处难以量化，但它确实重要。",
+      "note": "💡 词根 quant 表「数量」，-ify 为使动后缀。搭配 quantify the benefit/impact 量化收益，汇报中用数字说话前先说这一步很专业。"
+    },
+    {
+      "word": "milestone",
+      "pos": "n.",
+      "phonetic": "/ˈmaɪlstəʊn/",
+      "meaning": "里程碑，重要节点",
+      "enExample": "Reaching one million users was a major milestone for the startup.",
+      "zhExample": "用户达到一百万是这家创业公司的重要里程碑。",
+      "note": "💡 mile（英里）+ stone（石碑），源自古罗马里程碑石。搭配 reach a milestone/key milestone 达成里程碑，周报与项目进度汇报高频词。"
+    },
+    {
+      "word": "obsolete",
+      "pos": "adj.",
+      "phonetic": "/ˈɒbsəliːt/",
+      "meaning": "过时的，已淘汰的",
+      "enExample": "Many skills that were valuable ten years ago are now obsolete.",
+      "zhExample": "十年前很有价值的许多技能如今已被淘汰。",
+      "note": "💡 词根 obsolescere 意为「磨损殆尽」。搭配 become obsolete/obsolete technology 被淘汰的技术，聊行业变化时比 outdated 更书面。"
+    },
+    {
+      "word": "abruptly",
+      "pos": "adv.",
+      "phonetic": "/əˈbrʌptli/",
+      "meaning": "突然地，出其不意地",
+      "enExample": "He ended the call abruptly, which surprised everyone in the room.",
+      "zhExample": "他突然挂断了电话，让房间里的所有人都很意外。",
+      "note": "💡 abrupt 来自 ab（脱离）+ rumpere（断裂），形容突然断掉。搭配 end abruptly/speak abruptly，描述会议中断或语气生硬时很贴切。"
+    },
+    {
+      "word": "ramp up",
+      "pos": "phr.",
+      "phonetic": "/ræmp ʌp/",
+      "meaning": "加大，加速提升",
+      "enExample": "We plan to ramp up hiring in the second half of the year.",
+      "zhExample": "我们计划在下半年加快招聘节奏。",
+      "note": "💡 原指斜坡，动词指加速或加大。搭配 ramp up production/hiring 提高产量或加快招聘，与 scale up 近义，商业新闻中极常见。"
+    }
+  ],
+  "essay": {
+    "title": "What We Carry Forward",
+    "author": "佚名",
+    "paragraphs": [
+      "My mother folds paper the same way her mother did, a small crease at the corner that serves no purpose I can find. I have watched her do it thousands of times and only recently asked where it came from. She shrugged. It was simply how paper was folded. Some things survive not because they are useful, but because nobody ever thought to stop doing them.",
+      "We like to imagine inheritance as property — a house, a ring, a sum of money with a name attached. But most of what we receive is smaller and stranger than that. A way of apologising. A suspicion of debt. The habit of keeping the good plates for ordinary Tuesdays. These arrive without paperwork, and they shape a life far more than the things that do.",
+      "This is the part that frightens me a little. If a crease can travel three generations without anyone deciding to pass it on, then so can a temper, or a silence, or a way of leaving a room. We are handing things forward constantly, most of them unexamined. The question is not whether we will leave something behind. We will. The question is whether we have looked at it.",
+      "So I have begun to sort, quietly, without telling anyone. Some of what I inherited I want to keep and name out loud: the good plates on a Tuesday, the long walk after an argument, the habit of writing thank-you notes by hand. Other things I am trying, awkwardly, to set down. It is slow work, and it is not finished in one lifetime.",
+      "What survives of us will probably be small. A crease at the corner of a page. A sentence someone repeats without knowing where it started. Perhaps that is enough, and perhaps it is also a kind of instruction: choose carefully what you do without thinking, because someone downstream is watching, and one day they will do it too."
+    ],
+    "translations": [
+      "母亲折纸的方式和外祖母一模一样，角上那道小折痕找不出任何用处。我看过她折过几千次，直到最近才问起它的来历。她耸耸肩：纸就是这么折的。有些东西留存下来，不是因为有用，而是因为从来没人想过要停下来不这么做。",
+      "我们喜欢把传承想象成财产——一栋房子、一枚戒指、一笔写着名字的钱。但我们真正收到的，大多比这些更小、更奇怪。一种道歉的方式。对债务的警惕。把好盘子留给寻常星期二用的习惯。这些东西没有文书随行，却比那些有文书的更深地塑造了一个人的一生。",
+      "这一部分让我有点害怕。既然一道折痕能走过三代而无人决定要传下去，那么脾气可以，沉默可以，转身离开房间的方式也可以。我们时刻都在把东西递向前，其中大多数从未被检视。问题不在于我们是否会留下什么——我们一定会。问题在于我们是否看过它。",
+      "于是我开始安静地分拣，没有告诉任何人。有些继承来的东西我想留下，并且大声说出它们的名字：星期二的好盘子，争吵后的长走，手写感谢信的习惯。另一些，我正笨拙地试着放下。这活儿很慢，而且一生也做不完。",
+      "我们身上能留下来的，大概都很小。纸角的一道折痕。一句被人重复却不知出处的话。也许这已足够，也许这也是一种叮嘱：谨慎地选择那些你不假思索就做的事，因为下游有人在看着，总有一天，他们也会这么做。"
+    ],
+    "grammar": [
+      {
+        "point": "not because ... but because ... 并列原因",
+        "example": "\"Some things survive not because they are useful, but because nobody ever thought to stop doing them.\"",
+        "note": "not because A but because B 表示「不是因为 A，而是因为 B」，两个从句结构对称，语义重心落在后半句。 举一反三：举一反三：She kept the plates not because they were valuable, but because Tuesdays deserved them. / 她留下那些盘子，不是因为它们贵重，而是因为星期二配得上它们。"
+      },
+      {
+        "point": "the same ... 后的定语从句",
+        "example": "\"My mother folds paper the same way her mother did.\"",
+        "note": "the same 后接名词 way，其后的定语从句常省略关系词；句末 did 替代 folded paper，避免重复并使节奏更紧凑。 举一反三：举一反三：He apologised the same way his father had. / 他道歉的方式和他父亲当年一样。"
+      },
+      {
+        "point": "现在进行时表示持续进行的动作",
+        "example": "\"We are handing things forward constantly, most of them unexamined.\"",
+        "note": "现在进行时与 constantly、always 等副词连用，强调动作的持续与频繁，并常带出说话人的态度或评价。 举一反三：举一反三：She is still folding paper the same way every evening. / 她至今仍每晚用同一种方式折纸。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "inherit",
+        "pos": "v.",
+        "meaning": "继承；经遗传获得",
+        "enExample": "We inherit habits long before we inherit houses.",
+        "zhExample": "我们继承习惯，远早于继承房子。",
+        "note": "用法：inherit sth from sb"
+      },
+      {
+        "term": "legacy",
+        "pos": "n.",
+        "meaning": "遗产；传承之物",
+        "enExample": "Her legacy was a way of folding paper, nothing more.",
+        "zhExample": "她留下的传承是一种折纸的方式，仅此而已。",
+        "note": "用法：leave a legacy；a legacy of sth"
+      },
+      {
+        "term": "pass down",
+        "pos": "phr. v.",
+        "meaning": "传下去；世代相传",
+        "enExample": "The recipe was passed down without a single written word.",
+        "zhExample": "这个食谱被传了下来，没有一个字写下来。",
+        "note": "用法：pass sth down to sb"
+      },
+      {
+        "term": "ancestor",
+        "pos": "n.",
+        "meaning": "祖先；先辈",
+        "enExample": "My ancestors left no money, only a way of apologising.",
+        "zhExample": "我的先辈没有留下钱，只留下一种道歉的方式。",
+        "note": "用法：ancestors of sb；remote ancestors"
+      },
+      {
+        "term": "custom",
+        "pos": "n.",
+        "meaning": "习俗；习惯",
+        "enExample": "The custom outlived the reason anyone gave for it.",
+        "zhExample": "这个习俗比人们为它找的任何理由都活得久。",
+        "note": "用法：an old custom；the custom of doing sth"
+      },
+      {
+        "term": "treasure",
+        "pos": "v.",
+        "meaning": "珍视；珍爱",
+        "enExample": "I treasure the hours we spent doing nothing together.",
+        "zhExample": "我珍视我们一起无所事事的那些时光。",
+        "note": "用法：treasure sth；treasure the memory of sth"
+      },
+      {
+        "term": "outlast",
+        "pos": "v.",
+        "meaning": "比……持久；比……活得久",
+        "enExample": "A small habit can outlast the empire that produced it.",
+        "zhExample": "一个小习惯可以比造就它的帝国更持久。",
+        "note": "用法：outlast sb / sth"
+      },
+      {
+        "term": "impart",
+        "pos": "v.",
+        "meaning": "传授；赋予（较正式）",
+        "enExample": "She imparted no advice, only the way she folded a page.",
+        "zhExample": "她没有传授任何忠告，只有她折一页纸的方式。",
+        "note": "用法：impart sth to sb"
+      }
+    ]
+  }
+}

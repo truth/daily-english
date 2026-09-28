@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-28",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "courtesy",
+      "pos": "n.",
+      "phonetic": "/ˈkɜːrtəsi/",
+      "meaning": "礼貌；有礼的言行；殷勤",
+      "enExample": "He replied to the email out of courtesy, even though he was very busy that day.",
+      "zhExample": "他出于礼貌回复了那封邮件，尽管那天他非常忙。",
+      "note": "court（宫廷）+ sy → 在宫廷里讲究礼数。高频搭配：out of courtesy（出于礼貌）、a courtesy call（礼节性拜访）。形容词：courteous（有礼貌的）。职场邮件里一句简单的 courtesy reply 也能加分。"
+    },
+    {
+      "word": "juggle",
+      "pos": "v.",
+      "phonetic": "/ˈdʒʌɡl/",
+      "meaning": "尽量兼顾；同时应付（多件事）；杂耍",
+      "enExample": "Working parents often have to juggle their careers and childcare at the same time.",
+      "zhExample": "双职工父母常常不得不同时兼顾事业和育儿。",
+      "note": "原义是\"抛接杂耍\"——同时抛好几个球，引申为\"同时应付多件事\"。职场生活高频：juggle work and family（兼顾工作与家庭）。名词 juggler 是\"杂耍艺人\"。"
+    },
+    {
+      "word": "handy",
+      "pos": "adj.",
+      "phonetic": "/ˈhændi/",
+      "meaning": "手巧的；便利的；就在手边的",
+      "enExample": "Keep a small toolbox at home; it will come in handy when something breaks.",
+      "zhExample": "在家里放一个小工具箱，东西坏了的时候就能派上用场。",
+      "note": "hand（手）+ y → 触手可及、好上手。超高频短语：come in handy（派上用场）。形容人：a handy person（手巧的人）；形容物：a handy tool（好用的工具）。"
+    },
+    {
+      "word": "courier",
+      "pos": "n.",
+      "phonetic": "/ˈkʊriər/",
+      "meaning": "快递员；信使；快递公司",
+      "enExample": "The courier left the package at the front desk because no one was home.",
+      "zhExample": "快递员因为家里没人，把包裹放在了前台。",
+      "note": "词根 cur-（跑）→ \"跑腿送件的人\"，与 curious、curriculum 同源。近义辨析：courier 是\"快递员/公司\"，delivery 是\"投递\"这个动作，package/parcel 是\"包裹\"本身。"
+    },
+    {
+      "word": "mindful",
+      "pos": "adj.",
+      "phonetic": "/ˈmaɪndfl/",
+      "meaning": "留意的；留心的；谨记在心的",
+      "enExample": "Be mindful of the deadline next Friday, and let me know if you need help.",
+      "zhExample": "请留意下周五的截止日期，如果需要帮助请告诉我。",
+      "note": "mind（头脑）+ ful（充满）→ 把事放在心上。高频搭配：be mindful of...（留意…、注意…）。相关词：mindfulness（正念），如今职场上\"正念工作\"也是个热词。"
+    }
+  ],
+  "essay": {
+    "title": "Autumn, Finally",
+    "author": "佚名",
+    "paragraphs": [
+      "The calendar insisted on autumn weeks ago, but the air disagreed, and the air usually wins. Then one morning the window was fogged at the edges and the light came in at a lower, kinder angle. It happened overnight, the way these things do. Summer did not announce its departure. It simply stopped arguing, and the world turned a shade quieter.",
+      "I walk the same route every day, so I notice the small edits. The hedge has gone from green to a tired gold. Someone has put a basket by their gate for the windfall apples. The dogs seem happier. There is a particular smell in the late afternoon — wet stone and woodsmoke — that I cannot describe without sounding like a postcard, and which I would happily breathe for hours.",
+      "What I like most is the permission autumn gives. All summer, the light seemed to be asking something of me: go outside, stay later, do more while it lasts. Now the evenings close early and gently, and nothing is required. It turns out I have been waiting for months for someone to tell me the day is allowed to end.",
+      "There is a lesson in the trees, though I am wary of saying so plainly. They let go of everything they spent the year building, and they do not look ashamed of it. The bare branches are not a failure of effort; they are a form of rest. Standing under one, I feel oddly understood by a thing that has no opinions about me at all.",
+      "So autumn has arrived, finally, and I intend to argue with none of it. Let the garden go brown. Let the sweater come out of the drawer. Let the evening be short and unremarkable and entirely mine. The year is nearly over, and there is a relief in that too: the long green argument is done, and what remains is simple, clear, and cool."
+    ],
+    "translations": [
+      "日历几周前就坚持说秋天到了，可空气不同意，而空气通常会赢。后来某个早晨，窗子边缘起了雾，光线以更低、更温和的角度进来。这件事在一夜之间发生，向来如此。夏天没有宣告它的离开，它只是不再争辩，而世界安静了一个色度。",
+      "我每天走同一条路，所以能察觉那些细小的改动。树篱从绿变成了疲倦的金。有人把篮子摆在大门旁，装那些被风吹落的苹果。狗显得更开心了。傍晚有种特别的气味——湿石头和柴烟——一旦描述，听起来就像明信片上的套话，而它我乐意闻上几个小时。",
+      "我最喜欢的是秋天给予的许可。整个夏天，光线似乎都在向我索要什么：出去吧，待晚一点，趁着还在多做些。如今傍晚早早地、轻轻地合上，什么也不要求。原来我等了好几个月，只为有人告诉我：这一天可以被允许结束。",
+      "树里有个道理，尽管我不太愿意说得这么直白。它们放下了花一整年建起来的一切，而且看上去并不为此羞愧。光秃的枝干不是努力的失败，而是一种休息的形式。站在一棵树下，我莫名觉得被理解了——被一个对我毫无看法的事物理解。",
+      "所以秋天终于来了，而我不打算与它争辩任何一点。让花园变褐吧。让毛衣从抽屉里出来吧。让傍晚短一些、平淡一些，完整地归我所有。一年将近尾声，这本身也是一种宽慰：那场漫长的绿色争论结束了，剩下的简单、清晰，而且凉爽。"
+    ],
+    "grammar": [
+      {
+        "point": "the way 引导的方式状语从句与替代",
+        "example": "\"It happened overnight, the way these things do.\"",
+        "note": "the way 引导方式状语从句，相当于 as；句末 do 替代前文的 happened，避免重复并使句子更简练。 举一反三：举一反三：The fog cleared the way it always does in October. / 雾散了，就像十月里一贯的那样。"
+      },
+      {
+        "point": "let 作使役动词的用法",
+        "example": "\"Let the garden go brown.\"",
+        "note": "let 后接宾语再接省略 to 的动词原形，表示允许或放任；同类结构还有 make 与 have sb do sth。 举一反三：举一反三：Let the sweater come out of the drawer. / 让毛衣从抽屉里出来吧。"
+      },
+      {
+        "point": "分号连接的并列分句与对比",
+        "example": "\"Summer did not announce its departure; it simply stopped arguing.\"",
+        "note": "分号连接两个意义密切相关的独立分句，后句对前句作补充；did not ... simply ... 形成不是什么、只是什么的对比。 举一反三：举一反三：Autumn did not ask permission; it simply arrived. / 秋天没有征求许可，它只是到了。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "autumnal",
+        "pos": "adj.",
+        "meaning": "秋天的；秋意浓郁的",
+        "enExample": "The autumnal light arrived without asking permission.",
+        "zhExample": "秋日的光不请自来。",
+        "note": "用法：autumnal light / air"
+      },
+      {
+        "term": "amber",
+        "pos": "n./adj.",
+        "meaning": "琥珀；琥珀色的",
+        "enExample": "The hedge had turned a tired amber by the end of the month.",
+        "zhExample": "到月底，树篱已变成一种疲倦的琥珀色。",
+        "note": "用法：amber light / leaves"
+      },
+      {
+        "term": "crisp",
+        "pos": "adj.",
+        "meaning": "清冽的；干爽的；脆的",
+        "enExample": "The first crisp morning of the year feels like a decision.",
+        "zhExample": "一年中第一个清冽的早晨，感觉像一个决定。",
+        "note": "用法：crisp air / a crisp morning"
+      },
+      {
+        "term": "harvest",
+        "pos": "n./v.",
+        "meaning": "收获；收割",
+        "enExample": "We harvested the last apples before the first frost.",
+        "zhExample": "我们在初霜之前收完了最后的苹果。",
+        "note": "用法：harvest apples；a good harvest"
+      },
+      {
+        "term": "shed",
+        "pos": "v.",
+        "meaning": "脱落；蜕去；抖落",
+        "enExample": "The trees shed everything they spent the year building.",
+        "zhExample": "树木抖落了它们花一整年建起的一切。",
+        "note": "用法：shed leaves / skin"
+      },
+      {
+        "term": "mellow",
+        "pos": "adj./v.",
+        "meaning": "柔和的；成熟的；（使）变醇厚",
+        "enExample": "The light grew mellow as the afternoons shortened.",
+        "zhExample": "随着午后变短，光线变得柔和。",
+        "note": "用法：mellow light / fruit"
+      },
+      {
+        "term": "chill",
+        "pos": "n./adj.",
+        "meaning": "寒意；凉飕飕的",
+        "enExample": "There is a chill in the air that the calendar noticed first.",
+        "zhExample": "空气里有一丝寒意，是日历先察觉到的。",
+        "note": "用法：a chill in the air"
+      },
+      {
+        "term": "drift",
+        "pos": "v./n.",
+        "meaning": "飘落；漂移；缓缓移动",
+        "enExample": "The first leaves drift down without any announcement.",
+        "zhExample": "最初的叶子无声地飘落下来。",
+        "note": "用法：leaves drift down；drift off"
+      }
+    ]
+  }
+}

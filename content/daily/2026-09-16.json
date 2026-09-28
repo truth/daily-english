@@ -52,16 +52,16 @@
     "title": "The Quiet Art of Patience",
     "author": "佚名",
     "paragraphs": [
-      "ENPatience is not a passive thing. We often mistake it for waiting, for doing nothing while time passes. But real patience is active: it is the steady work of tending something you cannot yet see, trusting that roots are growing even when the ground above looks bare.",
-      "ENEverything worth having asks for time. A friendship deepens slowly, one honest conversation at a time. A skill sharpens through a thousand ordinary repetitions. A heart heals not in a single moment, but across countless quiet days that look, from the outside, like nothing is happening. Patience is what keeps us present when the results we long for are still far away.",
-      "ENImpatience promises speed, but it usually costs more than it saves. Rushing a plant breaks the stem; rushing a person breaks the trust; rushing ourselves breaks the joy. Patience, by contrast, is a form of respect, for the pace of things, for other people, and for our own fragile beginnings.",
-      "ENSo when progress feels invisible, remember that the seed is not idle beneath the soil. Keep showing up, keep tending, keep doing the small faithful thing. One day, without a sound, the harvest will arrive, and it will feel, at last, like it was always meant to."
+      "Patience is not a passive thing. We often mistake it for waiting, for doing nothing while time passes. But real patience is active: it is the steady work of tending something you cannot yet see, trusting that roots are growing even when the ground above looks bare.",
+      "Everything worth having asks for time. A friendship deepens slowly, one honest conversation at a time. A skill sharpens through a thousand ordinary repetitions. A heart heals not in a single moment, but across countless quiet days that look, from the outside, like nothing is happening. Patience is what keeps us present when the results we long for are still far away.",
+      "Impatience promises speed, but it usually costs more than it saves. Rushing a plant breaks the stem; rushing a person breaks the trust; rushing ourselves breaks the joy. Patience, by contrast, is a form of respect, for the pace of things, for other people, and for our own fragile beginnings.",
+      "So when progress feels invisible, remember that the seed is not idle beneath the soil. Keep showing up, keep tending, keep doing the small faithful thing. One day, without a sound, the harvest will arrive, and it will feel, at last, like it was always meant to."
     ],
     "translations": [
-      "中文耐心并非消极之物。我们常把它误当作等待——在时间流逝中无所作为。但真正的耐心是主动的：它是一种持续的照料，照料着你暂时还看不见的东西；并相信纵使地表一片光秃，根系仍在悄然生长。",
-      "中文一切值得拥有的东西，都需要时间。友谊慢慢加深，一次一次真诚的交谈；技艺慢慢锐利，一千次平凡的重复；而一颗心的愈合，不在某一瞬，而在无数个安静的日夜里——从外面看，仿佛什么都没发生。当渴望的结果仍遥不可及时，是耐心让我们留在当下。",
-      "中文急躁许诺高效，可它付出的代价通常比省下的更多。催一株植物，会折断它的茎；催一个人，会毁掉那份信任；催自己，会弄丢那份喜悦。相反的，耐心是一种尊重——尊重事物本来的节奏，尊重他人，也尊重我们自己那些脆弱的开端。",
-      "中文所以，当进展难以察觉时，请记得：种子在泥土之下并不是在无所事事。继续出现，继续照料，继续做那件微小而忠诚的事。终有一天，无声无息地，收成会到来——而到那时你会觉得，仿佛一切本就该如此。"
+      "耐心并非消极之物。我们常把它误当作等待——在时间流逝中无所作为。但真正的耐心是主动的：它是一种持续的照料，照料着你暂时还看不见的东西；并相信纵使地表一片光秃，根系仍在悄然生长。",
+      "一切值得拥有的东西，都需要时间。友谊慢慢加深，一次一次真诚的交谈；技艺慢慢锐利，一千次平凡的重复；而一颗心的愈合，不在某一瞬，而在无数个安静的日夜里——从外面看，仿佛什么都没发生。当渴望的结果仍遥不可及时，是耐心让我们留在当下。",
+      "急躁许诺高效，可它付出的代价通常比省下的更多。催一株植物，会折断它的茎；催一个人，会毁掉那份信任；催自己，会弄丢那份喜悦。相反的，耐心是一种尊重——尊重事物本来的节奏，尊重他人，也尊重我们自己那些脆弱的开端。",
+      "所以，当进展难以察觉时，请记得：种子在泥土之下并不是在无所事事。继续出现，继续照料，继续做那件微小而忠诚的事。终有一天，无声无息地，收成会到来——而到那时你会觉得，仿佛一切本就该如此。"
     ],
     "grammar": [
       {
@@ -78,6 +78,104 @@
         "point": "",
         "example": "\"A heart heals not in a single moment, but across countless quiet days that look, from the outside, like nothing is happening.\"",
         "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "passive",
+        "pos": "",
+        "meaning": "adj. 被动的；消极的",
+        "enExample": "Don't take a passive role in your own life.",
+        "zhExample": "别在自己的人生里扮演被动角色。",
+        "note": "强调\"不主动作为\"。近：inactive；反：active"
+      },
+      {
+        "term": "mistake A for B",
+        "pos": "",
+        "meaning": "phrase 把 A 误认为 B",
+        "enExample": "People often mistake kindness for weakness.",
+        "zhExample": "人们常把善良误认为软弱。",
+        "note": "固定搭配，for 后接\"误认的结果\"。近：confuse A with B"
+      },
+      {
+        "term": "tend",
+        "pos": "",
+        "meaning": "v. 照料；养护",
+        "enExample": "She tends her small garden every morning.",
+        "zhExample": "她每天清晨照料她的小花园。",
+        "note": "tend a garden / a fire / a wound。近：nurture；反：neglect"
+      },
+      {
+        "term": "bare",
+        "pos": "",
+        "meaning": "adj. 光秃的；裸露的",
+        "enExample": "The trees stood bare against the winter sky.",
+        "zhExample": "树木光秃秃地立在冬日的天空下。",
+        "note": "形容地表、树枝无覆盖。近：empty；反：covered"
+      },
+      {
+        "term": "deepen",
+        "pos": "",
+        "meaning": "v. 加深；深化",
+        "enExample": "Their bond deepened over the years.",
+        "zhExample": "岁月里，他们的情谊愈发深厚。",
+        "note": "友谊、理解、颜色均可 deepen。近：strengthen；反：weaken"
+      },
+      {
+        "term": "sharpen",
+        "pos": "",
+        "meaning": "v. 使锋利；使敏锐",
+        "enExample": "Daily practice sharpens the mind.",
+        "zhExample": "每日练习让思维更为敏锐。",
+        "note": "a skill sharpens 指\"技艺被磨得更精\"。近：hone；反：blunt"
+      },
+      {
+        "term": "repetition",
+        "pos": "",
+        "meaning": "n. 重复；反复",
+        "enExample": "Mastery comes from patient repetition.",
+        "zhExample": "精通源自耐心的重复。",
+        "note": "ordinary repetitions 指\"平凡枯燥的反复\"。近：recurrence"
+      },
+      {
+        "term": "countless",
+        "pos": "",
+        "meaning": "adj. 无数的；数不清的",
+        "enExample": "She has helped countless strangers.",
+        "zhExample": "她帮助过无数陌生人。",
+        "note": "修饰可数名词，语气夸张。近：innumerable"
+      },
+      {
+        "term": "long for",
+        "pos": "",
+        "meaning": "phrase 渴望；期盼",
+        "enExample": "He longed for a quieter life.",
+        "zhExample": "他渴望一种更安静的生活。",
+        "note": "long for + n.，语气比 want 更深情、更绵长。"
+      },
+      {
+        "term": "impatience",
+        "pos": "",
+        "meaning": "n. 急躁；不耐烦",
+        "enExample": "His impatience ruined the meeting.",
+        "zhExample": "他的急躁毁掉了这场会议。",
+        "note": "im-（否定）+ patience。近：haste；反：patience"
+      },
+      {
+        "term": "by contrast",
+        "pos": "",
+        "meaning": "phrase 相比之下；相反地",
+        "enExample": "Prices fell; wages, by contrast, rose.",
+        "zhExample": "物价下跌，相比之下工资却上涨了。",
+        "note": "作插入语，常用于对比论证。近：on the contrary"
+      },
+      {
+        "term": "idle",
+        "pos": "",
+        "meaning": "adj. 闲置的；无所事事的",
+        "enExample": "The machines stood idle all week.",
+        "zhExample": "这些机器闲置了整整一周。",
+        "note": "be idle 指\"闲着不干事\"。近：inactive；反：busy"
       }
     ]
   }

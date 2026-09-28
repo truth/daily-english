@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-23",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "invoice",
+      "pos": "n. (also v.)",
+      "phonetic": "/ˈɪnvɔɪs/",
+      "meaning": "发票；账单（动词：给…开发票）",
+      "enExample": "Please send me the invoice for last month's design work so I can process the payment.",
+      "zhExample": "请把我上个月设计工作的发票发给我，以便我安排付款。",
+      "note": "in（进入）+ voice（声音）→ 账单\"进门\"的声音。职场财务高频搭配：send / issue / pay an invoice。近义辨析：invoice 是付款前的账单，receipt 是付款后的收据。"
+    },
+    {
+      "word": "appointment",
+      "pos": "n.",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "meaning": "预约；约定；任命",
+      "enExample": "I have a dentist appointment at three, so let's meet after four.",
+      "zhExample": "我三点有个牙医预约，所以我们四点后再碰面吧。",
+      "note": "ap（去）+ point（点）→ 到指定的\"点\"去赴约。生活高频搭配：make / have / cancel an appointment。易错提醒：appointment 指正式预约，date 指浪漫约会，别混用。"
+    },
+    {
+      "word": "ingredient",
+      "pos": "n.",
+      "phonetic": "/ɪnˈɡriːdiənt/",
+      "meaning": "（烹饪的）原料，食材；（成功的）要素",
+      "enExample": "The secret ingredient in this soup is a spoonful of honey.",
+      "zhExample": "这道汤的秘诀原料是一勺蜂蜜。",
+      "note": "in + gred（走）+ ient → \"走进菜里\"的东西就是原料。生活：cooking ingredients（烹饪食材）；抽象用法：Trust is the key ingredient of teamwork.（信任是团队合作的关键要素。）"
+    },
+    {
+      "word": "shift",
+      "pos": "n. / v.",
+      "phonetic": "/ʃɪft/",
+      "meaning": "轮班；转变（动词：转移，变换）",
+      "enExample": "She works the night shift at the hospital, so she sleeps during the day.",
+      "zhExample": "她在医院上夜班，所以白天睡觉。",
+      "note": "一词两义都高频：职场 night shift / day shift（夜班/白班）；抽象 shift attention to（把注意力转向）。近义辨析：change 泛指改变，shift 强调\"移动、转移\"。"
+    },
+    {
+      "word": "subscription",
+      "pos": "n.",
+      "phonetic": "/səbˈskrɪpʃn/",
+      "meaning": "订阅；订购（服务）",
+      "enExample": "I canceled my video streaming subscription because I barely used it.",
+      "zhExample": "我取消了视频流媒体订阅，因为我几乎没用过。",
+      "note": "sub（下面）+ script（写）→ 在名单\"下面写下名字\"即订阅。现代生活高频：monthly / annual subscription、cancel a subscription。动词形式：subscribe to a service。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Ripple of Kindness",
+    "author": "佚名",
+    "paragraphs": [
+      "We often imagine kindness as something grand — a heroic rescue, a generous fortune given away. Yet in truth, kindness is quieter than that. It lives in the small moments: a patient word when someone is flustered, a door held open, a message sent just to say you are remembered. These acts ask little of us, but they cost even less than we think.",
+      "What we rarely notice is how far a single kind act can travel. A stranger's smile may steady a person through a difficult hour; a word of encouragement may echo in someone's mind for years. Kindness moves like a ripple on water, spreading outward in circles we will never see. You may never learn where it lands, but that does not make it small.",
+      "Nor does kindness only flow outward. When we are gentle with others, something softens within us, too. The same warmth that comforts a friend quietly heals the giver. In tending to another's day, we unknowingly mend a corner of our own.",
+      "So begin where you stand. Offer one small kindness today — unhurried, unremarkable, and free. It need not be remembered by the world. But it will have been enough, and the ripple will have begun."
+    ],
+    "translations": [
+      "我们常把善意想象得很宏大——一次英勇的救援，一笔慷慨的馈赠。然而事实上，善意比那更安静。它栖身于细微时刻：当有人慌乱时的一句耐心话语，为你扶住的一扇门，或只为一句\"你被记挂着\"而发去的信息。这些举动向我们索取得很少，而它们的代价比我们以为的还要低。",
+      "我们很少察觉，一个善举能走多远。陌生人的微笑或许能撑过一个人难熬的一小时；一句鼓励的话或许会在某人心里回响多年。善意像水面上的涟漪，向看不见的远处一圈圈扩散。你也许永远不会知道它落在何处，但这并不让它变得渺小。",
+      "善意也并不只向外流淌。当我们对他人温柔以待，内心某处也会随之柔软。那份安抚了朋友的暖意，也在悄悄疗愈着给予者。在照料他人一日的同时，我们不知不觉修补了自己的一角。",
+      "所以，从你站立之处开始吧。今天，给出一个小小的善意——不慌不忙、毫不起眼、分文不取。它无需被世界记住。但它已经足够，而涟漪已经荡开。"
+    ],
+    "grammar": [
+      {
+        "point": "",
+        "example": "\"Nor does kindness only flow outward.\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"a patient word when someone is flustered, a door held open, a message sent just to say...\"",
+        "note": ""
+      },
+      {
+        "point": "",
+        "example": "\"These acts ask little of us, but they cost even less than we think.\"",
+        "note": ""
+      }
+    ],
+    "vocab": [
+      {
+        "term": "ripple",
+        "pos": "",
+        "meaning": "n./v. 涟漪；扩散",
+        "enExample": "Her laughter sent a ripple of joy through the room.",
+        "zhExample": "她的笑声让喜悦在房间里荡开。",
+        "note": "a ripple on water 喻\"逐渐扩散的影响\"。近：wave；反：stillness"
+      },
+      {
+        "term": "flustered",
+        "pos": "",
+        "meaning": "adj. 慌乱的，手足无措的",
+        "enExample": "Don't get flustered — we have time.",
+        "zhExample": "别慌，我们还有时间。",
+        "note": "形容因紧张或突然而乱了阵脚。近：agitated；反：calm"
+      },
+      {
+        "term": "unhurried",
+        "pos": "",
+        "meaning": "adj. 从容的，不慌不忙的",
+        "enExample": "He spoke in an unhurried voice.",
+        "zhExample": "他用从容的语调说着。",
+        "note": "形容节奏舒缓、不赶。近：leisurely；反：rushed"
+      },
+      {
+        "term": "unremarkable",
+        "pos": "",
+        "meaning": "adj. 不起眼的，平凡的",
+        "enExample": "It was an unremarkable day, yet peaceful.",
+        "zhExample": "那是不起眼的一天，却很安宁。",
+        "note": "指\"不引人注目\"，常含褒义\"低调\"。近：ordinary；反：remarkable"
+      },
+      {
+        "term": "echo",
+        "pos": "",
+        "meaning": "v. 回响，萦绕",
+        "enExample": "His words still echo in my heart.",
+        "zhExample": "他的话仍在我心里回响。",
+        "note": "echo in one's mind 指\"久久萦绕心头\"。近：resound；反：fade"
+      },
+      {
+        "term": "mend",
+        "pos": "",
+        "meaning": "v. 修补，愈合",
+        "enExample": "Time slowly mends a broken heart.",
+        "zhExample": "时间慢慢愈合破碎的心。",
+        "note": "mend a corner 喻\"修补一处（情绪/关系）\"。近：repair；反：break"
+      },
+      {
+        "term": "generous",
+        "pos": "",
+        "meaning": "adj. 慷慨的，大方的",
+        "enExample": "She is generous with her time.",
+        "zhExample": "她乐于倾注自己的时间。",
+        "note": "a generous fortune 指\"大笔财富\"。近：liberal；反：stingy"
+      },
+      {
+        "term": "steady",
+        "pos": "",
+        "meaning": "v. 使稳住，支撑",
+        "enExample": "Her hand steadied the trembling child.",
+        "zhExample": "她的手稳住了颤抖的孩子。",
+        "note": "steady a person 指\"帮人稳住情绪\"。近：support；反：unsettle"
+      },
+      {
+        "term": "tend (to)",
+        "pos": "",
+        "meaning": "v. 照料；倾向",
+        "enExample": "She tends to her garden each dawn.",
+        "zhExample": "她每天清晨打理花园。",
+        "note": "tend to sb./sth. 指\"悉心照料\"。近：care for；反：neglect"
+      },
+      {
+        "term": "cost",
+        "pos": "",
+        "meaning": "v. 代价为，花费",
+        "enExample": "A kind word costs nothing but means much.",
+        "zhExample": "一句善意分文不费，却意味深长。",
+        "note": "cost little / less 指\"代价很小\"。近：take；反：yield"
+      },
+      {
+        "term": "hold a door open",
+        "pos": "",
+        "meaning": "phrase 扶住门（等他人）",
+        "enExample": "He held the door open for the elder.",
+        "zhExample": "他为老人扶住了门。",
+        "note": "日常礼貌动作，held open 为过去分词作后置定语。"
+      },
+      {
+        "term": "ask little of",
+        "pos": "",
+        "meaning": "phrase 向……索取得少",
+        "enExample": "True friends ask little of us.",
+        "zhExample": "真正的朋友对我们索求得少。",
+        "note": "ask little of sb. 指\"对人要求不高\"。近：demand little"
+      }
+    ]
+  }
+}

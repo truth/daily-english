@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-27",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "spearhead",
+      "pos": "v.",
+      "phonetic": "/ˈspɪəhed/",
+      "meaning": "带头，主导（某项行动）",
+      "enExample": "He spearheaded the digital transformation of the whole department.",
+      "zhExample": "他主导了整个部门的数字化转型。",
+      "note": "💡 spear（矛）+ head，指打头阵的先锋。搭配 spearhead the initiative/campaign 主导某项目，简历中描述牵头经历非常亮眼。"
+    },
+    {
+      "word": "autonomy",
+      "pos": "n.",
+      "phonetic": "/ɔːˈtɒnəmi/",
+      "meaning": "自主权，自治",
+      "enExample": "The manager gives her team a lot of autonomy over how they work.",
+      "zhExample": "这位经理在工作方式上给予团队很大的自主权。",
+      "note": "💡 auto（自己）+ nomos（法则），即自我管理。搭配 greater autonomy/grant autonomy 授予自主权，谈理想工作氛围时很合适。"
+    },
+    {
+      "word": "wary",
+      "pos": "adj.",
+      "phonetic": "/ˈweəri/",
+      "meaning": "谨慎的，提防的",
+      "enExample": "Be wary of offers that ask for payment before an interview.",
+      "zhExample": "要提防那些要求在面试前先交钱的招聘信息。",
+      "note": "💡 与 aware 同源，指保持警觉的谨慎。搭配 be wary of scams/fake offers 提防诈骗或虚假信息，比 careful 更强调防范心理。"
+    },
+    {
+      "word": "notably",
+      "pos": "adv.",
+      "phonetic": "/ˈnəʊtəbli/",
+      "meaning": "尤其，显著地",
+      "enExample": "Feedback was positive overall, notably from long-term customers.",
+      "zhExample": "总体反馈是正面的，尤其是来自长期客户的反馈。",
+      "note": "💡 notable（显著的）+ -ly，用于举例强调。搭配 most notably 引出最有说服力的例子，写作与汇报中能让论证更有层次。"
+    },
+    {
+      "word": "on the brink of",
+      "pos": "phr.",
+      "phonetic": "/ɒn ðə brɪŋk ɒv/",
+      "meaning": "濒临，处于…的边缘",
+      "enExample": "The startup was on the brink of collapse before the new investment.",
+      "zhExample": "在新投资到来之前，这家创业公司濒临倒闭。",
+      "note": "💡 brink 指悬崖边缘，引申为事情即将发生。搭配 on the brink of collapse/success 濒临崩溃或成功，描述紧张局势或转折时好用。"
+    }
+  ],
+  "essay": {
+    "title": "The Notes We Leave Ourselves",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a slip of paper in my coat pocket that says, in my own handwriting, buy oat milk and call the dentist. I have no memory of writing it. And yet there it is, evidence that a past version of me thought about a future version of me, and cared enough to leave a message. It is a small kindness across time, from someone who is gone to someone who is late.",
+      "I used to trust my memory, which is a little like trusting a sieve to hold water. The important thoughts arrive at the worst moments — in the shower, on a staircase, halfway through someone else's sentence — and they leave just as casually. Writing them down feels like admitting defeat. In fact it is the opposite: it is refusing to let a good idea be thrown away.",
+      "The notes themselves are rarely elegant. Half of mine are wrong, or illegible, or refer to an emergency that turned out to be a Tuesday. But a bad note still does something useful: it proves the thought existed, which is often enough to find it again. Perfection is not the point. Capture is the point. A sloppy net catches more than none.",
+      "I have also learned to write notes to myself that are not tasks. Sometimes a slip says only: you handled that better than you think. I find these months later, folded inside a receipt, and they work like a hand on the shoulder from a stranger who happens to know everything about me. We forget what we did. Paper does not.",
+      "So the habit continues, one small scrap at a time. Buy oat milk. Call the dentist. You handled that better than you think. None of these notes will be read by history. That is not the point either. They are messages sent forward into the only future I can actually reach — tomorrow morning, coat pocket, forgetting everything."
+    ],
+    "translations": [
+      "我外套口袋里有张纸片，上面是我自己的字迹：买燕麦奶，给牙医打电话。我完全不记得写过它。但它就在那里，证明某个过去的我曾想过未来的我，并且在意到要留一句话。这是一次穿越时间的小小善意，从一个已经不在的人，写给一个总是迟到的人。",
+      "我一度相信自己的记性，那有点像相信筛子能装水。重要的念头总在最糟的时刻出现——洗澡时，楼梯上，别人话说到一半时——然后又同样随意地离开。把它们写下来，感觉像是承认失败。其实恰恰相反：那是拒绝让一个好念头被丢掉。",
+      "这些便条本身很少优雅。我的一半便条是错的，或字迹难辨，或指向某个后来发现不过是星期二的紧急事件。但一张糟糕的便条仍有用处：它证明那个念头存在过，而这往往足以让你重新找到它。重点不是完美，重点是捕捉。一张马虎的网，捞到的也比没有网多。",
+      "我也学会了给自己写一些不是任务的便条。有时纸片上只写着：那件事你处理得比自己以为的好。几个月后我在一张收据里发现它们，叠着，效果就像一只手搭在肩上——来自一个恰好对我无所不知的陌生人。我们忘了自己做过什么，纸没有。",
+      "于是这个习惯延续着，一次一张小纸片。买燕麦奶。给牙医打电话。那件事你处理得比自己以为的好。这些便条都不会被历史读到。那同样不是重点。它们是发往我唯一真正够得着的未来的消息——明天早晨，外套口袋，什么都忘了。"
+    ],
+    "grammar": [
+      {
+        "point": "that 引导的同位语从句",
+        "example": "\"And yet there it is, evidence that a past version of me thought about a future version of me, and cared enough to leave a message.\"",
+        "note": "that 引导同位语从句，说明抽象名词 evidence 的具体内容；that 在从句中不作成分，也不可省略。 举一反三：举一反三：There is proof that the idea existed before Tuesday. / 有证据表明，那个念头在星期二之前就存在过。"
+      },
+      {
+        "point": "动名词短语作主语",
+        "example": "\"Writing them down feels like admitting defeat.\"",
+        "note": "动名词短语 Writing them down 作主语，谓语动词用单数 feels；feel like 后接动名词，表示感觉像是某事。 举一反三：举一反三：Folding the note into the receipt felt like sending it forward. / 把便条折进收据里，感觉像是把它寄向未来。"
+      },
+      {
+        "point": "who 引导的定语从句与 happens to 的用法",
+        "example": "\"They work like a hand on the shoulder from a stranger who happens to know everything about me.\"",
+        "note": "who 修饰先行词 stranger 并在从句中作主语；happen to do 表示碰巧做某事，语气比 by chance 更自然。 举一反三：举一反三：A friend who happens to arrive on time is worth keeping. / 一个碰巧准时的朋友，值得留住。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "reminder",
+        "pos": "n.",
+        "meaning": "提醒物；提示",
+        "enExample": "The note is a reminder from a version of me that is gone.",
+        "zhExample": "这张便条来自一个已经不在的我的提醒。",
+        "note": "用法：a reminder of sth / to do sth"
+      },
+      {
+        "term": "scribble",
+        "pos": "v.",
+        "meaning": "潦草书写；匆匆记下",
+        "enExample": "I scribbled the idea before it could leave the room.",
+        "zhExample": "我在那个念头离开房间之前，匆匆把它记下。",
+        "note": "用法：scribble sth down"
+      },
+      {
+        "term": "jot down",
+        "pos": "phr. v.",
+        "meaning": "草草记下",
+        "enExample": "Jot it down now; the clever version will not come back.",
+        "zhExample": "现在就把它记下来；聪明的那一版不会再回来。",
+        "note": "用法：jot sth down"
+      },
+      {
+        "term": "overlook",
+        "pos": "v.",
+        "meaning": "忽略；未注意到（另义为俯瞰）",
+        "enExample": "I overlooked the obvious for three whole days.",
+        "zhExample": "整整三天，我忽略了那个显而易见的东西。",
+        "note": "用法：overlook a detail"
+      },
+      {
+        "term": "clutter",
+        "pos": "n./v.",
+        "meaning": "杂乱；使凌乱",
+        "enExample": "The clutter on my desk is mostly unread notes to myself.",
+        "zhExample": "我桌上的杂乱，多半是没读过的、写给自己的便条。",
+        "note": "用法：clear the clutter；clutter a desk"
+      },
+      {
+        "term": "scrap",
+        "pos": "n.",
+        "meaning": "碎片；小片（纸）",
+        "enExample": "One scrap of paper can carry a whole week forward.",
+        "zhExample": "一张小纸片可以把整整一周带向前。",
+        "note": "用法：a scrap of paper"
+      },
+      {
+        "term": "retrieve",
+        "pos": "v.",
+        "meaning": "找回；取回；检索",
+        "enExample": "I retrieved the thought months later from inside a receipt.",
+        "zhExample": "几个月后，我从一张收据里找回了那个念头。",
+        "note": "用法：retrieve sth from a place"
+      },
+      {
+        "term": "capture",
+        "pos": "v.",
+        "meaning": "捕捉；记录",
+        "enExample": "Capture the thought; polish it later if there is time.",
+        "zhExample": "先把念头捕捉下来；若有时间，日后再润色。",
+        "note": "用法：capture an idea or a moment"
+      }
+    ]
+  }
+}
