@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-29",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "receipt",
+      "pos": "n.",
+      "phonetic": "/rɪˈsiːt/",
+      "meaning": "收据；收条；接收",
+      "enExample": "Keep the receipt in case you want to return the shoes later.",
+      "zhExample": "把收据留好，以防你之后想退这双鞋。",
+      "note": "拼写陷阱：p 不发音，读作 /rɪˈsiːt/；与 receive 同族（cei- 中 i 在 e 前）。高频搭配：keep the receipt（留好收据）、a receipt for...（...的收据）。网购退货时客服第一句常问：Do you have the receipt?"
+    },
+    {
+      "word": "chore",
+      "pos": "n.",
+      "phonetic": "/tʃɔːr/",
+      "meaning": "家务杂事；琐碎的活儿；苦差事",
+      "enExample": "Doing the dishes is the chore I hate the most, but someone has to do it.",
+      "zhExample": "洗碗是我最讨厌的家务，但总得有人做。",
+      "note": "常用复数 chores，指\"家里那一堆杂活\"。高频搭配：do the chores（做家务）、household chores（家务活）。口语里 a chore 还可比喻\"乏味的苦差事\"：Filling out forms is such a chore."
+    },
+    {
+      "word": "colleague",
+      "pos": "n.",
+      "phonetic": "/ˈkɑːliːɡ/",
+      "meaning": "同事；同僚",
+      "enExample": "My colleague shared her notes with me so I could catch up quickly.",
+      "zhExample": "同事把她的笔记分享给我，好让我尽快跟上进度。",
+      "note": "col-（共同）+ league（联盟）→ \"同一团队的人\"。重音在第一音节，结尾读 /ɡ/ 不是 /dʒ/。近义：coworker（更口语）、workmate。注意拼写双 l：colleague，别写成 coleague。"
+    },
+    {
+      "word": "tackle",
+      "pos": "v.",
+      "phonetic": "/ˈtækl/",
+      "meaning": "处理；对付（难题）；解决",
+      "enExample": "We'd better tackle this problem now instead of putting it off until Friday.",
+      "zhExample": "我们最好现在就着手解决这个问题，别拖到周五。",
+      "note": "原义是橄榄球里的\"擒抱摔倒\"→ 引申为\"迎面解决难题\"。高频搭配：tackle a problem / issue / challenge。近义辨析：solve 强调\"解开、解决掉\"，tackle 强调\"着手应对\"的过程。"
+    },
+    {
+      "word": "convenient",
+      "pos": "adj.",
+      "phonetic": "/kənˈviːniənt/",
+      "meaning": "方便的；便利的；近便的",
+      "enExample": "Please let me know which time is convenient for a quick meeting.",
+      "zhExample": "请告诉我哪个时间方便开个短会。",
+      "note": "con-（共同）+ ven-（来）→ \"都凑到一起\"就是方便。高频搭配：convenient for sb（对某人方便）、at your convenience（在你方便时）。注意：主语通常是时间或地点，说 \"I'm convenient\" 是中式英语错误。"
+    }
+  ],
+  "essay": {
+    "title": "Lessons from a Broken Umbrella",
+    "author": "佚名",
+    "paragraphs": [
+      "My umbrella broke on a Tuesday, in the middle of a rain I had not planned for. One rib folded the wrong way, and suddenly the whole thing became a wet question mark over my head. I stood under a shop awning and laughed despite myself.",
+      "For years I had treated umbrellas as disposable. Buy cheap, lose often, buy again. But this one had been a gift, brown-handled and stubborn, and it had stayed with me through three cities. Repairing it felt less like thrift than like keeping a promise.",
+      "The repairman at the market barely looked up. He pressed the rib back, tied it with wire, and charged me nothing, saying only that good things deserve a second chance. On the way home the rain got heavier, and the umbrella held.",
+      "I have thought about that sentence all week. We replace what we could mend, and mend only what we still love. Perhaps the difference between an object and a companion is simply the number of chances we are willing to give it.",
+      "The wire has rusted a little now, and I have decided to leave it that way. A repaired thing should be allowed to show where it was broken. Mine did, and it kept the rain off my shoulders for one more autumn."
+    ],
+    "translations": [
+      "我的伞在一个周二坏了，坏在一场我没料到的雨里。一根伞骨朝反方向折过去，整把伞瞬间成了头顶一个湿漉漉的问号。我站在店铺的雨棚下，忍不住笑出声来。",
+      "多年来我一直把伞当成一次性的东西。买便宜的，常弄丢，再买一把。可这一把是别人送的，棕色手柄，倔强得很，跟着我走过了三座城市。修好它与其说是节俭，不如说是守一个约定。",
+      "市场里的修伞师傅几乎没抬头。他把伞骨压回去，用铁丝缠紧，分文未收，只说好东西值得第二次机会。回家路上雨更大了，伞却撑住了。",
+      "那一整周我都在想这句话。我们总是换掉本可以修补的东西，却只修补仍然心爱的东西。也许一件物品与一个伙伴之间的差别，不过就是我们愿意给它的机会的次数。",
+      "那截铁丝如今锈了一点，我决定就让它锈着。修补过的东西，应该被允许露出它曾经断过的地方。我的伞露了，而它又替我挡了一个秋天的雨。"
+    ],
+    "grammar": [
+      {
+        "point": "less like...than like... 比较结构",
+        "example": "\"Repairing it felt less like thrift than like keeping a promise.\"",
+        "note": "less like A than like B 表示「与其说像 A，不如说像 B」，用否定式的比较把重心推到后者。句中强调修伞的动机不是省钱，而是守约。 举一反三：举一反三：同类结构还有 more like...than...，如 it felt more like a gift than a purchase。"
+      },
+      {
+        "point": "现在分词作伴随状语",
+        "example": "\"He pressed the rib back, tied it with wire, and charged me nothing, saying only that good things deserve a second chance.\"",
+        "note": "saying 是现在分词短语，放在并列谓语之后作伴随状语，补充说明前面动作同时发生的话语，让句子读起来更有画面感。 举一反三：举一反三：可换成其他感官动词，如 he left, smiling to himself。"
+      },
+      {
+        "point": "定语从句省略关系代词",
+        "example": "\"Perhaps the difference between an object and a companion is simply the number of chances we are willing to give it.\"",
+        "note": "chances 后省略了关系代词 that/which，因为它作 give 的宾语，口语与书面语中都常见。be willing to do 表示「愿意做某事」。 举一反三：举一反三：关系代词作宾语皆可省略，如 the book I bought yesterday。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "rib",
+        "pos": "n.",
+        "meaning": "伞骨；肋骨",
+        "enExample": "One rib of the umbrella bent in the wind.",
+        "zhExample": "伞的一根伞骨被风吹弯了。",
+        "note": "用法：伞面下的支撑骨架，也可指人体肋骨"
+      },
+      {
+        "term": "awning",
+        "pos": "n.",
+        "meaning": "雨棚；遮阳篷",
+        "enExample": "We waited under the awning until the rain eased.",
+        "zhExample": "我们在雨棚下等到雨小些。",
+        "note": "用法：店铺门外遮雨遮阳的布篷"
+      },
+      {
+        "term": "disposable",
+        "pos": "adj.",
+        "meaning": "一次性的；用完即弃的",
+        "enExample": "He refused to treat friendship as disposable.",
+        "zhExample": "他不肯把友情当成一次性的东西。",
+        "note": "用法：形容不打算长期使用、坏了就换的物品"
+      },
+      {
+        "term": "stubborn",
+        "pos": "adj.",
+        "meaning": "倔强的；顽固的",
+        "enExample": "The old lock was stubborn but still worked.",
+        "zhExample": "那把旧锁很倔，却还能用。",
+        "note": "用法：可形容人坚持己见，也可形容物件结实难对付"
+      },
+      {
+        "term": "thrift",
+        "pos": "n.",
+        "meaning": "节俭；节约",
+        "enExample": "Thrift is not the same as being mean.",
+        "zhExample": "节俭不等于小气。",
+        "note": "用法：指谨慎使用资源、不浪费的习惯"
+      },
+      {
+        "term": "mend",
+        "pos": "v.",
+        "meaning": "修补；修理",
+        "enExample": "She mended the tear in her coat by hand.",
+        "zhExample": "她手工把外套上的破口补好了。",
+        "note": "用法：多用于衣物、器物等小修小补"
+      },
+      {
+        "term": "deserve",
+        "pos": "v.",
+        "meaning": "值得；应得",
+        "enExample": "Good tools deserve good care.",
+        "zhExample": "好工具值得被好好保养。",
+        "note": "用法：指因品质或行为而应当得到某种对待"
+      },
+      {
+        "term": "rust",
+        "pos": "v.",
+        "meaning": "生锈；（比喻）荒废",
+        "enExample": "The gate has rusted after years of rain.",
+        "zhExample": "那扇门经年累月的雨已经生了锈。",
+        "note": "用法：金属氧化，也可指技能久不练习而退化"
+      }
+    ]
+  }
+}
