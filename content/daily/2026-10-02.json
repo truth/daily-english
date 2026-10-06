@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-02",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "jeopardize",
+      "pos": "v.",
+      "phonetic": "/ˈdʒepədaɪz/",
+      "meaning": "危及，损害",
+      "enExample": "Missing the deadline could jeopardize the whole deal.",
+      "zhExample": "错过截止日期可能危及整笔交易。",
+      "note": "💡 源自法语 jeu parti（胜负未分的棋局）。名词 jeopardy，短语 in jeopardy（处于危险中）。正式度高于 risk，适合写风险评估邮件。"
+    },
+    {
+      "word": "knack",
+      "pos": "n.",
+      "phonetic": "/næk/",
+      "meaning": "诀窍，天赋，本事",
+      "enExample": "She has a knack for explaining complex ideas simply.",
+      "zhExample": "她有本事把复杂的概念讲得通俗易懂。",
+      "note": "💡 固定搭配 have a knack for doing sth / get the knack of it（摸到门道）。赞美同事时很地道：You have a real knack with people."
+    },
+    {
+      "word": "lucrative",
+      "pos": "adj.",
+      "phonetic": "/ˈluːkrətɪv/",
+      "meaning": "利润丰厚的，赚钱的",
+      "enExample": "Consulting turned out to be a lucrative side business.",
+      "zhExample": "咨询成了他一份收入可观的副业。",
+      "note": "💡 lucr（利润，同 lucre）。搭配 a lucrative contract / highly lucrative market。比 profitable 略正式，商业新闻里出现频率很高。"
+    },
+    {
+      "word": "mandatory",
+      "pos": "adj.",
+      "phonetic": "/ˈmændətɔːri/",
+      "meaning": "强制的，必须的",
+      "enExample": "Attendance at the safety training is mandatory.",
+      "zhExample": "安全培训是必须参加的。",
+      "note": "💡 与 mandatory meeting、mandatory overtime 搭配。注意程度区别：mandatory 强调「按规定必须」，compulsory 多用于教育法律，required 最中性。"
+    },
+    {
+      "word": "in the long run",
+      "pos": "phr.",
+      "phonetic": "/ɪn ðə lɒŋ rʌn/",
+      "meaning": "从长远来看，终究",
+      "enExample": "Buying quality shoes saves money in the long run.",
+      "zhExample": "买质量好的鞋子长远来看更省钱。",
+      "note": "💡 与 in the short term（短期来看）成对使用，是论述题和商务英语的经典框架句。写作模板：It costs more now, but it pays off in the long run."
+    }
+  ],
+  "essay": {
+    "title": "The Road Home at Dusk",
+    "author": "佚名",
+    "paragraphs": [
+      "Nobody photographs dusk honestly. Cameras flatten it into orange and gold, but the real thing is grey and blue, and far more interested in the ground than the sky. Twilight is the hour when outlines soften and the road stops being a route and becomes simply a place to walk, slowly, toward a light you can trust.",
+      "There is a lane I take home that is exactly eleven minutes long. I know every crack in it, every gate that sticks, every dog that will bark at me without meaning anything by it. Walking it weary at the end of a long day is not a punishment. It is a corridor, and the body knows what to do in corridors.",
+      "The strangest thing happens about halfway down. The day lets go. Its noises fall away one by one — traffic, then work, then the argument you rehearsed at lunch — until there is a hush large enough to hear your own coat brushing your sleeve. I do not know where this comes from. I only know it waits for me at the same corner every evening.",
+      "Perhaps this is why homecoming is quieter in old stories than people expect. Nobody runs through the door shouting. They set down a bag, stand still for a moment, and become someone who is no longer travelling. That small pause is the whole solace of the evening, and no one should ever be hurried through it.",
+      "When I was a child I thought the point of coming home was the house. Now I think it is the lamp left on in it — a small beacon that says someone expected you back, the day is finished, and nothing more will be required tonight. That message is worth eleven minutes of walking, and I would walk twice as far for it."
+    ],
+    "translations": [
+      "没有人诚实地拍下过黄昏。相机把它压平成橙与金，可真实的黄昏是灰的、蓝的，而且它对地面的兴趣远大于天空。暮色是这样一个时辰：轮廓变软，路不再是一条路线，而只是一处可以慢慢走着的地方，走向一盏你信得过的灯。",
+      "有一条我常走回家的路，正好十一分钟长。我认得它上面每一道裂缝，每一扇发涩的院门，每一只会对着我叫却毫无恶意的狗。在漫长一日结束时疲倦地走在上面，并不是一种惩罚。它是一条走廊，而身体知道在走廊里该做什么。",
+      "走到差不多一半的时候，最奇怪的事发生了：这一天松手了。它的声音一个接一个地掉落——车流，然后是工作，然后是你午饭时排练过的那场争论——直到四周静得能听见自己的外套蹭过袖子。我不知道这从何而来。我只知道每个傍晚它都在同一个转角等我。",
+      "也许这就是为什么在老故事里，归家比人们预期的要安静。没有人喊叫着冲进门。他们放下包，静立片刻，然后变成一个不再赶路的人。那短短的停顿，就是整晚全部的慰藉，任何人都不该被催着走过它。",
+      "小时候我以为回家的意义在于那栋房子。现在我认为，在于屋里留着的那盏灯——一座小小的灯塔，它说：有人盼着你回来，这一天结束了，今夜再没有什么要你做的事。这句话值得走上十一分钟，而为了它，我愿意走两倍远。"
+    ],
+    "grammar": [
+      {
+        "point": "省略关系代词的定语从句",
+        "example": "\"Nobody photographs dusk honestly. There is a lane I take home that is exactly eleven minutes long.\"",
+        "note": "当关系代词在定语从句中作宾语时，可以省略，如 I take home 前省略了 which/that；口语与叙事文体中极为常见。 举一反三：举一反三：The corner waits for me every evening. / 那个角落每晚都在等我。"
+      },
+      {
+        "point": "until 引导的时间状语从句",
+        "example": "\"Its noises fall away one by one until there is a hush large enough to hear your own coat brushing your sleeve.\"",
+        "note": "until 表示动作持续到某一时点为止；主句动词多为延续性动词，从句用一般现在时表达反复出现的自然结果。 举一反三：举一反三：The sounds fade until only the wind is left. / 声音渐渐消散，直到只剩下风。"
+      },
+      {
+        "point": "现在分词作伴随状语",
+        "example": "\"They set down a bag, stand still for a moment, and become someone who is no longer travelling.\"",
+        "note": "现在分词短语可表示与主句动作同时发生的次要动作或状态，逻辑主语须与主句主语一致；此处与三个并列谓语共同构成慢镜头般的叙述。 举一反三：举一反三：She stood at the gate, watching the lane empty slowly. / 她站在门口，看着那条路慢慢空下来。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "dusk",
+        "pos": "n.",
+        "meaning": "黄昏；暮色",
+        "enExample": "The birds are loudest just before dusk.",
+        "zhExample": "鸟儿在黄昏前叫得最响。",
+        "note": "用法：at dusk；dusk falls"
+      },
+      {
+        "term": "twilight",
+        "pos": "n.",
+        "meaning": "暮色；微光时段",
+        "enExample": "Twilight turned the outlines of the hills soft and blue.",
+        "zhExample": "暮色把山峦的轮廓染得柔和发蓝。",
+        "note": "用法：in the twilight；the twilight of sth"
+      },
+      {
+        "term": "lane",
+        "pos": "n.",
+        "meaning": "小路；小巷；车道",
+        "enExample": "The lane home is eleven minutes long and entirely my own.",
+        "zhExample": "回家的那条小路长十一分钟，完全属于我。",
+        "note": "用法：a narrow lane；in the left lane"
+      },
+      {
+        "term": "homecoming",
+        "pos": "n.",
+        "meaning": "归家；回乡",
+        "enExample": "The best part of the day was the homecoming, not the day itself.",
+        "zhExample": "一天中最美的部分是归家，而不是那一天本身。",
+        "note": "用法：a warm homecoming；homecoming game"
+      },
+      {
+        "term": "beacon",
+        "pos": "n.",
+        "meaning": "灯塔；指路的光",
+        "enExample": "The lamp in the window was a small beacon all winter.",
+        "zhExample": "窗里的那盏灯整个冬天都是一座小小的灯塔。",
+        "note": "用法：a beacon of hope；beacon light"
+      },
+      {
+        "term": "weary",
+        "pos": "adj.",
+        "meaning": "疲倦的；厌倦的",
+        "enExample": "Weary as I was, I still took the longer lane home.",
+        "zhExample": "尽管疲倦，我还是选了那条更长的路回家。",
+        "note": "用法：weary of sth；a weary traveller"
+      },
+      {
+        "term": "hush",
+        "pos": "n./v.",
+        "meaning": "寂静；使安静",
+        "enExample": "A hush fell over the street as the snow began.",
+        "zhExample": "雪落下来时，街上陷入一片寂静。",
+        "note": "用法：a hush falls；hush sb/the room"
+      },
+      {
+        "term": "solace",
+        "pos": "n.",
+        "meaning": "慰藉；安慰",
+        "enExample": "She found solace in the twenty minutes before anyone expected her to speak.",
+        "zhExample": "她在没人指望她开口的那二十分钟里找到了安慰。",
+        "note": "用法：find solace in sth；offer solace"
+      }
+    ]
+  }
+}

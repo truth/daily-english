@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-01",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "frugal",
+      "pos": "adj.",
+      "phonetic": "/ˈfruːɡl/",
+      "meaning": "节俭的，省钱的",
+      "enExample": "Living frugally helped him pay off his student loan early.",
+      "zhExample": "节俭的生活让他提前还清了助学贷款。",
+      "note": "💡 名词 frugality。注意 frugal 偏「主动节省」，含褒义；cheap 偏「吝啬」，略带贬义。搭配 be frugal with money、a frugal lifestyle。"
+    },
+    {
+      "word": "gadget",
+      "pos": "n.",
+      "phonetic": "/ˈɡædʒɪt/",
+      "meaning": "小玩意儿，小巧的电子设备",
+      "enExample": "He always buys the latest kitchen gadgets.",
+      "zhExample": "他总是买最新的厨房小电器。",
+      "note": "💡 口语高频词，指手机、耳机、智能手环等「 gadgets」。科技类文章常见 the latest gadgets。面试闲聊时比 device 更自然、接地气。"
+    },
+    {
+      "word": "hassle",
+      "pos": "n.",
+      "phonetic": "/ˈhæsl/",
+      "meaning": "麻烦，费劲的事",
+      "enExample": "Filing the reimbursement forms is such a hassle.",
+      "zhExample": "填报销单真是件麻烦事。",
+      "note": "💡 口语词，名词和动词都能用：Don't hassle me.（别烦我。）常见搭配 a hassle-free process（省心的流程），广告和产品文案里超爱用。"
+    },
+    {
+      "word": "improvise",
+      "pos": "v.",
+      "phonetic": "/ˈɪmprəvaɪz/",
+      "meaning": "即兴发挥，临时凑合",
+      "enExample": "The projector broke down, so I had to improvise.",
+      "zhExample": "投影仪坏了，我只好临场发挥。",
+      "note": "💡 im-（不）+ pro（预先）+ vise（看），即「没预先准备」。名词 improvisation。职场软技能描述里常说 able to improvise under pressure。"
+    },
+    {
+      "word": "upfront",
+      "pos": "adv.",
+      "phonetic": "/ˌʌpˈfrʌnt/",
+      "meaning": "坦率地；预先（付款）",
+      "enExample": "Let's be upfront about the total cost from the start.",
+      "zhExample": "我们一开始就坦白说明总费用吧。",
+      "note": "💡 两个常用义：①坦率 upfront about sth；②预付 pay upfront。形容词用法 an upfront payment（预付款）。签合同、谈报价时必备。"
+    }
+  ],
+  "essay": {
+    "title": "A Month That Smells of Woodsmoke",
+    "author": "佚名",
+    "paragraphs": [
+      "October arrives the way a person does: first you hear it, then you smell it, and only later do you see its face. The scent comes before anything. Somewhere up the hill a chimney has been lit, and the whole valley receives the news without a word. Smoke is a kind of veil that hides less than it reveals.",
+      "I love September, but September is a month of good behaviour. October has crisp mornings that hurt a little when you step outside, air that tastes of metal and apples, and evenings that send everyone home early to the hearth. The year is no longer pretending. It has stopped performing summer for an audience that has already gone indoors.",
+      "There is an old idea that smoke was the first letter humans sent upward. I think of that when I watch it drift over the rooftops, unhurried and unreadable, carrying the private news of somebody's evening fire. Each thin column means a room is warm, someone has lit an ember and decided to stay where they are.",
+      "Perhaps that is why this month makes us want to kindle things — soup, lamps, old friendships, the piano no one has opened since June. Light is no longer free after four o'clock, so we make our own small share of it. Night descends earlier each week, and instead of resisting it we begin, very slowly, to build against it.",
+      "A month that smells of woodsmoke is asking you to come in. Not to hide, exactly — the trees still need walking past, the sky still needs its daily look — but to acknowledge that warmth is now something you must make on purpose. I find this easier to hear in October than in any other month of the year."
+    ],
+    "translations": [
+      "十月的到来像一个熟人的到来：你先听见它，再闻到它，最后才看见它的脸。气味走在一切之前。山上的某处，有人点着了烟囱，整个山谷不用一句话就收到了这个消息。烟是一种薄纱，它遮住的东西，远少于它透露的东西。",
+      "我爱九月，可九月是个守规矩的月份。十月的早晨清冽，你一出门就会被它轻微地刺痛；空气里有金属和苹果的味道；傍晚早早把每个人都赶回炉火边。这一年不再假装了。它不再对着一群早已回了屋的观众表演夏天。",
+      "有一种古老的说法：烟是人类寄往天空的第一封信。每当看见它不慌不忙地飘过屋顶，无法辨认，却携着某人晚间炉火的私密消息，我就会想起这句话。每一缕细烟都意味着有个房间是暖的，有人点燃了一粒炭，并决定留在那里不走。",
+      "也许正因如此，这个月让我们想点燃些什么：汤、灯、旧日的友情，那架自六月起没人打开过的钢琴。四点钟以后，光不再免费，于是我们动手做自己的那一份。夜色每周早来一点，而我们不再抵抗，只是很慢很慢地开始，朝着它筑起些什么。",
+      "一个带着柴火味的月份，是在请你进屋。严格说来不是躲藏——树依然值得走过，天空依然值得每天看一眼——而是要你承认：此刻的温暖必须由你自己有意为之。这件事在十月听来，比一年里任何月份都更容易。"
+    ],
+    "grammar": [
+      {
+        "point": "only + 状语置于句首引起的部分倒装",
+        "example": "\"October arrives the way a person does: first you hear it, then you smell it, and only later do you see its face.\"",
+        "note": "only 加时间状语置于句首时，主句用部分倒装，即把助动词 do/does/did 或 be、情态动词提到主语之前；从句 lasts 本身不倒装。 举一反三：举一反三：Only after the frost did we light the first fire. / 直到霜降之后，我们才点起第一炉火。"
+      },
+      {
+        "point": "感官动词 watch + 宾语 + 宾补",
+        "example": "\"I think of that when I watch it drift over the rooftops.\"",
+        "note": "watch 后接不带 to 的不定式强调动作的整个过程，接现在分词强调进行中的片段；here it 为宾语，drift 为宾语补足语。 举一反三：举一反三：We watched the smoke rise and disappear into the dark. / 我们看着炊烟升起，消失在黑暗里。"
+      },
+      {
+        "point": "instead of + 动名词短语",
+        "example": "\"Night descends earlier each week, and instead of resisting it we begin, very slowly, to build against it.\"",
+        "note": "instead of 是介词短语，后接名词、代词或动名词，表示「而不是」；其后动词必须用 V-ing 形式。 举一反三：举一反三：Instead of complaining about the cold, she lit another lamp. / 她没有抱怨寒冷，而是又点了一盏灯。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "scent",
+        "pos": "n.",
+        "meaning": "气味；香味",
+        "enExample": "The scent of woodsmoke reached us long before the road did.",
+        "zhExample": "我们还没看见那条路，柴火的气味就先到了。",
+        "note": "用法：the scent of sth；catch a scent"
+      },
+      {
+        "term": "drift",
+        "pos": "v./n.",
+        "meaning": "飘移；漂流",
+        "enExample": "Smoke drifted across the rooftops without hurrying anywhere.",
+        "zhExample": "炊烟慢慢飘过屋顶，并不急着去任何地方。",
+        "note": "用法：drift across/over sth；drift apart"
+      },
+      {
+        "term": "crisp",
+        "pos": "adj.",
+        "meaning": "清冽的；脆的；干脆的",
+        "enExample": "The crisp air made me glad I had brought a coat.",
+        "zhExample": "清冽的空气让我庆幸自己带了外套。",
+        "note": "用法：crisp air/morning；a crisp reply"
+      },
+      {
+        "term": "hearth",
+        "pos": "n.",
+        "meaning": "炉边；壁炉前的地面（引申为家）",
+        "enExample": "Everyone gathered at the hearth once the light went.",
+        "zhExample": "天一黑，所有人都聚到了炉火边。",
+        "note": "用法：by the hearth；hearth and home"
+      },
+      {
+        "term": "ember",
+        "pos": "n.",
+        "meaning": "余烬（常用复数 embers）",
+        "enExample": "One ember stayed warm under the ash until morning.",
+        "zhExample": "一粒炭火在灰烬下暖到了天亮。",
+        "note": "用法：glowing embers；the embers of a fire"
+      },
+      {
+        "term": "veil",
+        "pos": "n./v.",
+        "meaning": "薄纱；遮蔽，笼罩",
+        "enExample": "A thin veil of cloud softened the whole evening.",
+        "zhExample": "一层薄云让整个傍晚变得柔和。",
+        "note": "用法：a veil of smoke/cloud；veil sth in sth"
+      },
+      {
+        "term": "descend",
+        "pos": "v.",
+        "meaning": "降临；下降",
+        "enExample": "Night descends a little earlier each week now.",
+        "zhExample": "现在夜色每周都要早来一点。",
+        "note": "用法：descend on/upon sb；descend from sth"
+      },
+      {
+        "term": "kindle",
+        "pos": "v.",
+        "meaning": "点燃；激起",
+        "enExample": "He kindled the fire with one match and a great deal of patience.",
+        "zhExample": "他用一根火柴和极大的耐心把火点着了。",
+        "note": "用法：kindle a fire；kindle interest in sb"
+      }
+    ]
+  }
+}

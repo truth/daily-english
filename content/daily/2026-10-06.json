@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-06",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "amicable",
+      "pos": "adj.",
+      "phonetic": "/ˈæmɪkəbl/",
+      "meaning": "友好的，心平气和的",
+      "enExample": "The two sides reached an amicable settlement.",
+      "zhExample": "双方达成了友好的和解。",
+      "note": "💡 am（爱，如 amour、amiable）+ -able。典型商务搭配 amicable divorce / amicable agreement，强调「好聚好散、没有撕破脸」。名词 amicability。"
+    },
+    {
+      "word": "cut corners",
+      "pos": "phr.",
+      "phonetic": "/kʌt ˈkɔːnərz/",
+      "meaning": "偷工减料，图省事走捷径",
+      "enExample": "Never cut corners when it comes to safety checks.",
+      "zhExample": "涉及安全检查时绝不能偷工减料。",
+      "note": "💡 画面感：抄近路拐过拐角。指为省时间金钱牺牲质量。复盘常用 We cut corners on testing and paid the price.（我们在测试上偷工，付出了代价。）"
+    },
+    {
+      "word": "discretion",
+      "pos": "n.",
+      "phonetic": "/dɪˈskreʃn/",
+      "meaning": "谨慎；自行决定的权力",
+      "enExample": "Use your discretion when handling customer complaints.",
+      "zhExample": "处理客户投诉时请自行判断、谨慎行事。",
+      "note": "💡 两义都重要：①谨慎 handle sth with discretion；②裁量权 at one's discretion。形容词 discreet（谨慎的），注意别拼成 discrete（离散的）。"
+    },
+    {
+      "word": "outweigh",
+      "pos": "v.",
+      "phonetic": "/ˌaʊtˈweɪ/",
+      "meaning": "比…更重要，超过",
+      "enExample": "The benefits far outweigh the extra cost.",
+      "zhExample": "收益远超额外的成本。",
+      "note": "💡 out-（超过）+ weigh（称重），字面「比…更重」。议论文万能句型：The advantages outweigh the disadvantages. 比 is more than 高级得多。"
+    },
+    {
+      "word": "steadily",
+      "pos": "adv.",
+      "phonetic": "/ˈstedɪli/",
+      "meaning": "稳定地，持续地",
+      "enExample": "Her English has improved steadily over the past year.",
+      "zhExample": "过去一年她的英语在稳步进步。",
+      "note": "💡 steady（稳固的）+ -ly。描述图表数据的黄金词：rise steadily / grow steadily。反义 unsteadily；口语夸人可用 steady progress，比 good 更具体。"
+    }
+  ],
+  "essay": {
+    "title": "Before the Cold Arrives",
+    "author": "佚名",
+    "paragraphs": [
+      "The first frost always comes on a night nobody was watching. You find out in the morning from the grass, which has gone stiff and silver, and from the way the whole garden has quietly changed its mind overnight. By then it is too late to be prudent. October's mercy is that it warns you first, in a voice so mild you can sleep through it.",
+      "Every autumn my grandmother spent one week doing something she called putting the house to bed. She stocked the pantry, checked the seals on the windows, and set out an extra blanket nobody needed yet. The provisions were not dramatic. But when the cold finally came, nothing required a decision, and that calm was the entire point.",
+      "I used to find this fussy. Could one not simply buy a coat in December and be done with it? What I had missed is that preparation is not the same as worry. Worry circles the future without touching it. To mend a thing in September, to insulate a pipe before it splits, is to touch the future once and then stop thinking about it.",
+      "There is also a gentler version of this work, and it has nothing to do with hardware. Before the hard season, gather your people. Say the things you have been saving. Build a small refuge of warmth and familiarity that will still be standing in February, when the light is thin and nobody can be bothered to begin anything new.",
+      "Winter will arrive whether or not we have prepared, and it will be cold either way. The difference is small and enormous: whether we meet it flustered, buying coats in the dark, or simply open the door to a house already warm. The frost comes when it chooses. What we do before it comes belongs entirely to us."
+    ],
+    "translations": [
+      "第一场霜总是降在一个无人值守的夜里。你要到早上才知道，从草上看出来——它已经变得僵硬发银——也从整个花园一夜之间悄悄改了主意的方式上看出来。到那时再想审慎就太迟了。十月的仁慈在于它会先提醒你，只是声音太温和，温和到你可以照睡不误。",
+      "每年秋天，祖母都要花一周做一件事，她称之为「让房子上床睡觉」。她把食品柜备满，检查窗户的封条，还多摆出一条暂时没人用得着的毯子。那些储备并不壮观。但当寒冷终于到来时，再没有什么需要当场做决定，而那份从容，正是全部意义所在。",
+      "我从前觉得这太讲究了。难道不能在十二月买件外套，一了百了吗？我漏掉的是：准备并不等于忧虑。忧虑绕着未来打转，却从不碰它。而九月补一件东西、在水管裂开之前给它保温，是碰了未来一次，然后就不必再想它。",
+      "这件事还有一种更温和的版本，与五金件毫无关系。在艰难的季节到来之前，把你的亲人们聚拢起来。把攒着的话说出来。造一个由温暖与熟稔构成的小小避难所，它到了二月还立得住——那时光很薄，没人有心思开头做任何新事。",
+      "无论我们有没有准备，冬天都会来，而且都一样冷。那差别既小又巨大：是我们手忙脚乱地在黑暗里买外套去迎接它，还是仅仅推开门，走进一间已经暖好的屋子。霜什么时候来，由它决定。而在它到来之前我们所做的事，完全属于我们。"
+    ],
+    "grammar": [
+      {
+        "point": "too ... to ... 太……而不能",
+        "example": "\"By then it is too late to be prudent.\"",
+        "note": "too + 形容词/副词 + to do 表示超出限度而无法实现；too 前可用 far/much 加强，如 far too cold to walk。 举一反三：举一反三：It was too dark to read the last page outside. / 天太黑，不能在屋外读完最后一页。"
+      },
+      {
+        "point": "whether or not 引导的让步状语从句",
+        "example": "\"Winter will arrive whether or not we have prepared, and it will be cold either way.\"",
+        "note": "whether or not 表示「无论是否」，引导让步状语从句；从句可用现在完成时强调先行动作，口语中常省去 or not。 举一反三：举一反三：The frost comes whether we are ready or not. / 无论我们是否准备好，霜都会来。"
+      },
+      {
+        "point": "so ... that 结果状语从句（省略 that）",
+        "example": "\"October's mercy is that it warns you first, in a voice so mild you can sleep through it.\"",
+        "note": "so + 形容词/副词 + that 引导结果状语从句；口语与散文体中常省略 that，直接在从句前断开，读时稍作停顿。 举一反三：举一反三：The room grew so quiet we heard the snow fall. / 屋里静得我们能听见雪落。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "frost",
+        "pos": "n.",
+        "meaning": "霜；霜冻",
+        "enExample": "The first frost arrived on a night nobody was watching.",
+        "zhExample": "第一场霜降在一个无人留意的夜晚。",
+        "note": "用法：a hard frost；frost on the grass"
+      },
+      {
+        "term": "stock",
+        "pos": "v./n.",
+        "meaning": "储备；存货",
+        "enExample": "She stocked the pantry before the first cold week.",
+        "zhExample": "她在第一个寒冷星期到来前把食品柜备足了。",
+        "note": "用法：stock up on sth；stock the pantry"
+      },
+      {
+        "term": "mend",
+        "pos": "v.",
+        "meaning": "修补；好转",
+        "enExample": "Mend the coat in September and forget it by December.",
+        "zhExample": "九月补好外套，十二月就可以忘了这件事。",
+        "note": "用法：mend a fence；mend your ways"
+      },
+      {
+        "term": "insulate",
+        "pos": "v.",
+        "meaning": "隔热；使隔绝",
+        "enExample": "They insulated the pipes before the hard nights came.",
+        "zhExample": "他们在严寒之夜到来之前把水管包好了。",
+        "note": "用法：insulate sth from/against sth"
+      },
+      {
+        "term": "gather",
+        "pos": "v.",
+        "meaning": "聚集；采集",
+        "enExample": "Before the hard season, gather your people.",
+        "zhExample": "艰难的季节到来之前，把你的亲人们聚到一起。",
+        "note": "用法：gather round；gather oneself"
+      },
+      {
+        "term": "provision",
+        "pos": "n.",
+        "meaning": "储备物资；供给",
+        "enExample": "The provisions were plain, but nobody went hungry that winter.",
+        "zhExample": "储备很简单，但那年冬天没人挨饿。",
+        "note": "用法：provisions for winter；make provision for sth"
+      },
+      {
+        "term": "prudent",
+        "pos": "adj.",
+        "meaning": "审慎的；明智的",
+        "enExample": "It is prudent to check the roof before it rains, not after.",
+        "zhExample": "明智的做法是在下雨之前检查屋顶，而不是之后。",
+        "note": "用法：it is prudent to do sth；a prudent saver"
+      },
+      {
+        "term": "refuge",
+        "pos": "n.",
+        "meaning": "避难所；慰藉处",
+        "enExample": "The kitchen became a small refuge during the coldest weeks.",
+        "zhExample": "最冷的那几周里，厨房成了小小的避难所。",
+        "note": "用法：take refuge in/from sth；a refuge of warmth"
+      }
+    ]
+  }
+}

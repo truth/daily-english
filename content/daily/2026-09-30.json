@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-30",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "advocate",
+      "pos": "v.",
+      "phonetic": "/ˈædvəkeɪt/",
+      "meaning": "提倡，主张，拥护",
+      "enExample": "She advocates flexible working hours for the whole team.",
+      "zhExample": "她主张整个团队实行弹性工作时间。",
+      "note": "💡 ad-（朝向）+ voc（呼喊），原意为「为某事发声」。名词 an advocate of… 指「…的拥护者」。面试中可说 I advocate a data-driven approach."
+    },
+    {
+      "word": "browse",
+      "pos": "v.",
+      "phonetic": "/braʊz/",
+      "meaning": "浏览，随便看看",
+      "enExample": "I browsed the company website before the interview.",
+      "zhExample": "面试前我浏览了这家公司的官网。",
+      "note": "💡 原指动物「啃食嫩叶」，引申为随意翻看。搭配 browse the internet / browse through a catalog。购物场景常说 I'm just browsing.（我只是随便看看。）"
+    },
+    {
+      "word": "clutter",
+      "pos": "n.",
+      "phonetic": "/ˈklʌtər/",
+      "meaning": "杂乱，凌乱的东西",
+      "enExample": "I need to clear the clutter on my desk before starting work.",
+      "zhExample": "开工前我得先清理桌上的杂物。",
+      "note": "💡 也可作动词 clutter up the room（把房间堆乱）。常见搭配 a cluttered desk / mental clutter（思绪混乱）。整理类视频和播客中高频出现。"
+    },
+    {
+      "word": "durable",
+      "pos": "adj.",
+      "phonetic": "/ˈdjʊərəbl/",
+      "meaning": "耐用的，持久的",
+      "enExample": "We need a durable solution, not a quick fix.",
+      "zhExample": "我们需要一个持久的解决方案，而不是权宜之计。",
+      "note": "💡 dur（持续）+ -able。名词 durability。购物评价常写 durable and affordable（耐用又实惠）。职场中 durable growth 指「可持续增长」。"
+    },
+    {
+      "word": "erratic",
+      "pos": "adj.",
+      "phonetic": "/ɪˈrætɪk/",
+      "meaning": "不规律的，反复无常的",
+      "enExample": "His erratic attendance worried the project manager.",
+      "zhExample": "他时好时差的出勤让项目经理很担心。",
+      "note": "💡 err（漫游、出错）同源。可形容人、天气、数据：erratic behavior / erratic sales figures。反义词是 consistent 或 predictable，写周报时很实用。"
+    }
+  ],
+  "essay": {
+    "title": "The Last Chapter of September",
+    "author": "佚名",
+    "paragraphs": [
+      "Every month ends the way a book does: not with a shout but with a page turned over in the dark. The story has not stopped; it has simply moved beyond what we can see. I like the last days of September for this. They ask nothing of us but attention. A ledger is being quietly closed somewhere, and we may read it before it goes.",
+      "Most of us reckon our months the way a shopkeeper reckons a poor week: counting what failed to arrive. The appointment missed, the promise left undone, the three mornings we slept through our own lives. But a tally taken only in losses is a dishonest one. September also held a Tuesday when the light came in sideways and made the whole kitchen gold.",
+      "There is another way to close a month, and it costs almost nothing. Sit for ten minutes with the margin of the page. Ask what went right without your help, what arrived uninvited, who was kind when you had not earned it. The answer is usually ample. We are simply unused to listing it, so the column looks short and we turn away too soon.",
+      "To conclude something well is a skill almost nobody teaches. We are fluent in beginnings and helpless at endings, so we let months simply run out like water from a tap. But an ending acknowledged is an ending received. To name the close of a thing is to give it a shape, and things with shape can be set down and carried.",
+      "So let September go without argument. Relinquish the version of it you meant to live, and keep the one you did. There will be residue — a conversation unfinished, a habit not yet broken — and that is allowed to come with you. October is already standing at the door with its woodsmoke and its low light, waiting to be read."
+    ],
+    "translations": [
+      "每个月的结束都像一本书的结束：不是一声喊叫，而是在黑暗中翻过的一页。故事并未中止，它只是走到了我们看不见的地方。我喜欢九月最后几天，正是因为这个。它们对我们要的不多，只需留意。某处正有一本账簿被悄悄合上，而在它收起之前，我们可以读一读。",
+      "我们大多数人估算自己的月份，像店主结算糟糕的一周：只数那些没能到手的东西。错过的约，未完成的承诺，我们昏睡过去的三个早晨。可一份只记损失的账并不诚实。九月也还留着那样一个星期二：光斜斜地照进来，把整间厨房变成了金色。",
+      "还有一种结束一个月的方式，几乎不花什么代价。对着书页的空白处坐上十分钟。问问看：哪些事在没有你帮忙的情况下做成了，什么是不请自来的，谁在你并未赢取的时候依然温和。答案通常很充足。我们只是不习惯把它们列出来，所以那一栏看起来很短，我们便过早地转开了目光。",
+      "把一件事好好收尾，是几乎没人教的技艺。我们开口流畅，结尾无措，于是让月份像水龙头里的水一样自行流尽。然而一个被承认的结束，才是被接住的结束。说出一件事情的终结，就是给它一个形状，而有形状的东西才能被放下、被带走。",
+      "所以，不必争辩，让九月走吧。放开那个你本想过成的九月，留下你真正过了的那个。一定会有余留——一场没谈完的话，一个还没改掉的习惯——它们是被允许跟着你走的。十月已经站在门口，带着柴火的气味和低垂的光，等着被翻开。"
+    ],
+    "grammar": [
+      {
+        "point": "the way 引导的方式状语从句",
+        "example": "\"Every month ends the way a book does.\"",
+        "note": "the way 相当于 how，后面接完整从句；does 替代前面出现过的 ends，避免重复。 举一反三：举一反三：She closed the month the way she closes a window, quietly. / 她结束那个月，就像她关窗一样，悄无声息。"
+      },
+      {
+        "point": "现在进行时的被动语态",
+        "example": "\"A ledger is being quietly closed somewhere, and we may read it before it goes.\"",
+        "note": "is being + 过去分词表示此刻正在进行的被动动作；副词 quietly 置于 being 与过去分词之间。 举一反三：举一反三：The old accounts are being checked one last time. / 那些旧账正在被最后一次核对。"
+      },
+      {
+        "point": "be unused to + 动名词",
+        "example": "\"We are simply unused to listing it, so the column looks short.\"",
+        "note": "unused to 中的 to 是介词，后接名词或动名词，意为「不习惯于」；区别于 used to do 的「过去常常」。 举一反三：举一反三：I am unused to ending a month without complaint. / 我不习惯毫无抱怨地结束一个月。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "ledger",
+        "pos": "n.",
+        "meaning": "账簿；台账",
+        "enExample": "Every evening she opened the small ledger and added one line.",
+        "zhExample": "她每晚翻开那本小账簿，添上一行。",
+        "note": "用法：keep a ledger；ledger of + n."
+      },
+      {
+        "term": "tally",
+        "pos": "v./n.",
+        "meaning": "合计；记录",
+        "enExample": "I kept a tally of every morning I walked before the rain.",
+        "zhExample": "我把每个赶在雨前出门散步的早晨都记了下来。",
+        "note": "用法：keep a tally of sth；tally up"
+      },
+      {
+        "term": "reckon",
+        "pos": "v.",
+        "meaning": "估算；认为",
+        "enExample": "We reckon the cost of winter before the frost arrives.",
+        "zhExample": "我们在霜降之前估算冬天的开销。",
+        "note": "用法：reckon sth + adj.；reckon with sb/sth"
+      },
+      {
+        "term": "relinquish",
+        "pos": "v.",
+        "meaning": "放弃；放手",
+        "enExample": "She relinquished the plan she had carried all summer.",
+        "zhExample": "她放下了整个夏天一直揣着的那份计划。",
+        "note": "用法：relinquish control/claim；relinquish sth to sb"
+      },
+      {
+        "term": "conclude",
+        "pos": "v.",
+        "meaning": "结束；得出结论",
+        "enExample": "He concluded the month with a long walk and no regrets.",
+        "zhExample": "他以一次长距离的散步结束了这个月，毫无遗憾。",
+        "note": "用法：conclude sth with sth；conclude that ..."
+      },
+      {
+        "term": "margin",
+        "pos": "n.",
+        "meaning": "页边空白；余地",
+        "enExample": "She left wide margins so future notes would have room.",
+        "zhExample": "她留出很宽的页边空白，好让以后的笔记有地方写。",
+        "note": "用法：in the margin；a margin of time"
+      },
+      {
+        "term": "ample",
+        "pos": "adj.",
+        "meaning": "充足的；宽裕的",
+        "enExample": "There was ample light in the kitchen that whole afternoon.",
+        "zhExample": "那个下午厨房里一直有充足的光线。",
+        "note": "用法：ample time/space/evidence"
+      },
+      {
+        "term": "residue",
+        "pos": "n.",
+        "meaning": "残留；余留",
+        "enExample": "A faint residue of smoke hung over the valley.",
+        "zhExample": "山谷上空留着一层淡淡的烟味。",
+        "note": "用法：residue of sth；leave a residue"
+      }
+    ]
+  }
+}

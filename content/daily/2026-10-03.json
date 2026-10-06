@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-03",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "plausible",
+      "pos": "adj.",
+      "phonetic": "/ˈplɔːzəbl/",
+      "meaning": "貌似合理的，说得通的",
+      "enExample": "That sounds like a plausible explanation for the delay.",
+      "zhExample": "这听起来是对延期一个说得通的解释。",
+      "note": "💡 plaus（鼓掌、认可）+ -ible，即「能让人认可的」。注意 plausible ≠ possible：前者强调「听上去可信」，未必真实，常隐含一丝怀疑。"
+    },
+    {
+      "word": "quota",
+      "pos": "n.",
+      "phonetic": "/ˈkwəʊtə/",
+      "meaning": "定额，配额，指标",
+      "enExample": "Our team has already hit this quarter's sales quota.",
+      "zhExample": "我们团队已经完成了本季度的销售指标。",
+      "note": "💡 quot（数量）同源，quantity、quarter 都是亲戚。常见搭配 meet/miss the quota（完成/未达指标）。注意中文「名额」也常说 The quota is full."
+    },
+    {
+      "word": "reimburse",
+      "pos": "v.",
+      "phonetic": "/ˌriːɪmˈbɜːs/",
+      "meaning": "偿还，报销",
+      "enExample": "The company will reimburse your travel expenses within a week.",
+      "zhExample": "公司会在一周内报销你的差旅费用。",
+      "note": "💡 re-（回）+ imburse（放进钱包）。名词 reimbursement。搭配 reimburse sb for sth。出差流程必备：Please submit receipts for reimbursement."
+    },
+    {
+      "word": "turnover",
+      "pos": "n.",
+      "phonetic": "/ˈtɜːnəʊvər/",
+      "meaning": "营业额；人员流失率",
+      "enExample": "High staff turnover is hurting this department.",
+      "zhExample": "居高不下的员工流失率正在拖累这个部门。",
+      "note": "💡 turn + over。一语双关：annual turnover 指年营业额，staff turnover 指跳槽率。看财报和人力报告时务必根据上下文判断，面试也常被问到。"
+    },
+    {
+      "word": "ultimately",
+      "pos": "adv.",
+      "phonetic": "/ˈʌltɪmətli/",
+      "meaning": "最终，归根到底",
+      "enExample": "Ultimately, the client decides whether the project continues.",
+      "zhExample": "最终由客户决定项目是否继续。",
+      "note": "💡 形容词 ultimate（最终的）。常用于句首总结观点，是六级写作的加分连接词。口语里也可用 At the end of the day 替换，但后者更随意。"
+    }
+  ],
+  "essay": {
+    "title": "What October Asks of Us",
+    "author": "佚名",
+    "paragraphs": [
+      "Every season makes a request, but only autumn makes it quietly enough that we can pretend not to hear. Summer summons us outdoors with noise and light. January orders us to begin again. October simply lowers its voice and waits, and asks something harder than either: let go, it says, and trust that this is not the end.",
+      "The trees are the honest ones. They do not negotiate with the change or ask for another week. When the light drops below a certain line, they shed what they cannot feed and stand bare without apology. It looks like loss from the outside. From the inside, it is a decision about what to keep.",
+      "We resist this. We are slow to yield things that still look alive — a project, a plan, a version of ourselves that worked beautifully in July. Yet holding everything is its own kind of emptiness. A hand closed around too many things cannot receive, and October is standing in front of us offering something we have no room for.",
+      "I think the request has two halves. The first is surrender: allow the year to thin itself out without rescuing every leaf. The second is harder, and it is the reason people love this month and then feel oddly tired in it. Turn inward. Stop broadcasting. Spend the long evenings in a smaller room with fewer voices.",
+      "What grows there is invisible for a long time. That is the part nobody warns you about: the soil must lie fallow, and lying fallow looks exactly like nothing happening to anyone who is passing by. But something is ripening underground at its own quiet pace, and when winter asks for it, it will be there."
+    ],
+    "translations": [
+      "每个季节都会提出一个请求，但只有秋天提得足够轻，轻到我们可以假装没听见。夏天用喧闹和光亮召唤我们出门。一月命令我们重新开始。十月只是压低嗓子等着，问一个比两者都难的要求：放手吧，它说，并且相信这不是结束。",
+      "树是诚实的那一个。它不与这场变化谈判，也不讨价还价地求多一周。当光线落到某条线以下，它们就褪去供养不起的部分，毫无歉意地赤裸站着。从外面看，这像是一场损失。从里面看，这是一个关于留下什么的决定。",
+      "我们抵抗这件事。我们迟迟不愿交出那些看起来还活着的东西——一个项目，一份计划，一个在七月运转得极好的自己。然而抓紧一切本身就是一种空。一只攥满东西的手无法再接收，而十月正站在我们面前，递来一件我们腾不出地方放的东西。",
+      "我想这个请求有两部分。第一部分是交出：允许这一年自行变稀薄，不去拯救每一片叶子。第二部分更难，也正是人们热爱这个月、却又在其中莫名疲倦的原因：转向内部。停止向外播送。在更小的房间里，用更少的声音，度过那些漫长的夜晚。",
+      "在那里生长的东西，很长一段时间是看不见的。这正是没人提醒过你的部分：土壤必须休耕，而休耕在任何路过的人看来，都和什么也没发生一模一样。但地下有什么东西正以自己的安静节奏成熟着，等到冬天来要它的时候，它就在那儿。"
+    ],
+    "grammar": [
+      {
+        "point": "祈使句表达建议与指令",
+        "example": "\"The first is surrender: allow the year to thin itself out without rescuing every leaf.\"",
+        "note": "祈使句以动词原形开头，主语 you 省略；多条祈使句连用可形成节奏感强的劝诫语气，此处 allow 后接宾语加宾语补足语 thin itself out。 举一反三：举一反三：Let the soil rest, and wait until spring. / 让土壤休息，等到春天。"
+      },
+      {
+        "point": "动名词短语作主语",
+        "example": "\"We are slow to yield things that still look alive; yet holding everything is its own kind of emptiness.\"",
+        "note": "动名词短语作主语时，谓语动词用单数；此处 holding everything 作为一个整体概念与 its 呼应。 举一反三：举一反三：Waiting through November is harder than it sounds. / 等过十一月比听上去更难。"
+      },
+      {
+        "point": "过去分词短语作后置定语",
+        "example": "\"A hand closed around too many things cannot receive.\"",
+        "note": "过去分词短语相当于省略了 which is 的定语从句，修饰前面的名词；过去分词含被动与完成意味。 举一反三：举一反三：The leaves left on the highest branch stayed all winter. / 留在最高枝头的叶子整个冬天都没落。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "summon",
+        "pos": "v.",
+        "meaning": "召唤；召集",
+        "enExample": "The bright mornings still summon us outdoors.",
+        "zhExample": "明亮的早晨仍在召唤我们出门。",
+        "note": "用法：summon sb to sth；summon the courage"
+      },
+      {
+        "term": "surrender",
+        "pos": "n./v.",
+        "meaning": "交出；投降；屈服",
+        "enExample": "Autumn asks us to surrender what we cannot carry through winter.",
+        "zhExample": "秋天要我们交出那些扛不过冬天的东西。",
+        "note": "用法：surrender to sth；surrender control"
+      },
+      {
+        "term": "shed",
+        "pos": "v.",
+        "meaning": "脱落；摆脱；流出",
+        "enExample": "The tree shed half its leaves in a single night of wind.",
+        "zhExample": "一夜风吹，树落了一半叶子。",
+        "note": "用法：shed leaves/light/tears"
+      },
+      {
+        "term": "bare",
+        "pos": "adj.",
+        "meaning": "光秃的；赤裸的",
+        "enExample": "By November the garden was bare and entirely honest.",
+        "zhExample": "到了十一月，花园坦露无遗，也彻底诚实。",
+        "note": "用法：bare branches；the bare facts"
+      },
+      {
+        "term": "yield",
+        "pos": "v./n.",
+        "meaning": "让步；产出",
+        "enExample": "A season left to rest will yield more than one forced to perform.",
+        "zhExample": "一个被允许休养的季节，比被逼着表演的季节收成更好。",
+        "note": "用法：yield to pressure；yield a harvest"
+      },
+      {
+        "term": "ripen",
+        "pos": "v.",
+        "meaning": "成熟",
+        "enExample": "Some ideas ripen only when nobody is watching.",
+        "zhExample": "有些念头只在无人注视时成熟。",
+        "note": "用法：ripen in the sun；ripen slowly"
+      },
+      {
+        "term": "fallow",
+        "pos": "adj.",
+        "meaning": "休耕的；闲置待恢复的",
+        "enExample": "Let the field lie fallow; it is doing more than it looks.",
+        "zhExample": "让田地休耕吧，它做的事比看上去要多。",
+        "note": "用法：lie fallow；a fallow period"
+      },
+      {
+        "term": "inward",
+        "pos": "adj./adv.",
+        "meaning": "向内的；内心的",
+        "enExample": "Turn inward for one evening and see what waits there.",
+        "zhExample": "朝内看一个晚上，看看那里有什么在等你。",
+        "note": "用法：turn inward；an inward journey"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-05",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "abide by",
+      "pos": "phr.",
+      "phonetic": "/əˈbaɪd baɪ/",
+      "meaning": "遵守，服从（规则、决定）",
+      "enExample": "All employees must abide by the company's code of conduct.",
+      "zhExample": "所有员工都必须遵守公司的行为准则。",
+      "note": "💡 abide 本身是「忍受、停留」，正式用语。常用于规章文书：abide by the rules / abide by the decision。口语里更常说 comply with 或 follow。"
+    },
+    {
+      "word": "bottleneck",
+      "pos": "n.",
+      "phonetic": "/ˈbɒtlnek/",
+      "meaning": "瓶颈，阻碍进展的环节",
+      "enExample": "Approval from legal is the bottleneck in this process.",
+      "zhExample": "法务审批是这个流程里的瓶颈。",
+      "note": "💡 形象词：瓶口细，液体流得慢。搭配 identify/remove a bottleneck。复盘会常用句式：The main bottleneck is…（主要卡点是…）。"
+    },
+    {
+      "word": "conducive",
+      "pos": "adj.",
+      "phonetic": "/kənˈdjuːsɪv/",
+      "meaning": "有助于…的，有益于…的",
+      "enExample": "Open offices are not always conducive to deep work.",
+      "zhExample": "开放式办公室并不总利于深度工作。",
+      "note": "💡 永远搭配 to：be conducive to sth/doing sth（to 是介词，后接动名词）。写作替换 good for 的高级表达，六级和雅思写作都很吃香。"
+    },
+    {
+      "word": "spur",
+      "pos": "v.",
+      "phonetic": "/spɜːr/",
+      "meaning": "刺激，促进，鞭策",
+      "enExample": "The bonus scheme spurred sales across all regions.",
+      "zhExample": "奖金制度刺激了各地区的销售。",
+      "note": "💡 原指「马刺」，引申为鞭策。名词用法也很常见：a spur to innovation。句型 spur sb to do sth / spur growth，商务报道高频动词。"
+    },
+    {
+      "word": "turnout",
+      "pos": "n.",
+      "phonetic": "/ˈtɜːnaʊt/",
+      "meaning": "到场人数，参与人数",
+      "enExample": "The turnout at the town hall meeting was impressive.",
+      "zhExample": "员工大会的到场人数相当可观。",
+      "note": "💡 turn out（结果如何）派生的名词。常见 a high/low turnout。活动策划复盘必用：We had a great turnout.（来了很多人。）注意别写成 turn out。"
+    }
+  ],
+  "essay": {
+    "title": "The Harvest of Small Attention",
+    "author": "佚名",
+    "paragraphs": [
+      "We imagine a harvest as an event: one loud week, carts in the field, everything finished at once. But the yield depended entirely on thousands of unrecorded mornings — weeding, watching, waiting in the right order. The same is true of attention. Nothing gathered suddenly was gathered suddenly. The ordinary days simply did their work and stayed quiet about it.",
+      "Most days offer us perhaps two or three things worth noticing, and we walk past nearly all of them because they are unimpressive. A neighbour's hedge that has grown since August. The way a colleague pauses before answering. To discern the valuable from the merely visible takes practice, and the price of skipping it is that everything becomes one long blur we overlook entirely.",
+      "An attentive person is not a busy one. Attention is not speed; it is willingness to dwell. My grandfather could stand in front of a single apple tree for ten minutes, doing nothing that anyone would pay for, and come away knowing things. He was not smarter than me. He simply was not in a hurry to leave.",
+      "There is an old word for this kind of work. To glean is to walk behind the reapers and gather what they have left — the small overlooked portion that belongs to whoever cares to stoop for it. Nobody makes a living that way. But you can make a life. What you reap from such hours is not money, and it does not spoil.",
+      "I am trying, these autumn mornings, to go more slowly through the first hour. To look at the light on the wall before I look at the screen. To finish one thing before beginning another. It feels wasteful and a little pointless. Then the month ends, and I find I have something to show for it: a quiet harvest, gathered slowly."
+    ],
+    "translations": [
+      "我们总把收成想象成一件大事：热闹的一周，田里的马车，一切同时结束。然而那份产量，完全取决于几千个无人记录的早晨——除草、观察、按正确的顺序等待。留意这件事也是如此。没有什么是突然聚拢起来的，从来都是寻常日子默默做完自己的工作，然后对此保持沉默。",
+      "大多数日子大概会奉上两三件值得留意的事，而我们几乎全都走过去了，因为它们不起眼。邻居家的树篱自八月起长高了一截。同事答话前的那一顿。从仅仅可见之物中认出有价值的那部分，需要练习；而跳过这一步的代价，是一切都变成一团长长的模糊，被我们彻底忽略。",
+      "一个留心的人，并不是一个忙碌的人。留意不是速度，而是愿意停留。我的外祖父能在一棵苹果树前站上十分钟，做着任何人都不会付钱的事，然后带着某些了解离开。他并不比我聪明。他只是不急着离场。",
+      "这类劳作有个古老的词。拾穗，就是走在收割者身后，捡起他们落下的东西——那小小一撮被人忽略的部分，归任何愿意弯腰的人所有。没有人靠这个谋生。但你却可以靠它过一种生活。从这样的时光里收割到的不是钱，也不会腐坏。",
+      "这些秋天的早晨，我在试着把第一个小时过得更慢一些。先看墙上的光，再看屏幕。先做完一件事，再开始另一件。这感觉有些浪费，也有点没用。然后这个月末了，我发现自己终于有了可以交出的东西：一份安静的收成，慢慢地聚拢起来的。"
+    ],
+    "grammar": [
+      {
+        "point": "破折号引出的补充说明（同位成分）",
+        "example": "\"But the yield depended entirely on thousands of unrecorded mornings — weeding, watching, waiting in the right order.\"",
+        "note": "破折号后可接一组并列成分，对前面的名词作具体说明，作用介于同位语与插入语之间；三个动名词连用形成排比节奏。 举一反三：举一反三：One habit saved her — rising early, writing first, worrying later. / 一个习惯救了她——早起，先写，后愁。"
+      },
+      {
+        "point": "worth + 动名词（主动形式表被动）",
+        "example": "\"Most days offer us perhaps two or three things worth noticing.\"",
+        "note": "be worth doing 中的 doing 用主动形式却表被动含义，不可用被动语态；worth 前常用 well 修饰。 举一反三：举一反三：That old lane is well worth walking twice. / 那条老路很值得走两遍。"
+      },
+      {
+        "point": "try to do 与 try doing",
+        "example": "\"I am trying, these autumn mornings, to go more slowly through the first hour.\"",
+        "note": "try to do 表示设法去做某件困难的事，强调努力；try doing 表示试着做某事以观效果，强调试验。 举一反三：举一反三：Try keeping the phone in another room for one evening. / 试着把手机放在别的房间一晚看看。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "harvest",
+        "pos": "n./v.",
+        "meaning": "收成；收获",
+        "enExample": "The harvest depended on a thousand mornings nobody wrote down.",
+        "zhExample": "收成取决于一千个无人记录的早晨。",
+        "note": "用法：a good harvest；harvest the field"
+      },
+      {
+        "term": "glean",
+        "pos": "v.",
+        "meaning": "拾穗；慢慢拾取",
+        "enExample": "She gleaned what facts she could from a very short letter.",
+        "zhExample": "她从一封很短的信里尽力拾取能用的信息。",
+        "note": "用法：glean sth from sth；glean a few facts"
+      },
+      {
+        "term": "attentive",
+        "pos": "adj.",
+        "meaning": "留心的；体贴的",
+        "enExample": "An attentive listener is rarer than a clever talker.",
+        "zhExample": "留心的倾听者比聪明的说话者更少见。",
+        "note": "用法：attentive to detail；an attentive listener"
+      },
+      {
+        "term": "overlook",
+        "pos": "v.",
+        "meaning": "忽略；俯瞰",
+        "enExample": "Do not overlook the small changes; they arrive first.",
+        "zhExample": "不要忽略那些细微的变化，它们总是先到。",
+        "note": "用法：overlook sth；overlook the valley"
+      },
+      {
+        "term": "dwell",
+        "pos": "v.",
+        "meaning": "停留；细想；居住",
+        "enExample": "Attention is not speed; it is willingness to dwell.",
+        "zhExample": "留意不是速度，而是愿意停留。",
+        "note": "用法：dwell on sth；dwell in a place"
+      },
+      {
+        "term": "ordinary",
+        "pos": "adj.",
+        "meaning": "平常的；普通的",
+        "enExample": "The ordinary days simply did their work and stayed quiet.",
+        "zhExample": "寻常的日子只是做完自己的事，然后保持沉默。",
+        "note": "用法：an ordinary day；out of the ordinary"
+      },
+      {
+        "term": "reap",
+        "pos": "v.",
+        "meaning": "收割；获得",
+        "enExample": "You reap in November what September planted.",
+        "zhExample": "九月种下的，十一月收获。",
+        "note": "用法：reap the benefit/reward；reap what you sow"
+      },
+      {
+        "term": "discern",
+        "pos": "v.",
+        "meaning": "辨别；看出",
+        "enExample": "To discern the valuable from the merely visible takes practice.",
+        "zhExample": "从仅仅可见之物中分辨出有价值的，需要练习。",
+        "note": "用法：discern sth from sth；discern a pattern"
+      }
+    ]
+  }
+}

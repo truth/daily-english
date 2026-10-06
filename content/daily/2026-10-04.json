@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-04",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "sophisticated",
+      "pos": "adj.",
+      "phonetic": "/səˈfɪstɪkeɪtɪd/",
+      "meaning": "精密的；老练的；高雅的",
+      "enExample": "The new system is more sophisticated than the old one.",
+      "zhExample": "新系统比旧的那套精密得多。",
+      "note": "💡 三义皆常用：sophisticated software（精密软件）、a sophisticated investor（老练的投资人）、sophisticated taste（高雅品味）。读起来别只会用 complex。"
+    },
+    {
+      "word": "vendor",
+      "pos": "n.",
+      "phonetic": "/ˈvendər/",
+      "meaning": "供应商，卖主",
+      "enExample": "We're comparing quotes from three different vendors.",
+      "zhExample": "我们正在比较三家不同供应商的报价。",
+      "note": "💡 vend（售卖）+ -or。B2B 场景的标准用词：vendor management（供应商管理）、a trusted vendor。比 supplier 更偏「签约卖家」，采购邮件高频词。"
+    },
+    {
+      "word": "waive",
+      "pos": "v.",
+      "phonetic": "/weɪv/",
+      "meaning": "免除，放弃（费用、要求）",
+      "enExample": "They agreed to waive the delivery fee for bulk orders.",
+      "zhExample": "他们同意对大宗订单免除配送费。",
+      "note": "💡 别与 wave（挥手）混淆。常见搭配 waive the fee / waive the requirement / waive one's right。谈判砍价时一句 Could you waive the setup fee? 很管用。"
+    },
+    {
+      "word": "rapport",
+      "pos": "n.",
+      "phonetic": "/ræˈpɔːr/",
+      "meaning": "融洽关系，默契",
+      "enExample": "Good teachers build rapport with their students quickly.",
+      "zhExample": "好老师能很快和学生建立融洽关系。",
+      "note": "💡 源自法语，词尾 t 不发音。固定搭配 build/establish rapport with sb。销售、面试、谈判类内容里几乎必现，是 relationship 的高级同义替换。"
+    },
+    {
+      "word": "chime in",
+      "pos": "phr.",
+      "phonetic": "/tʃaɪm ɪn/",
+      "meaning": "插话，加入讨论",
+      "enExample": "Feel free to chime in if you have any questions.",
+      "zhExample": "有任何问题欢迎随时插话提问。",
+      "note": "💡 chime 原指「钟声和谐响起」，故 chime in 是和谐的补充，非粗鲁打断。会议开场白常用 Please feel free to chime in anytime，非常地道。"
+    }
+  ],
+  "essay": {
+    "title": "The Lantern and the Window",
+    "author": "佚名",
+    "paragraphs": [
+      "A lantern and a window are the same invention approached from different sides. One keeps the light in, the other lets it out, and both fail completely in bright weather — you cannot see a single glow at noon. Their whole purpose waits for dark. I find that deeply encouraging on evenings when I feel I have nothing to show.",
+      "The flame itself is not impressive. A wick no thicker than thread, a little oil, a draught that could end the whole arrangement in one breath. It flickers constantly. Yet it does the one thing required of it: it makes the glass around it useful, and the glass makes a small circle of the night bearable.",
+      "I walked past a lit window last week and slowed down without intending to. Someone inside was reading; someone else was washing a dish. Nothing of importance was taking place. But through the pane the ordinary had become luminous, and I stood in the cold for perhaps a minute, warmed by a life that was not mine.",
+      "This is the arithmetic of small light. One lamp is faint. It reveals perhaps six feet of path and nothing beyond that, which is not much when you are tired and still have a mile to go. But it is steadfast. It asks for no great distance, only the next step, and then the step after that.",
+      "So I have stopped wanting to be a floodlight, bright and exhausting and switched on for everyone. A lit window will do. Something small, something steady, something that quietly says a person is here and awake — that is enough to be found by, and sometimes enough to lead someone home through a dark they did not expect."
+    ],
+    "translations": [
+      "灯笼与窗，是从两边去靠近的同一个发明。一个把光留住，一个把光放走，而两者在明亮的日子里都彻底失效——正午时分你看不到一丝发光。它们的全部意义都在等天黑。在那些觉得自己拿不出东西来的夜晚，这念头给了我很大的鼓励。",
+      "那簇火焰本身并不起眼。一根细不过线的灯芯，一点油，一阵能把整个局面一口气吹灭的穿堂风。它一刻不停地摇曳。然而它做着唯一被要求于它的事：让围在四周的玻璃变得有用，而玻璃又让夜色里那小小一圈变得可以忍受。",
+      "上周我路过一扇亮着的窗，不自觉地放慢了脚步。屋里有人在读书；另一个人在洗碗。没有什么重要的事正在发生。但透过那层玻璃，寻常的一切变得明亮起来，我在冷气里站了大约一分钟，被一种并不属于我的生活烘暖了。",
+      "这便是微光的算数。一盏灯是微弱的。它照见的也许只有六英尺的路，再远就没有了；当你疲惫还要再走一英里时，这实在不多。但它是坚定的。它不求看清多远的路，只求下一步，然后再下一步。",
+      "所以我不再想做一盏探照灯——耀眼、耗人，为所有人亮着。有一扇亮着的窗就够了。小一些的东西，稳一些的东西，能轻声说出「有个人在这里，还醒着」的东西——这足以让别人找到你，有时也足以领着某人穿过一场他未曾预料的黑暗，回到家里。"
+    ],
+    "grammar": [
+      {
+        "point": "one ... the other ... 指两者",
+        "example": "\"A lantern and a window are the same invention approached from different sides: one keeps the light in, the other lets it out.\"",
+        "note": "one ... the other ... 用于已提及的二者，前者为泛指替代词，后者带定冠词表「另一个」；三者以上用 another 或 the others。 举一反三：举一反三：I own two lamps: one for the desk, the other for the door. / 我有两盏灯：一盏在书桌上，另一盏在门口。"
+      },
+      {
+        "point": "过去分词短语作伴随／原因状语",
+        "example": "\"But through the pane the ordinary had become luminous, and I stood in the cold for perhaps a minute, warmed by a life that was not mine.\"",
+        "note": "过去分词短语置于句末，逻辑主语是主句主语 I，含被动意味，同时交代动作发生的伴随状态或原因。 举一反三：举一反三：She read until late, lit only by one small lamp. / 她读到很晚，只有一盏小灯照着。"
+      },
+      {
+        "point": "no ... only ... 对照结构",
+        "example": "\"It asks for no great distance, only the next step, and then the step after that.\"",
+        "note": "no + 名词与 only + 名词并列，先否定再限定，语意重心落在 only 之后的部分，常用于强调最低要求。 举一反三：举一反三：The task needs no great skill, only patience. / 这活儿不需要多高的技巧，只需要耐心。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "lantern",
+        "pos": "n.",
+        "meaning": "灯笼；提灯",
+        "enExample": "He carried the lantern low so it would show the path.",
+        "zhExample": "他把灯笼提得低低的，好照见脚下的路。",
+        "note": "用法：a paper lantern；lantern light"
+      },
+      {
+        "term": "flicker",
+        "pos": "v./n.",
+        "meaning": "闪烁；摇曳",
+        "enExample": "The candle flickered once and then decided to stay.",
+        "zhExample": "蜡烛摇曳了一下，然后决定留下。",
+        "note": "用法：flicker briefly；a flicker of hope"
+      },
+      {
+        "term": "faint",
+        "pos": "adj.",
+        "meaning": "微弱的；模糊的",
+        "enExample": "The light was faint, but it showed me where to put my feet.",
+        "zhExample": "光很微弱，但足以让我看清该把脚落在哪里。",
+        "note": "用法：a faint sound/light；faint hope"
+      },
+      {
+        "term": "pane",
+        "pos": "n.",
+        "meaning": "一块窗玻璃",
+        "enExample": "One pane in the old window still rattles in the wind.",
+        "zhExample": "老窗上有一块玻璃刮风时还在响。",
+        "note": "用法：a pane of glass；window pane"
+      },
+      {
+        "term": "glow",
+        "pos": "n./v.",
+        "meaning": "微光；发出温暖的光",
+        "enExample": "Through the pane the ordinary had become a kind of glow.",
+        "zhExample": "透过玻璃，寻常的一切成了一种微光。",
+        "note": "用法：a warm glow；glow with pride"
+      },
+      {
+        "term": "wick",
+        "pos": "n.",
+        "meaning": "灯芯",
+        "enExample": "A wick no thicker than thread held the whole evening together.",
+        "zhExample": "一根细如线的灯芯撑起了整个夜晚。",
+        "note": "用法：trim the wick；the wick of a candle"
+      },
+      {
+        "term": "luminous",
+        "pos": "adj.",
+        "meaning": "发光的；明亮的",
+        "enExample": "For a minute the ordinary room looked luminous from the street.",
+        "zhExample": "有一分钟，那间寻常的屋子从街上看去亮着光。",
+        "note": "用法：luminous paint；a luminous face"
+      },
+      {
+        "term": "steadfast",
+        "pos": "adj.",
+        "meaning": "坚定的；不动摇的",
+        "enExample": "The light on the step was faint but steadfast all night.",
+        "zhExample": "台阶上的那盏灯微弱却整夜不熄。",
+        "note": "用法：steadfast friend；remain steadfast"
+      }
+    ]
+  }
+}
