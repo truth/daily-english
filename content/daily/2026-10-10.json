@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-10",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "endorse",
+      "pos": "v.",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "meaning": "认可；支持；背书；（名人）代言",
+      "enExample": "The manager endorsed my plan, so we can start working on it next week.",
+      "zhExample": "经理认可了我的方案，所以我们下周就可以开始动手了。",
+      "note": "en-（在上面）+ dorse（背，如 dorsal 背部的）→ 原指\"在支票背面签字\"→ 引申为\"公开支持\"。高频搭配：endorse a plan / product / candidate。职场里想问领导是否同意，可以说：Has the proposal been endorsed yet?"
+    },
+    {
+      "word": "tedious",
+      "pos": "adj.",
+      "phonetic": "/ˈtiːdiəs/",
+      "meaning": "乏味的；冗长无聊的",
+      "enExample": "Data entry is tedious, but accuracy matters more than speed.",
+      "zhExample": "数据录入很枯燥，但准确比速度更重要。",
+      "note": "ted-（厌烦，同 tedium）+ -ious → \"让人厌倦的\"。高频搭配：tedious work / task / meeting。近义辨析：boring 是泛泛的\"无聊\"，tedious 更强调\"冗长琐碎、磨人耐性\"。常见吐槽：The meeting was long and tedious."
+    },
+    {
+      "word": "perks",
+      "pos": "n.",
+      "phonetic": "/pɜːrks/",
+      "meaning": "额外补贴；福利；（职位的）好处",
+      "enExample": "Free lunch and flexible hours are two of the perks of this job.",
+      "zhExample": "免费午餐和弹性工时是这份工作的两大福利。",
+      "note": "是 perquisite 的缩写，口语常用复数 perks。高频搭配：job perks（工作福利）、perks of the job。别和 perk up（精神起来）搞混：She perked up after coffee（她喝了咖啡就来精神了）。和 benefits 的区别：benefits 多指正式的保险/年假，perks 是额外的\"甜头\"。"
+    },
+    {
+      "word": "versatile",
+      "pos": "adj.",
+      "phonetic": "/ˈvɜːrsətl/",
+      "meaning": "多才多艺的；用途广泛的；多面手的",
+      "enExample": "She is a versatile employee who can handle both design and marketing.",
+      "zhExample": "她是个多面手员工，设计和市场都能搞定。",
+      "note": "vers-（转动，如 reverse）+ -atile → \"能到处转\"→ 什么都会、什么都能用。高频搭配：a versatile tool / player / chef。简历上夸自己别只写 hardworking，写 \"versatile\" 更能体现\"一专多能\"。近义：adaptable、all-round。"
+    },
+    {
+      "word": "compromise",
+      "pos": "n. / v.",
+      "phonetic": "/ˈkɑːmprəmaɪz/",
+      "meaning": "妥协；折中方案；让步",
+      "enExample": "After a long discussion, we finally reached a compromise on the budget.",
+      "zhExample": "经过长时间讨论，我们终于在预算上达成了折中方案。",
+      "note": "com-（共同）+ promise（承诺）→ \"互相承诺各退一步\"。高频搭配：reach / make a compromise（达成妥协）、compromise on sth（在某事上让步）。注意双重含义：保密信息被泄露也说 be compromised，安全圈高频词。"
+    }
+  ],
+  "essay": {
+    "title": "The Only Hour We Own",
+    "author": "佚名",
+    "paragraphs": [
+      "We spend so much of life leaning forward — into tomorrow, into the next task, into some brighter season we are sure is coming. We tell ourselves we will be happy when the work is done, when the house is quiet, when the children are older. But the life we are postponing is the only one we are actually living.",
+      "The present moment asks for very little. It does not require a plan or a perfect mood. It is simply the warmth of a cup in your hands, the particular grey of the sky before rain, the small fact that you are, right now, unhurried enough to notice. These things do not announce themselves; they wait to be seen.",
+      "To be present is not to abandon the future. It is to stop letting the future rob the present of its weight. A person who can sit through one ordinary evening without reaching for their phone has learned something the busy world has forgotten: that attention, not achievement, is what makes an hour feel like it belonged to you.",
+      "Tonight, before you close the day, try this. Put down what you were hurrying toward. Listen to the room. The present is not a reward you earn by finishing everything else. It is the only hour we ever truly own — and it is already here."
+    ],
+    "translations": [
+      "我们一生中有太多时候都在前倾着身体——倾向明天，倾向下一件任务，倾向某个我们确信终会到来的、更明亮的季节。我们告诉自己，等工作做完、等屋子安静、等孩子长大，就会快乐。可我们一路推迟着不肯过的生活，恰恰是我们唯一真正在过的生活。",
+      "当下的时刻几乎无所索求。它不需要计划，也不需要恰到好处的心情。它只是你手中一杯茶的温热，是雨前天空那一抹特别的灰，是这样一个小小的事实——此刻的你，足够从容，能够留意。这些事物从不自我宣扬，它们只是等着被看见。",
+      "活在当下，并不意味着抛下未来。它只是不再任由未来，夺走此刻应有的分量。一个能安坐度过一个寻常傍晚、而不去伸手够手机的人，已经学到了这个忙碌世界已然遗忘的事：让一小时感觉真正属于你的，是留意，而非成就。",
+      "今夜，在你合上这一天之前，不妨一试。放下你一直在赶着去往的事。听听这间屋子。当下不是你做完所有别的事之后才挣来的奖赏。它是我们真正拥有的唯一时辰——而且它已经在此。"
+    ],
+    "grammar": [
+      {
+        "point": "现在分词作伴随 / 方式状语",
+        "example": "\"We spend so much of life leaning forward — into tomorrow, into the next task...\"",
+        "note": "leaning forward 是现在分词短语，作伴随状语，修饰谓语动词 spend，表示\"前倾着\"的状态；破折号后三个 into 介词短语并列，补充\"前倾\"的去向，形成排比。 举一反三：He walked out the door humming an old song. / 他哼着一首老歌走出了门。"
+      },
+      {
+        "point": "that 引导的定语从句（关系词作宾语可省略）",
+        "example": "\"...the small fact that you are, right now, unhurried enough to notice.\"",
+        "note": "that 引导定语从句修饰 fact，在从句中作 notice 的宾语（notice the fact），故关系代词 that 可以省略。插入语 right now 把主语 you are 与补语 unhurried 隔开，阅读时需跳过。 举一反三：The book (that) you lent me changed how I see mornings. / 你借我的那本书改变了我看待早晨的方式。"
+      },
+      {
+        "point": "not A but B 并列结构（强调对比）",
+        "example": "\"...that attention, not achievement, is what makes an hour feel like it belonged to you.\"",
+        "note": "not achievement 是插入的并列否定成分，与 attention 形成 not A but B 的对比，突出\"留意而非成就\"才是重点；这种插入式对比比直接写 attention is... 更有张力。 举一反三：It was patience, not speed, that saved the project. / 救下那个项目的，是耐心，而非速度。"
+      },
+      {
+        "point": "what 引导的名词性从句作表语",
+        "example": "\"...what makes an hour feel like it belonged to you.\"",
+        "note": "what 引导名词性从句，在句中作表语（is 之后），同时 what 在从句中充当主语，相当于 the thing that。注意 feel like 后接省略 that 的宾语从句 it belonged to you（belonged 用过去式，呼应虚拟般的\"仿佛\"语气）。 举一反三：What surprises me is that he stayed so calm. / 让我意外的是，他竟如此镇定。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "lean forward",
+        "pos": "phr.v.",
+        "meaning": "前倾；急于向前（此处喻\"心总在别处\"）",
+        "enExample": "We spend so much of life leaning forward into tomorrow.",
+        "zhExample": "我们一生中有太多时候都前倾着身体奔向明天。",
+        "note": "用法：lean forward in one's chair；lean forward into the future"
+      },
+      {
+        "term": "postpone",
+        "pos": "v.",
+        "meaning": "推迟；延期",
+        "enExample": "The life we are postponing is the only one we are living.",
+        "zhExample": "我们不断推迟的生活，恰恰是我们正在过的唯一生活。",
+        "note": "用法：postpone sth (to/until)；postpone doing"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "从容的；不慌不忙的",
+        "enExample": "Right now, you are unhurried enough to notice the small things.",
+        "zhExample": "此刻的你足够从容，能留意到那些微小的事。",
+        "note": "用法：an unhurried pace；unhurried enough to notice"
+      },
+      {
+        "term": "announce",
+        "pos": "v.",
+        "meaning": "宣布；自我张扬（文中引申为\"显眼地宣告自己\"）",
+        "enExample": "These quiet things do not announce themselves.",
+        "zhExample": "这些安静的事物从不自我宣扬。",
+        "note": "用法：announce a decision；announce itself（文学用法）"
+      },
+      {
+        "term": "abandon",
+        "pos": "v.",
+        "meaning": "抛弃；放弃",
+        "enExample": "To be present is not to abandon the future.",
+        "zhExample": "活在当下，并不意味着抛下未来。",
+        "note": "用法：abandon a plan/hope；abandon oneself to"
+      },
+      {
+        "term": "rob sb of sth",
+        "pos": "phr.v.",
+        "meaning": "夺走；剥夺（某人的某物）",
+        "enExample": "Do not let worry rob you of a quiet evening.",
+        "zhExample": "别让忧虑夺走你一个安静的傍晚。",
+        "note": "用法：rob the present of its weight；rob sb of a chance"
+      },
+      {
+        "term": "weight",
+        "pos": "n.",
+        "meaning": "分量；重要性（文中引申为\"此刻的分量/质感\"）",
+        "enExample": "The future should not rob the present of its weight.",
+        "zhExample": "未来不该夺走此刻本有的分量。",
+        "note": "用法：carry weight；rob of its weight"
+      },
+      {
+        "term": "reach for",
+        "pos": "phr.v.",
+        "meaning": "伸手去拿；渴求",
+        "enExample": "He sat through the evening without reaching for his phone.",
+        "zhExample": "他安坐了一整个傍晚，没有伸手去拿手机。",
+        "note": "用法：reach for the phone；reach for a dream"
+      },
+      {
+        "term": "achievement",
+        "pos": "n.",
+        "meaning": "成就；成绩",
+        "enExample": "Attention, not achievement, makes an hour feel like yours.",
+        "zhExample": "让一小时感觉属于你的，是留意，而非成就。",
+        "note": "用法：a sense of achievement；academic achievement"
+      },
+      {
+        "term": "belong to",
+        "pos": "phr.v.",
+        "meaning": "属于",
+        "enExample": "It is the only hour we ever truly own.",
+        "zhExample": "它是我们真正拥有的唯一时辰。",
+        "note": "用法：belong to sb；this hour belongs to you"
+      },
+      {
+        "term": "reward",
+        "pos": "n.",
+        "meaning": "奖赏；回报",
+        "enExample": "The present is not a reward you earn later.",
+        "zhExample": "当下不是你日后才挣来的奖赏。",
+        "note": "用法：a reward for sth；earn a reward"
+      },
+      {
+        "term": "earn",
+        "pos": "v.",
+        "meaning": "挣得；赢得",
+        "enExample": "You do not have to earn the right to rest.",
+        "zhExample": "你不必去挣得休息的权利。",
+        "note": "用法：earn money/trust；earn the right"
+      }
+    ]
+  }
+}
