@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-07",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "commute",
+      "pos": "v.",
+      "phonetic": "/kəˈmjuːt/",
+      "meaning": "通勤，上下班往返；也指「减刑」",
+      "enExample": "She commutes an hour each way, so she listens to podcasts on the train.",
+      "zhExample": "她单程通勤一小时，所以在火车上听播客。",
+      "note": "💡 词根 com-+mut（变换），两地「互换」。搭配 daily commute、commute by bike。面试聊住址时说 It is a 30-minute commute，比只说 far 更地道也更具体。"
+    },
+    {
+      "word": "cordial",
+      "pos": "adj.",
+      "phonetic": "/ˈkɔːrdiəl/",
+      "meaning": "热情友好的，诚恳和善的（偏正式）",
+      "enExample": "Despite the disagreement, the two sides kept the talks cordial.",
+      "zhExample": "尽管存在分歧，双方仍让会谈保持友好的氛围。",
+      "note": "💡 词根 cord＝heart（心），同源词 accord、concord。搭配 a cordial welcome、cordial relations。比 friendly 更正式，适合邮件与商务场合，显得修养到位。"
+    },
+    {
+      "word": "inventory",
+      "pos": "n.",
+      "phonetic": "/ˈɪnvəntɔːri/",
+      "meaning": "库存，存货；存货清单",
+      "enExample": "We do a full inventory count at the end of every quarter.",
+      "zhExample": "我们每季度末做一次完整的库存盘点。",
+      "note": "💡 也可作动词「盘点」。搭配 take inventory、inventory levels、out of inventory。汇报时说 We are running low on inventory，表示备货不足需要补货。"
+    },
+    {
+      "word": "peruse",
+      "pos": "v.",
+      "phonetic": "/pəˈruːz/",
+      "meaning": "仔细阅读，翻阅，通读",
+      "enExample": "Please peruse the attached report before Thursday's meeting.",
+      "zhExample": "请在周四会议前细读附件中的报告。",
+      "note": "💡 比 read 更正式，强调「认真看完」。搭配 peruse a document、peruse the list。勿与 browse 混用：peruse 是细读，browse 只是随手浏览。"
+    },
+    {
+      "word": "opt out",
+      "pos": "phr.",
+      "phonetic": "/ɒpt aʊt/",
+      "meaning": "选择退出，决定不参加",
+      "enExample": "You may opt out of the training session if your schedule is tight.",
+      "zhExample": "如果日程紧张，你可以选择不参加这次培训。",
+      "note": "💡 反义是 opt in（选择加入），固定搭配 opt out of something。常用于订阅邮件、活动报名。职场中比 refuse 温和，强调是主动选择而非拒绝。"
+    }
+  ],
+  "essay": {
+    "title": "The Morning After the Wind",
+    "author": "佚名",
+    "paragraphs": [
+      "The wind left sometime before dawn, and I only knew because the house grew quiet in a new way. Not silence — the quiet of a room after someone stops arguing. I opened the door and the air came in cool and clean, smelling of wet slate and broken cedar. The gust that had battered the fence all night was gone.",
+      "The garden looked as if a hand had gone through it. Debris lay strewn across the path in a long curved line, the way a river leaves things. A chair had toppled onto its side and stayed there, patient as a question. Nothing was ruined. Everything was simply somewhere else. It took me a moment to understand that this was not damage but rearrangement.",
+      "I walked the length of the fence. Three posts leaned; one stood upright, absurdly proud. The old maple had lost a branch the size of my arm and looked, somehow, unscathed. Wind does not hate what it breaks. It simply passes through, and what bends subsides back into its own shape when the passing is over, the way water does.",
+      "People are like this too, though we rarely say it. After an argument, or a letter we wish we had not sent, the air in a house changes and everyone pretends not to notice. We sweep, we straighten, we wait for the noise in our chests to quiet. Then one morning we speak again, and the sentence is ordinary, and that is how we know it has passed.",
+      "By seven the street was being cleared. A neighbour dragged a branch to the kerb and waved as though nothing had happened. The sky was washed pale blue, the sort of blue that arrives only after something has been taken away. I made coffee and stood at the window. The morning was battered and entirely intact, and I could not have told you which part of that was the gift."
+    ],
+    "translations": [
+      "风在黎明前的某个时刻走了，我之所以知道，是因为屋子以一种全新的方式安静下来。不是寂静——像是一个人停止争吵之后，房间里的那种安静。我打开门，空气清冽地涌进来，带着湿石板与折断的雪松的气味。整夜拍打着篱笆的那阵狂风，已经不在了。",
+      "花园看上去像被一只手翻过。碎屑沿着小径散落成一长条弧线，像河流把东西留下的方式。一把椅子翻倒在地，就那么侧躺着，耐心得像一个问题。没有东西坏掉。一切都只是换了个地方。我过了一会儿才明白，这不是损毁，而是重新摆放。",
+      "我沿着篱笆走了一趟。三根柱子歪了；有一根仍然笔直地立着，骄傲得有些可笑。那棵老枫树掉了一根我胳膊粗细的枝，看上去却不知怎么，毫发未伤。风并不恨它折断的东西。它只是穿过去而已，而弯下去的东西，会在风过之后重新回到自己的形状，就像水那样。",
+      "人也是这样，只是我们很少说出口。一场争吵之后，或是一封我们希望自己没有寄出的信之后，屋子里的空气变了，每个人都假装没有察觉。我们扫地，我们归置，我们等着胸口的喧嚣平息。然后某个早晨我们又开口了，那句话平淡无奇，而我们就此知道，它已经过去了。",
+      "七点之前，街道正在被清理。一位邻居把树枝拖到路边，朝我挥手，仿佛什么都没有发生过。天空被洗成淡淡的蓝，那种只有在某个东西被带走之后才会出现的蓝。我煮了咖啡，站在窗前。这个清晨伤痕累累，却完好无缺，而我说不出其中哪一部分才是礼物。"
+    ],
+    "grammar": [
+      {
+        "point": "not...but... 否定与转折的对照结构",
+        "example": "\"It took me a moment to understand that this was not damage but rearrangement.\"",
+        "note": "not A but B 表示「不是 A，而是 B」，用否定把一个说法推开，再用 but 把重心落在后者上。句中把「损毁」换成「重新摆放」，风后的现场意义随之翻转。 举一反三：同类结构还有 not...but rather...，如 it was not luck but rather practice。"
+      },
+      {
+        "point": "as though 引导方式状语从句 + 虚拟语气",
+        "example": "\"A neighbour dragged a branch to the kerb and waved as though nothing had happened.\"",
+        "note": "as though 与 as if 同义，表示「好像、仿佛」。其后用了过去完成时 had happened，属于虚拟语气，说明所说内容与事实相反——事情其实确实发生了。 举一反三：虚拟语气也可用一般过去时，如 he smiled as if he knew the answer。"
+      },
+      {
+        "point": "what 引导的关系型名词从句",
+        "example": "\"Wind does not hate what it breaks.\"",
+        "note": "what 在此相当于 the things that，同时充当 breaks 的宾语和 hate 的宾语，一个词承担两层句法成分，句子因此格外紧凑有力。 举一反三：可改写为 anything that 结构，如 anything that bends will settle back。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "gust",
+        "pos": "n.",
+        "meaning": "一阵狂风",
+        "enExample": "A sudden gust knocked the hat off the table.",
+        "zhExample": "一阵突如其来的狂风把桌上的帽子吹落了。",
+        "note": "用法：指突然刮起的一阵强风，常与 of 连用，如 a gust of wind"
+      },
+      {
+        "term": "debris",
+        "pos": "n.",
+        "meaning": "碎片；残骸",
+        "enExample": "Volunteers cleared the debris from the street after the storm.",
+        "zhExample": "暴风雨过后，志愿者清理了街上的残骸。",
+        "note": "用法：指物体被破坏后散落的碎屑，多作集合名词使用"
+      },
+      {
+        "term": "topple",
+        "pos": "v.",
+        "meaning": "倒塌；翻倒",
+        "enExample": "The empty vase toppled in the draught.",
+        "zhExample": "那只空花瓶在过堂风里倒了。",
+        "note": "用法：形容高而细的东西失去平衡后倒下，也可指政权垮台"
+      },
+      {
+        "term": "strewn",
+        "pos": "adj.",
+        "meaning": "散落的；撒满的",
+        "enExample": "Toys lay strewn across the living room floor.",
+        "zhExample": "玩具散落在客厅的地板上。",
+        "note": "用法：strew 的过去分词作形容词，常接 across、over、with"
+      },
+      {
+        "term": "upright",
+        "pos": "adj.",
+        "meaning": "直立的；正直的",
+        "enExample": "Only one fence post remained upright after the storm.",
+        "zhExample": "暴风雨过后，只有一根篱笆柱仍然立着。",
+        "note": "用法：形容物体垂直不倒，也可形容人品行端正"
+      },
+      {
+        "term": "subside",
+        "pos": "v.",
+        "meaning": "平息；减弱",
+        "enExample": "We waited for the noise in the street to subside.",
+        "zhExample": "我们等着街上的喧闹平息下来。",
+        "note": "用法：用于风、雨、疼痛、情绪等逐渐消退，比 stop 更缓慢"
+      },
+      {
+        "term": "battered",
+        "pos": "adj.",
+        "meaning": "饱经风霜的；受撞击的",
+        "enExample": "The battered old suitcase had crossed three borders.",
+        "zhExample": "那只破旧的手提箱已经越过了三个边境。",
+        "note": "用法：形容被反复击打或长期磨损后留下的痕迹，也可形容人"
+      },
+      {
+        "term": "unscathed",
+        "pos": "adj.",
+        "meaning": "未受损伤的；安然无恙的",
+        "enExample": "The house survived the fire unscathed.",
+        "zhExample": "那座房子在火灾中毫发无损。",
+        "note": "用法：多用于事故、批评、变故之后仍毫发无损"
+      }
+    ]
+  }
+}

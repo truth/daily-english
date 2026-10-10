@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-08",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "glitch",
+      "pos": "n.",
+      "phonetic": "/ɡlɪtʃ/",
+      "meaning": "小故障，突发的小毛病（多指系统、设备）",
+      "enExample": "A minor glitch delayed the payment by about ten minutes.",
+      "zhExample": "一个小小的故障让付款延迟了大约十分钟。",
+      "note": "💡 指短暂、可修复的小问题，语气比 problem、error 轻。搭配 a technical glitch、glitch in the system。汇报时用 glitch 显得问题可控不夸大。"
+    },
+    {
+      "word": "defer",
+      "pos": "v.",
+      "phonetic": "/dɪˈfɜːr/",
+      "meaning": "推迟，延期；（defer to）遵从，听从",
+      "enExample": "Let's defer the decision until we have the final numbers.",
+      "zhExample": "我们把决定推迟到拿到最终数据之后吧。",
+      "note": "💡 双含义：defer something 推迟；defer to someone 尊重某人意见。职场高频 I will defer to your judgment on this，比 you decide 更显专业与谦逊。"
+    },
+    {
+      "word": "redundant",
+      "pos": "adj.",
+      "phonetic": "/rɪˈdʌndənt/",
+      "meaning": "多余的，冗余的；（英式）被裁员的",
+      "enExample": "Two steps in this workflow are completely redundant and can be removed.",
+      "zhExample": "这个流程里有两步完全多余，可以直接去掉。",
+      "note": "💡 名词 redundancy 在英式英语中即「裁员」。搭配 make someone redundant、redundant data。外企里 redundancy package 指的是遣散补偿方案。"
+    },
+    {
+      "word": "liaison",
+      "pos": "n.",
+      "phonetic": "/liˈeɪzɑːn/",
+      "meaning": "联络，沟通；联络人，协调人",
+      "enExample": "She acts as the liaison between the design and engineering teams.",
+      "zhExample": "她担任设计团队与工程团队之间的联络人。",
+      "note": "💡 源自法语，-son 读 /zɑːn/。搭配 act as liaison、liaison officer、work in liaison with。简历里写 liaison between A and B 能凸显跨部门协调能力。"
+    },
+    {
+      "word": "mull over",
+      "pos": "phr.",
+      "phonetic": "/mʌl ˈoʊvər/",
+      "meaning": "反复考虑，仔细斟酌",
+      "enExample": "He asked for a weekend to mull over the job offer.",
+      "zhExample": "他要求给一个周末来仔细考虑这份工作邀约。",
+      "note": "💡 可拆分：mull something over，也常说 mull it over。比 think about 更强调「反复慢慢想」。得体用法：Let me mull it over and get back to you tomorrow."
+    }
+  ],
+  "essay": {
+    "title": "What the Trees Let Go",
+    "author": "佚名",
+    "paragraphs": [
+      "Every October the trees do something I find hard to imitate: they give away what they no longer need, without ceremony, without a speech. One morning the foliage is still there, heavy and green; the next, half of it is on the ground, brittle and gold. Nobody is thanked. Nobody is asked. It happens in a night, or in the space of one long afternoon.",
+      "A leaf does not fall all at once. First the stem loosens, then a thin line of cork forms, and finally the leaf detaches from the branch with almost no sound at all. If you stand under a tree on a dry day you will hear thousands of these small leavings at once — a rustle like paper being folded somewhere out of sight.",
+      "By November the same tree will be barren, and people will call it dead. It is not dead. It is simply keeping less. Underneath, the fallen leaves are decaying into something the roots can still use: nutrient returned to the soil, a slow transaction conducted entirely in the dark. Nothing that was made is wasted; it is only changed into a form the tree can carry.",
+      "I have been trying to learn the difference between losing something and letting it go. Losing is an accident; letting go is a decision made quietly, usually alone. My grandmother did it with objects all her life. Her shelves dwindled year by year, and she never once called it loss. She called it making room. The room, she said, was the point.",
+      "So the trees are not mourning. They are giving up the cost of staying green, and they will do it again next year without being told. There is a kind of wisdom in that: to know the season, to keep only what can be carried, and to trust that what falls is not gone. It is simply on its way back down to the roots."
+    ],
+    "translations": [
+      "每年十月，树都会做一件我觉得很难模仿的事：把它们不再需要的东西送出去，没有仪式，没有致辞。头一天早晨，枝叶还在，浓密而青绿；第二天，一半已经躺在地上，脆薄而金黄。没有人道谢。也没有人被征询。这一切发生在夜里，或者发生在一个漫长的下午的缝隙里。",
+      "一片叶子不是一下子落下的。先是叶柄松动，然后形成一道细细的木栓层，最后叶片几乎无声地从枝上脱落。如果你在一个干燥的日子站在树下，会同时听见成千上万次这样微小的离别——一阵沙沙声，像有人在看不见的地方折纸。",
+      "到了十一月，同一棵树会变得光秃，人们会说它死了。它没有死。它只是留得更少了。在下面，那些落叶正在腐烂成根还能使用的东西：养分回到土里，一场完全在黑暗中进行的缓慢交易。凡是被造出来的都不会被浪费，它只是变成了树能带走的形状。",
+      "我一直在学着分辨「失去」与「放手」。失去是意外；放手是一个安静做出的决定，通常独自完成。我外祖母一辈子都在对物件做这件事。她的架子一年年减少，而她从不称之为失去。她称之为腾地方。她说，地方才是要紧的东西。",
+      "所以树并不是在哀悼。它们是在放弃保持青绿所需的代价，而且明年无需被告知便会把这件事再做一遍。其中有一种智慧：认得季节，只留下能带走的，并且相信落下的并没有消失。它只是正在往回走，走向根部。"
+    ],
+    "grammar": [
+      {
+        "point": "现在进行时表示正在持续的变化",
+        "example": "\"Underneath, the fallen leaves are decaying into something the roots can still use.\"",
+        "note": "are decaying 用现在进行时，强调腐烂是此刻正在持续发生的过程，而不是一次性结果。描写自然变化时，进行时能让画面活起来，读者仿佛正站在现场。 举一反三：同类用法还有 the light is fading、the city is waking up。"
+      },
+      {
+        "point": "between...and... 引出二者的区别",
+        "example": "\"I have been trying to learn the difference between losing something and letting it go.\"",
+        "note": "between 后接两个动名词 losing 与 letting，把抽象动作并列起来比较。have been trying 是现在完成进行时，强调从过去延续至今、仍在持续的努力。 举一反三：也可接两个名词，如 the difference between habit and choice。"
+      },
+      {
+        "point": "并列不定式作同位语",
+        "example": "\"to know the season, to keep only what can be carried, and to trust that what falls is not gone\"",
+        "note": "三个不定式短语并列，共同说明前面 wisdom 的具体内容，相当于同位语。冒号后接一组并列结构，是英文散文收束全篇的常见手法。 举一反三：也可用 such as 引出，如 a rule such as to arrive early and speak little。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "foliage",
+        "pos": "n.",
+        "meaning": "枝叶；叶子（总称）",
+        "enExample": "The foliage along the river turns gold in October.",
+        "zhExample": "十月里，河边的枝叶变成金色。",
+        "note": "用法：指一棵树或一片林子的全部叶子，是不可数的集合名词"
+      },
+      {
+        "term": "brittle",
+        "pos": "adj.",
+        "meaning": "脆的；易折断的",
+        "enExample": "The dry leaves were brittle under my boots.",
+        "zhExample": "枯叶在我的靴子底下脆裂开来。",
+        "note": "用法：形容干燥或老化后一碰就碎的东西，也可形容关系脆弱"
+      },
+      {
+        "term": "detach",
+        "pos": "v.",
+        "meaning": "脱落；分离；拆下",
+        "enExample": "Detach the form and keep the top copy.",
+        "zhExample": "把表格撕下来，保留上面那一联。",
+        "note": "用法：指把原本相连的两部分分开，也常用于情感上的抽离"
+      },
+      {
+        "term": "rustle",
+        "pos": "v./n.",
+        "meaning": "沙沙作响；沙沙声",
+        "enExample": "Something rustled in the bushes behind the fence.",
+        "zhExample": "篱笆后的灌木丛里有东西沙沙作响。",
+        "note": "用法：形容叶子、纸张、布料等轻薄物摩擦发出的细碎声响"
+      },
+      {
+        "term": "barren",
+        "pos": "adj.",
+        "meaning": "光秃的；不毛的",
+        "enExample": "The hills look barren until the spring rain.",
+        "zhExample": "在春雨到来之前，那些山丘看上去光秃秃的。",
+        "note": "用法：形容土地不长植物，也比喻毫无结果或空洞无物"
+      },
+      {
+        "term": "decay",
+        "pos": "v./n.",
+        "meaning": "腐烂；衰败",
+        "enExample": "Fallen apples decay quickly on wet ground.",
+        "zhExample": "落下的苹果在潮湿的地面上很快腐烂。",
+        "note": "用法：指有机物慢慢分解，也可指制度、记忆、活力逐渐衰退"
+      },
+      {
+        "term": "nutrient",
+        "pos": "n.",
+        "meaning": "养分；营养物",
+        "enExample": "Dead leaves return nutrients to the soil.",
+        "zhExample": "枯叶把养分还给土壤。",
+        "note": "用法：指生物生长所需的物质，常见于土壤、食物等语境"
+      },
+      {
+        "term": "dwindle",
+        "pos": "v.",
+        "meaning": "逐渐减少；缩小",
+        "enExample": "The crowd dwindled as the evening cooled.",
+        "zhExample": "随着傍晚转凉，人群渐渐稀少。",
+        "note": "用法：强调数量一点点变少的过程，比 decrease 更有画面感"
+      }
+    ]
+  }
+}

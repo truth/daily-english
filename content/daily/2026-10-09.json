@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-09",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "aspire",
+      "pos": "v.",
+      "phonetic": "/əˈspaɪər/",
+      "meaning": "渴望，追求，立志（达到较高目标）",
+      "enExample": "She aspires to lead a product team within three years.",
+      "zhExample": "她立志三年内带领一个产品团队。",
+      "note": "💡 词根 spir＝breathe（呼吸），向目标「吐气」。搭配 aspire to something、aspire to do。面试说 My long-term aspiration is... 比 goal 更有格局与书面感。"
+    },
+    {
+      "word": "quirk",
+      "pos": "n.",
+      "phonetic": "/kwɜːrk/",
+      "meaning": "怪癖，奇特之处；（系统的）小特性",
+      "enExample": "One quirk of this software is that it never remembers your window size.",
+      "zhExample": "这款软件的一个小怪癖是它从不记住你的窗口大小。",
+      "note": "💡 中性偏褒，指「有点怪但无伤大雅」。搭配 a quirk of fate、personality quirk、a quirk of the system。说 It is just his quirk 比 weird 友善得多。"
+    },
+    {
+      "word": "thrifty",
+      "pos": "adj.",
+      "phonetic": "/ˈθrɪfti/",
+      "meaning": "节俭的，会精打细算过日子的",
+      "enExample": "Being thrifty doesn't mean being cheap — it means spending on what matters.",
+      "zhExample": "节俭不等于小气，而是把钱花在真正重要的事上。",
+      "note": "💡 与 frugal 近义，但 thrifty 更褒义、更生活化。搭配 a thrifty shopper、thrifty habits。切勿用 stingy、mean（吝啬，贬义）来夸人。"
+    },
+    {
+      "word": "nudge",
+      "pos": "v.",
+      "phonetic": "/nʌdʒ/",
+      "meaning": "轻推；委婉地提醒、促使（某人行动）",
+      "enExample": "I sent him a quick message to nudge him about the deadline.",
+      "zhExample": "我给他发了条简短消息，提醒他一下截止日期。",
+      "note": "💡 原意「用肘轻推」，引申为不伤和气的催促。搭配 give someone a nudge、nudge someone toward something。催同事时用 Just a gentle nudge 更柔和。"
+    },
+    {
+      "word": "weigh up",
+      "pos": "phr.",
+      "phonetic": "/weɪ ʌp/",
+      "meaning": "权衡，仔细掂量利弊",
+      "enExample": "We need to weigh up the costs against the potential benefits.",
+      "zhExample": "我们需要权衡一下成本与潜在收益。",
+      "note": "💡 画面感：把选项放上天平。搭配 weigh up the pros and cons、weigh up one's options。也可接 whether：weigh up whether to accept，显得思虑周全。"
+    }
+  ],
+  "essay": {
+    "title": "The Shape of an Ordinary Week",
+    "author": "佚名",
+    "paragraphs": [
+      "A week has a cadence if you stop counting it in tasks. Monday arrives heavy and slightly ahead of itself; Tuesday is longer than it should be; by Thursday the days begin to run together like water. None of this is written anywhere. It is simply the shape a life takes when it repeats. The customary is not boring. It is load-bearing.",
+      "Certain hours recur with the reliability of furniture. The six-fifteen light on the kitchen wall. The neighbour who walks his dog at exactly the same corner. These are the seams of a week, the places where one day is stitched to the next, and I have stopped calling them filler. They hold the whole thing together, and nobody thanks them.",
+      "The most unremarkable hour of my week is Wednesday at four. Nothing happens in it. I make tea, answer two messages, look out at the same tree. For years I tried to fill this hour with something useful. Now I think the hour is doing its work precisely because nothing happens: it is the groove the rest of the week runs along.",
+      "Italians have a word for the small interval between things, and I have borrowed it without being able to pronounce it. Between the meeting and the walk. Between the last email and the first bite of dinner. We rush these spaces as though they were empty, but they are the only part of the day entirely ours, and the day is mostly made of them.",
+      "I used to want a life with more symmetry: big days, clear chapters, a plot. What I have instead is a week that rhymes. The same kettle, the same corner, the same four o'clock light. It is enough. Almost nothing in it would be worth writing down, and that is exactly why I can keep living it."
+    ],
+    "translations": [
+      "如果你不用任务来数一周，它是有韵律的。星期一沉甸甸地到来，略微超前于自身；星期二长得超出它该有的长度；到了星期四，日子开始像水一样连成一片。这些没有写在任何地方。它不过是一个生命在重复时所呈现的形状。惯常并不无聊。它是承重的。",
+      "某些时刻以家具般的可靠性反复出现。六点十五分打在厨房墙上的那道光。那位总在同一个拐角遛狗的邻居。这些是一周的接缝，是把一天缝到下一天的地方，而我已经不再把它们叫作填空。它们把整件事拢在一起，却没有人为此道谢。",
+      "我一周里最平淡无奇的一小时，是星期三下午四点。那一小时里什么也不发生。我泡茶，回两条消息，看看外面同一棵树。有好些年，我试图用有用的事把它填满。现在我觉得，这一小时之所以在起作用，恰恰因为什么都不发生：它是整周得以运转的轨道。",
+      "意大利人有一个词，指事物之间那小小的间隙，我借用了它，却始终念不准。会议与散步之间。最后一封邮件与晚饭第一口之间。我们匆匆穿过这些空隙，好像它们是空的，可它们是一天里唯一完全属于我们的部分，而一天大半正是由它们构成。",
+      "我曾经想要一种更对称的人生：重要的日子，清晰的章节，一条情节线。而我拥有的，却是一个押韵的星期。同一把水壶，同一个拐角，同一些四点钟的光。这已经够了。其中几乎没有什么是值得写下来的，而恰恰因为如此，我才能继续过下去。"
+    ],
+    "grammar": [
+      {
+        "point": "where 引导的定语从句",
+        "example": "\"These are the seams of a week, the places where one day is stitched to the next.\"",
+        "note": "where 引导定语从句修饰先行词 places，相当于 in which。从句中使用被动语态 is stitched，把「缝合」的意象落到 day 上，画面感由此产生。 举一反三：地点先行词后可用 where 或 in which，如 the corner where we first met。"
+      },
+      {
+        "point": "副词 precisely 强调原因状语从句",
+        "example": "\"Now I think the hour is doing its work precisely because nothing happens.\"",
+        "note": "precisely 放在 because 之前，强调「恰恰因为它」，把反直觉之处点明。用副词修饰连词，是英文中常见而有力的强调手段。 举一反三：同类强调词还有 partly because、largely because、simply because。"
+      },
+      {
+        "point": "be worth doing 结构",
+        "example": "\"Almost nothing in it would be worth writing down, and that is exactly why I can keep living it.\"",
+        "note": "be worth doing 表示「值得被做」，用主动形式表达被动含义，worth 后必须接动名词。would 在此表示委婉的推测，语气比 is 更柔和。 举一反三：同类表达还有 the film is worth watching twice、it is worthwhile to wait。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "cadence",
+        "pos": "n.",
+        "meaning": "节奏；韵律；抑扬",
+        "enExample": "She liked the cadence of rain on the roof.",
+        "zhExample": "她喜欢雨打屋顶的那种节奏。",
+        "note": "用法：指声音或事件起伏的节律，常用于音乐、语言、生活节奏"
+      },
+      {
+        "term": "customary",
+        "pos": "adj.",
+        "meaning": "惯常的；合乎习惯的",
+        "enExample": "He took his customary seat by the window.",
+        "zhExample": "他在窗边那个惯常的位子上坐了下来。",
+        "note": "用法：形容按习俗或惯例一贯如此，比 usual 更正式"
+      },
+      {
+        "term": "recur",
+        "pos": "v.",
+        "meaning": "再次发生；重现",
+        "enExample": "The same dream recurred for three nights.",
+        "zhExample": "同一个梦连续三个晚上重现。",
+        "note": "用法：指同样的念头、画面、情形反复出现，名词为 recurrence"
+      },
+      {
+        "term": "unremarkable",
+        "pos": "adj.",
+        "meaning": "平淡无奇的；不引人注意的",
+        "enExample": "The café looked unremarkable from the outside.",
+        "zhExample": "这家咖啡馆从外面看平淡无奇。",
+        "note": "用法：形容没有什么值得特别提及，语气中性，不含贬义"
+      },
+      {
+        "term": "interval",
+        "pos": "n.",
+        "meaning": "间隔；间歇；间隙",
+        "enExample": "There was a short interval between the two talks.",
+        "zhExample": "两场谈话之间有一段短暂的间隙。",
+        "note": "用法：指两件事之间的空档，时间空间均可，常见于 at intervals"
+      },
+      {
+        "term": "seam",
+        "pos": "n.",
+        "meaning": "接缝；缝合处；结合处",
+        "enExample": "She ran a finger along the seam of the coat.",
+        "zhExample": "她用手指顺着外套的接缝划过。",
+        "note": "用法：原指布料缝合的线，引申为两部分相接的地方"
+      },
+      {
+        "term": "groove",
+        "pos": "n.",
+        "meaning": "沟槽；惯例；轨道",
+        "enExample": "The needle follows the same groove every time.",
+        "zhExample": "唱针每一次都沿着同一道沟槽走。",
+        "note": "用法：本义是刻出的凹槽，引申为习惯成自然的固定运转方式"
+      },
+      {
+        "term": "symmetry",
+        "pos": "n.",
+        "meaning": "对称；匀称",
+        "enExample": "The garden was planted with careful symmetry.",
+        "zhExample": "这座花园种植得十分对称。",
+        "note": "用法：指两边对应均衡，也比喻结构上的整齐与呼应"
+      }
+    ]
+  }
+}
