@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-14",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "mingle",
+      "pos": "v.",
+      "phonetic": "/ˈmɪŋɡl/",
+      "meaning": "交际，混在一起",
+      "enExample": "She mingles easily with strangers at events.",
+      "zhExample": "她在活动上能和陌生人轻松交谈。",
+      "note": "💡 搭 mingle with。近义 mix，但 mingle 多指人际。small talk 的动词搭档。"
+    },
+    {
+      "word": "anecdote",
+      "pos": "n.",
+      "phonetic": "/ˈænɪkdəʊt/",
+      "meaning": "轶事，小故事",
+      "enExample": "A short anecdote made the point land.",
+      "zhExample": "一个短小的轶事，让观点落地了。",
+      "note": "💡 搭 tell an anecdote。闲聊里用 anecdote 拉近距离，比讲道理更暖。"
+    },
+    {
+      "word": "paraphrase",
+      "pos": "v.",
+      "phonetic": "/ˈpærəfreɪz/",
+      "meaning": " paraphrasing，意译，换种说法",
+      "enExample": "Let me paraphrase: you need one more day, right?",
+      "zhExample": "我换个说法：你还需要多一天，对吧？",
+      "note": "💡 para-（旁）+ phrase（表述）。搭 paraphrase to confirm。深度沟通里用来确认理解。"
+    },
+    {
+      "word": "attentive",
+      "pos": "adj.",
+      "phonetic": "/əˈtentɪv/",
+      "meaning": "专注的，体贴的",
+      "enExample": "An attentive listener makes people feel heard.",
+      "zhExample": "用心的倾听者，让人觉得自己被听见。",
+      "note": "💡 来自 attend（注意）。搭 be attentive to。反义 distracted。闲聊的关键不是说，是听。"
+    },
+    {
+      "word": "disarm",
+      "pos": "v.",
+      "phonetic": "/dɪsˈɑːm/",
+      "meaning": "消除（戒备），使人放下防备",
+      "enExample": "A warm smile disarmed the tense room.",
+      "zhExample": "一个温暖的微笑，化解了紧绷的房间。",
+      "note": "💡 本义解除武装。搭 disarm someone。社交里用轻松姿态 disarm 对方。"
+    }
+  ],
+  "essay": {
+    "title": "Small Talk, Real Connection",
+    "author": "佚名",
+    "paragraphs": [
+      "Small talk gets a bad name, yet it is the doorway to something deeper. A few light words can turn a stranger into a fellow human being.",
+      "The trick is curiosity, not cleverness. Ask about someone's weekend, their city, or a book in their bag, then listen as if it truly matters.",
+      "Real connection hides in the ordinary. When you are attentive to small details, people feel seen, and seeing is the beginning of trust.",
+      "Avoid turning talk into a performance. The goal is not to impress but to bridge two lives for a moment.",
+      "Next time, trade your script for a smile. You may find that the smallest talk carries the warmest belonging."
+    ],
+    "translations": [
+      "闲聊常常背了坏名声，但它其实是通往更深处的一扇门。几句轻松的话，就能把一个陌生人变成同路人。",
+      "诀窍在于好奇，而非机智。问问对方的周末、所在城市，或包里那本书，然后认真去听，仿佛那真的很重要。",
+      "真正的连接藏在平凡里。当你对细微之处留心，人们便感到被看见；而被看见，正是信任的起点。",
+      "别把聊天变成一场表演。目的不是打动对方，而是在某一刻连接两段人生。",
+      "下次，把套路换成微笑。你或许会发现，最微小的闲聊，也承载着最温暖的归属感。"
+    ],
+    "grammar": [
+      {
+        "point": "并列句",
+        "example": "\"Ask a small question, and you invite a real answer.\"",
+        "note": "由 and 连接的并列句，前句为祈使，后句表自然结果，语气轻快。 举一反三：此类「祈使 + and/or + 陈述」结构表条件结果，如 Work hard, and you will succeed."
+      },
+      {
+        "point": "方式状语从句",
+        "example": "\"Listen as if the answer truly matters.\"",
+        "note": "as if 引导方式状语从句，表示仿佛……那样，此处用虚拟语气表与事实相反的假设。 举一反三：as if 后接过去式常表虚拟；接陈述语气则表可能真实。"
+      },
+      {
+        "point": "现在完成时",
+        "example": "\"I have learned that small talk is never small.\"",
+        "note": "现在完成时强调过去学到的经验持续影响现在的理解。 举一反三：与 I learned... 相比，完成时更突出经验对当下的意义。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "small talk",
+        "pos": "n.",
+        "meaning": "闲聊；寒暄",
+        "enExample": "\"Small talk eases the tension in a new room.\"",
+        "zhExample": "闲聊能缓解初入新环境的紧张。",
+        "note": "用法：指非正式、轻松的开场对话。"
+      },
+      {
+        "term": "rapport",
+        "pos": "n.",
+        "meaning": "融洽；默契",
+        "enExample": "\"She built rapport with every client.\"",
+        "zhExample": "她和每位客户都建立了默契。",
+        "note": "用法：指人与人之间轻松信任的关系。"
+      },
+      {
+        "term": "curiosity",
+        "pos": "n.",
+        "meaning": "好奇心",
+        "enExample": "\"Curiosity opens more doors than cleverness.\"",
+        "zhExample": "好奇心比机巧更能打开门。",
+        "note": "用法：指真诚想了解他人的意愿。"
+      },
+      {
+        "term": "attentive",
+        "pos": "adj.",
+        "meaning": "专心的；留心的",
+        "enExample": "\"An attentive listener makes others feel valued.\"",
+        "zhExample": "专心的倾听者让人感到被重视。",
+        "note": "用法：指全神贯注地关注对方。"
+      },
+      {
+        "term": "bridge",
+        "pos": "v.",
+        "meaning": "弥合；连接",
+        "enExample": "\"Humor can bridge cultural gaps.\"",
+        "zhExample": "幽默能跨越文化鸿沟。",
+        "note": "用法：作动词指缩短人与人之间的距离。"
+      },
+      {
+        "term": "genuine",
+        "pos": "adj.",
+        "meaning": "真诚的；真实的",
+        "enExample": "\"A genuine smile needs no words.\"",
+        "zhExample": "真诚的微笑无须言语。",
+        "note": "用法：指不带表演色彩的真心。"
+      },
+      {
+        "term": "belonging",
+        "pos": "n.",
+        "meaning": "归属感",
+        "enExample": "\"Teams thrive on a sense of belonging.\"",
+        "zhExample": "团队因归属感而蓬勃。",
+        "note": "用法：指被某个群体接纳的感觉。"
+      },
+      {
+        "term": "ease",
+        "pos": "n./v.",
+        "meaning": "轻松；缓和",
+        "enExample": "\"Her warmth eased my nervousness.\"",
+        "zhExample": "她的热情缓解了我的紧张。",
+        "note": "用法：作名词表自在感，作动词表缓解。"
+      }
+    ]
+  }
+}

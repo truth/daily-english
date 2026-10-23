@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-12",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "spark",
+      "pos": "v.",
+      "phonetic": "/spɑːk/",
+      "meaning": "激发，引发",
+      "enExample": "A random question sparked the whole new project.",
+      "zhExample": "一个随口的提问，点燃了整个新项目。",
+      "note": "💡 本义火花。搭 spark an idea、spark interest。名词也可作「诱因」。"
+    },
+    {
+      "word": "brainstorm",
+      "pos": "v.",
+      "phonetic": "/ˈbreɪnstɔːm/",
+      "meaning": "头脑风暴，集思广益",
+      "enExample": "Let us brainstorm three wild solutions before judging any.",
+      "zhExample": "先头脑风暴出三个大胆方案，再评判。",
+      "note": "💡 名词亦可。搭 brainstorm ideas。创意阶段先 quantity 后 quality。"
+    },
+    {
+      "word": "prototype",
+      "pos": "n.",
+      "phonetic": "/ˈproʊtətaɪp/",
+      "meaning": "原型，雏形",
+      "enExample": "We built a rough prototype to test the idea fast.",
+      "zhExample": "我们做了个粗糙原型，快速验证想法。",
+      "note": "💡 词根 proto-（最初）+ type（型）。搭 a working prototype。比 perfect plan 更早暴露问题。"
+    },
+    {
+      "word": "tweak",
+      "pos": "v.",
+      "phonetic": "/twiːk/",
+      "meaning": "微调，稍作修改",
+      "enExample": "I tweaked the wording until it felt natural.",
+      "zhExample": "我把措辞微调到读起来自然为止。",
+      "note": "💡 口语常用。搭 tweak a setting、small tweak。比 rewrite 轻，适合迭代。"
+    },
+    {
+      "word": "serendipity",
+      "pos": "n.",
+      "phonetic": "/ˌserənˈdɪpəti/",
+      "meaning": "机缘巧合，意外发现好运",
+      "enExample": "Serendipity favors those who are already exploring.",
+      "zhExample": "机缘偏爱那些已经在探索的人。",
+      "note": "💡 源自童话。搭 by serendipity。创造力常来自「准备好的头脑撞上偶然」。"
+    }
+  ],
+  "essay": {
+    "title": "Why Boredom Is Good for You",
+    "author": "佚名",
+    "paragraphs": [
+      "We treat boredom as an enemy to be defeated with endless scrolling. Yet the empty moments we rush to fill are often where the best ideas quietly take shape.",
+      "When the mind is not fed constant input, it begins to wander. This wandering is not laziness; it is the brain making unexpected connections between distant thoughts.",
+      "Creativity needs white space. A bored walk or a quiet commute can recharge your imagination far better than another podcast.",
+      "Try protecting one idle stretch each day. Leave your phone in your pocket and let your thoughts drift without a destination.",
+      "Boredom is not a problem to solve. It is an invitation to notice, to imagine, and to meet the more original version of yourself."
+    ],
+    "translations": [
+      "我们把无聊当成必须用不停刷屏去击败的敌人。然而那些我们急于填满的空白时刻，往往正是好点子悄然成形的地方。",
+      "当大脑不再被源源不断的输入填满，它便开始游荡。这种游荡并非偷懒，而是大脑在不同念头之间建立意外的联结。",
+      "创造力需要留白。一段无聊的散步或安静的通勤，往往比再听一档播客更能为想象力充电。",
+      "试着每天保留一段无所事事的时光。把手机收进口袋，让思绪毫无目的地飘一会儿。",
+      "无聊不是待解的问题，而是一份邀约——去觉察、去想象，去遇见更本真的自己。"
+    ],
+    "grammar": [
+      {
+        "point": "时间状语从句",
+        "example": "\"When the mind is not fed constant input, it begins to wander.\"",
+        "note": "when 引导时间状语从句，表示当……时，主句描述随之发生的结果。 举一反三：when 也可表一……就或既然；注意主将从现，类似 When you relax, ideas flow."
+      },
+      {
+        "point": "现在分词作状语",
+        "example": "\"Leaving your phone behind, you let thoughts drift freely.\"",
+        "note": "现在分词短语作伴随或条件状语，逻辑主语是主句主语，表示与主句动作同时发生的状态。 举一反三：若主语不一致会产生悬垂分词错误；可改写为 If you leave..., you let..."
+      },
+      {
+        "point": "并列不定式",
+        "example": "\"Boredom invites us to notice, to imagine, and to meet ourselves.\"",
+        "note": "三个 to do 不定式并列，由 and 连接，使语气递进、富有节奏。 举一反三：最后一个不定式前的 and 可省略，但保留更富韵律；注意并列成分结构须一致。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "boredom",
+        "pos": "n.",
+        "meaning": "无聊；厌倦",
+        "enExample": "\"Boredom pushed her to start writing again.\"",
+        "zhExample": "无聊促使她重新开始写作。",
+        "note": "用法：指缺乏刺激、感到枯燥的状态。"
+      },
+      {
+        "term": "wander",
+        "pos": "v.",
+        "meaning": "游荡；走神",
+        "enExample": "\"Let your mind wander during the long train ride.\"",
+        "zhExample": "在漫长的火车上，任思绪漫游。",
+        "note": "用法：此处指思绪不受约束地飘移。"
+      },
+      {
+        "term": "recharge",
+        "pos": "v.",
+        "meaning": "充电；恢复精力",
+        "enExample": "\"A short nap recharges my creativity.\"",
+        "zhExample": "小憩一会儿能为我的创造力充电。",
+        "note": "用法：比喻让精神或创意重新充满能量。"
+      },
+      {
+        "term": "idle",
+        "pos": "adj.",
+        "meaning": "空闲的；无所事事的",
+        "enExample": "\"He spent an idle afternoon watching clouds.\"",
+        "zhExample": "他悠闲地度过了一个看云的下午。",
+        "note": "用法：描述未被占用、可自由支配的时间。"
+      },
+      {
+        "term": "spark",
+        "pos": "v.",
+        "meaning": "引发；激发",
+        "enExample": "\"The lecture sparked a new research idea.\"",
+        "zhExample": "那场讲座激发了一个新研究点子。",
+        "note": "用法：指点燃某个想法或情绪。"
+      },
+      {
+        "term": "input",
+        "pos": "n.",
+        "meaning": "输入；外界刺激",
+        "enExample": "\"Too much input leaves little room for thought.\"",
+        "zhExample": "输入太多，留给自己思考的空间就少了。",
+        "note": "用法：指源源不断涌入大脑的信息。"
+      },
+      {
+        "term": "original",
+        "pos": "adj.",
+        "meaning": "原创的；本真的",
+        "enExample": "\"Her most original work came from quiet solitude.\"",
+        "zhExample": "她最本真的作品源自安静的独处。",
+        "note": "用法：指未被外界干扰、属于你自己的样子。"
+      },
+      {
+        "term": "connection",
+        "pos": "n.",
+        "meaning": "联结；关联",
+        "enExample": "\"Sleep helps the brain form new connections.\"",
+        "zhExample": "睡眠帮助大脑建立新的联结。",
+        "note": "用法：指不同想法之间建立的联系。"
+      }
+    ]
+  }
+}

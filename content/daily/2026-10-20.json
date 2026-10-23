@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-20",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "cement",
+      "pos": "v.",
+      "phonetic": "/sɪˈment/",
+      "meaning": "巩固，夯实",
+      "enExample": "Small wins cement the new habit.",
+      "zhExample": "小胜巩固了新习惯。",
+      "note": "💡 本义水泥。搭 cement a habit。微习惯靠重复 cement。"
+    },
+    {
+      "word": "cue",
+      "pos": "n.",
+      "phonetic": "/kjuː/",
+      "meaning": "触发线索，提示",
+      "enExample": "Tie the habit to a stable cue like brushing teeth.",
+      "zhExample": "把习惯绑在一个稳定线索上，比如刷牙。",
+      "note": "💡 搭 a cue。习惯回路：cue → routine → reward。"
+    },
+    {
+      "word": "stack",
+      "pos": "v.",
+      "phonetic": "/stæk/",
+      "meaning": "叠加，堆叠（习惯）",
+      "enExample": "Stack a new habit onto an old one.",
+      "zhExample": "把新习惯叠在旧习惯上。",
+      "note": "💡 搭 stack habits。habit stacking 是低阻力养成法。"
+    },
+    {
+      "word": "lapse",
+      "pos": "n.",
+      "phonetic": "/læps/",
+      "meaning": "中断，小失误",
+      "enExample": "One lapse does not erase the streak.",
+      "zhExample": "一次中断，不抹掉此前的连续。",
+      "note": "💡 搭 a lapse。掉链子叫 lapse，别因此放弃。"
+    },
+    {
+      "word": "streak",
+      "pos": "n.",
+      "phonetic": "/striːk/",
+      "meaning": "连续记录，连胜",
+      "enExample": "A 30-day streak makes the habit stick.",
+      "zhExample": "30 天连续，让习惯扎下根。",
+      "note": "💡 搭 keep a streak。微习惯靠 streak 产生复利。"
+    }
+  ],
+  "essay": {
+    "title": "Tiny Habits, Lasting Change",
+    "author": "佚名",
+    "paragraphs": [
+      "We dream of big changes and then wait for the day we feel ready to begin. That day rarely comes, because a large goal feels like a wall we must scale all at once. The trick is to make the first step so small that it stops feeling like a beginning.",
+      "A tiny habit asks almost nothing of you. Two minutes of reading. One push-up against the wall. A single sentence written before the coffee cools. Each is so small it feels almost foolish to refuse, and that is exactly the point.",
+      "Momentum is built sideways, not upward. You do not leap into a new self; you nudge the old one a few degrees, day after day, until the direction is different enough to notice. Small actions repeated are not small; they are how a life quietly redraws its lines.",
+      "The danger is impatience. We start small, feel nothing, and quit before the compound effect has a chance to show. But a habit is a loan to your future self, and the interest is paid in a currency you only learn to read later.",
+      "So pick one ridiculously small thing and do it every day this week. Not to impress anyone, not to prove a point, but to prove to yourself that you can keep a promise to no one but you. The change that lasts is the one that started too small to fear."
+    ],
+    "translations": [
+      "我们向往巨大的改变，然后等着哪天「准备好了」再开始。那一天很少到来，因为宏大的目标像一堵墙，仿佛必须一口气翻过去。诀窍在于，把第一步做得足够小，小到它不再像一个开端。",
+      "一个微习惯几乎不向你索取什么。读两分钟书。对着墙做一个俯卧撑。在咖啡凉掉之前写下一句话。每一件都小到拒绝它简直显得傻，而这恰恰就是关键。",
+      "势头是横着积累起来的，不是往上跳出来的。你不是一跃成为全新的自己；你只是把旧的自己每天推几度，日复一日，直到方向变得明显不同。被反复做的小动作并不小；它们正是一个生命悄悄重画自身轮廓的方式。",
+      "危险在于没耐心。我们从小处着手，却什么感觉也没有，于是在复利效应有机会显现之前就放弃了。但习惯是借给未来自己的钱，而利息，是用一种你后来才学会辨认的货币支付的。",
+      "所以，挑一件小到荒谬的事，这个星期每天都做。不为惊艳谁，也不为证明什么，只为向自己证明：你能对一个除了你之外谁也不欠的人信守承诺。能长久的改变，恰恰是那个小到让人不怕的开始。"
+    ],
+    "grammar": [
+      {
+        "point": "so...that... 结果状语从句",
+        "example": "The trick is to make the first step so small that it stops feeling like a beginning.",
+        "note": "so...that... 表示「如此…以至于…」，so 修饰形容词 small，that 引导结果从句说明「小」带来的后果——它不再像一个开端。这种结构常用来解释做法为何有效。 举一反三：同类如 make it so easy that you cannot say no、keep it so short that it fits anywhere。"
+      },
+      {
+        "point": "分号对照：do not leap; (but) nudge",
+        "example": "You do not leap into a new self; you nudge the old one a few degrees, day after day.",
+        "note": "分号连接两个对照分句：do not leap（不跳跃）与 nudge...day after day（日复一日轻推）。but 在此被分号与语义替代，强调「渐变」对「突变」的取代，正是微习惯的核心理念。 举一反三：也可写成 you do not leap but nudge，或 not by a leap but by a nudge。"
+      },
+      {
+        "point": "that 引导定语从句修饰抽象先行词",
+        "example": "The change that lasts is the one that started too small to fear.",
+        "note": "两个 that 引导的定语从句分别修饰 the change 与 the one（指代 change）。lasts 与 started 都是定语从句谓语，把「持久的」与「始于小到不怕的」两个属性直接挂到名词后，句式对称而有力。 举一反三：同类如 the habit that sticks is the one that costs almost nothing。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "scale",
+        "pos": "v.",
+        "meaning": "攀登；翻越",
+        "enExample": "He scaled the wall in seconds with a boost.",
+        "zhExample": "他借力几秒钟就翻过了那堵墙。",
+        "note": "用法：原义秤或鳞片，动词指攀上或越过墙、山"
+      },
+      {
+        "term": "push-up",
+        "pos": "n.",
+        "meaning": "俯卧撑",
+        "enExample": "Two push-ups a day is still a habit worth keeping.",
+        "zhExample": "每天两个俯卧撑，也仍是值得保持的习惯。",
+        "note": "用法：以手臂撑地的力量练习"
+      },
+      {
+        "term": "foolish",
+        "pos": "adj.",
+        "meaning": "傻的；不明智的",
+        "enExample": "It would be foolish to refuse such a small step.",
+        "zhExample": "拒绝这么小的一步，才显得傻。",
+        "note": "用法：显得荒唐或不聪明"
+      },
+      {
+        "term": "momentum",
+        "pos": "n.",
+        "meaning": "势头；动量",
+        "enExample": "Once started, the momentum carried her through.",
+        "zhExample": "一旦开始，那股势头便带着她走了下去。",
+        "note": "用法：运动或进展中积累的冲力"
+      },
+      {
+        "term": "nudge",
+        "pos": "v.",
+        "meaning": "轻推；微微推动",
+        "enExample": "She nudged the project forward with one small edit.",
+        "zhExample": "她用一处小修改，把项目往前推了一推。",
+        "note": "用法：用小力促成缓慢移动或改变"
+      },
+      {
+        "term": "redraw",
+        "pos": "v.",
+        "meaning": "重画；重新勾勒",
+        "enExample": "The year redrew the map of his daily life.",
+        "zhExample": "这一年重画了他日常生活的地图。",
+        "note": "用法：重新描绘线条或边界，过去式 redrew"
+      },
+      {
+        "term": "compound",
+        "pos": "adj.",
+        "meaning": "复合的；复利的",
+        "enExample": "Small compound gains beat big sudden ones.",
+        "zhExample": "微小而累积的收获，胜过突然而巨大的。",
+        "note": "用法：效果层层叠加、越积越大"
+      },
+      {
+        "term": "ridiculous",
+        "pos": "adj.",
+        "meaning": "荒谬的；可笑的",
+        "enExample": "He set a ridiculous goal: one page a month.",
+        "zhExample": "他定了个荒唐的目标：一个月一页。",
+        "note": "用法：小到或怪到令人发笑"
+      }
+    ]
+  }
+}

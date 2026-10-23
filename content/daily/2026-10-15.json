@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-15",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "stumble",
+      "pos": "v.",
+      "phonetic": "/ˈstʌmbl/",
+      "meaning": "绊倒，失误",
+      "enExample": "You will stumble, and that is part of learning.",
+      "zhExample": "你会摔跤，而那是学习的一部分。",
+      "note": "💡 搭 stumble through、stumble upon（偶然发现）。公开学习不怕 stumble，怕 silence。"
+    },
+    {
+      "word": "iterate",
+      "pos": "v.",
+      "phonetic": "/ˈɪtəreɪt/",
+      "meaning": "迭代，反复打磨",
+      "enExample": "We iterate the draft instead of waiting for perfect.",
+      "zhExample": "我们迭代草稿，而不是等完美。",
+      "note": "💡 来自 iter（再次）。搭 iterate on。成长型思维的核心动作：iterate，not wait。"
+    },
+    {
+      "word": "critique",
+      "pos": "n.",
+      "phonetic": "/krɪˈtiːk/",
+      "meaning": "评析，批评性意见",
+      "enExample": "Ask for a critique, not just praise.",
+      "zhExample": "要的是评析，不只是夸奖。",
+      "note": "💡 区别于 critic（批评者）。搭 give a critique。公开学习靠 critique 进阶。"
+    },
+    {
+      "word": "amass",
+      "pos": "v.",
+      "phonetic": "/əˈmæs/",
+      "meaning": "积累，积聚",
+      "enExample": "He amassed a large vocabulary by reading daily.",
+      "zhExample": "他靠每天阅读，积累了大量词汇。",
+      "note": "💡 搭 amass experience、amass wealth。比 collect 更强调「越积越多」。每日一点即 amass。"
+    },
+    {
+      "word": "capitalize",
+      "pos": "v.",
+      "phonetic": "/ˈkæpɪtəlaɪz/",
+      "meaning": "充分利用，借机获利",
+      "enExample": "Capitalize on the momentum while it lasts.",
+      "zhExample": "趁势头还在，充分利用它。",
+      "note": "💡 搭 capitalize on。公开学习把反馈 capitalize 成下一步。"
+    }
+  ],
+  "essay": {
+    "title": "Learning in Public",
+    "author": "佚名",
+    "paragraphs": [
+      "Learning in public means sharing what you are still figuring out. Instead of waiting to be an expert, you let others watch the messy middle.",
+      "It feels exposed, and that is exactly the point. Showing imperfect work invites honest feedback you would never get in private.",
+      "Each comment becomes a stepping stone. You iterate faster because the crowd notices what you miss.",
+      "A community that learns together accelerates everyone. Your questions become someone else's shortcut, and theirs become yours.",
+      "Start where you are, not where you wish you were. The courage to be unfinished in public is its own kind of mastery."
+    ],
+    "translations": [
+      "公开学习，意味着分享你仍在学习摸索的东西。不必等到成为专家，你让别人看见那个凌乱的中间过程。",
+      "这让人感到暴露与不安，而那正是关键所在。展示不完美的作品，会换来你在私下里永远得不到的真诚反馈。",
+      "每一条评论都成了垫脚石。你迭代得更快，因为人群会注意到你忽略之处。",
+      "一同学习的人群，会加速每个人的成长。你的问题成了他人的捷径，而他们的问题也成了你的。",
+      "从你所在之处开始，而非从你希望达到之处。敢于在众人面前保持未完成，本身就是一种造诣。"
+    ],
+    "grammar": [
+      {
+        "point": "现在分词作定语",
+        "example": "\"The crowd notices the details you are missing.\"",
+        "note": "现在分词 missing 修饰 details，相当于定语从句 that you are missing，表主动进行。 举一反三：现在分词作定语多表进行或主动，过去分词多表完成或被动，如 the book written。"
+      },
+      {
+        "point": "让步状语从句",
+        "example": "\"Although it feels uncomfortable, learning in public pays off.\"",
+        "note": "although 引导让步状语从句，表示尽管……，主句转折强调价值。 举一反三：也可用 though 或 even though；注意不可与 but 连用。"
+      },
+      {
+        "point": "比较结构",
+        "example": "\"Your questions become a shortcut that theirs cannot match.\"",
+        "note": "含比较含义的定语从句，match 暗含比较，表达比不上的之意。 举一反三：典型比较级 A is faster than B；the more..., the more... 表越……越……。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "vulnerable",
+        "pos": "adj.",
+        "meaning": "易受伤害的；敞开的",
+        "enExample": "\"Sharing drafts makes you feel vulnerable.\"",
+        "zhExample": "分享草稿会让你感到暴露。",
+        "note": "用法：此处指公开不完美时的心理暴露感。"
+      },
+      {
+        "term": "feedback",
+        "pos": "n.",
+        "meaning": "反馈",
+        "enExample": "\"Honest feedback improved my draft.\"",
+        "zhExample": "真诚的反馈改进了我的草稿。",
+        "note": "用法：指他人对作品的反应与建议。"
+      },
+      {
+        "term": "iterate",
+        "pos": "v.",
+        "meaning": "迭代；反复修正",
+        "enExample": "\"We iterate the design each week.\"",
+        "zhExample": "我们每周迭代一次设计。",
+        "note": "用法：指基于反馈不断改进版本。"
+      },
+      {
+        "term": "accelerate",
+        "pos": "v.",
+        "meaning": "加速",
+        "enExample": "\"Teaching others accelerates your own learning.\"",
+        "zhExample": "教别人会加速你自己的学习。",
+        "note": "用法：指让学习或成长更快发生。"
+      },
+      {
+        "term": "misconception",
+        "pos": "n.",
+        "meaning": "误解；错误观念",
+        "enExample": "\"Public notes helped correct my misconception.\"",
+        "zhExample": "公开笔记帮我纠正了误解。",
+        "note": "用法：指公开学习中被他人纠正的偏差认知。"
+      },
+      {
+        "term": "community",
+        "pos": "n.",
+        "meaning": "社群；共同体",
+        "enExample": "\"An online community kept me accountable.\"",
+        "zhExample": "一个线上社群让我保持自律。",
+        "note": "用法：指一同学习成长的群体。"
+      },
+      {
+        "term": "imperfect",
+        "pos": "adj.",
+        "meaning": "不完美的",
+        "enExample": "\"Imperfect action beats perfect planning.\"",
+        "zhExample": "不完美的行动胜过完美的计划。",
+        "note": "用法：指允许出错、尚在打磨的状态。"
+      },
+      {
+        "term": "accountability",
+        "pos": "n.",
+        "meaning": "责任；担责",
+        "enExample": "\"Posting goals creates accountability.\"",
+        "zhExample": "公开目标会带来担责感。",
+        "note": "用法：指公开承诺后被人监督、须交待进展的状态。"
+      }
+    ]
+  }
+}

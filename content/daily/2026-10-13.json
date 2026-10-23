@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-13",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "encroach",
+      "pos": "v.",
+      "phonetic": "/ɪnˈkrəʊtʃ/",
+      "meaning": "侵犯，侵蚀（空间/时间）",
+      "enExample": "Work emails encroach on our evenings if we let them.",
+      "zhExample": "若不管，工作邮件会侵蚀我们的夜晚。",
+      "note": "💡 搭 encroach on。反义 respect boundaries。守住边界的动词说法。"
+    },
+    {
+      "word": "reclaim",
+      "pos": "v.",
+      "phonetic": "/rɪˈkleɪm/",
+      "meaning": "收回，夺回",
+      "enExample": "She reclaimed her lunch break as quiet time.",
+      "zhExample": "她把午休重新收回，当作安静时光。",
+      "note": "💡 词根 re-（回）+ claim（要求）。搭 reclaim control、reclaim time。温和说「不」的落脚点是 reclaim。"
+    },
+    {
+      "word": "buffer",
+      "pos": "n.",
+      "phonetic": "/ˈbʌfə/",
+      "meaning": "缓冲，缓冲期",
+      "enExample": "Leave a buffer between meetings so you can breathe.",
+      "zhExample": "会议之间留点缓冲，好喘口气。",
+      "note": "💡 原指缓冲器。搭 time buffer、buffer zone。边界感靠 buffer 落地。"
+    },
+    {
+      "word": "spurn",
+      "pos": "v.",
+      "phonetic": "/spɜːn/",
+      "meaning": "拒绝，摒弃（轻蔑地）",
+      "enExample": "He spurned the extra shift to protect his weekend.",
+      "zhExample": "他拒绝了加班的班，护住周末。",
+      "note": "💡 比 refuse 更有「主动不屑一顾」的力道。搭 spurn an offer。说「不」的强动词。"
+    },
+    {
+      "word": "detangle",
+      "pos": "v.",
+      "phonetic": "/diːˈtæŋɡl/",
+      "meaning": "理清，解开（乱麻）",
+      "enExample": "A short walk helped me detangle the problem.",
+      "zhExample": "散一小会儿步，帮我理清了问题。",
+      "note": "💡 de-（去）+ tangle（缠结）。搭 detangle a situation。边界混乱时先 detangle 再决策。"
+    }
+  ],
+  "essay": {
+    "title": "The Gentle Art of Saying No",
+    "author": "佚名",
+    "paragraphs": [
+      "Saying no is not rudeness; it is respect for your own limits. Every yes you give unwillingly is a quiet no to the things that matter most.",
+      "A gentle no keeps the relationship intact. You can decline a request while still showing care for the person behind it.",
+      "Most guilt comes from a false belief that you must be available to everyone. Healthy boundaries are not walls; they are doors with locks you control.",
+      "Practice the pause. When asked for something, reply with 「let me check my schedule」 instead of an instant yes.",
+      "Over time, saying no becomes a form of self-trust. You learn that protecting your energy is not selfish, but necessary."
+    ],
+    "translations": [
+      "说「不」并非无礼，而是对你自身限度的尊重。每一句勉强的「好」，都是对最重要之事的一次无声拒绝。",
+      "温和的拒绝能让关系完好如初。你可以婉拒一项请求，同时依然关照提出请求的那个人。",
+      "多数内疚源于一种错觉：以为自己必须对所有人有求必应。健康的边界不是高墙，而是你掌握钥匙、带锁的门。",
+      "练习「停顿」。当被人请求时，先回一句「让我看看日程」，而不是立刻答应。",
+      "久而久之，说「不」会变成一种自我信任。你会明白，守护自己的精力不是自私，而是必需。"
+    ],
+    "grammar": [
+      {
+        "point": "动名词作宾语",
+        "example": "\"Saying no requires more practice than we admit.\"",
+        "note": "动名词 saying 作主语（此处亦常见于 avoid、enjoy、finish 等词后作宾语），表示说「不」这一行为本身。 举一反三：常见接动名词的动词：avoid、enjoy、finish、suggest；注意其后不接不定式。"
+      },
+      {
+        "point": "定语从句",
+        "example": "\"Boundaries are doors that you control with your own keys.\"",
+        "note": "that 引导定语从句修饰 doors，在从句中作 control 的宾语，可换用 which。 举一反三：指物时 that 与 which 常可互换；指人用 who 或 whom；非限制性从句只用 which。"
+      },
+      {
+        "point": "情态动词表委婉",
+        "example": "\"You might want to pause before answering.\"",
+        "note": "might、could 等情态动词使建议更柔和，避免命令感，适合温和说「不」的语境。 举一反三：表建议还可用 You could... 或 Perhaps you should...，语气由强到弱需注意场合。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "boundary",
+        "pos": "n.",
+        "meaning": "边界；界限",
+        "enExample": "\"Setting boundaries improved our friendship.\"",
+        "zhExample": "设立边界反而让我们的友谊更好。",
+        "note": "用法：指保护个人时间与精力的心理界线。"
+      },
+      {
+        "term": "decline",
+        "pos": "v.",
+        "meaning": "婉拒；谢绝",
+        "enExample": "\"She declined the invitation with grace.\"",
+        "zhExample": "她优雅地谢绝了邀请。",
+        "note": "用法：比 refuse 更温和礼貌地拒绝。"
+      },
+      {
+        "term": "guilt",
+        "pos": "n.",
+        "meaning": "内疚；自责",
+        "enExample": "\"He felt guilt after saying no.\"",
+        "zhExample": "他说完「不」后感到内疚。",
+        "note": "用法：指做了或没做某事后的负罪感。"
+      },
+      {
+        "term": "available",
+        "pos": "adj.",
+        "meaning": "有空的；可获得的",
+        "enExample": "\"I am not available this weekend.\"",
+        "zhExample": "这个周末我抽不出时间。",
+        "note": "用法：指随时能回应他人需求的状态。"
+      },
+      {
+        "term": "prioritize",
+        "pos": "v.",
+        "meaning": "优先考虑；排序",
+        "enExample": "\"Learn to prioritize your health.\"",
+        "zhExample": "学会把健康放在优先位置。",
+        "note": "用法：指按重要性安排事务先后。"
+      },
+      {
+        "term": "assertive",
+        "pos": "adj.",
+        "meaning": "坚定而温和的；自信主张的",
+        "enExample": "\"An assertive reply need not sound harsh.\"",
+        "zhExample": "坚定的回应未必刺耳。",
+        "note": "用法：指在尊重他人的同时清楚表达自己。"
+      },
+      {
+        "term": "capacity",
+        "pos": "n.",
+        "meaning": "承受力；容量",
+        "enExample": "\"My capacity for meetings is nearly full.\"",
+        "zhExample": "我能参加的会议几乎排满了。",
+        "note": "用法：指你在某阶段能承担的总量。"
+      },
+      {
+        "term": "grace",
+        "pos": "n.",
+        "meaning": "优雅；体面",
+        "enExample": "\"She handled the refusal with grace.\"",
+        "zhExample": "她得体地处理了那次拒绝。",
+        "note": "用法：指拒绝时从容得体的态度。"
+      }
+    ]
+  }
+}

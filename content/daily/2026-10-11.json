@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-11",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "discipline",
+      "pos": "n.",
+      "phonetic": "/ˈdɪsəplɪn/",
+      "meaning": "自律，纪律",
+      "enExample": "Discipline is choosing what you want most over what you want now.",
+      "zhExample": "自律，是在「此刻最想要的」和「现在想要的」之间选前者。",
+      "note": "💡 词根 discipl（门徒/训练）。搭 build discipline、self-discipline。和 routine 搭配，是晨间节律的底层支撑。"
+    },
+    {
+      "word": "ritual",
+      "pos": "n.",
+      "phonetic": "/ˈrɪtʃuəl/",
+      "meaning": "例行习惯，仪式",
+      "enExample": "A calm morning ritual sets the tone for the whole day.",
+      "zhExample": "一个平静的晨间仪式，定下整天的基调。",
+      "note": "💡 不只指宗教仪式，也指「固定的小习惯」。搭 daily ritual、bedtime ritual。"
+    },
+    {
+      "word": "procrastinate",
+      "pos": "v.",
+      "phonetic": "/proʊˈkræstɪneɪt/",
+      "meaning": "拖延",
+      "enExample": "We procrastinate not because we are lazy, but because the task feels unsafe.",
+      "zhExample": "我们拖延，不是因为懒，而是任务让人感觉不安全。",
+      "note": "💡 词根 pro-（向前）+ crastin（明天）。搭 stop procrastinating。近义 delay，但 procrastinate 带心理色彩。"
+    },
+    {
+      "word": "slot",
+      "pos": "v.",
+      "phonetic": "/slɒt/",
+      "meaning": "把…安排进时间表",
+      "enExample": "I slot my reading time right after breakfast.",
+      "zhExample": "我把阅读时间排到早饭后。",
+      "note": "💡 作名词是「 Slot 空隙/位置」，作动词「塞进某个时段」。搭 slot in、time slot。"
+    },
+    {
+      "word": "punctual",
+      "pos": "adj.",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meaning": "准时的",
+      "enExample": "Being punctual is a quiet form of respect.",
+      "zhExample": "守时，是一种不动声色的尊重。",
+      "note": "💡 来自 punct（点，如 punch）。搭 be punctual for。反义 tardy。职场里 punctual 比 early 更可靠。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Power of a Morning Routine",
+    "author": "佚名",
+    "paragraphs": [
+      "A calm morning routine is less about doing more and more about owning the start of your day. When you move with intention before the world wakes, the day's noise arrives on your terms, not the other way around.",
+      "The first ten minutes set a tone that quietly shapes the next ten hours. A slow cup of coffee, a short walk, or a few pages of reading can anchor you far more than rushing into notifications.",
+      "You do not need a perfect system. What matters is a small, repeatable ritual that tells your brain: this is my time before I belong to everyone else.",
+      "Over weeks, these quiet beginnings build momentum. Discipline stops feeling like a battle and starts feeling like a gift you give your future self.",
+      "Start tomorrow a little earlier, or a little slower. The power was never in the routine itself, but in the calm you carry out the door."
+    ],
+    "translations": [
+      "一段平静的晨间节律，重点不在于做更多事，而在于掌控一天的开端。当你在世界苏醒之前带着意图行动，白日的喧嚣便会按你的节奏降临，而非反过来将你淹没。",
+      "最初的十分钟所定下的基调，会悄然塑造接下来的十个小时。一杯从容的咖啡、一段短暂的散步，或几页阅读，往往比匆忙查看消息更能让你稳住心神。",
+      "你并不需要一套完美的体系。重要的是一个微小、可重复的仪式，它告诉大脑：在属于所有人之前，这一段先属于我自己。",
+      "数周之后，这些安静的开端会积累成势能。自律不再像一场战斗，而更像你送给未来自己的礼物。",
+      "明天，试着早一点，或慢一点开始。力量从来不在节律本身，而在你带出门的那份从容。"
+    ],
+    "grammar": [
+      {
+        "point": "现在完成时",
+        "example": "\"I have built a morning routine that finally works for me.\"",
+        "note": "现在完成时（have + 过去分词）强调动作从过去持续到现在，并与当前相关。这里「已经建立」的晨间节律对现在的生活仍起作用。 举一反三：常与 for、since、already、yet 连用，描述到目前为止的经历或状态，如 I have read three books this month."
+      },
+      {
+        "point": "动名词作主语",
+        "example": "\"Starting the day slowly gives you a sense of control.\"",
+        "note": "动词 start 加 -ing 构成动名词短语，在句中作主语，表示缓慢地开始一天这件事本身。 举一反三：动名词作主语时谓语动词用单数；类似结构 Reading daily improves your focus. 同样常见。"
+      },
+      {
+        "point": "比较级叠加",
+        "example": "\"The routine becomes easier and easier with time.\"",
+        "note": "比较级 + and + 比较级表示越来越……，此处说明习惯随时间愈发轻松自然。 举一反三：也可用 more and more + 原级，如 more and more confident；反义可用 less and less。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "routine",
+        "pos": "n.",
+        "meaning": "日常惯例；固定程序",
+        "enExample": "\"My morning routine begins with ten minutes of silence.\"",
+        "zhExample": "我的晨间惯例以十分钟的安静开始。",
+        "note": "用法：指每天重复进行的活动安排，常含规律、可预期之意。"
+      },
+      {
+        "term": "intention",
+        "pos": "n.",
+        "meaning": "意图；目的",
+        "enExample": "\"She acted with clear intention, not out of habit.\"",
+        "zhExample": "她是有意而为，并非出于习惯。",
+        "note": "用法：强调做事时的有意与主动，而非被动反应。"
+      },
+      {
+        "term": "ownership",
+        "pos": "n.",
+        "meaning": "掌控感；拥有权",
+        "enExample": "\"Taking ownership of your morning changes the whole day.\"",
+        "zhExample": "掌控自己的早晨，会改变一整天。",
+        "note": "用法：此处指对时间与生活的主宰感。"
+      },
+      {
+        "term": "tone",
+        "pos": "n.",
+        "meaning": "基调；氛围",
+        "enExample": "\"Her calm voice set the tone for the meeting.\"",
+        "zhExample": "她平静的嗓音定下了会议的基调。",
+        "note": "用法：指某事开始时的整体感觉或态度。"
+      },
+      {
+        "term": "anchor",
+        "pos": "v.",
+        "meaning": "使稳定；使扎根",
+        "enExample": "\"A short walk anchors me before work begins.\"",
+        "zhExample": "开工前走走，能让我安定下来。",
+        "note": "用法：作动词时表示用某个习惯稳住情绪或状态。"
+      },
+      {
+        "term": "momentum",
+        "pos": "n.",
+        "meaning": "势头；动力",
+        "enExample": "\"Small wins build momentum for bigger goals.\"",
+        "zhExample": "小小的胜利会为更大的目标积蓄动力。",
+        "note": "用法：指持续推进所累积的惯性力量。"
+      },
+      {
+        "term": "ritual",
+        "pos": "n.",
+        "meaning": "仪式；习惯性行为",
+        "enExample": "\"Lighting a candle became our nightly ritual.\"",
+        "zhExample": "点一支蜡烛成了我们每晚的仪式。",
+        "note": "用法：比 routine 更具象征与郑重意味的固定动作。"
+      },
+      {
+        "term": "discipline",
+        "pos": "n.",
+        "meaning": "自律；训练",
+        "enExample": "\"Discipline is choosing what you want most over what you want now.\"",
+        "zhExample": "自律，是在此刻想要的与最想要的之间选择前者。",
+        "note": "用法：指坚持做该做的事的能力。"
+      }
+    ]
+  }
+}

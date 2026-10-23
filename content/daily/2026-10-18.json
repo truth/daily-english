@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-18",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "distill",
+      "pos": "v.",
+      "phonetic": "/dɪˈstɪl/",
+      "meaning": "提炼，萃取精华",
+      "enExample": "Distill the meeting into three actions.",
+      "zhExample": "把会议提炼成三个动作。",
+      "note": "💡 本义蒸馏。搭 distill into。写下来是为了 distill 想法。"
+    },
+    {
+      "word": "scaffold",
+      "pos": "v.",
+      "phonetic": "/ˈskæfəʊld/",
+      "meaning": "搭建框架，搭脚手架",
+      "enExample": "Scaffold the essay before filling details.",
+      "zhExample": "先给文章搭框架，再填细节。",
+      "note": "💡 本义脚手架。搭 scaffold learning。思维工具：先 scaffold 再深入。"
+    },
+    {
+      "word": "thread",
+      "pos": "v.",
+      "phonetic": "/θred/",
+      "meaning": "串联，梳理",
+      "enExample": "She threaded the scattered ideas into one story.",
+      "zhExample": "她把散乱的想法串成了一个故事。",
+      "note": "💡 本义线。搭 thread together。写作即 thread 碎片成线。"
+    },
+    {
+      "word": "map out",
+      "pos": "phr.",
+      "phonetic": "/mæp aʊt/",
+      "meaning": "规划，勾勒",
+      "enExample": "Let us map out the week before it starts.",
+      "zhExample": "这周开始前，先把它规划好。",
+      "note": "💡 map（图）+ out。搭 map out a plan。想清楚靠 map out。"
+    },
+    {
+      "word": "reframe",
+      "pos": "v.",
+      "phonetic": "/riːˈfreɪm/",
+      "meaning": "重构框架，换角度表述",
+      "enExample": "Reframe the failure as data, not defeat.",
+      "zhExample": "把失败重构为数据，而非溃败。",
+      "note": "💡 re-（再）+ frame。搭 reframe as。写作与思考都靠 reframe 破局。"
+    }
+  ],
+  "essay": {
+    "title": "Writing to Find Out What You Think",
+    "author": "佚名",
+    "paragraphs": [
+      "We often believe we know what we think until we try to write it down. The moment the pen meets the page, the clean idea in our head turns out to be a cloud of half-thoughts. Writing is not recording a thought; it is the act of making one.",
+      "A sentence forces a choice. You cannot say everything at once, so you must decide what matters, what comes first, and what you are willing to leave out. This quiet discipline of ordering words is also the discipline of ordering a mind.",
+      "I keep a private notebook for thoughts I am not ready to share. Most of what lands there is messy at first: a worry, a question, a line I cannot yet finish. But returned to a week later, the same page often reads like advice from someone who knows me better than I do.",
+      "People fear the blank page because it asks for the truth. We can dodge a thought in conversation by changing the subject, but on paper the evasion stays visible. Writing is honest in a way talking rarely is, and that honesty is exactly what helps the thinking move forward.",
+      "So the next time your mind feels tangled, do not wait to think it clear first. Open a document and start with one ugly sentence. You will not find the thought and then write it; you will write it and then find it, sentence by slow sentence."
+    ],
+    "translations": [
+      "我们常以为自己知道在想什么，直到试着把它写下来。当笔尖落上纸页的那一刻，脑中那个清晰的念头，原来只是一团模模糊糊的半成品。写，不是记录一个想法；写，是把想法制造出来的动作。",
+      "一个句子逼你做选择。你没法一次把什么都讲完，所以必须决定什么重要、什么在先，以及你愿意舍弃什么。这种把词语排好顺序的安静的自律，也是把一颗心排好顺序的自律。",
+      "我留着一本私人的笔记本，专门装那些我还不愿与人分享的念头。落进里面的东西，开头大多是乱糟糟的：一份担忧、一个问题、一句我还写不完的话。可一周后再回来读，同一页却常常像出自某个比我自己更懂我的人之手的建议。",
+      "人们害怕空白的纸页，因为它索要真相。在交谈里，我们可以换个话题来躲开一个念头，但在纸上，那种回避清清楚楚地留在那里。写，拥有说话很少具备的诚实，而正是这份诚实，推动着思考向前走。",
+      "所以，下回你心里乱成一团时，别等想清楚了再动笔。打开一份文档，从一句笨拙的话写起。你不会先找到想法再写下来；你会先写下来，再一句一句、慢慢地，把它找到。"
+    ],
+    "grammar": [
+      {
+        "point": "until 引导的时间状语从句",
+        "example": "We often believe we know what we think until we try to write it down.",
+        "note": "until 表示「直到…为止」，主句动作 believe 一直持续，到 try to write 发生才被打破。从句中嵌套 what 引导的宾语从句 what we think，整句层层包裹，正是「以为懂—直到动笔才知不懂」的结构对应。 举一反三：同类用法如 we feel calm until the phone rings、he stayed silent until she left。"
+      },
+      {
+        "point": "动名词短语作主语与表语",
+        "example": "Writing is not recording a thought; it is the act of making one.",
+        "note": "动名词 writing 与 recording 分别作主语和表语，把「写」与「记录」两个行为名词化，便于在句中直接对比。of making one 中 one 指代 a thought，避免重复。 举一反三：同类动名词主语如 reading widely broadens the mind、talking rarely brings clarity。"
+      },
+      {
+        "point": "not A and then B; but A and then B 对照结构",
+        "example": "You will not find the thought and then write it; you will write it and then find it, sentence by slow sentence.",
+        "note": "两个平行分句构成对照：先想后写 与 先写后想 被对调。分号连接两种相反顺序，是全篇的核心反转，把写作与思考的因果关系颠倒过来。 举一反三：也可写成 you do not find it first and then write; rather, you write first and then find it。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "thought",
+        "pos": "n.",
+        "meaning": "想法；思想",
+        "enExample": "Putting a thought into words changes it a little.",
+        "zhExample": "把一个想法说出口，它就会起一点变化。",
+        "note": "用法：头脑中形成的念头，动词为 think"
+      },
+      {
+        "term": "discipline",
+        "pos": "n.",
+        "meaning": "自律；训练",
+        "enExample": "Daily writing is a discipline more than a talent.",
+        "zhExample": "每日写作是一种自律，多于一种天赋。",
+        "note": "用法：通过练习养成的自控力或规范"
+      },
+      {
+        "term": "messy",
+        "pos": "adj.",
+        "meaning": "凌乱的；混乱的",
+        "enExample": "Her first drafts are always messy but useful.",
+        "zhExample": "她最初的草稿总是很乱，却很有用。",
+        "note": "用法：形容没有条理、不整洁的状态"
+      },
+      {
+        "term": "dodge",
+        "pos": "v.",
+        "meaning": "躲避；回避",
+        "enExample": "He dodged the hard question with a joke.",
+        "zhExample": "他用一句玩笑回避了那个尖锐的问题。",
+        "note": "用法：巧妙避开某物或某个话题"
+      },
+      {
+        "term": "tangle",
+        "pos": "v./n.",
+        "meaning": "缠结；使混乱",
+        "enExample": "Her thoughts tangled whenever she felt rushed.",
+        "zhExample": "一着急，她的思绪就乱成一团。",
+        "note": "用法：形容线条或思绪打结，作名词指乱团"
+      },
+      {
+        "term": "blank",
+        "pos": "adj.",
+        "meaning": "空白的；茫然的",
+        "enExample": "He stared at the blank page for ten minutes.",
+        "zhExample": "他对着空白的纸页发了十分钟呆。",
+        "note": "用法：形容没有内容或没有表情"
+      },
+      {
+        "term": "evasion",
+        "pos": "n.",
+        "meaning": "回避；逃避",
+        "enExample": "The essay was honest, with no evasion in it.",
+        "zhExample": "那篇文章很诚实，里面没有一丝回避。",
+        "note": "用法：故意避开问题或责任，动词为 evade"
+      },
+      {
+        "term": "notebook",
+        "pos": "n.",
+        "meaning": "笔记本",
+        "enExample": "She carries a small notebook everywhere she goes.",
+        "zhExample": "她去哪儿都带着一个小笔记本。",
+        "note": "用法：用于随手记录想法或笔记的本子"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-19",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "synergize",
+      "pos": "v.",
+      "phonetic": "/ˈsɪnədʒaɪz/",
+      "meaning": "协同，产生合力",
+      "enExample": "Our skills synergize on this project.",
+      "zhExample": "在这个项目上，我们的技能产生了合力。",
+      "note": "💡 来自 synergy（协同）。搭 synergize with。协作的动词说法。"
+    },
+    {
+      "word": "empower",
+      "pos": "v.",
+      "phonetic": "/ɪmˈpaʊə/",
+      "meaning": "赋能，使有能力",
+      "enExample": "Good leads empower others to decide.",
+      "zhExample": "好的领导，赋能他人去决策。",
+      "note": "💡 em-（使）+ power。搭 empower someone。求助的前提是被 empower。"
+    },
+    {
+      "word": "bridge",
+      "pos": "v.",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "弥合，搭建桥梁",
+      "enExample": "He bridged the gap between two teams.",
+      "zhExample": "他弥合了两个团队间的裂隙。",
+      "note": "💡 本义桥。搭 bridge the gap。协作里 bridge 分歧。"
+    },
+    {
+      "word": "align",
+      "pos": "v.",
+      "phonetic": "/əˈlaɪn/",
+      "meaning": "对齐，使一致",
+      "enExample": "Align on the goal before dividing the work.",
+      "zhExample": "分活之前，先对齐目标。",
+      "note": "💡 搭 align with、align on。求助与协作都先 align 再动。"
+    },
+    {
+      "word": "pool",
+      "pos": "v.",
+      "phonetic": "/puːl/",
+      "meaning": "集中，汇集",
+      "enExample": "We pooled our notes to build one guide.",
+      "zhExample": "我们把笔记汇到一处，做成一份指南。",
+      "note": "💡 本义水池。搭 pool resources。协作即 pool 各自所长。"
+    }
+  ],
+  "essay": {
+    "title": "The Courage to Ask for Help",
+    "author": "佚名",
+    "paragraphs": [
+      "We are taught early that needing help is a kind of failure, a sign we did not plan well enough. So we shoulder problems alone until they grow too heavy to hide. The hardest part of asking is not the words; it is admitting the load was never ours to carry by ourselves.",
+      "Good teams work because someone is willing to say the quiet part out loud. A simple 'I am stuck' can move a project forward faster than a week of silent struggle. Asking is not weakness on display; it is a signal that you trust the people around you.",
+      "There is skill in the asking. A vague cry for help overwhelms; a precise one invites a reply. Name what you need, name when you need it by, and you turn a moment of exposure into a small act of leadership.",
+      "I used to wait until I had a perfect solution before troubling anyone. By then the problem had often spread, and the help cost more than it would have early on. Asking sooner is not just kinder to you; it is kinder to the team that has to clean up the later mess.",
+      "So the next time the work feels heavier than your hands, pause and name one thing you cannot do alone. The people who love your work are usually glad to be asked; being needed is a gift you have been withholding from them without knowing."
+    ],
+    "translations": [
+      "我们从小被教导，需要帮助是一种失败，是规划不够好的标志。于是我们独自扛着问题，直到它们重得藏不住。开口最难的部分不在措辞，而在于承认：这副担子，从来就不该由我们一个人来挑。",
+      "好的团队之所以能运转，是因为有人愿意把那句没说出口的话讲出来。一句简单的「我卡住了」，比一周沉默的硬撑更能推进项目。求助不是把软弱摊开给人看；它是一个信号，说明你信任身边的人。",
+      "求助也是一门手艺。含糊的一句「帮帮我」让人不知所措；而具体的请求，却招来回应。说清你需要什么、最迟何时要，你就把一个暴露软弱的时刻，变成了一次小小的担当。",
+      "我过去总等到自己有了完美的方案，才去麻烦别人。到那时，问题往往已经蔓延开，需要的帮助比早些时候要多得多。早一点求助，不只是对你自己温柔；对那些不得不替你收拾残局的人，也是一种温柔。",
+      "所以，下回当这活儿重得超出你双手能及，停一下，说出一件你独自做不来的事。那些看重你工作的人，通常很乐意被问到；被需要，是一份你一直在无意中扣留着、没给他们的礼物。"
+    ],
+    "grammar": [
+      {
+        "point": "until 引导的时间状语从句与 too...to...",
+        "example": "So we shoulder problems alone until they grow too heavy to hide.",
+        "note": "主句 shoulder problems alone 描述行为，until 引导从句说明终点：问题变得太重以至于藏不住。too...to... 表示「太…而不能」，heavy to hide 中 hide 的逻辑宾语就是 problems，被省略。 举一反三：同类如 the cost grew too large to ignore、the queue got too long to wait。"
+      },
+      {
+        "point": "关系代词 who 引导的定语从句",
+        "example": "The people who love your work are usually glad to be asked.",
+        "note": "who 引导定语从句修饰先行词 the people，在从句中作主语，相当于 the people that love your work。定语从句把「看重你工作的人」这个限定条件直接附在名词后，句子紧凑。 举一反三：也可换用 that，如 the colleagues that respect your work；人或物皆可时用 that 更稳妥。"
+      },
+      {
+        "point": "not just A; it is B 递进结构",
+        "example": "Asking sooner is not just kinder to you; it is kinder to the team that has to clean up the later mess.",
+        "note": "not just A; it is B 是 not just...but... 的变体，用分号断开，把「对自己温柔」递进到「对团队也温柔」。后面 that has to clean up... 是定语从句修饰 team，说明团队是「不得不收拾残局的人」。 举一反三：完整形式如 it is not only kinder to you but also to the team。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "shoulder",
+        "pos": "v.",
+        "meaning": "承担；扛",
+        "enExample": "She shouldered the whole project without complaint.",
+        "zhExample": "她毫无怨言地扛下了整个项目。",
+        "note": "用法：原义肩膀，引申为担负责任或重担"
+      },
+      {
+        "term": "stuck",
+        "pos": "adj.",
+        "meaning": "卡住的；困住的",
+        "enExample": "I am stuck on this step and need a fresh eye.",
+        "zhExample": "这一步我卡住了，需要别人帮着看看。",
+        "note": "用法：无法前进或脱身的状态，动词 stick 的过去分词"
+      },
+      {
+        "term": "precise",
+        "pos": "adj.",
+        "meaning": "确切的；精准的",
+        "enExample": "A precise request is easier to answer than a vague one.",
+        "zhExample": "具体的请求比含糊的更容易回应。",
+        "note": "用法：清楚、准确、不含糊"
+      },
+      {
+        "term": "trust",
+        "pos": "n./v.",
+        "meaning": "信任；信赖",
+        "enExample": "Asking shows you trust your teammates to catch you.",
+        "zhExample": "开口求助，说明你相信队友会接住你。",
+        "note": "用法：相信他人会善待或胜任"
+      },
+      {
+        "term": "exposure",
+        "pos": "n.",
+        "meaning": "暴露；袒露",
+        "enExample": "Asking for help feels like an exposure of weakness.",
+        "zhExample": "求助让人觉得自己把软弱亮了出来。",
+        "note": "用法：把弱点或真实状态亮出来"
+      },
+      {
+        "term": "spread",
+        "pos": "v.",
+        "meaning": "蔓延；扩散",
+        "enExample": "Left alone, the small bug spread across the system.",
+        "zhExample": "放任不管，那个小故障蔓延到了整个系统。",
+        "note": "用法：范围或影响逐渐扩大，过去式同形"
+      },
+      {
+        "term": "leadership",
+        "pos": "n.",
+        "meaning": "领导力；担当",
+        "enExample": "Asking for help at the right time is a form of leadership.",
+        "zhExample": "在恰当的时机求助，也是一种领导力。",
+        "note": "用法：带领他人或负起责任的能力"
+      },
+      {
+        "term": "withhold",
+        "pos": "v.",
+        "meaning": "扣留；拒绝给予",
+        "enExample": "By never asking, you withhold from others the chance to help.",
+        "zhExample": "从不开口，你就把帮助别人的机会从他们手里扣下了。",
+        "note": "用法：把某物按住不给，过去式 withheld"
+      }
+    ]
+  }
+}

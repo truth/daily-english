@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-22",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "retrospect",
+      "pos": "n.",
+      "phonetic": "/ˈretrəspekt/",
+      "meaning": "回顾（in retrospect 回想起来）",
+      "enExample": "In retrospect, the slow path was the right one.",
+      "zhExample": "回想起来，慢的那条路才是对的。",
+      "note": "💡 retro-（回）+ spect（看）。搭 in retrospect。复盘即 retrospect。"
+    },
+    {
+      "word": "calibrate",
+      "pos": "v.",
+      "phonetic": "/ˈkælɪbreɪt/",
+      "meaning": "校准，调准",
+      "enExample": "Calibrate your plan to real progress.",
+      "zhExample": "按真实进展，校准你的计划。",
+      "note": "💡 本义校准仪器。搭 calibrate expectations。复盘后 calibrate 下一步。"
+    },
+    {
+      "word": "foresee",
+      "pos": "v.",
+      "phonetic": "/fɔːˈsiː/",
+      "meaning": "预见，预料",
+      "enExample": "We foresaw the bottleneck and dodged it.",
+      "zhExample": "我们预见了瓶颈，绕了过去。",
+      "note": "💡 fore-（前）+ see。搭 foresee risks。准备明天靠 foresee 今天。"
+    },
+    {
+      "word": "prime",
+      "pos": "v.",
+      "phonetic": "/praɪm/",
+      "meaning": "使准备好，铺垫",
+      "enExample": "A quick review primes you for tomorrow.",
+      "zhExample": "快速回顾一下，为明天做好铺垫。",
+      "note": "💡 本义底漆。搭 prime for。今夜 prime，明天更顺。"
+    },
+    {
+      "word": "clinch",
+      "pos": "v.",
+      "phonetic": "/klɪntʃ/",
+      "meaning": "锁定，最终达成",
+      "enExample": "The final check clinched the deal.",
+      "zhExample": "最后一遍核查，锁定了这单。",
+      "note": "💡 搭 clinch a deal、clinch it。复盘收尾用 clinch 确认成果。"
+    }
+  ],
+  "essay": {
+    "title": "Tomorrow Begins Tonight",
+    "author": "佚名",
+    "paragraphs": [
+      "We treat the morning as the start of the day, but the day is quietly shaped the night before. What you lay out, what you let go of, what you decide not to carry into the dark — all of it sets the tone for the hours that follow. Tomorrow is not a surprise; it is a room you furnished while no one was watching.",
+      "A short evening review costs almost nothing and pays back all week. Three lines on what went right, what went wrong, and what you would do differently. The act of writing it down turns a blurred day into a thing with edges, something you can actually learn from.",
+      "Preparation is a quiet kindness to your morning self. Laying out the clothes, the list, the one hard task first — these remove the small frictions that otherwise eat the first hour. You wake into a day that has already been cleared for you, and willpower is spent on better things.",
+      "I used to collapse straight from work into bed, phone in hand, mind still racing. The next morning arrived heavy, as if the day before had never ended. Only when I built a small closing ritual did the two days finally separate.",
+      "So give the day a door to close. Ten minutes, a dimmed light, a single question: what is the one thing tomorrow is grateful I did tonight? The future is not built in grand strokes; it is built in the small, deliberate evenings we barely remember."
+    ],
+    "translations": [
+      "我们把早晨当作一天的开始，可这一天，早在前一晚就被悄悄塑形了。你摊开的东西、你放下的东西、你决定不带入黑暗的东西——这一切，都为随后的时辰定了调。明天不是惊喜；它是一间你趁没人看时布置好的房间。",
+      "一段简短的晚间复盘，几乎不花什么，却能回报整整一周。三行字：什么做对了，什么做错了，什么你会换种做法。把它写下来的动作，把模糊的一天变成了一件有棱有角的东西，一件你真能从中学习的东西。",
+      "准备，是对清晨那个自己的一种安静的善意。把衣服、清单、那件最难的事最先摆好——这些消掉了那些本会吞掉第一个钟头的小摩擦。你醒来，迎向的已是一天被替你清理好的时光，而意志力，花在了更好的地方。",
+      "我过去常常一下班就瘫上床，手机攥在手里，脑子还在狂奔。第二天早晨沉甸甸地到来，仿佛前一天从未结束。直到我建立了一个小小的收尾仪式，两天才终于分开。",
+      "所以，给这一天一扇可以关上的门。十分钟，一盏调暗的灯，一个问题：明天会感激我今夜做的哪一件事？未来不是用宏大的笔触建起来的；它是用那些我们几乎记不得的、刻意而为的小小夜晚建起来的。"
+    ],
+    "grammar": [
+      {
+        "point": "what 引导的主语从句并列",
+        "example": "What you lay out, what you let go of, what you decide not to carry into the dark — all of it sets the tone for the hours that follow.",
+        "note": "三个 what 引导的名词性从句并列作主语，破折号后用 all of it 总括。that follow 是定语从句修饰 the hours。整句把「前夜的所为」一一列出，再统一收束到「定调」上。 举一反三：同类并列如 what you keep, what you drop, what you prepare all matter。"
+      },
+      {
+        "point": "only 置于句首引起的部分倒装",
+        "example": "Only when I built a small closing ritual did the two days finally separate.",
+        "note": "only 修饰 when 状语从句置于句首时，主句须部分倒装：助动词 did 提前到主语 the two days 之前。正常语序是 the two days finally separated only when...。倒装强调「直到那时才」的语气。 举一反三：同类如 only by writing it down can you see the pattern、only then did the noise stop。"
+      },
+      {
+        "point": "现在完成时被动语态与 by 引出受益方",
+        "example": "You wake into a day that has already been cleared for you, and willpower is spent on better things.",
+        "note": "has been cleared 是现在完成时的被动语态，for you 点明动作受益方；is spent 也是被动，on better things 说明花费的去向。被动语态把焦点放在「被清理好的早晨」与「被花掉的意志力」上，而非谁做的。 举一反三：同类如 the path was prepared before you arrived、the load is lifted by the small habit。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "shape",
+        "pos": "v.",
+        "meaning": "塑造；决定形态",
+        "enExample": "The evening shapes the quality of the next morning.",
+        "zhExample": "夜晚塑造了次日清晨的质量。",
+        "note": "用法：影响事物的形成或走向"
+      },
+      {
+        "term": "set",
+        "pos": "v.",
+        "meaning": "设定；定下",
+        "enExample": "A calm start sets the tone for the whole day.",
+        "zhExample": "平静的开端为整一天定下基调。",
+        "note": "用法：为某事定下基调或起始状态"
+      },
+      {
+        "term": "review",
+        "pos": "n./v.",
+        "meaning": "复盘；回顾",
+        "enExample": "A five-minute review beats a long Monday regret.",
+        "zhExample": "五分钟复盘，胜过周一长长的后悔。",
+        "note": "用法：对过去的事做小结与反思"
+      },
+      {
+        "term": "edge",
+        "pos": "n.",
+        "meaning": "棱角；边界",
+        "enExample": "Writing gives a blurry day its edges.",
+        "zhExample": "书写给模糊的一天以棱角。",
+        "note": "用法：此处指清晰可辨的轮廓"
+      },
+      {
+        "term": "remove",
+        "pos": "v.",
+        "meaning": "移除；消除",
+        "enExample": "Laying things out removes morning friction.",
+        "zhExample": "把东西先摆好，消除了清晨的摩擦。",
+        "note": "用法：把某物拿开或去掉"
+      },
+      {
+        "term": "collapse",
+        "pos": "v.",
+        "meaning": "瘫倒；崩溃",
+        "enExample": "He collapsed onto the bed still clutching his phone.",
+        "zhExample": "他瘫倒在床上，手里还攥着手机。",
+        "note": "用法：精疲力竭地倒下或体系垮掉"
+      },
+      {
+        "term": "ritual",
+        "pos": "n.",
+        "meaning": "仪式；固定习惯",
+        "enExample": "A small nightly ritual separates the two days.",
+        "zhExample": "一个小小的夜间仪式，把两天分开。",
+        "note": "用法：有意为之、反复出现的收尾动作"
+      },
+      {
+        "term": "stroke",
+        "pos": "n.",
+        "meaning": "一笔；笔画；举措",
+        "enExample": "The future is built in small strokes, not grand ones.",
+        "zhExample": "未来是用细小的笔触建起来的，不是宏大的。",
+        "note": "用法：此处比喻重大的行动或笔触"
+      }
+    ]
+  }
+}

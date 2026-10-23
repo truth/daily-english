@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-16",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "orchestrate",
+      "pos": "v.",
+      "phonetic": "/ˈɔːkɪstreɪt/",
+      "meaning": "统筹安排，精心策划",
+      "enExample": "She orchestrated the launch across three teams.",
+      "zhExample": "她统筹三个团队，完成了发布。",
+      "note": "💡 来自 orchestra（乐团）。搭 orchestrate a plan。完成的背后是 orchestrate，不是蛮干。"
+    },
+    {
+      "word": "cascade",
+      "pos": "v.",
+      "phonetic": "/kæˈskeɪd/",
+      "meaning": " cascade，层层传递",
+      "enExample": "One small win can cascade into bigger ones.",
+      "zhExample": "一个小胜，能 cascade 成更大的胜。",
+      "note": "💡 本义瀑布。搭 cascade down。完成感会 cascade，推动后续。"
+    },
+    {
+      "word": "tick off",
+      "pos": "phr.",
+      "phonetic": "/tɪk ɒf/",
+      "meaning": "勾掉，完成一项",
+      "enExample": "I tick off each task as I finish it.",
+      "zhExample": "每完成一项，我就勾掉一项。",
+      "note": "💡 tick（打勾）+ off。搭 tick off the list。可见的 tick off 给完成感。"
+    },
+    {
+      "word": "blitz",
+      "pos": "n.",
+      "phonetic": "/blɪts/",
+      "meaning": "突击，集中猛攻",
+      "enExample": "We did a weekend blitz to finish the report.",
+      "zhExample": "我们周末搞了场突击，把报告赶完。",
+      "note": "💡 来自德语 Blitz（闪电战）。搭 a cleaning blitz。卡住时用 blitz 破局。"
+    },
+    {
+      "word": "galvanize",
+      "pos": "v.",
+      "phonetic": "/ˈɡælvənaɪz/",
+      "meaning": "激励，促使行动",
+      "enExample": "The deadline galvanized the whole team.",
+      "zhExample": "截止日期激励了整个团队。",
+      "note": "💡 本义电镀（通电流）。搭 galvanize into action。完成欲常被 galvanize 点燃。"
+    }
+  ],
+  "essay": {
+    "title": "The Satisfaction of Finishing",
+    "author": "佚名",
+    "paragraphs": [
+      "We love to start, but finishing is where quiet joy lives. Closing a task tells your brain that effort matters and that you can trust yourself.",
+      "An open loop drains energy. Each unfinished project is a small tug on attention you could spend elsewhere.",
+      "Break the mountain into checkpoints. A finish line feels far, but a dozen small finishes build the same pride.",
+      "Celebrate the small wins on purpose. The ritual of marking done trains your brain to begin again with confidence.",
+      "Do not wait for the perfect moment to finish. The deepest fulfillment comes from things actually completed, not merely imagined."
+    ],
+    "translations": [
+      "我们偏爱开始，但满足感藏在完成里。收尾一件事，是在告诉大脑：努力有意义，而你值得信赖。",
+      "一个未闭合的循环会消耗能量。每个未完成的项目，都是对注意力的微小拉扯，而你本可把精力用在他处。",
+      "把高山拆成若干节点。终点看似遥远，但十几个小小的完成，也能垒起同样的骄傲。",
+      "刻意地为小胜利庆祝。把「已完成」标记下来的仪式，会训练大脑更有信心地再次出发。",
+      "别等完美的时机再去完成。最深的满足，来自真正做完的事，而非仅仅设想过的事。"
+    ],
+    "grammar": [
+      {
+        "point": "动名词作主语",
+        "example": "\"Finishing a task tells your brain that effort matters.\"",
+        "note": "动名词 finishing 作主语，表示完成这件事整体，谓语动词用单数 tells。 举一反三：动名词短语作主语强调动作本身；若为不定式 To finish... 则更侧重目的。"
+      },
+      {
+        "point": "定语从句",
+        "example": "\"The projects that you never finish still weigh on you.\"",
+        "note": "that 引导定语从句修饰 projects，在从句中作 finish 的宾语，可省略。 举一反三：定语从句中作宾语的关系代词常可省略；作主语时不可省。"
+      },
+      {
+        "point": "虚拟语气",
+        "example": "\"If I finished it today, I would feel lighter tomorrow.\"",
+        "note": "与现在事实相反的虚拟：if 从句用过去式，主句用 would + 动词原形。 举一反三：与过去相反用 had done / would have done；与将来相反用 should do / would do。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "finish",
+        "pos": "v./n.",
+        "meaning": "完成；收尾",
+        "enExample": "\"Finishing is its own kind of freedom.\"",
+        "zhExample": "完成本身即一种自由。",
+        "note": "用法：指让一件事真正抵达终点。"
+      },
+      {
+        "term": "closure",
+        "pos": "n.",
+        "meaning": "了结；闭合",
+        "enExample": "\"Crossing the last item brought closure.\"",
+        "zhExample": "划掉最后一项带来了了结感。",
+        "note": "用法：指心理上对一件事的安心收尾。"
+      },
+      {
+        "term": "checkpoint",
+        "pos": "n.",
+        "meaning": "节点；检查点",
+        "enExample": "\"Set a checkpoint after every chapter.\"",
+        "zhExample": "每写完一章设一个节点。",
+        "note": "用法：指把大任务切分后的小完成标记。"
+      },
+      {
+        "term": "momentum",
+        "pos": "n.",
+        "meaning": "势头；惯性",
+        "enExample": "\"One finish creates momentum for the next.\"",
+        "zhExample": "一次完成会为下一次制造势头。",
+        "note": "用法：指完成后继续推进的动力。"
+      },
+      {
+        "term": "procrastination",
+        "pos": "n.",
+        "meaning": "拖延",
+        "enExample": "\"Procrastination feeds on open loops.\"",
+        "zhExample": "拖延靠未竟之事滋长。",
+        "note": "用法：指推迟行动的习惯。"
+      },
+      {
+        "term": "fulfillment",
+        "pos": "n.",
+        "meaning": "满足感；实现",
+        "enExample": "\"Finishing the book gave real fulfillment.\"",
+        "zhExample": "写完那本书带来了真正的满足。",
+        "note": "用法：指目标达成后的充实感受。"
+      },
+      {
+        "term": "tackle",
+        "pos": "v.",
+        "meaning": "着手处理",
+        "enExample": "\"We tackled the hardest task first.\"",
+        "zhExample": "我们先着手最难的任务。",
+        "note": "用法：指主动迎难而上做某事。"
+      },
+      {
+        "term": "reward",
+        "pos": "n./v.",
+        "meaning": "回报；奖赏",
+        "enExample": "\"The reward was a quiet evening.\"",
+        "zhExample": "回报是一个安静的夜晚。",
+        "note": "用法：指完成带来的内在或外在回馈。"
+      }
+    ]
+  }
+}

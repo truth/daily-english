@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-23",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "postpone",
+      "pos": "v.",
+      "phonetic": "/poʊstˈpoʊn/",
+      "meaning": "推迟；延期",
+      "enExample": "We have to postpone the meeting until next Monday because the client is still traveling.",
+      "zhExample": "由于客户还在出差，我们不得不把会议推迟到下周一。",
+      "note": "post-（之后，如 postpone/postwar）+ pone（放，同 position）→ \"往后放\"。高频搭配：postpone a meeting / trip / decision。近义 put off 更口语：Let's put it off. 注意别和 cancel（取消）混用——推迟是改期，取消是不办了。"
+    },
+    {
+      "word": "overlook",
+      "pos": "v.",
+      "phonetic": "/ˌoʊvərˈlʊk/",
+      "meaning": "忽视；漏看；俯瞰",
+      "enExample": "Don't overlook the small details when you check the contract before signing.",
+      "zhExample": "签字前核对合同时，别忽视那些小细节。",
+      "note": "over-（越过）+ look（看）→ \"看过了头\"→ 漏看。高频搭配：overlook a detail / mistake / risk。易混辨析：overlook（无意漏看）vs ignore（明明看到却故意不理）。另一个常见义：房间 overlook the sea（俯瞰大海）。"
+    },
+    {
+      "word": "workload",
+      "pos": "n.",
+      "phonetic": "/ˈwɜːrkloʊd/",
+      "meaning": "工作量；工作负担",
+      "enExample": "My workload doubled this month, so I've been staying late almost every day.",
+      "zhExample": "这个月我的工作量翻了一倍，所以几乎每天都在加班。",
+      "note": "work（工作）+ load（负载）→ 复合词很好记，同构词：caseload、course load。高频搭配：a heavy / light workload（工作量大/小）、reduce the workload、balance your workload。职场吐槽金句：My workload is killing me."
+    },
+    {
+      "word": "genuine",
+      "pos": "adj.",
+      "phonetic": "/ˈdʒenjuɪn/",
+      "meaning": "真诚的；真正的；非伪造的",
+      "enExample": "A genuine apology matters more than a perfectly worded excuse.",
+      "zhExample": "真诚的道歉比措辞完美的借口更重要。",
+      "note": "词根 gen-（出生，同 generate）→ \"天生如此\"→ 不是装出来的。高频搭配：genuine interest / concern / leather（真皮）。近义 sincere（态度上的真诚），genuine 更强调\"货真价实、不是假的\"。口语夸人：She's genuinely nice."
+    },
+    {
+      "word": "affordable",
+      "pos": "adj.",
+      "phonetic": "/əˈfɔːrdəbl/",
+      "meaning": "负担得起的；价格实惠的",
+      "enExample": "We found an affordable apartment near the subway station, just ten minutes from work.",
+      "zhExample": "我们在地铁站附近找到了一套价格实惠的公寓，离公司只有十分钟。",
+      "note": "afford（买得起）+ -able（可…的）→ \"买得起的\"。高频搭配：affordable housing（经济适用房）、affordable price。广告高频词：quality products at affordable prices（物美价廉）。近义 cheap 贬义（廉价掉价），affordable 是褒义——说\"实惠\"别说\"便宜\"。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Freedom of Forgiveness",
+    "author": "佚名",
+    "paragraphs": [
+      "We think forgiveness is something we hand to the person who hurt us, a gift we grant from a height. But most days it is the opposite. It is the thing we do for ourselves, quietly, when no one is watching — laying down a weight we were never meant to carry.",
+      "I kept a small anger for years, the way you keep a stone in your pocket to remember a name. It warmed there, a little, and gave me a reason to be sharp with people who had nothing to do with it. I mistook the ache for strength. It was only a habit.",
+      "Then one evening, nothing special, I let it go. Not in a rush, not with a speech. I simply noticed the stone was still there and decided my hand was tired. The relief was not loud. It was the quiet kind, like a room after you finally stop expecting a knock at the door.",
+      "Forgiveness does not mean the hurt was small, or that the person was right. It means you have chosen to leave the past in its own country and come home to the only hour you own. The one who benefits is rarely the one who wronged you. It is you — lighter, and finally free to begin again."
+    ],
+    "translations": [
+      "我们以为宽恕，是把什么东西递给那个伤害过我们的人，是从高处施予的一份礼物。但多数时候恰恰相反。宽恕是我们为自己做的事，安静地，在无人注视时——放下一份本就不该由我们背负的分量。",
+      "我曾把一份小小的怒气揣了很多年，就像你在口袋里放一块石头，好记住一个名字。它在那儿微微发着热，给了我一个对无关之人刻薄的理由。我把那阵隐痛错当成了坚强。那不过是一种习惯。",
+      "后来有个傍晚，没什么特别，我放下了它。不是匆匆忙忙，也不是发表一番演说。我只是注意到石头还在那儿，并决定我的手已经累了。那种宽慰并不喧哗。它是一种安静的宽慰，像一间屋子，在你终于不再期待敲门声之后。",
+      "宽恕不意味着伤害很小，也不意味着那个人是对的。它意味着你已选择把过去留在它自己的国度，回到你唯一拥有的那个时辰。从中受益的，很少是那个亏待过你的人。是你——更轻盈，终于自由，可以重新开始。"
+    ],
+    "grammar": [
+      {
+        "point": "省略关系词 that 的定语从句",
+        "example": "\"It is the thing we do for ourselves… a weight we were never meant to carry.\"",
+        "note": "两处划线名词后都省略了关系代词 that / which：the thing (that) we do、a weight (that / which) we were never meant to carry。当关系词在从句中作宾语且指物时，常可省略，句子更紧凑。 举一反三：可还原为 It is the thing that we do for ourselves quietly."
+      },
+      {
+        "point": "the way 引导的方式状语从句（省略 in which / that）",
+        "example": "\"I kept a small anger for years, the way you keep a stone in your pocket…\"",
+        "note": "the way 在此相当于 as / in the way that，引导方式状语从句，口语与文学中常省略其后关系词，比 which 更地道。它把「多年揣着怒气」比作「口袋里放石头」，形象而克制。 举一反三：He left the room the way he always did — without a word."
+      },
+      {
+        "point": "who 引导的定语从句（分隔修饰）",
+        "example": "\"…a reason to be sharp with people who had nothing to do with it.\"",
+        "note": "定语从句 who had nothing to do with it 修饰 people，但被前面的不定式短语 to be sharp with people 隔开，形成「分隔定语」。关系代词 who 在从句中作主语，不可用 that 替换（指人优先 who）。 翻译关键：those people 与「它（怒气）」毫无关系，刻薄是迁怒。"
+      },
+      {
+        "point": "not...or 并列否定 + that 宾语从句",
+        "example": "\"Forgiveness does not mean the hurt was small, or that the person was right.\"",
+        "note": "not 否定整个谓语 mean，其后由 or 连接两个并列宾语：一是省略 that 的从句 the hurt was small，二是带 that 的从句 that the person was right。or 在此表「也不」，整句意为「不意味着……也不意味着……」。 注意：mean 后两个宾语从句并列，第二个 that 不可省，否则结构易混。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "forgiveness",
+        "pos": "n.",
+        "meaning": "宽恕；原谅",
+        "enExample": "He asked for her forgiveness, but more than that, he needed his own.",
+        "zhExample": "他请求她的宽恕，但更重要的是，他需要自己的宽恕。",
+        "note": "用法：指放下对他人的怨恨、不再追究，是不可数名词；常与 ask for / grant 搭配"
+      },
+      {
+        "term": "grant",
+        "pos": "v.",
+        "meaning": "给予；授予；准予",
+        "enExample": "She granted him one last chance to explain himself.",
+        "zhExample": "她给了他最后一次解释的机会。",
+        "note": "用法：正式用语，指出于权威或善意把某物给某人；take sth for granted 为常见短语"
+      },
+      {
+        "term": "lay down",
+        "pos": "phr.",
+        "meaning": "放下；放弃（负担、武器等）",
+        "enExample": "At last she laid the worry down and went to sleep.",
+        "zhExample": "她终于放下了担忧，睡了过去。",
+        "note": "用法：及物短语动词，宾语可插在 lay 与 down 之间（lay the weight down）；lay down one's arms 表放下武器"
+      },
+      {
+        "term": "weight",
+        "pos": "n.",
+        "meaning": "重量；负担；重压",
+        "enExample": "The apology lifted a weight he had carried for years.",
+        "zhExample": "那句道歉卸下了他背负多年的重担。",
+        "note": "用法：本义是物理重量，引申为心理或责任上的「重担」，常用 a weight on one's mind/shoulders"
+      },
+      {
+        "term": "sharp",
+        "pos": "adj.",
+        "meaning": "尖刻的；锋利的；敏锐的",
+        "enExample": "Don't be so sharp with her; she meant no harm.",
+        "zhExample": "别对她这么尖刻，她并无恶意。",
+        "note": "用法：形容言辞、态度时指「尖酸刻薄、伤人」；也可形容刀刃锋利或感官敏锐"
+      },
+      {
+        "term": "mistake A for B",
+        "pos": "phr.",
+        "meaning": "把 A 误认为 B；混淆",
+        "enExample": "I mistook his silence for agreement, but he was only thinking.",
+        "zhExample": "我把他的沉默误当作同意，其实他只是在思索。",
+        "note": "用法：mistake 过去式 mistook、过去分词 mistaken；常用于 mistake one thing for another"
+      },
+      {
+        "term": "ache",
+        "pos": "n./v.",
+        "meaning": "疼痛；隐痛；渴望",
+        "enExample": "There was an old ache in his voice when he spoke of home.",
+        "zhExample": "他谈起家乡时，声音里带着一种旧日的隐痛。",
+        "note": "用法：既可指身体的酸痛（backache），也常指心里的「隐痛」；ache for 表渴望"
+      },
+      {
+        "term": "let go",
+        "pos": "phr.",
+        "meaning": "放手；释怀；松开",
+        "enExample": "You have to let go of the past to move forward.",
+        "zhExample": "要向前走，你得放下过去。",
+        "note": "用法：不及物短语，宾语需用 of（let go of sth）；指放下执念、情绪或抓住的东西"
+      },
+      {
+        "term": "relief",
+        "pos": "n.",
+        "meaning": "宽慰；解脱；缓解",
+        "enExample": "She sighed with relief when the call finally ended.",
+        "zhExample": "电话终于挂断时，她如释重负地叹了口气。",
+        "note": "用法：指压力或痛苦解除后的轻松感；to one's relief 为常用插入语"
+      },
+      {
+        "term": "benefit",
+        "pos": "v./n.",
+        "meaning": "受益；好处；利益",
+        "enExample": "Who really benefits from holding on to old anger?",
+        "zhExample": "紧抓旧日怒气，究竟谁真正受益？",
+        "note": "用法：作动词常接 from（benefit from）；the one who benefits 表「受益者」"
+      },
+      {
+        "term": "wrong",
+        "pos": "v.",
+        "meaning": "亏待；使受委屈；冤枉",
+        "enExample": "He never forgave the friend who had wronged him.",
+        "zhExample": "他从未原谅那个亏待过他的朋友。",
+        "note": "用法：作动词时指不公正地对待某人（the one who wronged you = 亏待你的人）；过去式/分词 wronged"
+      },
+      {
+        "term": "begin again",
+        "pos": "phr.",
+        "meaning": "重新开始；再度启程",
+        "enExample": "After the long winter, the garden began again.",
+        "zhExample": "漫长的冬日之后，花园重新开始生长。",
+        "note": "用法：begin 的过去式 began、过去分词 begun；again 强调「从零再来一次」的意味"
+      }
+    ]
+  }
+}

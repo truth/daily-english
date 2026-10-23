@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-17",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "phonetic": "/ˌriːˈtʃɑːdʒ/",
+      "meaning": "充电，恢复精力",
+      "enExample": "A walk at noon recharges my focus.",
+      "zhExample": "中午走一圈，给专注力充电。",
+      "note": "💡 re-（再）+ charge。搭 recharge batteries。休息不是偷懒，是 recharge。"
+    },
+    {
+      "word": "slump",
+      "pos": "n.",
+      "phonetic": "/slʌmp/",
+      "meaning": "低谷，萎靡",
+      "enExample": "A mid-afternoon slump is normal; plan around it.",
+      "zhExample": "下午中段的萎靡很正常，绕着它安排。",
+      "note": "💡 搭 hit a slump。识别自己的 slump 时段，别硬扛。"
+    },
+    {
+      "word": "stamina",
+      "pos": "n.",
+      "phonetic": "/ˈstæmɪnə/",
+      "meaning": "耐力，持久力",
+      "enExample": "Deep work builds mental stamina over time.",
+      "zhExample": "深度工作，随时间积累脑力耐力。",
+      "note": "💡 不可数。搭 build stamina。精力管理练的是 stamina，不是时长。"
+    },
+    {
+      "word": "sprint",
+      "pos": "n.",
+      "phonetic": "/sprɪnt/",
+      "meaning": "冲刺，短期高强度",
+      "enExample": "Use a 25-minute sprint, then rest.",
+      "zhExample": "来一段 25 分钟冲刺，然后休息。",
+      "note": "💡 搭 a sprint。和 slump 相对：sprint 之后必须 rest。"
+    },
+    {
+      "word": "decompress",
+      "pos": "v.",
+      "phonetic": "/ˌdiːkəmˈpres/",
+      "meaning": "减压，放松",
+      "enExample": "I decompress by cooking after work.",
+      "zhExample": "下班后我靠做饭减压。",
+      "note": "💡 de-（去）+ compress（压）。搭 decompress from。休息也是工作的一部分=会 decompress。"
+    }
+  ],
+  "essay": {
+    "title": "Rest Is Part of the Work",
+    "author": "佚名",
+    "paragraphs": [
+      "We treat rest as a reward we earn after the work is done, something to be squeezed into the margins of a busy life. But the truth is simpler and harder to accept: rest is not the opposite of work, it is part of the work. A mind that never stops is a tool left running until it wears down.",
+      "Think of attention as a battery. Every decision, every small reply, every task you half-finish drains it a little, whether or not you notice. By mid-afternoon most people are not lazy; they are simply running on empty.",
+      "The problem is not that we rest too little, but that we rest too poorly. Scrolling through a phone feels like a break and yet leaves the mind busier than before. Real rest has a texture: it is unhurried, it asks nothing of you, and it gives you back the quiet you started the day without.",
+      "I learned this the hard way, during a season when I boasted about never taking a day off. My output looked the same on the surface, but the ideas grew thin, and the small errors multiplied. The work did not stop; it simply got worse while I was still at the desk.",
+      "So build rest into the shape of the day the way you would build in a meeting. A walk with no purpose, a chapter of a book, ten minutes with nothing in your hands. The work will still be there when you return, and you will meet it with a fuller mind than the one that left."
+    ],
+    "translations": [
+      "我们把休息当作工作完成之后才配得到的奖赏，是塞进忙碌生活缝隙里的东西。但真相更简单，也更难接受：休息不是工作的对立面，它就是工作的一部分。一颗从不停歇的心，是把工具一直开着直到它磨损殆尽。",
+      "把注意力想成一块电池。每一个决定、每一条简短的回复、每一件你做到一半的事，都在悄悄消耗它，无论你是否察觉。到了下午中段，大多数人并不是懒，而只是彻底没电了。",
+      "问题不在于我们休息得太少，而在于休息得太糟。刷手机看似是种放松，却让脑子比之前更忙。真正的休息有一种质感：它从容不迫，不向你索取任何东西，并把它还给那份你清早出门时就已经丢失的安静。",
+      "我是吃了苦头才学到这一点的，那段时间我以从不休假为傲。我的产出表面上看没什么变化，但想法变得稀薄，小错误不断增多。工作并没有停下；它只是趁我还坐在桌前，悄悄变糟了。",
+      "所以，要把休息像安排会议那样，嵌进一天的轮廓里。一场漫无目的的散步，一章书，或者双手空空地待上十分钟。你回来时，工作仍在那里，而你迎接它的，会比离开时那颗心，更饱满一些。"
+    ],
+    "grammar": [
+      {
+        "point": "并列否定结构 not A but B",
+        "example": "But the truth is simpler and harder to accept: rest is not the opposite of work, but part of the work.",
+        "note": "not A but B 表示「不是 A，而是 B」，先用否定推开第一种说法，再用 but 把重心落在后者。句中把「对立面」换成「一部分」，彻底改写了休息的语义位置。 举一反三：同结构还有 not a break but a part of the plan、it is not weakness but wisdom。"
+      },
+      {
+        "point": "并列谓语与比较级",
+        "example": "Scrolling through a phone feels like a break and yet leaves the mind busier than before.",
+        "note": "现在分词 scrolling 引导的短语作主语，把「刷手机」这个行为整体化；feels 与 leaves 并列作谓语，busier than before 是比较级作宾语补足语，点出「看似放松、实则更累」的反差。 举一反三：同类主语如 reading widely opens the mind、sitting still restores the calm。"
+      },
+      {
+        "point": "the way 引导方式状语从句（省略 as）",
+        "example": "So build rest into the shape of the day the way you would build in a meeting.",
+        "note": "the way 在此相当于 as / in the way that，引导方式状语从句说明「嵌入」的方式，口语中常省略连词。主句是祈使句 build...，语气直接而有力。 举一反三：也可写成 just as you would build in a meeting，或 as you schedule a meeting。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "rest",
+        "pos": "n.",
+        "meaning": "休息；歇息",
+        "enExample": "A short rest after lunch helped her focus.",
+        "zhExample": "午后的短暂休息让她重新集中了注意力。",
+        "note": "用法：指工作或活动之间的停顿，也可作动词"
+      },
+      {
+        "term": "attention",
+        "pos": "n.",
+        "meaning": "注意力；专注",
+        "enExample": "Please give this report your full attention.",
+        "zhExample": "请对这份报告投入你全部的注意力。",
+        "note": "用法：把心思集中在某事上的能力，常接 to"
+      },
+      {
+        "term": "decision",
+        "pos": "n.",
+        "meaning": "决定；决策",
+        "enExample": "Making small decisions all day can be surprisingly tiring.",
+        "zhExample": "一整天做各种小决定，会累得超乎想象。",
+        "note": "用法：经过思考后作出的选择，动词为 decide"
+      },
+      {
+        "term": "drain",
+        "pos": "v.",
+        "meaning": "耗尽；使枯竭",
+        "enExample": "The long meeting drained what little energy he had left.",
+        "zhExample": "那场漫长的会议耗光了他所剩无几的精力。",
+        "note": "用法：慢慢抽走精力、金钱或液体，名词亦可用"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "从容的；不慌不忙的",
+        "enExample": "She spoke in an unhurried voice that calmed everyone.",
+        "zhExample": "她用从容的语调说话，让所有人都平静下来。",
+        "note": "用法：形容节奏舒缓、没有紧迫感"
+      },
+      {
+        "term": "wear",
+        "pos": "v.",
+        "meaning": "磨损；消耗",
+        "enExample": "Working without breaks will wear you down over time.",
+        "zhExample": "不休息地工作，久而久之会把你拖垮。",
+        "note": "用法：长期使用后变旧变坏，常见搭配 wear down / wear out"
+      },
+      {
+        "term": "boast",
+        "pos": "v.",
+        "meaning": "夸耀；以…为傲",
+        "enExample": "He used to boast about answering emails at midnight.",
+        "zhExample": "他过去常以半夜回邮件为傲。",
+        "note": "用法：自豪地谈论某事，语气可褒可贬"
+      },
+      {
+        "term": "margin",
+        "pos": "n.",
+        "meaning": "余地；边缘；页边",
+        "enExample": "Leave a margin in your schedule for the unexpected.",
+        "zhExample": "在日程里为意外留出一点余地。",
+        "note": "用法：引申为时间或资源上留出的余量"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-21",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "attune",
+      "pos": "v.",
+      "phonetic": "/əˈtjuːn/",
+      "meaning": "使契合，使协调",
+      "enExample": "Attune your reply to how they feel.",
+      "zhExample": "让你的回应，契合对方的感受。",
+      "note": "💡 来自 tune（调音）。搭 attune to。深度沟通先 attune 再开口。"
+    },
+    {
+      "word": "probe",
+      "pos": "v.",
+      "phonetic": "/prəʊb/",
+      "meaning": "探究，追问",
+      "enExample": "She probed gently to find the real issue.",
+      "zhExample": "她温和地追问，找到真正的问题。",
+      "note": "💡 本义探针。搭 probe into。读懂言外之意要 probe 而非假设。"
+    },
+    {
+      "word": "unpack",
+      "pos": "v.",
+      "phonetic": "/ʌnˈpæk/",
+      "meaning": "拆解，细细分析",
+      "enExample": "Let us unpack what that comment really meant.",
+      "zhExample": "咱们拆解一下，那句话到底什么意思。",
+      "note": "💡 un-（解）+ pack。搭 unpack a sentence。深度沟通靠 unpack。"
+    },
+    {
+      "word": "nuance",
+      "pos": "n.",
+      "phonetic": "/ˈnjuːɑːns/",
+      "meaning": "细微差别",
+      "enExample": "Catch the nuance between polite and distant.",
+      "zhExample": "捕捉「客气」与「疏离」之间的细微差别。",
+      "note": "💡 搭 a nuance。言外之意全是 nuance。"
+    },
+    {
+      "word": "hedge",
+      "pos": "v.",
+      "phonetic": "/hedʒ/",
+      "meaning": "含糊回避，留余地",
+      "enExample": "He hedged instead of giving a clear no.",
+      "zhExample": "他含糊其辞，没给个明确的「不」。",
+      "note": "💡 本义树篱。搭 hedge on。读懂别人 hedge，是沟通深度。"
+    }
+  ],
+  "essay": {
+    "title": "Reading Between the Lines",
+    "author": "佚名",
+    "paragraphs": [
+      "Most of what matters in a conversation is not said out loud. A pause before an answer, a word chosen and then taken back, a smile that does not reach the eyes — these are the parts the ears miss and the attention catches. To read between the lines is to listen with more than your hearing.",
+      "People soften hard news with polite phrases, the way a hand wraps a sharp edge before passing it on. 'We will see' often means no. 'Interesting' can mean I disagree but will not say so yet. The meaning lives in the gap between the words and the tone.",
+      "This skill is not about suspicion; it is about care. When you read a friend well, you hear the worry beneath the joke, the question beneath the complaint. You answer the feeling, not just the sentence, and the room grows a little warmer for it.",
+      "It takes practice and a certain stillness. We are so busy preparing our next reply that we stop watching the person in front of us. The line between us is read most clearly when we are quiet enough to let the other person finish a thought they did not know they were speaking.",
+      "So the next time a message feels off, do not rush to answer it. Sit with the unsaid for a moment. What someone cannot yet say is often the truest thing in the room, and the gift of reading it is a closeness that loud words never earn."
+    ],
+    "translations": [
+      "一场对话里，最重要的东西大多不是大声说出来的。回答前的一次停顿，一个被选出又收回的词，一个没能抵达眼底的微笑——这些是耳朵漏掉、而专注才能接住的部分。读懂言外之意，就是用比听觉更多的东西去听。",
+      "人们用客气的措辞把坏消息包软，就像一只手在递出利刃之前先把它裹好。「再说吧」往往就是不行。「有意思」可能是说：我不同意，但暂且不说。含义，活在词语与语气之间的那道缝隙里。",
+      "这门手艺无关猜疑，而关乎在意。当你把一个朋友读得准，你会听见玩笑之下的担忧，抱怨之下的疑问。你回应的是那份感受，而不只是那句话，而屋子，也因之变得稍稍暖了一些。",
+      "它需要练习，也需要一种特定的安静。我们太忙着准备下一句回复，以至于不再去看面前那个人。当我们足够安静，让对方把一句自己都没意识到在说的话说完，我们之间的那行字，才读得最清楚。",
+      "所以，下回一条消息让你觉得不对劲，别急着回。和那句没说出口的话，共处一会儿。一个人还说不出口的，往往是一屋子里最真的事；而读懂它的馈赠，是一种再响亮的话也换不来的亲近。"
+    ],
+    "grammar": [
+      {
+        "point": "破折号总括与省略关系代词的定语从句",
+        "example": "A pause before an answer, a word chosen and then taken back, a smile that does not reach the eyes — these are the parts the ears miss and the attention catches.",
+        "note": "三个名词短语并列作主语，破折号后用 these are 总括。the ears miss 与 the attention catches 是两个省略了 关系代词 that 的定语从句，共同修饰 the parts，形成「耳朵漏掉、专注接住」的对照。 举一反三：同类省略如 the things we hear and the things we miss，口语中 that / which 常省略。"
+      },
+      {
+        "point": "引语整体作主语与 mean 的语义",
+        "example": "'We will see' often means no.",
+        "note": "引号中的「We will see」作为引语整体作主语，means 是系动词，no 在此名词化用作表语（等于 a refusal）。句子揭示「字面义」与「实际义」的落差，是言外之意的典型例子。 举一反三：同类如「interesting」can mean I disagree，引语作主语时谓语动词用单数。"
+      },
+      {
+        "point": "when 引导的时间状语从句与 enough to 结构",
+        "example": "The line between us is read most clearly when we are quiet enough to let the other person finish a thought.",
+        "note": "when 引导时间从句，说明「读得最清楚」的条件：我们足够安静。enough to let... 中 enough 修饰形容词 quiet，后接不定式表示「安静到足以让…」。finish a thought 作 let 的宾语补足语（省略 to）。 举一反三：同类如 it is heard best when we slow down enough to listen。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "pause",
+        "pos": "n./v.",
+        "meaning": "停顿；暂停",
+        "enExample": "A long pause before answering can mean doubt.",
+        "zhExample": "回答前长长的停顿，可能意味着犹豫。",
+        "note": "用法：说话或行动中的短暂停顿"
+      },
+      {
+        "term": "polite",
+        "pos": "adj.",
+        "meaning": "客气的；有礼貌的",
+        "enExample": "She gave a polite refusal that meant no.",
+        "zhExample": "她给了一个客气的拒绝，意思是不行。",
+        "note": "用法：用语委婉、顾及他人"
+      },
+      {
+        "term": "tone",
+        "pos": "n.",
+        "meaning": "语气；声调",
+        "enExample": "The words were kind but the tone was cold.",
+        "zhExample": "话是善的，语气却是冷的。",
+        "note": "用法：说话时的腔调或态度"
+      },
+      {
+        "term": "care",
+        "pos": "n.",
+        "meaning": "在意；关怀",
+        "enExample": "Good listening is an act of care, not a trick.",
+        "zhExample": "好的倾听是一种在意，不是技巧。",
+        "note": "用法：对人或事的用心与重视"
+      },
+      {
+        "term": "stillness",
+        "pos": "n.",
+        "meaning": "安静；静止",
+        "enExample": "In the stillness, the real meaning surfaced.",
+        "zhExample": "在那份安静里，真正的含义浮了上来。",
+        "note": "用法：没有声响或纷扰的状态"
+      },
+      {
+        "term": "finish",
+        "pos": "v.",
+        "meaning": "完成；说完",
+        "enExample": "Let him finish before you respond.",
+        "zhExample": "先让他把话说完，你再回应。",
+        "note": "用法：把一件事或一句话做到结尾"
+      },
+      {
+        "term": "answer",
+        "pos": "v./n.",
+        "meaning": "回答；回应",
+        "enExample": "Do not rush to answer a message that feels off.",
+        "zhExample": "别急着回复一条让你觉得不对劲的消息。",
+        "note": "用法：对问题或消息作出反应"
+      },
+      {
+        "term": "closeness",
+        "pos": "n.",
+        "meaning": "亲近；亲密",
+        "enExample": "Reading each other well builds a quiet closeness.",
+        "zhExample": "彼此读得准，会筑起一种安静的亲近。",
+        "note": "用法：关系上的靠近与信任"
+      }
+    ]
+  }
+}
