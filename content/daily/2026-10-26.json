@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-26",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "buffer",
+      "pos": "n.",
+      "phonetic": "/ˈbʌfər/",
+      "meaning": "缓冲；缓冲时间/缓冲带",
+      "enExample": "Leave a fifteen-minute buffer between meetings so you never have to rush.",
+      "zhExample": "在两个会议之间留出十五分钟缓冲时间，这样你就不用赶了。",
+      "note": "本义缓冲垫（如 bumper 的近亲）。高频搭配：a buffer between meetings / a buffer zone（缓冲区）、buffer against stress（抵御压力）。时间管理金句：Always build in a buffer. 别只知道内存 buffer——日程里的 buffer 才是打工人刚需。"
+    },
+    {
+      "word": "liaison",
+      "pos": "n.",
+      "phonetic": "/liˈeɪzɑːn/",
+      "meaning": "联络人；联络工作",
+      "enExample": "She acts as the liaison between our design team and the client's marketing department.",
+      "zhExample": "她负责在我们设计团队和客户的市场部之间做联络。",
+      "note": "法语借词，t 不发音，读\"利诶藏\"。高频搭配：act as / serve as a liaison between A and B、liaison officer（联络员）。跨部门沟通里最常被点名的角色：Who's the liaison for this project? 注意拼写：liai- 不是 liasi-。"
+    },
+    {
+      "word": "thorough",
+      "pos": "adj.",
+      "phonetic": "/ˈθɜːroʊ/",
+      "meaning": "彻底的；细致周全的",
+      "enExample": "He did a thorough review of the report and caught two mistakes everyone else had missed.",
+      "zhExample": "他对报告做了一次彻底的检查，发现了其他人都漏掉的两个错误。",
+      "note": "发音最坑的词之一：thorough 只有两个音节 /ˈθɜːroʊ/，ough 读 /ə/，不是\"瑟罗\"。高频搭配：a thorough check / review / understanding、be thorough in one's work。近义 careful 更泛，thorough 强调\"一个角落都不放过\"。反义 half-hearted。"
+    },
+    {
+      "word": "punctual",
+      "pos": "adj.",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meaning": "准时的；守时的",
+      "enExample": "Being punctual for client meetings is the easiest way to show respect.",
+      "zhExample": "与客户开会准时到场，是表达尊重最简单的方式。",
+      "note": "词根 punct-（点，同 point / puncture）→ \"正中那个时间点\"。高频搭配：be punctual for meetings / work。名词 punctuality（守时）。面试软技能高频词：employers value punctuality. 反义 late / tardy。谐音助记：\"碰-球\"——碰上整点球才开。"
+    },
+    {
+      "word": "brainstorm",
+      "pos": "v./n.",
+      "phonetic": "/ˈbreɪnstɔːrm/",
+      "meaning": "头脑风暴；集思广益",
+      "enExample": "Let's brainstorm some ideas for the campaign before we commit to a budget.",
+      "zhExample": "在确定预算之前，我们先为这次活动集思广益想些点子吧。",
+      "note": "brain（脑子）+ storm（风暴）→ 让想法风暴起来。高频搭配：brainstorm ideas / solutions / a brainstorming session（头脑风暴会）。职场高频：Let's brainstorm.（咱们开个小会碰一下）。注意 brainstorm 是动作，brainstorming session 才是那场会。"
+    }
+  ],
+  "essay": null
+}

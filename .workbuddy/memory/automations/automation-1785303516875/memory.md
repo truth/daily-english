@@ -128,3 +128,13 @@
 - 语音：用 `gen-audio-retry.py`（tts_env python，8×退避）补生成 3 个美文 mp3（293760/298656/299952 字节，无 0 字节）；期间给该脚本单轮加 60s `asyncio.wait_for` 超时防 edge-tts 挂死。
 - 发布：`node build.js`（608 语音）→ 直接 node 调用 `wrangler.js` 部署（本会话 PATH 损坏、wrangler sh 包装跑不起来，改用绝对路径 wrangler.js；Uploaded 9 files）→ `git push`（提交 bd6ba16）。
 - 核验：dailyecho.pages.dev/daily/2026-09-17~20.html 均 200，含各自美文标题与 essay mp3 引用；3 个 essay mp3 均 200、字节正确。09-17~20 四日（单词+美文+语音）现已完整一致。
+
+## 2026-10-23 09:34 (GMT+8) 执行
+- 运行 `node sync.js`（后台，5m51s）。
+- 合并成功：检测到新内容 → 美文 2026-10-23「（见线上标题）」、单词 2026-10-23 (5 个)。已合并进 content/daily/2026-10-23.json。
+- ✅ 构建成功：88 天内容 -> dist/（首页 + 88 每日页 + 单词本/美文库/归档；含 971 个语音文件）。
+- ✅ 部署成功（无人值守）：wrangler 非交互鉴权通过，Uploaded 53 files（1012 already uploaded），Deployment complete；git 新提交 326e31b..daae7e2 已推送 GitHub main。线上 dailyecho.pages.dev 已含 10-23 页（及 10-11~10-22 历史缺口页）。
+- ❌ 语音生成全线失败：`edge-tts` 对 **所有** 音频请求返回 `403 Invalid response status`（Sec-MS-GEC 令牌校验被拒，令牌版本 1-143.0.3650.75）。失败范围：**2026-10-11 ~ 2026-10-23 共 13 天 × 11 文件 = 143 个 0 字节 mp3**（find -size 0 核验确认）。2026-07-27 ~ 10-10 的 828 个历史 mp3 完好（本次仅对这些日期跳过、未重生成）。
+- 根因研判：edge-tts 服务侧 GEC 令牌校验变更或当前 edge-tts 版本过期，导致 ws 连接被 403 拒绝；属外部服务/依赖问题，非 sync.js 脚本 bug（脚本正常判新内容、构建、部署）。
+- 影响：10-11~10-23 共 13 个线上每日页文本/单词已就位，但**音频按钮点击无声**（0 字节）。10-23 当日内容（文字+单词）已正常发布，仅缺语音。
+- 恢复建议（未在本轮执行，因任务限定只跑 sync.js 且 edge-tts 当前 403 重试亦会失败）：待 edge-tts 恢复或升级 edge-tts 依赖后，删除 143 个 0 字节文件并重跑 sync.js / gen-audio-retry.py 补齐；勿手动编辑 JSON。
