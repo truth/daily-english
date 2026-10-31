@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-24",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "serene",
+      "pos": "adj.",
+      "phonetic": "/səˈriːn/",
+      "meaning": "宁静的；安详的",
+      "enExample": "The lake was serene at dawn.",
+      "zhExample": "黎明时分湖面一片宁静。",
+      "note": "形容环境或心情平静无波。近义 peaceful（平和）、calm（冷静）；反义 chaotic（混乱的）。口语夸人：She has a serene smile. 常用 serene morning / serene expression。"
+    },
+    {
+      "word": "tranquil",
+      "pos": "adj.",
+      "phonetic": "/ˈtræŋkwɪl/",
+      "meaning": "安静的；平静的",
+      "enExample": "We spent a tranquil evening by the lake.",
+      "zhExample": "我们在湖边度过了一个安静的傍晚。",
+      "note": "比 calm 更书面，强调「不受打扰的安宁」。搭配 a tranquil mind（平静的心境）。近义 peaceful；反义 restless（不安的）。"
+    },
+    {
+      "word": "replenish",
+      "pos": "v.",
+      "phonetic": "/rɪˈplenɪʃ/",
+      "meaning": "补充；重新装满",
+      "enExample": "I replenished the coffee beans before the guests arrived.",
+      "zhExample": "客人到之前我把咖啡豆补满了。",
+      "note": "re-（再）+ plen（满，同 plenty）→ 再次填满。高频搭配：replenish stock / energy / supplies。近义 refill（重新装满，更口语）；反义 deplete（耗尽）。"
+    },
+    {
+      "word": "solitude",
+      "pos": "n.",
+      "phonetic": "/ˈsɑːlətuːd/",
+      "meaning": "独处；孤独（中性）",
+      "enExample": "He enjoys the solitude of the early morning.",
+      "zhExample": "他享受清晨独处的时光。",
+      "note": "注意与 lonely 区分：solitude 是「主动选择的独处」（常带正面），lonely 是「感到孤独」（负面）。搭配 in solitude（独自地）。近义 isolation（隔离）；反义 company（陪伴）。"
+    },
+    {
+      "word": "unwind",
+      "pos": "v.",
+      "phonetic": "/ʌnˈwaɪnd/",
+      "meaning": "放松；松一口气",
+      "enExample": "I unwind with a book after work.",
+      "zhExample": "下班后我看书放松。",
+      "note": "本义「解开（卷起来的东西）」，引申为「让紧绷的神经松开」。高频搭配：unwind after work / on vacation。近义 relax；反义 tense up（绷紧）。口语：Let's unwind."
+    }
+  ],
+  "essay": {
+    "title": "The Library That Never Sleeps",
+    "author": "佚名",
+    "paragraphs": [
+      "There is a reading room in my city that stays open long after the shops have pulled their shutters. The lamps there do not flicker like the ones at home; they hold a steady, forgiving light, as if they had decided, years ago, to wait up for whoever needed them.",
+      "I go there when the noise of my own thoughts gets too loud to ignore. Around me, strangers bend over books they will never finish that night, and the only sound is the soft turn of a page, which somehow makes the silence feel chosen rather than lonely.",
+      "A library at night is the rare place that asks nothing of you. You do not have to buy anything, become anyone, or explain why you are not yet asleep. You can simply sit, and let the quiet do its slow work on the day's tangles.",
+      "When I finally step back into the street, the city is quieter too, as though it had been reading alongside me. I walk home lighter, holding nothing but a sentence or two I will keep, the way you keep a smooth stone found by the river."
+    ],
+    "translations": [
+      "城里有间阅览室，在沿街店铺拉下卷帘之后仍亮着灯。那里的灯不像家里的会忽明忽暗，它们守着一种沉稳而宽容的光，仿佛多年前就已打定主意，要为需要的人守夜。",
+      "每当自己心里的杂音吵得没法装作听不见，我就去那里。身旁陌生人俯身在读那些当晚绝读不完的书，唯一的声响是书页轻轻翻动——不知怎的，那让沉默像是主动选的，而非孤单。",
+      "深夜的图书馆是少数不向你索取的地方。你不必买什么、成为谁，也不必解释为何还没睡。你只管坐着，让安静慢慢梳理这一天缠成的结。",
+      "当我终于走回街上，城市也安静了些，像是陪我读了一会儿。我步子轻了回家，手里什么都没拿，只留着一两句会一直记住的话——就像你在河边捡到一块光滑的石头，便收着。"
+    ],
+    "grammar": [
+      {
+        "point": "that 引导定语从句修饰名词",
+        "example": "\"a reading room that stays open long after the shops have pulled their shutters\"",
+        "note": "that 修饰先行词 a reading room，引导定语从句说明这是怎样一间阅览室；从句主语 room 为单数，谓语 stays 用第三人称单数。 举一反三：举一反三：The cafe that never closes is my refuge."
+      },
+      {
+        "point": "as if 后接过去完成时表虚拟",
+        "example": "\"as if they had decided, years ago, to wait up for whoever needed them\"",
+        "note": "as if 后接 had decided 表示与事实相反的想象（灯并不会真的做决定）；to wait up 为不定式作宾语。 举一反三：举一反三：She smiled as if she had known all along."
+      },
+      {
+        "point": "the way 引导方式状语从句",
+        "example": "\"the way you keep a smooth stone found by the river\"",
+        "note": "the way 相当于 as，引导方式状语从句修饰 hold，带出类比的画面；found by the river 为过去分词作后置定语。 举一反三：举一反三：He left the way a guest leaves."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "shutter",
+        "pos": "n.",
+        "meaning": "百叶窗；卷帘",
+        "enExample": "The shop pulled its shutters at nine.",
+        "zhExample": "店铺九点拉下卷帘打烊。",
+        "note": "用法：pull down the shutters 拉下卷帘、打烊。"
+      },
+      {
+        "term": "flicker",
+        "pos": "v.",
+        "meaning": "闪烁；摇曳",
+        "enExample": "The candle flickered in the draught.",
+        "zhExample": "烛火在穿堂风里忽明忽暗。",
+        "note": "用法：指光忽明忽暗，也喻希望动摇。"
+      },
+      {
+        "term": "tangle",
+        "pos": "n.",
+        "meaning": "纷乱；纠缠",
+        "enExample": "She untied the tangle of cables.",
+        "zhExample": "她解开了缠成一团的线缆。",
+        "note": "用法：the day's tangles 一天的乱麻，比喻理不清的琐事。"
+      },
+      {
+        "term": "forgiving",
+        "pos": "adj.",
+        "meaning": "宽容的；不苛责的",
+        "enExample": "The quiet hour forgave my mistakes.",
+        "zhExample": "安静的一小时原谅了我的过失。",
+        "note": "用法：a forgiving light 宽容的光，喻指不逼人。"
+      },
+      {
+        "term": "steady",
+        "pos": "adj.",
+        "meaning": "稳定的；沉稳的",
+        "enExample": "Her voice stayed steady.",
+        "zhExample": "她的声音保持平稳。",
+        "note": "用法：a steady light 稳定的光；a steady hand 稳手。"
+      },
+      {
+        "term": "stranger",
+        "pos": "n.",
+        "meaning": "陌生人",
+        "enExample": "A stranger offered me a seat.",
+        "zhExample": "一位陌生人给我让了座。",
+        "note": "用法：指不认识的人，偏中性。"
+      },
+      {
+        "term": "ignore",
+        "pos": "v.",
+        "meaning": "忽视；不理",
+        "enExample": "He ignored the ringing phone.",
+        "zhExample": "他没理会响起的电话。",
+        "note": "用法：ignore the noise 不理会杂音；ignore a warning 无视警告。"
+      },
+      {
+        "term": "chosen",
+        "pos": "adj.",
+        "meaning": "被挑选的；主动选择的",
+        "enExample": "It felt like a chosen pause.",
+        "zhExample": "那像是一次主动选择的停顿。",
+        "note": "用法：a chosen silence 主动选的安静，区别于被迫的沉默。"
+      },
+      {
+        "term": "smooth",
+        "pos": "adj.",
+        "meaning": "光滑的；平顺的",
+        "enExample": "The smooth stone fit her palm.",
+        "zhExample": "那块光滑的石头正合她手心。",
+        "note": "用法：a smooth stone 光滑的石头；a smooth reply 得体回复。"
+      },
+      {
+        "term": "keep",
+        "pos": "v.",
+        "meaning": "保留；保存",
+        "enExample": "I kept the ticket as a souvenir.",
+        "zhExample": "我把票留作纪念。",
+        "note": "用法：keep a sentence 记住一句话；keep a souvenir 留作纪念。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-28",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "swamped",
+      "pos": "adj.",
+      "phonetic": "/swɒmpt/",
+      "meaning": "忙得不可开交的；应接不暇的",
+      "enExample": "I'm swamped with requests this week, so can we push our call to Friday?",
+      "zhExample": "我这周被各种需求压得喘不过气，咱们的通话能推到周五吗？",
+      "note": "原义“被沼泽淹没”（swamp = 沼泽），所以 swamped 的画面感是“整个人被工作淹了”。高频搭配：be swamped with work / emails / requests。职场标准句式：I'm swamped right now, can it wait? 比 I'm busy 更口语、更真诚，也更容���被接受。注意别漏掉 -ed，swamp 是动词/名词，swamped 才是形容词。"
+    },
+    {
+      "word": "cram",
+      "pos": "v.",
+      "phonetic": "/kræm/",
+      "meaning": "临时死记硬背；硬塞、塞满",
+      "enExample": "I crammed for the exam in one night and forgot half of it by morning.",
+      "zhExample": "我只用了一个晚上突击备考，到第二天早上就忘了一半。",
+      "note": "本义是把东西硬塞进箱子（cram clothes into a suitcase），引申为“把知识硬塞进脑子”。高频搭配：cram for an exam（临考突击）、cram A into B（把 A 塞进 B）。对比记忆：memorize 是中性“记住”，cram 带贬义，暗示短时记忆、考完即忘。口语：There's no room, we'll have to cram in."
+    },
+    {
+      "word": "downtime",
+      "pos": "n.",
+      "phonetic": "/ˈdaʊntaɪm/",
+      "meaning": "停工期；休息放松时间",
+      "enExample": "A little downtime on Sunday keeps me from burning out by Wednesday.",
+      "zhExample": "周日留一点放松时间，能让我不至于到周三就累垮。",
+      "note": "down（停下）+ time，一词两义：① 机器/系统的停机时间（IT 高频：scheduled downtime 计划停机）；② 人合法的放空时间。注意和 10-17 学过的 decompress 区别：downtime 是那段“时间”，decompress 是“松下来”这个动作。金句：Downtime isn't wasted time — it's part of the work."
+    },
+    {
+      "word": "skyrocket",
+      "pos": "v.",
+      "phonetic": "/ˈskaɪrɒkɪt/",
+      "meaning": "（价格、数量）猛增、飙升",
+      "enExample": "Energy prices skyrocketed last winter, and everyone's budget felt it.",
+      "zhExample": "去年冬天能源价格暴涨，每个人的预算都感受到了压力。",
+      "note": "sky（天空）+ rocket（火箭）→ 像火箭冲天一样涨。用于价格、销量、数据、情绪，语气比 increase 更生动，适合口语和新闻，正式报告里可换用 surge。常见搭配：prices / costs / demand / sales skyrocketed。反义用 plummet（暴跌）、tumble。注意该词多作不及物动词，不说 skyrocket the price。"
+    },
+    {
+      "word": "snapshot",
+      "pos": "n.",
+      "phonetic": "/ˈsnæpʃɒt/",
+      "meaning": "快照；简要概况",
+      "enExample": "Give me a quick snapshot of the project before the meeting starts.",
+      "zhExample": "开会前先给我一个项目的简要概况。",
+      "note": "snap（快门“啪”一声）+ shot（一张照片）→ 一张快照。职场引申义极常用：某个时间点的整体概况。高频搭配：a snapshot of the current situation、a weekly snapshot（周报速览）、take a snapshot。近义 overview 更正式，snapshot 更形象、更强调“某一个时点的切片”。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Beauty of Simplicity",
+    "author": "佚名",
+    "paragraphs": [
+      "We are told, from every direction, that more is better — more things, more titles, more noise. We chase a life that keeps expanding, until the edges blur. But simplicity is not lack. It is a quiet kind of clarity, a decision to keep only what truly matters and let the rest fall away.",
+      "Simplicity makes room for space. When the desk is clear, the mind is clearer. When we learn to say no to what is merely urgent, we make room for what is genuinely important. The empty corner of a room, the unhurried morning, the one task done well — these are not emptiness. They are the shape of a life with breathing room.",
+      "In stillness, the small things return. A friend's voice on the phone. The smell of rain before it falls. The thought that had been waiting, patiently, beneath the noise. We miss them only because we are too full. Simplicity does not add years to life; it adds life to the years we already have.",
+      "You do not need to empty everything at once. Begin with one small corner — a drawer, a habit, a single honest hour. Let simplicity be a practice, not a perfection. And one morning you will notice: the noise is quieter, and what remains is exactly enough."
+    ],
+    "translations": [
+      "四面八方都在告诉我们：越多越好——更多的东西、更多的头衔、更多的喧哗。我们追逐一种不断膨胀的生活，直到边界变得模糊。但简单不是匮乏。它是一种安静的清醒，一个决定：只留住真正重要的，让其余的悄然散去。",
+      "简单为空间腾出余地。桌面清爽，心思也更清明。当我们学会对 merely 紧急的事说「不」，便为真正重要的事腾出了地方。房间里空着的角落、不被催促的清晨、一件被做好的事——这些都不是空无。它们是一个有喘息余地的生命的模样。",
+      "在寂静里，细微之物回来了。电话里朋友的声音。雨落下之前的土腥气。那个一直耐心地、在喧哗之下等待的念头。我们错过它们，只因自己太满。简单不会给生命增添年岁；它给我们已经拥有的年岁，添上生气。",
+      "你无需一次清空所有。从一小处开始——一个抽屉、一个习惯、一段诚实的时光。让简单成为一种练习，而非一种完美。终有一日清晨你会发觉：喧哗轻了，而所余，恰好足够。"
+    ],
+    "grammar": [
+      {
+        "point": "what 引导名词性从句作 keep 的宾语",
+        "example": "\"…a decision to keep only what truly matters and let the rest fall away.\"",
+        "note": "what truly matters 中 what = the thing(s) that，引导名词性从句作动词 keep 的宾语，意为「真正要紧的东西」。and 连接两个并列不定式 to keep … 与 (to) let …，共用前面的 a decision to，结构紧凑。 识别技巧：what 在从句中既引导又充当主语（truly matters 缺主语），这类 what 从句常可译为「……的事/东西」。"
+      },
+      {
+        "point": "when 引导的时间状语从句（平行对称结构）",
+        "example": "\"When the desk is clear, the mind is clearer. When we learn to say no…, we make room for what is genuinely important.\"",
+        "note": "两句都以 When 时间状语从句起头，引出主句，形成对仗。主句用一般现在时（is clearer / make room），符合「主将从现」的常态变体——当从句表普遍真理或习惯时，主句也用现在时。clear → clearer 用比较级呼应「外净内明」。 朗读提示：When 从句后稍顿，主句前可轻微上扬，对称感更明显。"
+      },
+      {
+        "point": "过去完成进行时 + 现在分词 waiting 作后置定语",
+        "example": "\"The thought that had been waiting, patiently, beneath the noise.\"",
+        "note": "that had been waiting 是定语从句修饰 the thought，谓语用过去完成进行时 had been waiting，强调「在另一过去动作（miss）之前，一直持续等待」的状态。patiently 与 beneath the noise 为插入的状语，把 waiting 拆开，营造拟人化的温柔停顿。 时态链：had been + 现在分词 = 过去完成进行时，凸显「从过去某刻延续到另一过去刻的动作」。"
+      },
+      {
+        "point": "not A but B 并列否定 + 名词短语列举",
+        "example": "\"Let simplicity be a practice, not a perfection.\"",
+        "note": "not a perfection 与 a practice 对照，省略了重复的系动词 be，构成「是 A，而非 B」的并列否定，语气果断。前半句 Begin with one small corner — a drawer, a habit, a single honest hour 则用三个名词短语并列列举，破折号引出具体化的「小角落」。 翻译关键：not 后接名词短语时，常处理为「不是……，而是……」，突出取舍。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "clarity",
+        "pos": "n.",
+        "meaning": "清晰；清醒；透彻",
+        "enExample": "After a walk, she found a new clarity about the decision.",
+        "zhExample": "散完步，她对那个决定有了全新的清醒。",
+        "note": "用法：由 clear（adj. 清晰的）+ -ity 名词后缀构成；常指思路、表达的「清晰」，也喻心境的「清醒」"
+      },
+      {
+        "term": "fall away",
+        "pos": "phr.",
+        "meaning": "消散；脱落；逐渐消失",
+        "enExample": "Once she spoke the truth, her fear began to fall away.",
+        "zhExample": "她一说出口，恐惧便开始消散。",
+        "note": "用法：指事物「自行褪去、不再纠缠」（let the rest fall away 让其余的散去）；也表山体崩塌、人数减少"
+      },
+      {
+        "term": "make room for",
+        "pos": "phr.",
+        "meaning": "为……腾出空间；给……让位",
+        "enExample": "We must make room for rest, not just for work.",
+        "zhExample": "我们得为休息腾出空间，而不只是为工作。",
+        "note": "用法：room 此处不可数，表「余地、空间」；文中重复使用（makes room for space / make room for what is important）强调「留出位置」"
+      },
+      {
+        "term": "urgent",
+        "pos": "adj.",
+        "meaning": "紧急的；急迫的",
+        "enExample": "Not every urgent email deserves an instant reply.",
+        "zhExample": "并非每封紧急的邮件都值得立刻回复。",
+        "note": "用法：指「必须立刻处理」的紧迫；文中 what is merely urgent 与 genuinely important 对照，点出「紧急≠重要」"
+      },
+      {
+        "term": "genuinely",
+        "pos": "adv.",
+        "meaning": "真正地；由衷地；实在地",
+        "enExample": "She was genuinely happy for her friend's success.",
+        "zhExample": "她对朋友的成功是由衷地高兴。",
+        "note": "用法：由 genuine（adj. 真实的）+ -ly 构成；强调「发自本心、非表面」，genuinely important 即真正要紧"
+      },
+      {
+        "term": "breathing room",
+        "pos": "n.",
+        "meaning": "喘息的空间；余地与从容",
+        "enExample": "Finishing early gave us some breathing room before the trip.",
+        "zhExample": "提前做完，让出发前有了些喘息的余地。",
+        "note": "用法：字面「能喘气的空间」，口语/文学中喻生活里的「余地、松弛感」；a life with breathing room 即有从容余地的生活"
+      },
+      {
+        "term": "stillness",
+        "pos": "n.",
+        "meaning": "寂静；静止；安宁",
+        "enExample": "In the stillness before dawn, the whole house seemed to breathe.",
+        "zhExample": "在黎明前的寂静里，整座房子仿佛在呼吸。",
+        "note": "用法：由 still（adj. 静止的）+ -ness 构成；in stillness 在寂静中，与 noise 相对，是听见细微之物的前提"
+      },
+      {
+        "term": "patiently",
+        "pos": "adv.",
+        "meaning": "耐心地；从容地",
+        "enExample": "The old tree stood patiently through every storm.",
+        "zhExample": "那棵老树在每场风暴里都耐心地挺立。",
+        "note": "用法：由 patient（adj. 耐心的）+ -ly 构成；文中 the thought that had been waiting, patiently 把「念头」拟人化，强调它一直安静等候"
+      },
+      {
+        "term": "beneath",
+        "pos": "prep.",
+        "meaning": "在……之下；低于",
+        "enExample": "Kindness often hides beneath a plain face.",
+        "zhExample": "善意常常藏在一张平淡的面孔之下。",
+        "note": "用法：表位置「在正下方」（比 under 更文学）；文中 beneath the noise 喻「在喧哗的表象之下」，引出被掩盖的念头"
+      },
+      {
+        "term": "add life to",
+        "pos": "phr.",
+        "meaning": "为……增添生气；使……更有活力",
+        "enExample": "A slow breakfast can add life to an ordinary morning.",
+        "zhExample": "一顿慢悠悠的早餐，能给平凡的清晨添上生气。",
+        "note": "用法：add A to B 结构；与上文 add years to life 对仗，一反一正——不增年岁，却让已有年岁更有质量"
+      },
+      {
+        "term": "empty",
+        "pos": "v.",
+        "meaning": "清空；倒空；腾空",
+        "enExample": "Empty your mind of the to-do list before sleep.",
+        "zhExample": "睡前把你脑子里的待办清单清空。",
+        "note": "用法：作动词指「使变空」（empty a drawer 清空抽屉）；文中 empty everything at once 提醒不必一次性全抛"
+      },
+      {
+        "term": "perfection",
+        "pos": "n.",
+        "meaning": "完美；尽善尽美",
+        "enExample": "Waiting for perfection is the easiest way to do nothing.",
+        "zhExample": "等待完美，是最轻易的什么也不做。",
+        "note": "用法：由 perfect（adj. 完美的）+ -ion 构成；文中 a practice, not a perfection 点题——简单是「练习」而非「完美」，减轻心理负担"
+      }
+    ]
+  }
+}

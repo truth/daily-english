@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-30",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "itinerary",
+      "pos": "n.",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "行程；旅行计划",
+      "enExample": "Our itinerary covers three cities in five days.",
+      "zhExample": "我们的行程是五天走三座城市。",
+      "note": "来自 itiner（路程，同 itinerant 巡游的）。正式「行程单」用词。近义 schedule（日程）、route（路线）。搭配 plan an itinerary / share the itinerary。"
+    },
+    {
+      "word": "pack",
+      "pos": "v.",
+      "phonetic": "/pæk/",
+      "meaning": "收拾（行李）；打包",
+      "enExample": "I packed my bag the night before.",
+      "zhExample": "我前一晚就收拾好了包。",
+      "note": "旅行核心动词。高频搭配：pack light（轻装出行）、pack for a trip。名词 a pack 可指「一包/一群」。反义 unpack（拆包）。口语：Pack your bags."
+    },
+    {
+      "word": "depart",
+      "pos": "v.",
+      "phonetic": "/dɪˈpɑːrt/",
+      "meaning": "出发；离开",
+      "enExample": "The flight departs at 9 a.m.",
+      "zhExample": "航班上午九点起飞。",
+      "note": "de-（离开）+ part（分开）→ 离开。比 leave 正式，机场/车站常用。名词 departure（出发）；反义 arrive / return。搭配 depart from（从…出发）。"
+    },
+    {
+      "word": "foresee",
+      "pos": "v.",
+      "phonetic": "/fɔːrˈsiː/",
+      "meaning": "预见；预料",
+      "enExample": "No one could foresee the delay.",
+      "zhExample": "没人能预见这次延误。",
+      "note": "fore-（前）+ see（看）→ 提前看到。后面常接名词或 that 从句。近义 predict（预测）；反义 overlook（疏忽）。名词 foresight（先见之明）。"
+    },
+    {
+      "word": "transit",
+      "pos": "n.",
+      "phonetic": "/ˈtrænzɪt/",
+      "meaning": "中转；交通运输",
+      "enExample": "The package is in transit.",
+      "zhExample": "包裹正在运送途中。",
+      "note": "trans-（横穿）+ it（走，同 exit）→ 穿过。常见 in transit（在运输中）、public transit（公共交通）。近义 transport；搭配 a transit hub（中转枢纽）。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Hour Before Departure",
+    "author": "佚名",
+    "paragraphs": [
+      "The hour before a trip has its own quiet. The bag sits packed by the door, the tickets are saved, and there is nothing left to do but wait for the part of the day that has not yet arrived.",
+      "I used to fill this hour with last checks: Is the charger in? Did I lock the window? Each question was really a way of putting off the leaving, of holding the familiar room a moment longer.",
+      "Now I let it be still. I sit with the itinerary open on my knee, not to plan but to foresee the small joys ahead: a train that arrives on time, a city I have not yet walked, the particular light of a place I am about to meet.",
+      "Departure is only a door, and the quiet hour before it is the last room of home. I step through it ready, not because the trip will be easy, but because I have already said a slow, careful goodbye to the ordinary."
+    ],
+    "translations": [
+      "出发前一小时，自有一种安静。包已经收好靠在门边，票存好了，剩下无事可做，只等这一天里还没到来的那一段。",
+      "从前我会用最后的核对把这一小时填满：充电器带了吗？窗锁了吗？每个问题其实都是一种拖延离开的办法，好让这间熟悉的屋子多留我一刻。",
+      "如今我让它静静的。我膝盖上摊着行程单坐着，不为计划，只为预见前头那些小欢喜：一班准点的车、一座还没走过的城、一个我即将遇见的地方特有的光。",
+      "出发不过是一扇门，门前这一小时是家的最后一间屋。我穿过它时已是准备好的——不是因为旅途会轻松，而是因为我已向这平凡，慢慢、郑重地说了再见。"
+    ],
+    "grammar": [
+      {
+        "point": "there be + 不定式",
+        "example": "\"there is nothing left to do but wait for the part of the day that has not yet arrived\"",
+        "note": "there is nothing left to do 表示「没剩下什么事可做」；but wait 中 but 后接不带 to 的不定式 wait（前面有 do 时 to 省略）。 举一反三：举一反三：He did nothing but smile."
+      },
+      {
+        "point": "each + 名词 作单数主语",
+        "example": "\"Each question was really a way of putting off the leaving\"",
+        "note": "each question 强调整体中的每一个，谓语用单数 was；of putting off... 为介词短语作定语。 举一反三：举一反三：Each morning begins the same."
+      },
+      {
+        "point": "not because...but because... 并列原因",
+        "example": "\"not because the trip will be easy, but because I have already said a slow goodbye\"",
+        "note": "not because A but because B 否定原因 A、肯定原因 B，突出「准备好」的真正缘由。 举一反三：举一反三：He stayed not because he was tired but because he cared."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "trip",
+        "pos": "n.",
+        "meaning": "旅行；出行",
+        "enExample": "The trip lasted a week.",
+        "zhExample": "这趟旅行持续了一周。",
+        "note": "用法：before a trip 出发前；a business trip 出差。"
+      },
+      {
+        "term": "packed",
+        "pos": "adj.",
+        "meaning": "打包好的；装满的",
+        "enExample": "Her case was packed.",
+        "zhExample": "她的箱子已装好。",
+        "note": "用法：the bag sits packed 包已收好；反义 unpacked。"
+      },
+      {
+        "term": "charger",
+        "pos": "n.",
+        "meaning": "充电器",
+        "enExample": "Don't forget the phone charger.",
+        "zhExample": "别忘带手机充电器。",
+        "note": "用法：the phone charger 手机充电器；don't forget the charger。"
+      },
+      {
+        "term": "itinerary",
+        "pos": "n.",
+        "meaning": "行程；旅行计划",
+        "enExample": "She shared her itinerary.",
+        "zhExample": "她分享了行程。",
+        "note": "用法：the itinerary open 摊开的行程单；plan an itinerary。"
+      },
+      {
+        "term": "foresee",
+        "pos": "v.",
+        "meaning": "预见；预料",
+        "enExample": "No one could foresee the storm.",
+        "zhExample": "没人预见得到那场风暴。",
+        "note": "用法：foresee the joys 预见欢喜；后接名词或 that 从句。"
+      },
+      {
+        "term": "familiar",
+        "pos": "adj.",
+        "meaning": "熟悉的",
+        "enExample": "The street felt familiar.",
+        "zhExample": "这条街让人觉得熟悉。",
+        "note": "用法：the familiar room 熟悉的屋子；反义 strange。"
+      },
+      {
+        "term": "transit",
+        "pos": "n.",
+        "meaning": "中转；交通运输",
+        "enExample": "The parcel is in transit.",
+        "zhExample": "包裹正在运送途中。",
+        "note": "用法：in transit 在运送途中；public transit 公共交通。"
+      },
+      {
+        "term": "depart",
+        "pos": "v.",
+        "meaning": "出发；离开",
+        "enExample": "The train departs at eight.",
+        "zhExample": "火车八点出发。",
+        "note": "用法：the hour before departure 出发前；反义 arrive。"
+      },
+      {
+        "term": "ordinary",
+        "pos": "adj.",
+        "meaning": "平凡的；日常的",
+        "enExample": "He enjoys ordinary days.",
+        "zhExample": "他喜欢平凡的日子。",
+        "note": "用法：the ordinary 平凡的日子；反义 special。"
+      },
+      {
+        "term": "ready",
+        "pos": "adj.",
+        "meaning": "准备好的",
+        "enExample": "Are you ready to go?",
+        "zhExample": "你准备好走了吗？",
+        "note": "用法：step through it ready 准备好穿过；反义 unprepared。"
+      }
+    ]
+  }
+}

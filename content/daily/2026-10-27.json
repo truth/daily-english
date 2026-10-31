@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-27",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "inquire",
+      "pos": "v.",
+      "phonetic": "/ɪnˈkwaɪər/",
+      "meaning": "询问；打听",
+      "enExample": "She inquired about the opening hours.",
+      "zhExample": "她打听了一下营业时间。",
+      "note": "in-（入）+ quir（问，同 question）→ 问进去。正式场合常用，比 ask 更书面。高频搭配：inquire about / into。近义 ask；反义 reply。注意拼写 inquire（美），enquiry（英，名词）。"
+    },
+    {
+      "word": "venture",
+      "pos": "v.",
+      "phonetic": "/ˈventʃər/",
+      "meaning": "大胆提出；冒险一试",
+      "enExample": "May I venture a suggestion?",
+      "zhExample": "容我斗胆提个建议？",
+      "note": "名词 venture 是「冒险事业」（business venture）。作动词常接 opinion / question / guess，表示「小心翼翼地开口」。近义 dare；反义 hesitate（犹豫）。经典句型：venture to say（冒昧地说）。"
+    },
+    {
+      "word": "stammer",
+      "pos": "v.",
+      "phonetic": "/ˈstæmər/",
+      "meaning": "结巴；支吾",
+      "enExample": "He stammered out an apology.",
+      "zhExample": "他结结巴巴地道了歉。",
+      "note": "形容紧张或慌乱时说话卡顿。近义 stutter（更偏生理口吃）；区别：stammer 多因情绪。搭配 stammer out（结巴着说出）。反义 articulate（清晰表达）。"
+    },
+    {
+      "word": "phrasing",
+      "pos": "n.",
+      "phonetic": "/ˈfreɪzɪŋ/",
+      "meaning": "措辞；说法",
+      "enExample": "The phrasing made all the difference.",
+      "zhExample": "措辞起了决定性作用。",
+      "note": "phrase（短语/措辞）+ -ing。指「怎么把话说出口」，商务沟通里很关键。搭配 careful phrasing（谨慎的措辞）。近义 wording；相关：rephrase（换个说法）。"
+    },
+    {
+      "word": "poised",
+      "pos": "adj.",
+      "phonetic": "/pɔɪzd/",
+      "meaning": "镇定从容的；准备好的",
+      "enExample": "She remained poised under pressure.",
+      "zhExample": "她在压力下依然从容。",
+      "note": "来自 poise（平衡/姿态）。形容人「临危不乱、姿态稳」。也用于 be poised to（准备好做）：The team is poised to launch. 近义 composed（镇定的）；反义 flustered（慌乱的）。"
+    }
+  ],
+  "essay": {
+    "title": "The Courage to Ask",
+    "author": "佚名",
+    "paragraphs": [
+      "I used to avoid asking questions in meetings, afraid the silence after would expose how little I knew. So I nodded, and noted in my head the things to look up later, alone, where no one could see the gap.",
+      "One day a senior colleague ventured a question so basic I had been certain only I did not know the answer. The room relaxed. Others chimed in with the same doubt, and the meeting suddenly became useful, because someone had admitted the obvious.",
+      "Since then I have tried to ask sooner, even when my voice shakes. A good question is not a confession of ignorance but an invitation: it tells the room that doubt is allowed here, and gives the quiet ones permission to speak.",
+      "The hardest part is still the pause before the words leave your mouth. But I have learned that most people are waiting for someone else to go first — and that the courage to ask is often just the willingness to be the first to look unsure."
+    ],
+    "translations": [
+      "从前我总在会上避免提问，怕问完那阵沉默会暴露我懂得太少。于是我点头，在心里记下那些待会儿独自去查的东西——在没人看得见漏洞的地方。",
+      "有一天，一位资深同事斗胆问了个极基础的问题——而我本以为只有我一个人不知道答案。屋子松了下来。别人也跟着接话，说出同样的疑惑，会议忽然有了用，因为有人坦白了那件明摆着的事。",
+      "从那以后，我试着早点问，哪怕声音发抖。好问题不是无知的坦白，而是一份邀请：它告诉屋里的人，这里允许有疑惑，也给安静的人开口的许可。",
+      "最难的仍是话出口前那一瞬的停顿。但我已懂得，大多数人都在等别人先开口——而提问的勇气，常常只是「愿意第一个显得没把握」罢了。"
+    ],
+    "grammar": [
+      {
+        "point": "afraid (that) 后接宾语从句",
+        "example": "\"afraid the silence after would expose how little I knew\"",
+        "note": "afraid 后接 that 引导的宾语从句（that 常省略），表示担心的内容；从句谓语 would expose 用过去将来时。 举一反三：举一反三：She was afraid he would leave."
+      },
+      {
+        "point": "so...that 结果状语从句",
+        "example": "\"a question so basic I had been certain only I did not know the answer\"",
+        "note": "so + 形容词 basic 后接 that 从句（that 省略）表结果；I had been certain 为嵌套的过去完成时宾语从句。 举一反三：举一反三：It was so late that we left."
+      },
+      {
+        "point": "because 引导原因状语从句",
+        "example": "\"because someone had admitted the obvious\"",
+        "note": "because 引导原因状语从句；从句用过去完成时 had admitted，强调「坦白了」这一动作先于主句发生。 举一反三：举一反三：He left because the train had gone."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "avoid",
+        "pos": "v.",
+        "meaning": "避免；回避",
+        "enExample": "He avoided the topic.",
+        "zhExample": "他避开了话题。",
+        "note": "用法：avoid asking 避免提问；avoid the topic 避开话题。"
+      },
+      {
+        "term": "venture",
+        "pos": "v.",
+        "meaning": "大胆提出；冒险一试",
+        "enExample": "She ventured an opinion.",
+        "zhExample": "她大着胆子说了看法。",
+        "note": "用法：venture a question 斗胆发问；venture to say 冒昧地说。"
+      },
+      {
+        "term": "chime in",
+        "pos": "phr.v.",
+        "meaning": "插话；附和",
+        "enExample": "He chimed in with a joke.",
+        "zhExample": "他插了句玩笑。",
+        "note": "用法：others chimed in 别人跟着接话。"
+      },
+      {
+        "term": "doubt",
+        "pos": "n.",
+        "meaning": "怀疑；疑问",
+        "enExample": "She expressed her doubt.",
+        "zhExample": "她表达了疑虑。",
+        "note": "用法：the same doubt 同样的疑惑；be in doubt 存疑。"
+      },
+      {
+        "term": "invitation",
+        "pos": "n.",
+        "meaning": "邀请；引来（的机会）",
+        "enExample": "The question was an invitation to reply.",
+        "zhExample": "这个问题引来回答。",
+        "note": "用法：an invitation to speak 开口的机会；引申为「招来」。"
+      },
+      {
+        "term": "admit",
+        "pos": "v.",
+        "meaning": "承认；坦承",
+        "enExample": "He admitted the mistake.",
+        "zhExample": "他承认了错误。",
+        "note": "用法：admit the obvious 坦白明摆着的事；admit a mistake 认错。"
+      },
+      {
+        "term": "ignorant",
+        "pos": "adj.",
+        "meaning": "无知的；不知情的",
+        "enExample": "I was ignorant of the rule.",
+        "zhExample": "我当时不知道这规定。",
+        "note": "用法：a confession of ignorance 对无知的坦白；be ignorant of 不知。"
+      },
+      {
+        "term": "permission",
+        "pos": "n.",
+        "meaning": "许可；准许",
+        "enExample": "He gave his permission.",
+        "zhExample": "他给了许可。",
+        "note": "用法：give permission to speak 给开口的许可。"
+      },
+      {
+        "term": "willing",
+        "pos": "adj.",
+        "meaning": "乐意的；愿意的",
+        "enExample": "She was willing to help.",
+        "zhExample": "她乐意帮忙。",
+        "note": "用法：the willingness to go first 抢先开口的意愿。"
+      },
+      {
+        "term": "confess",
+        "pos": "v.",
+        "meaning": "承认；坦白",
+        "enExample": "She confessed her fear.",
+        "zhExample": "她坦白了恐惧。",
+        "note": "用法：a confession of ignorance 坦承无知；confess a fear 坦白恐惧。"
+      }
+    ]
+  }
+}

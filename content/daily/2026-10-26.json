@@ -48,5 +48,140 @@
       "note": "brain（脑子）+ storm（风暴）→ 让想法风暴起来。高频搭配：brainstorm ideas / solutions / a brainstorming session（头脑风暴会）。职场高频：Let's brainstorm.（咱们开个小会碰一下）。注意 brainstorm 是动作，brainstorming session 才是那场会。"
     }
   ],
-  "essay": null
+  "essay": {
+    "title": "The Quiet Strength of Trust",
+    "author": "佚名",
+    "paragraphs": [
+      "We live in a world that teaches us to guard everything — our time, our hearts, our plans. From a young age we are told to be careful, to question, to hold back. And caution has its place. But somewhere along the way, many of us forget that trust is not weakness. It is, in fact, a quiet kind of strength.",
+      "Trust is what lets a child sleep with the light off, certain that the morning will come. It is what allows two strangers to build something neither could build alone. When we trust, we make ourselves a little vulnerable — and in that openness, we often discover the people who are worth keeping close.",
+      "Of course, trust can be broken. A promise missed, a confidence betrayed, and the ground feels unsteady again. Yet the answer is not to lock every door. The wiser path is to trust selectively, to learn the difference between a leap and a step, and to forgive ourselves when we guess wrong.",
+      "Perhaps the truest trust is the one we extend to life itself — the belief that, even on the grayest days, something good is still being prepared for us. We may not see it yet. But we can choose, quietly, to believe."
+    ],
+    "translations": [
+      "我们生活在一个教导我们处处设防的世界里——防备时间、防备内心、防备计划。从年幼时起，我们就被叮嘱要小心、要质疑、要有所保留。谨慎自有其道理。但在成长的某个时刻，许多人忘了：信任从来不是软弱。事实上，它是一种安静的力量。",
+      "信任，让一个孩子敢关了灯安然入睡，笃信清晨终会到来。信任，让两个陌生人得以携手建造任何一人都无法独自完成的事业。当我们选择信任，便让自己稍有脆弱——而在这种敞开里，我们常常遇见值得深交的人。",
+      "当然，信任也会被辜负。一次落空的承诺，一次被出卖的坦诚，脚下的土地便再度摇摇欲坠。然而答案并非锁上所有的门。更明智的路是有所选择地信任，学会分辨「纵身一跃」与「迈一小步」的区别，并在判断失误时宽恕自己。",
+      "或许最纯粹的信任，是我们交付给生命本身的那种——相信即便在最灰暗的日子里，仍有好事正为我们悄然酝酿。此刻我们或许尚不能看见。但我们依然可以，安静地，选择相信。"
+    ],
+    "grammar": [
+      {
+        "point": "what 引导的表语从句 + 形容词短语伴随修饰",
+        "example": "\"Trust is what lets a child sleep with the light off, certain that the morning will come.\"",
+        "note": "主干是 Trust is what…（信任就是……），what 引导名词性从句作表语，相当于 the thing that。句末 certain that the morning will come 是「形容词 certain + that 同位语从句」构成的形容词短语，作伴随状语修饰 a child，表示孩子「笃信清晨会来」的状态。 翻译关键：certain 不是修饰 trust，而是描绘孩子入睡时的笃定心境，宜拆成独立短句处理。"
+      },
+      {
+        "point": "无动词分句（verbless clause）表条件",
+        "example": "\"A promise missed, a confidence betrayed, and the ground feels unsteady again.\"",
+        "note": "这是文学中凝练的「无动词分句」：A promise (that is) missed, a confidence (that is) betrayed，两个名词短语并列，各自省略了关系词与 be 动词，相当于 if 引导的条件从句（若承诺落空、若坦诚被出卖），后接 and 引出主句结果。节奏紧凑、画面感强。 举一反三：One door closed, another opened.（一扇门合上，另一扇便开了。）同属此结构。"
+      },
+      {
+        "point": "that 同位语从句 + 现在进行时被动语态",
+        "example": "\"…the belief that, even on the grayest days, something good is still being prepared for us.\"",
+        "note": "that 引导同位语从句，解释先行词 the belief 的具体内容（注意 that 不可省略）。从句谓语用现在进行时被动语态 is being prepared（正在被酝酿/准备），突出「此刻仍在持续发生」的过程感，比一般现在时更有温度与希望。 语态识别：be + being + 过去分词 = 现在进行时被动；强调动作进行且主语是受动者。"
+      },
+      {
+        "point": "不定式并列作表语 + when 时间状语从句",
+        "example": "\"The wiser path is to trust selectively, to learn the difference between a leap and a step, and to forgive ourselves when we guess wrong.\"",
+        "note": "主语 the wiser path，系动词 is，其后三个不定式 to trust / to learn / to forgive 并列作表语，逐层展开「更明智的路」的三重内涵。末尾 when we guess wrong 是 when 引导的时间状语从句，修饰最近的 to forgive ourselves。 并列结构：三个 to do 由逗号 + and 连接，朗读时在 and 前可稍停顿，层次更清晰。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "guard",
+        "pos": "v.",
+        "meaning": "防备；守护；守卫",
+        "enExample": "She learned to guard her time as carefully as her money.",
+        "zhExample": "她学会像守护金钱一样小心地守护自己的时间。",
+        "note": "用法：本义是「守卫、保卫」，引申为心理上「防备、看守」（guard one's heart 守住内心）；作名词指守卫者"
+      },
+      {
+        "term": "hold back",
+        "pos": "phr.",
+        "meaning": "抑制；保留；犹豫不前",
+        "enExample": "Do not hold back your words when honesty is needed.",
+        "zhExample": "当诚实被需要时，别把话咽回去。",
+        "note": "用法：及物时宾语可插在 hold 与 back 之间（hold sth back）；指忍住情绪、保留信息或迟疑不进"
+      },
+      {
+        "term": "caution",
+        "pos": "n.",
+        "meaning": "谨慎；小心；告诫",
+        "enExample": "We admired his courage, but also his caution.",
+        "zhExample": "我们钦佩他的勇气，也钦佩他的谨慎。",
+        "note": "用法：不可数名词，表「审慎」；with caution 小心翼翼；动词 caution 表警告"
+      },
+      {
+        "term": "vulnerable",
+        "pos": "adj.",
+        "meaning": "脆弱的；易受伤害的",
+        "enExample": "To love is to make yourself a little vulnerable.",
+        "zhExample": "去爱，就是让自己稍稍变得脆弱。",
+        "note": "用法：指因敞开心扉而「易被伤到」；be vulnerable to 易遭受；文中 make oneself vulnerable 指主动让自己处在可被信任的位置"
+      },
+      {
+        "term": "confidence",
+        "pos": "n.",
+        "meaning": "信任；坦诚；自信",
+        "enExample": "He shared a confidence with me that I will never repeat.",
+        "zhExample": "他向我吐露了一件坦诚相告的事，我绝不会外传。",
+        "note": "用法：常见义为「自信」；文中 a confidence betrayed 取「被托付的坦诚/秘密」（即别人交给你的信任）；in confidence 私密地"
+      },
+      {
+        "term": "betray",
+        "pos": "v.",
+        "meaning": "背叛；辜负；泄露",
+        "enExample": "To repeat her secret would be to betray her trust.",
+        "zhExample": "把她的秘密说出去，便是辜负了她的信任。",
+        "note": "用法：指出卖信任或坦诚（betray a confidence 泄露/辜负别人的信任）；过去式/分词 betrayed"
+      },
+      {
+        "term": "unsteady",
+        "pos": "adj.",
+        "meaning": "不稳定的；摇晃的；不稳固的",
+        "enExample": "After the news, his hands were unsteady for hours.",
+        "zhExample": "听到那消息后，他的手抖了好几个小时。",
+        "note": "用法：un- 否定前缀 + steady（稳固的）；文中 the ground feels unsteady 比喻信任受挫后「心里又没了底」"
+      },
+      {
+        "term": "selectively",
+        "pos": "adv.",
+        "meaning": "有选择地；选择性地",
+        "enExample": "Learn to listen selectively, not to everything.",
+        "zhExample": "学会有选择地倾听，而不是照单全收。",
+        "note": "用法：由 select（v. 选择）+ -ive + -ly 构成；trust selectively 强调「不是盲目的信任，而是有所甄别」"
+      },
+      {
+        "term": "leap",
+        "pos": "n./v.",
+        "meaning": "跳跃；（此处）冒险一跃；骤变",
+        "enExample": "Trust should begin as a step, not a leap.",
+        "zhExample": "信任该从一小步开始，而非纵身一跃。",
+        "note": "用法：文中 a leap 与 a step 对照，指「贸然的全盘托付」对比「试探性的一小步」；by leaps and bounds 突飞猛进"
+      },
+      {
+        "term": "extend",
+        "pos": "v.",
+        "meaning": "给予；伸出；延伸",
+        "enExample": "She extended her forgiveness before he even apologized.",
+        "zhExample": "他还没道歉，她就已先伸出了宽恕。",
+        "note": "用法：extend trust / kindness to sb 把信任/善意施予某人；也表时间、空间的「延伸」"
+      },
+      {
+        "term": "grayest",
+        "pos": "adj.",
+        "meaning": "最灰暗的（gray 的最高级，比喻低谷）",
+        "enExample": "Even on the grayest mornings, the sun is only hidden.",
+        "zhExample": "即便在最灰暗的清晨，太阳也只是被遮住了。",
+        "note": "用法：gray（英式 grey）本义灰色，文学中常喻「阴郁、无望」；the grayest days 指人生最灰暗的时段"
+      },
+      {
+        "term": "prepare",
+        "pos": "v.",
+        "meaning": "准备；酝酿；使就绪",
+        "enExample": "Good things are often prepared quietly, out of sight.",
+        "zhExample": "好事常常在视线之外，被悄然酝酿。",
+        "note": "用法：prepare sth for sb 为某人准备；文中用进行时被动 is being prepared，强调「此刻仍在悄然发生」"
+      }
+    ]
+  }
 }

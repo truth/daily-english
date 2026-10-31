@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-25",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "ritual",
+      "pos": "n.",
+      "phonetic": "/ˈrɪtʃuəl/",
+      "meaning": "日常仪式；习惯",
+      "enExample": "Morning coffee is my daily ritual.",
+      "zhExample": "晨间咖啡是我的日常仪式。",
+      "note": "不一定宗教，可指「固定会做的小事」。搭配 a bedtime ritual（睡前仪式）。近义 routine（常规）；区别：ritual 带点仪式感/心意，routine 偏机械重复。"
+    },
+    {
+      "word": "recharge",
+      "pos": "v.",
+      "phonetic": "/ˌriːˈtʃɑːrdʒ/",
+      "meaning": "充电；恢复精力",
+      "enExample": "I need a quiet weekend to recharge.",
+      "zhExample": "我需要一个安静的周末来充电。",
+      "note": "re-（重新）+ charge（充电）。比喻用法极常见：recharge your batteries。近义 refresh（恢复精神）；反义 drain（耗尽）。职场金句：Take time to recharge."
+    },
+    {
+      "word": "spontaneous",
+      "pos": "adj.",
+      "phonetic": "/spɑːnˈteɪniəs/",
+      "meaning": "随性的；即兴的",
+      "enExample": "We took a spontaneous trip to the coast.",
+      "zhExample": "我们一时兴起去了趟海边。",
+      "note": "来自 spont（自愿，同 response 的 spon-）。形容「没计划、凭当下兴致」。高频搭配：a spontaneous decision / invitation。近义 impromptu（即兴的）；反义 planned（计划好的）。"
+    },
+    {
+      "word": "sluggish",
+      "pos": "adj.",
+      "phonetic": "/ˈslʌɡɪʃ/",
+      "meaning": "迟缓的；无精打采的",
+      "enExample": "The system felt sluggish after the update.",
+      "zhExample": "更新后系统变得卡顿迟缓。",
+      "note": "本义像蛞蝓（slug）一样慢。形容人、机器、市场都可用：a sluggish market（低迷的市场）。近义 slow；反义 brisk（轻快利落的）。"
+    },
+    {
+      "word": "drift",
+      "pos": "v.",
+      "phonetic": "/drɪft/",
+      "meaning": "漂流；漫无目的",
+      "enExample": "My thoughts drifted to the sea.",
+      "zhExample": "我的思绪漂向了大海。",
+      "note": "本义水流/风把东西带走；引申「走神、虚度」：drift through life（浑浑噩噩过日子）。近义 wander（游荡）；反义 focus（专注）。搭配 drift apart（关系疏远）。"
+    }
+  ],
+  "essay": {
+    "title": "Sunday, Rewritten",
+    "author": "佚名",
+    "paragraphs": [
+      "For years my Sundays arrived with a list already written: the laundry, the replies, the errands I had postponed all week. I treated the one free day as a smaller weekday, to be spent clearing the leftovers of the one before.",
+      "Then a slow illness taught me that a day of rest is not a reward for work finished, but the thing that makes the work possible. So I began to rewrite Sundays, one small ritual at a time, starting with the right to do nothing useful before noon.",
+      "Now I let the morning drift. I read a page, forget it, read it again. I make coffee and watch the steam behave like weather. The tasks wait, and to my surprise they do not complain; the world runs fine without my constant tending.",
+      "By evening I am not more productive, only more human. The rewritten Sunday does not fix the week, but it reminds me I am a person before I am a worker — and that, it turns out, was the part I kept losing."
+    ],
+    "translations": [
+      "多年来，我的星期天总带着一张早已写好的清单上门：洗衣、回消息、还有一周里被我推迟的杂事。我把这唯一空闲的一天当成缩水的工作日，用来清理前一周的残局。",
+      "后来一场慢性的病教会我：休息日不是干完活后的奖赏，而是让活儿得以继续的东西。于是我开始改写星期天，一次一个小习惯，从「中午前有权什么都不做正事」开始。",
+      "如今我让早晨慢慢淌。读一页，忘掉，再读一遍。煮了咖啡，看热气像天气一样变幻。那些事等着，而令我意外的是它们并不抱怨——世界没有我时时照看，也照常运转。",
+      "到了晚上，我并没有更高效，只是更像个人了。被改写的星期天修不好这一周，却提醒我：在做工人之前，我先是个人——而这点，到头来正是我一直在弄丢的东西。"
+    ],
+    "grammar": [
+      {
+        "point": "that 引导定语从句",
+        "example": "\"a day of rest is not a reward for work finished, but the thing that makes the work possible\"",
+        "note": "that 修饰 the thing，引导定语从句说明「让工作得以继续的东西」；从句谓语 makes 用单数。 举一反三：举一反三：Sleep is the thing that repairs us."
+      },
+      {
+        "point": "not...but... 并列结构",
+        "example": "\"not a reward for work finished, but the thing that makes the work possible\"",
+        "note": "not A but B 否定前者、肯定后者，强调休息日的本质不是奖赏而是前提。 举一反三：举一反三：He is not a boss but a friend."
+      },
+      {
+        "point": "it turns out (that) 插入语",
+        "example": "\"and that, it turns out, was the part I kept losing\"",
+        "note": "it turns out 作插入语，表示「结果证明、到头来」；that 指代前文「我先是人」这件事。 举一反三：举一反三：It turns out she was right."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "errand",
+        "pos": "n.",
+        "meaning": "差事；跑腿",
+        "enExample": "She left to run a quick errand.",
+        "zhExample": "她出门办件小事。",
+        "note": "用法：run errands 办杂事、跑腿。"
+      },
+      {
+        "term": "postpone",
+        "pos": "v.",
+        "meaning": "推迟；延期",
+        "enExample": "We postponed the trip until Monday.",
+        "zhExample": "我们把行程推迟到了周一。",
+        "note": "用法：post-（之后）+ pone（放）→ 往后放；postpone a trip 推迟行程。"
+      },
+      {
+        "term": "leftover",
+        "pos": "n./adj.",
+        "meaning": "剩余物；剩下的",
+        "enExample": "We ate the leftovers for lunch.",
+        "zhExample": "我们把剩菜当午饭。",
+        "note": "用法：the leftovers of the week 一周的残局；eat the leftovers 吃剩菜。"
+      },
+      {
+        "term": "ritual",
+        "pos": "n.",
+        "meaning": "仪式；习惯",
+        "enExample": "Morning coffee is his ritual.",
+        "zhExample": "晨间咖啡是他的习惯。",
+        "note": "用法：指固定会做的小事，带点仪式感。"
+      },
+      {
+        "term": "rewrite",
+        "pos": "v.",
+        "meaning": "改写；重来",
+        "enExample": "She rewrote the ending.",
+        "zhExample": "她改写了结尾。",
+        "note": "用法：re-（重新）+ write；rewrite Sundays 重过周日。"
+      },
+      {
+        "term": "drift",
+        "pos": "v.",
+        "meaning": "漂流；漫无目的",
+        "enExample": "His thoughts drifted to the sea.",
+        "zhExample": "他的思绪漂向大海。",
+        "note": "用法：let the morning drift 让早晨慢淌；drift through life 浑浑噩噩。"
+      },
+      {
+        "term": "steam",
+        "pos": "n.",
+        "meaning": "蒸汽；热气",
+        "enExample": "The steam rose from the cup.",
+        "zhExample": "热气从杯口升起。",
+        "note": "用法：watch the steam 看热气升腾。"
+      },
+      {
+        "term": "complain",
+        "pos": "v.",
+        "meaning": "抱怨；埋怨",
+        "enExample": "He complained about the cold.",
+        "zhExample": "他抱怨天冷。",
+        "note": "用法：the tasks do not complain 拟人化，指事不会催你。"
+      },
+      {
+        "term": "productive",
+        "pos": "adj.",
+        "meaning": "高效的；有产出的",
+        "enExample": "The meeting was productive.",
+        "zhExample": "会议很有成效。",
+        "note": "用法：more productive 更高效；a productive meeting 高效的会。"
+      },
+      {
+        "term": "human",
+        "pos": "adj.",
+        "meaning": "有人情味的；人的",
+        "enExample": "Her reply felt human.",
+        "zhExample": "她的回复有人情味。",
+        "note": "用法：more human 更有温度；反义机械的。"
+      }
+    ]
+  }
+}

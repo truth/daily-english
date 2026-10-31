@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-29",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "leeway",
+      "pos": "n.",
+      "phonetic": "/ˈliːweɪ/",
+      "meaning": "余地；可自由伸缩的空间（时间、金钱或规则上的松动）",
+      "enExample": "If you give me a little leeway on the deadline, I can deliver something far better.",
+      "zhExample": "如果你在截止时间上给我一点余地，我能交出好得多的成果。",
+      "note": "lee（背风处）+ way → 船在背风一侧有漂移的空间，引申为“可自由伸缩的余地”。高频搭配：give sb. leeway / have some leeway / leeway on sth。近义 room、flexibility，但 leeway 更强调“被允许的偏差范围”。反义：no leeway（一点余地都没有）。与 margin 区别：margin 多是数字上的余量，leeway 多是人给的自由度。"
+    },
+    {
+      "word": "wrap up",
+      "pos": "phr. v.",
+      "phonetic": "/ræp ʌp/",
+      "meaning": "收尾、结束；包起来",
+      "enExample": "Let's wrap up the meeting in ten minutes so everyone can catch their train.",
+      "zhExample": "咱们十分钟内把会收尾，好让大家赶上火车。",
+      "note": "本义“包起来”（wrap a gift），把散着的事情“包好”就是收尾。职场高频：wrap up a meeting / a project / a call。与 10-20 学过的 wind down 区别：wrap up 是“主动把它做完收工”，wind down 是“逐渐减速、放松下来”。会议收尾万能句：Just to wrap up, here are the three action items."
+    },
+    {
+      "word": "conscientious",
+      "pos": "adj.",
+      "phonetic": "/ˌkɒnʃiˈenʃəs/",
+      "meaning": "认真尽责的；一丝不苟的",
+      "enExample": "She's the most conscientious colleague I know — she checks every number twice.",
+      "zhExample": "她是我认识的最认真负责的同事——每个数字都要核对两遍。",
+      "note": "词根 conscience（良心），按良心做事 → 认真尽责。超高频混淆三兄弟：conscious 有意识的 / conscience 良心（名词）/ conscientious 尽责的（形容词）。记法：-tious 结尾是“人靠谱”。常用搭配：a conscientious worker / student / effort。褒义词，别误用来形容“挑剔”。"
+    },
+    {
+      "word": "bandwidth",
+      "pos": "n.",
+      "phonetic": "/ˈbændwɪdθ/",
+      "meaning": "带宽；（人的）精力与时间余量",
+      "enExample": "I'd love to help, but I don't have the bandwidth for another project this month.",
+      "zhExample": "我很想帮忙，但这个月我实在没有余力再接一个项目了。",
+      "note": "原指网络带宽，职场里借喻“脑力和时间的容量”，比 I'm busy 更专业也更体面。高频：have the bandwidth for / lack the bandwidth / free up bandwidth。与 10-28 学过的 swamped 区别：swamped 是“已经被淹了”的状态，bandwidth 是“还能不能装下”的容量。写邮件、开会都能用。"
+    },
+    {
+      "word": "queue",
+      "pos": "n. / v.",
+      "phonetic": "/kjuː/",
+      "meaning": "队伍；排队（等待）",
+      "enExample": "The queue at the counter was so long that I nearly gave up and went home.",
+      "zhExample": "柜台前的队排得那么长，我差点放弃直接回家。",
+      "note": "拼写陷阱：q 后面跟 ueue，五个字母里四个是元音。英式日常说 stand in a queue，美式多说 stand in line。职场引申：in the queue（在待办队列里）、jump the queue（插队 / 抢优先级）。动词用法：queue up for a taxi。发音 /kjuː/ 与字母 Q 同音，记：Q 就是“排队”的那个 Q。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Pulse of a Dream",
+    "author": "佚名",
+    "paragraphs": [
+      "A dream rarely arrives with fireworks. More often it shows up as a small, steady pull — a thing you return to when the day is done, a question that will not quite leave you alone. We are taught to measure dreams by their loudness: the promotion, the stage, the headline. But the dreams that truly shape a life are usually quieter than that.",
+      "They begin as a whisper. You notice you read about it without being asked. You find yourself imagining a different morning, a different kind of work, a softer way of speaking to the people you love. No one claps. No one even notices. And yet something in you has already begun to turn toward it.",
+      "A dream does not ask you to be ready. It asks only that you take one honest step — to open the book, to write the first clumsy line, to stay when leaving would be easier. Most dreams are not abandoned in a single grand failure; they are quietly outlived by small acts of neglect, day after day. To keep one alive is simply to return to it, again and again, with no audience and no guarantee.",
+      "So tend your dream the way you would tend a small fire on a cold night: feed it a little, protect it from the wind, and do not scold it for being small. One day you may look up and realize the fire has warmed a whole room — and the room, it turns out, was your life."
+    ],
+    "translations": [
+      "梦想很少伴随着烟花降临。它更常以一种轻微而稳定的牵引出现——一天结束，你总忍不住回到它身边；一个问题，怎么也不肯轻易放过你。我们被教导用\"响亮程度\"来衡量梦想：升职、舞台、头条。然而真正塑造人生的那些梦想，通常比那要安静得多。",
+      "它们始于一声低语。你发觉自己会主动去读与之相关的东西；你开始想象另一种清晨、另一种事业、一种更温柔地与所爱之人说话的方式。没有人鼓掌，甚至没有人察觉。可你内心深处，早已开始朝向它转身。",
+      "梦想从不要求你\"准备好了\"才出发。它只要求你迈出诚实的一步——翻开那本书，写下第一句笨拙的话，在该离开时选择留下。大多数梦想并非毁于某次轰然的失败；它们是在日复一日的微小怠慢中，被悄悄耗尽的。守护一个梦想，无非是一次次地回到它身边，没有观众，也没有保证。",
+      "所以，请像照看寒夜里的一小簇火那样照看你的梦想：添些柴，为它挡挡风，也别因它渺小就责备它。终有一天你会抬头，发现这簇火已温暖了整个房间——而那房间，说到底，就是你的人生。"
+    ],
+    "grammar": [
+      {
+        "point": "定语从句（that 引导，关系代词作主语不可省）",
+        "example": "\"…a question that will not quite leave you alone.\" ／ \"…the dreams that truly shape a life…\"",
+        "note": "两处 that 都引导定语从句，修饰前面的名词（a question / the dreams）。that 在从句中作主语（will not leave / truly shape 是谓语），因此绝对不可省略。识别要点：先行词 + that + 从句缺主语时，that 必须保留，否则句子会断成两截。 对照：此前多期出现过\"省略 that 定语从句\"（关系代词作宾语时可省）；此处 that 作主语，省去即缺主语、语法断裂，正相反。"
+      },
+      {
+        "point": "不定式作主语与表语（To keep one alive is simply to return to it）",
+        "example": "\"To keep one alive is simply to return to it, again and again, with no audience and no guarantee.\"",
+        "note": "To keep one alive 是不定式短语作主语（\"守护一个梦想\"这一行为本身），is 后的 to return to it 是不定式作表语（\"回到它身边\"）。again and again 与 with no audience and no guarantee 是插入的状语，把节奏拉长。用不定式而非名词，强调\"行动本身\"即答案。 不定式短语作主语视为单数，谓语用 is；口语中常改写为 It is … to do 形式（如 It is simply to return to it that keeps a dream alive）。"
+      },
+      {
+        "point": "the way 引导方式状语从句（省略关系词）",
+        "example": "\"So tend your dream the way you would tend a small fire on a cold night…\"",
+        "note": "the way 在此相当于 as / in which，引导方式状语从句，说明\"照看梦想\"的方式；口语与文学中常省略后面的 as / in which。you would tend a small fire 是省略关系词的从句。tend … the way you would tend … 形成\"以照看火的方式照看梦想\"的明喻。 the way 后直接接从句，是英语里很地道、比 as 更口语化的方式表达，写作中可大胆使用。"
+      },
+      {
+        "point": "被动语态 + 不定式主语补足语（We are taught to measure…）",
+        "example": "\"We are taught to measure dreams by their loudness…\"",
+        "note": "are taught 是一般现在时被动语态（teach 的过去分词 taught），引出\"我们被教导去做的事\"；to measure dreams by their loudness 是带 to 的不定式，作主语补足语（被动句中主语 we 的补足成分），说明教导的具体内容。by their loudness 是方式状语，点出\"以响亮度\"这一衡量标准。 主动句为 They teach us to measure…，变被动后 to 不定式保留作主语补足语；被动语态 + to do 是英语常见搭配（如 be told to do, be asked to do）。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "pull",
+        "pos": "n.",
+        "meaning": "牵引力；吸引力",
+        "enExample": "There was a quiet pull toward the sea that he could not explain.",
+        "zhExample": "有一种他无法解释的、朝向大海的安静牵引。",
+        "note": "用法：作名词表\"拉力、吸引力\"，a pull toward sth 指向某事的牵引；文中 a small, steady pull 把梦想比作轻轻拉着你前行的力"
+      },
+      {
+        "term": "measure",
+        "pos": "v.",
+        "meaning": "衡量；估量",
+        "enExample": "We cannot measure love by the gifts we receive.",
+        "zhExample": "我们不能用收到的礼物来衡量爱。",
+        "note": "用法：measure A by B 以 B 来衡量 A；文中 measure dreams by their loudness 点出\"用响亮度丈量梦想\"的误区"
+      },
+      {
+        "term": "steady",
+        "pos": "adj.",
+        "meaning": "稳定的；持续的",
+        "enExample": "She took a steady breath and began to speak.",
+        "zhExample": "她稳稳吸了口气，开始开口。",
+        "note": "用法：表持续不变、可靠；a steady pull 稳定持续的牵引；也可作动词\"稳住\""
+      },
+      {
+        "term": "whisper",
+        "pos": "n./v.",
+        "meaning": "低语；耳语（喻微弱信号）",
+        "enExample": "The wind carried a whisper of spring.",
+        "zhExample": "风里带着一丝春的低语。",
+        "note": "用法：本义\"低声说话\"；文中 begin as a whisper 把梦想比作\"一声低语\"，喻最初极轻、易被忽略"
+      },
+      {
+        "term": "clumsy",
+        "pos": "adj.",
+        "meaning": "笨拙的；不熟练的",
+        "enExample": "His clumsy apology was still better than silence.",
+        "zhExample": "他那笨拙的道歉，仍好过沉默。",
+        "note": "用法：形容动作/言辞生硬；the first clumsy line 第一句笨拙的话，强调起步不必完美"
+      },
+      {
+        "term": "abandon",
+        "pos": "v.",
+        "meaning": "抛弃；放弃",
+        "enExample": "They abandoned the plan when the cost rose.",
+        "zhExample": "成本上涨后他们放弃了计划。",
+        "note": "用法：指彻底丢下不管；be abandoned 被放弃；与 give up 近义，但 abandon 更强调\"弃之不顾\""
+      },
+      {
+        "term": "outlive",
+        "pos": "v.",
+        "meaning": "比……活得久；熬过（文中引申\"被……耗尽/拖垮\"）",
+        "enExample": "The old bridge outlived three kings.",
+        "zhExample": "那座老桥比三位国王都活得久。",
+        "note": "用法：本义\"比某物活得更久\"；文中 are quietly outlived by neglect 用被动，意为\"被怠慢悄悄耗尽（梦想先'死'）\"，是文学化的反说"
+      },
+      {
+        "term": "neglect",
+        "pos": "n./v.",
+        "meaning": "疏忽；怠慢",
+        "enExample": "The garden died from years of neglect.",
+        "zhExample": "花园因多年疏于打理而荒芜。",
+        "note": "用法：指该做而没做、漫不经心；small acts of neglect 微小的怠慢之举，正是梦想\"被耗尽\"的元凶"
+      },
+      {
+        "term": "guarantee",
+        "pos": "n.",
+        "meaning": "保证；担保",
+        "enExample": "There is no guarantee that tomorrow will be kind.",
+        "zhExample": "没人保证明天会温柔以待。",
+        "note": "用法：作名词\"保证、担保\"；with no guarantee 没有保证，与 with no audience 并列，写尽\"无名无保\"的坚持"
+      },
+      {
+        "term": "tend",
+        "pos": "v.",
+        "meaning": "照料；照看",
+        "enExample": "She tended the plants as if they were children.",
+        "zhExample": "她照看那些植物，像照看孩子。",
+        "note": "用法：tend sth 照顾、打理（tend a fire 照看火）；文中 tend your dream the way you would tend a fire 把梦想比作需照看的火"
+      },
+      {
+        "term": "scold",
+        "pos": "v.",
+        "meaning": "责备；斥责",
+        "enExample": "Don't scold yourself for a slow start.",
+        "zhExample": "别因起步慢而责备自己。",
+        "note": "用法：scold sb for (doing) sth 因……责备某人；do not scold it for being small 别因它渺小而责备——温柔的提醒"
+      },
+      {
+        "term": "turn toward",
+        "pos": "phr.",
+        "meaning": "朝向；转向（喻心之所向）",
+        "enExample": "He turned toward the light instead of the dark.",
+        "zhExample": "他转身朝向光，而非黑暗。",
+        "note": "用法：本义\"转身朝向\"；文中 turn toward it 把心比作转身面向梦想，喻\"心之所向\""
+      }
+    ]
+  }
+}
