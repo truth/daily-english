@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-08",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "landlord",
+      "pos": "n.",
+      "phonetic": "/ˈlændlɔːd/",
+      "meaning": "房东；地主（女性房东为 landlady）",
+      "enExample": "Our landlord said he will fix the heating before the weekend.",
+      "zhExample": "房东说他会在周末前把暖气修好。",
+      "note": "land（土地）+ lord（老爷）→ 收租的“地主老爷”，房东。对应词：tenant（租客）——The landlord raised the rent, and the tenants were not happy. 高频搭配：ask the landlord to fix...（让房东修……）/ sign a lease with the landlord（和房东签租约）。租房必备词，与 10-31 学过的 lease（租约）正好搭配：My lease says the landlord covers repairs."
+    },
+    {
+      "word": "utility",
+      "pos": "n.",
+      "phonetic": "/juːˈtɪləti/",
+      "meaning": "公用事业（水、电、煤气等）；公用事业费（常用复数 utilities）",
+      "enExample": "The rent is 2,000 a month, plus utilities like water and electricity.",
+      "zhExample": "房租每月两千，水电费另算。",
+      "note": "词根 util（有用）→ utility“有用的东西”→ 公用事业。租房高频搭配：utilities included（含水电费）/ utility bill（水电账单）/ pay utilities（付水电费）。注意常用复数 utilities。相关词：public utility（公共事业单位）。实用句：Does the rent include utilities?（房租含水电吗？）问房时必说的一句。"
+    },
+    {
+      "word": "backlog",
+      "pos": "n. / v.",
+      "phonetic": "/ˈbæklɒɡ/",
+      "meaning": "积压的工作；积压的事物 / 使积压",
+      "enExample": "After the holiday, I had a huge backlog of emails to deal with.",
+      "zhExample": "假期过后，我有一大堆积压的邮件要处理。",
+      "note": "back（后面）+ log（原木，早期囤在后面待处理的木头）→ 堆在后面没做的事。高频搭配：a backlog of emails/orders/work（积压的邮件/订单/工作）/ clear the backlog（清理积压）/ be buried in backlog（被积压工作淹没）。职场金句：Let's clear the backlog before starting anything new.（先清积压再开新活。）互联网公司产品待办列表也叫 backlog。"
+    },
+    {
+      "word": "declutter",
+      "pos": "v.",
+      "phonetic": "/ˌdiːˈklʌtə(r)/",
+      "meaning": "清理、整理（清除无用物品）；给……断舍离",
+      "enExample": "I spent Saturday decluttering my desk and donating things I never use.",
+      "zhExample": "我周六整理了书桌，把从来不用的东西捐了出去。",
+      "note": "de-（去除）+ clutter（杂乱）→ 去除杂乱 = 断舍离。clutter 本身也可作名词：a desk covered in clutter（堆满杂物的书桌）。高频搭配：declutter your room/desk/inbox（整理房间/书桌/收件箱）/ decluttering guru（收纳整理达人）。近義表达：tidy up（收拾干净）。流行语：Minimalists love to declutter.（极简主义者最爱断舍离。）"
+    },
+    {
+      "word": "duplicate",
+      "pos": "v. / n. / adj.",
+      "phonetic": "v. /ˈdjuːplɪkeɪt/ n. /ˈdjuːplɪkət/",
+      "meaning": "复制；重复 / 复制品；副本 / 完全一样的",
+      "enExample": "Please check the list carefully so we don't duplicate any entries.",
+      "zhExample": "请仔细核对清单，以免我们重复录入任何条目。",
+      "note": "词根 dupl（二倍，同 double）→ 变成两份。一词多性，重音会移动：动词 /ˈdjuːplɪkeɪt/，名词/形容词 /ˈdjuːplɪkət/。高频搭配：duplicate keys（备用钥匙）/ a duplicate copy（副本）/ avoid duplicating work（避免重复劳动）。职场实用句：This task duplicates what Team B is already doing.（这活儿 B 组已经在做了，重复了。）"
+    }
+  ],
+  "essay": null
+}

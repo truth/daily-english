@@ -139,6 +139,18 @@
 - 影响：10-11~10-23 共 13 个线上每日页文本/单词已就位，但**音频按钮点击无声**（0 字节）。10-23 当日内容（文字+单词）已正常发布，仅缺语音。
 - 恢复建议（未在本轮执行，因任务限定只跑 sync.js 且 edge-tts 当前 403 重试亦会失败）：待 edge-tts 恢复或升级 edge-tts 依赖后，删除 143 个 0 字节文件并重跑 sync.js / gen-audio-retry.py 补齐；勿手动编辑 JSON。
 
+## 2026-11-08 11:06 (GMT+8) 执行
+- 运行 `node sync.js`（秒级完成）。
+- 脚本输出：「📭 无新内容，跳过构建与部署。」(exit 0)。
+- ⚠️ 但核查确认**真实存在构建/部署缺口**（非干净无内容，同 10-31 款的幂等守卫误判）：
+  - content/daily = 98 个 JSON（最新 2026-11-08），dist/daily = 96 个 HTML（最新 2026-10-31）。
+  - **2026-11-03 与 2026-11-08** 已存在于 content/daily（各含 5 单词、hasEssay 未定义=纯单词日），但**从未被 build/deploy** → 线上 dailyecho.pages.dev 无这 2 天页面。
+  - 根因：上游每日自动化改为**直接写入 content/daily**（11-03/11-08 json 已落盘），sync.js 幂等守卫 `existing.has(date)` 判其「已处理」→ 整条 merge+audio+build+deploy 流水线被跳过，故报「无新内容」。
+  - 11-03 / 11-08 在 content/audio 下**完全无 mp3**（0 个），即便构建也会无音频。
+- ESSAY_WS 最新源 = english-essay-2026-11-03.html + words-2026-11-08.json，均已在 content/daily 反映（直写）；inbox 仅余旧 words-2026-07-30.json。无真正"新"源供 sync.js 扫描。
+- 遗留 backlog（自 10-31 持续未解）：57 个 0 字节 mp3（edge-tts 403 Sec-MS-GEC，覆盖 10-19~10-29）；git 工作区 98 个删除未提交（音频文件已从磁盘删、git 仍追踪），最新提交停在 eaa5100。
+- 本自动化严守约束：只跑 `node sync.js`，未手动 build/deploy、未编辑 content/daily、未动站点代码。缺口与 backlog 须用户介入修复（修上游直写职责 / 手动 build+deploy 11-03/11-08 / 清 0 字节并重生成音频 / 提交 git）。
+
 ## 2026-10-31 19:50 (GMT+8) 执行
 - 运行 `node sync.js`。
 - 结果：📭 脚本输出「无新内容，跳过构建与部署。」(exit 0)。
@@ -146,3 +158,24 @@
 - 根因研判：① 上游美文/单词自动化现改为**直接写入 content/daily**（类似 09-09 模式），sync.js 因幂等守卫（`existing.has(date)` 即跳过）误判这些日期为「已处理」而跳过音频生成+构建+部署；② 10-31 甚至**完全没有音频文件**（content/audio 下无 2026-10-31*），10-28/29 各仅 1 个 0 字节 essay.mp3。
 - ❌ 语音失败遗留：content/audio 仍有 **106 个 0 字节 mp3**（覆盖 10-15~10-29，每日 6~11 个），根因是 edge-tts 403(Sec-MS-GEC) 持续阻断，自 10-23 起记录至今未恢复；10-26 当日部署即带 10 个空音频上线。
 - 本自动化严格只运行 sync.js、不手动编辑 content/daily/不动站点代码，故**未擅自修复**。恢复须用户介入：① 修 edge-tts（升级/换源）；② 删 106 个 0 字节 mp3 后重跑补齐音频；③ 让上游自动化产出落入 ESSAY_WS/inbox 而非直写 content/daily（避免幂等误跳）；④ 重新 build + 部署使 10-28/29/31 上线。
+
+## 2026-11-09 11:14 (GMT+8) 执行
+- 运行 `node sync.js`（秒级完成）。
+- 脚本输出：「📭 无新内容，跳过构建与部署。」(exit 0)。
+- ⚠️ 但核查确认**真实存在构建/部署缺口**（同 11-08 / 10-31 款幂等守卫误判，非干净无内容）：
+  - content/daily = 99 个 JSON（最新 2026-11-09）；dist/daily = 96 个 HTML（最新 2026-10-31）。
+  - **2026-11-03、2026-11-08、2026-11-09** 已存在于 content/daily（各含 5 单词、hasEssay 未定义=纯单词日），但**从未被 build/deploy** → 线上 dailyecho.pages.dev 无这 3 天页面。
+  - 根因：上游每日自动化**直接写入 content/daily**（11-03/08/09 json 已落盘，仅含 words 无 essay 字段），sync.js 幂等守卫 `existing.has(date)` 判「已处理」→ 整条 merge+audio+build+deploy 被跳过；ESSAY_WS 实际仍有 11-03/08/09 美文 html（11-08/09 还带 essay mp3）、11-03/08/09 单词 json，但脚本不重新导入美文、不补音频。
+  - 音频缺口：content/audio 下仅 2026-11-09 有 1 个 essay.mp3；11-03/08 **完全无 mp3**；三日均缺 5 单词 ×（本体+例句）音频。
+- ESSAY_WS 最新源 = english-essay-2026-11-09.html + .mp3 + words-2026-11-09.json（今日新源），及 11-03/08 历史源；inbox 仅余旧 words-2026-07-30.json。无真正"新"日期供 sync.js 扫描（均已被直写 content/daily 占据）。
+- 全站 0 字节 mp3 降至 9 个（此前 57），音频积压有改善但仍未清零。
+- 本自动化严守约束：只跑 `node sync.js`，未手动 build/deploy、未编辑 content/daily、未动站点代码。缺口须用户介入修复（修上游直写职责 / 手动 build+deploy 11-03/08/09 / 清 0 字节并重生成音频 / 提交 git）。
+
+## 2026-11-11 16:15 (GMT+8) 执行
+- 运行 `node sync.js`（秒级完成）。
+- 结果：📭 无新内容，跳过构建与部署（exit 0）。
+- 核查确认「无新内容」为真实判定（无新源可扫）：ESSAY_WS 全文 11-1*（essay html + words json）为空、inbox 仅余 words-2026-07-30.json 与 done/；content/daily 最新=2026-11-09，dist/daily 最新=2026-10-31。
+- ⚠️ 持续构建缺口（幂等守卫误判，自 11-08 记录至今未解）：content/daily 含 11-03/11-08/11-09（共 99 JSON），dist/daily 仅至 10-31（96 HTML）→ 这三日页面从未 build/deploy，线上 dailyecho.pages.dev 无这些页面。根因：上游每日自动化直写 content/daily，sync.js 的 existing.has(date) 判「已处理」跳过整条流水线（merge+audio+build+deploy）。
+- ⚠️ 上游断更缺口：11-10、11-11 全盘无任何单词/美文源（content/daily / ESSAY_WS / inbox 均无），疑似上游每日生成自动化自 11-09 后停更/异常。
+- ⚠️ 遗留 9 个 0 字节 mp3（6×10-26、1×10-28、1×10-29、1×11-09），均为历史 edge-tts 403 期产物，点击对应音频按钮无声；较此前 57 个已大幅下降，但未清零。
+- 本自动化严守约束：只跑 `node sync.js`，未手动 build/deploy、未编辑 content/daily、未动站点代码。缺口与 backlog 须用户介入修复。

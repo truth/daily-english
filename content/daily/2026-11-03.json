@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-03",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "overtime",
+      "pos": "n. / adv.",
+      "phonetic": "/ˈəʊvətaɪm/",
+      "meaning": "加班；加班时间；加班费",
+      "enExample": "I've been working overtime all week to get the report ready.",
+      "zhExample": "为了赶出这份报告，我这周一直在加班。",
+      "note": "over（超过）+ time（时间）→ 超出规定工作时间。高频搭配：work overtime（加班）/ overtime pay（加班费）/ do overtime（口语，加班）。职场吐槽万能句：I can't do overtime tonight.（今晚加不了班。）与 10-28 学过的 swamped 连用很自然：I'm swamped, so I'll probably work overtime tonight.（忙爆了，今晚估计得加班。）体育里加时赛也叫 overtime。"
+    },
+    {
+      "word": "laundry",
+      "pos": "n.",
+      "phonetic": "/ˈlɔːndri/",
+      "meaning": "要洗的衣物；洗好的衣物；洗衣店",
+      "enExample": "I do the laundry every Sunday morning while listening to podcasts.",
+      "zhExample": "我每周日上午边听播客边洗衣服。",
+      "note": "固定搭配是 do the laundry（洗衣服），动词别用 wash，wash the laundry 是中式英语。常用词组：laundry basket（洗衣篮）/ laundry detergent（洗衣液）/ dirty laundry（脏衣服，也可比喻“家丑”——don't wash your dirty laundry in public 家丑不可外扬）。发音注意：/ˈlɔːn-/（类似“劳恩”），不是 /læn-/。"
+    },
+    {
+      "word": "leftovers",
+      "pos": "n.",
+      "phonetic": "/ˈleftəʊvəz/",
+      "meaning": "剩饭剩菜（常用复数）",
+      "enExample": "We had leftovers from last night's dinner for lunch today.",
+      "zhExample": "我们今天午饭吃的是昨晚的剩菜。",
+      "note": "left over（剩下）→ leftovers 剩菜，习惯用复数。高频搭配：heat up the leftovers（热剩菜）/ leftovers from last night。作形容词时不加 s：leftover pizza（剩下的披萨）。生活节俭话题必备词，与 10-01 学过的 frugal（节俭的）呼应：Eating leftovers is a frugal habit. 美国感恩节后甚至有个梗：leftover sandwich（剩菜三明治）。"
+    },
+    {
+      "word": "bargain",
+      "pos": "n. / v.",
+      "phonetic": "/ˈbɑːɡən/",
+      "meaning": "便宜货；划算的交易 / 讨价还价",
+      "enExample": "I got this jacket at half price — what a bargain!",
+      "zhExample": "这件夹克是半价买的——真是捡了个大便宜！",
+      "note": "一词两义：名词“便宜货、划算的交易”，动词“讨价还价”（与 10-08 学过的 haggle 近义，bargain 更通用）。高频搭配：a real bargain（真划算）/ bargain hunter（爱淘便宜货的人）/ at a bargain price（以优惠价）。习语：into the bargain（而且，还额外）。反义概念：rip-off（宰人的东西）——Half price? A bargain. Full price? A rip-off."
+    },
+    {
+      "word": "guarantee",
+      "pos": "n. / v.",
+      "phonetic": "/ˌɡærənˈtiː/",
+      "meaning": "保证；担保；保修单",
+      "enExample": "The washing machine comes with a two-year guarantee.",
+      "zhExample": "这台洗衣机有两年保修。",
+      "note": "高频搭配：come with a two-year guarantee（带两年保修）/ guarantee that...（保证……）/ There's no guarantee（没有保证）。与 09-20 学过的 warranty 区别：warranty 是正式书面保修条款，guarantee 更口语、范围更广（也可以是人的承诺）。职场实用句：I can't guarantee the outcome, but I'll do my best.（我不能保证结果，但我会尽力。）发音重音在最后：/ˌɡærənˈtiː/，别读成 GUA-ran-tee。"
+    }
+  ],
+  "essay": {
+    "title": "The Quiet Art of Listening",
+    "author": "佚名",
+    "paragraphs": [
+      "We spend so much of our lives preparing to speak — rehearsing the reply, polishing the clever point, waiting for the pause that lets us jump in. We treat listening as the empty space between our own sentences. Yet the world is always speaking first, if only we would stay still long enough to hear it.",
+      "To listen is not merely to be silent. It is to set your own voice aside and make room for another's. A friend does not always need an answer; often they need only to be heard. When we listen with our whole attention, we give someone the rarest gift: the quiet certainty that their story matters.",
+      "The same art works in quieter rooms. A tree does not explain itself, nor does the early light. But sit by the window long enough, and the day will tell you what it needs. We hear ourselves most clearly when we stop talking over our own thoughts, and let the small, honest voice inside finally be heard.",
+      "So today, practice the quiet art. Let one conversation be unhurried. Let the wind finish its sentence. Listening will not silence the noise of the world — but it will change the world inside you, one listening moment at a time."
+    ],
+    "translations": [
+      "我们一生中太多时光都花在准备开口上——预演回应、打磨精妙的妙语，只等那道缝隙好插进自己的话。我们总把\"听\"当作自己句子之间的空白。然而，世界总是先开口的，只要我们肯安静得足够久，便能听见它。",
+      "倾听，并不只是保持沉默。它是把自己的声音放到一旁，为别人的声音腾出空间。朋友并不总是需要答案；很多时候，他们只是需要被听见。当我们用全部的注意力去倾听，我们便给了某人最稀有的礼物：一种安静的确信——他们的故事，是有分量的。",
+      "这门艺术在更安静的房间里同样奏效。一棵树不会解释自己，晨光也不会。但只要在窗边坐得够久，这一天便会告诉你它需要什么。当我们停止在自己的思绪上喋喋不休，让内心那个细小而真诚的声音终于被听见，我们才最清楚地听见自己。",
+      "所以今天，练习这门安静的艺术吧。让一段对话不必匆忙。让风把它的句子说完。倾听不会让世界的喧嚣静音——但它会改变你内心的世界，一次倾听，一次改变。"
+    ],
+    "grammar": [
+      {
+        "point": "1. if only + 情态动词 虚拟语气",
+        "example": "\"…if only we would stay still long enough to hear it.\"",
+        "note": "讲解：if only 用于表达强烈的愿望或遗憾，意为\"要是……就好了\"。其后动词形式随语义变化：对现在/将来的愿望用一般过去时或 would / could + 动词原形，对过去的遗憾用过去完成时（if only I had…）。 此处 we would stay 用 would + 原形，表\"但愿我们能安静得够久\"——一种对当下状态的温柔期许，不表事实。对比：if only I were there（要我在场就好了）。"
+      },
+      {
+        "point": "2. nor 引导的部分倒装",
+        "example": "\"A tree does not explain itself, nor does the early light.\"",
+        "note": "讲解：当前句是否定句，后句以 nor / neither 开头表示\"也不……\"时，须用部分倒装：nor + 助动词/情态动词 + 主语 + 动词。原句正常语序为 the early light does not (explain itself) either，倒装后变成 nor does the early light。 注意 nor 后主语 (the early light) 与助动词 (does) 必须倒装；若前句用 didn't，后句也用 didn't。类似结构：She can't swim, neither can I."
+      },
+      {
+        "point": "3. 祈使句 + and + 陈述句（表条件—结果）",
+        "example": "\"sit by the window long enough, and the day will tell you what it needs.\"",
+        "note": "讲解：英语中\"祈使句 + and + 陈述句\"相当于\"If you do…, then…\"。\"坐得够久\"是条件，\"这一天便会告诉你\"是自然结果。and 在此不作并列，而表\"那么、就会\"。 句中 what it needs 是 tell 后接的宾语从句（what 既引导从句又在从句中作 needs 的宾语）。若把 and 换成 or，则语义转为\"否则、要不然\"。"
+      },
+      {
+        "point": "4. not A but B 并列否定 + stop doing 用法",
+        "example": "\"Listening will not silence the noise of the world — but it will change the world inside you…\"",
+        "note": "讲解：not…but… 连接两个并列谓语（silence / change），否定前者、肯定后者，强调倾听的作用不在\"消除外界喧嚣\"，而在\"改变内心世界\"。破折号在此起语气停顿、引出转折的作用。 同段 stop talking over our own thoughts 中 stop doing 表\"停止做某事\"（区别于 stop to do\"停下来去做别的事\"）。let the small voice…be heard 则用使役动词 let + 宾语 + 被动不定式，表\"让……被听见\"。"
+      }
+    ],
+    "vocab": [
+      {
+        "term": "rehearse",
+        "pos": "v.",
+        "meaning": "预演，排练",
+        "enExample": "She rehearsed her speech until it felt natural.",
+        "zhExample": "她把演讲预演到自然为止。",
+        "note": "用法：本义为\"排练（戏剧、演讲）\"，文中 rehearse the reply 引申为在心里反复预演将说出的回应；可作及物也可不及物。"
+      },
+      {
+        "term": "polish",
+        "pos": "v.",
+        "meaning": "打磨，润色",
+        "enExample": "He polished the essay late into the night.",
+        "zhExample": "他熬夜润色那篇文章。",
+        "note": "用法：原指擦亮、抛光，文中 polish the clever point 喻指反复打磨一句漂亮的妙语，使表达更精致。"
+      },
+      {
+        "term": "jump in",
+        "pos": "phr.",
+        "meaning": "插话，介入，抢着说",
+        "enExample": "Don't jump in before she finishes her story.",
+        "zhExample": "她把事讲完之前别插话。",
+        "note": "用法：口语常用，指别人话未说完就插进来；文中 the pause that lets us jump in 指\"让我们有空子可钻的停顿\"。"
+      },
+      {
+        "term": "treat…as",
+        "pos": "phr.",
+        "meaning": "把…当作，视为",
+        "enExample": "Don't treat a small mistake as a failure.",
+        "zhExample": "别把一个小错当成失败。",
+        "note": "用法：treat + 宾语 + as + 名词/形容词，表\"以某种方式对待\"。文中 treat listening as the empty space 意为把倾听当成句子间的空白。"
+      },
+      {
+        "term": "set aside",
+        "pos": "phr.",
+        "meaning": "把…放到一旁；留出",
+        "enExample": "He set his pride aside and apologized.",
+        "zhExample": "他把自尊放到一边，道了歉。",
+        "note": "用法：set one's voice aside 把\"自己的声音\"暂搁一旁，喻指克制表达欲；也可指\"留出时间/金钱\"。"
+      },
+      {
+        "term": "make room for",
+        "pos": "phr.",
+        "meaning": "为…腾出空间",
+        "enExample": "We must make room for new ideas.",
+        "zhExample": "我们得为新想法腾出空间。",
+        "note": "用法：room 此处为不可数名词\"空间\"；make room for another's 即给别人的声音腾出位置，是倾听的核心动作。"
+      },
+      {
+        "term": "attention",
+        "pos": "n.",
+        "meaning": "注意力，专注",
+        "enExample": "She listened with full attention.",
+        "zhExample": "她全神贯注地听着。",
+        "note": "用法：with one's whole attention 是常见搭配，表\"全神贯注地\"；pay attention to 表\"注意……\"。"
+      },
+      {
+        "term": "certainty",
+        "pos": "n.",
+        "meaning": "确信，必然性",
+        "enExample": "He spoke with quiet certainty.",
+        "zhExample": "他带着安静的确信开口。",
+        "note": "用法：the quiet certainty that… 中 that 引导同位语从句，说明 certainty 的具体内容；表\"确信、笃定\"。"
+      },
+      {
+        "term": "matter",
+        "pos": "v.",
+        "meaning": "重要，有关系",
+        "enExample": "What you said today truly matters.",
+        "zhExample": "你今天说的话真的很重要。",
+        "note": "用法：不及物动词，常用于 it matters (that)… 结构；文中 their story matters 即\"他们的故事是有意义的/重要的\"。"
+      },
+      {
+        "term": "unhurried",
+        "pos": "adj.",
+        "meaning": "不慌不忙的，从容的",
+        "enExample": "We took an unhurried walk by the lake.",
+        "zhExample": "我们在湖边从容地散了散步。",
+        "note": "用法：由 un- + hurried（匆忙的）构成；let one conversation be unhurried 劝人让对话不必赶时间。"
+      },
+      {
+        "term": "silence",
+        "pos": "v.",
+        "meaning": "使安静，使沉默",
+        "enExample": "Nothing could silence his laughter.",
+        "zhExample": "没什么能让他的笑声停下。",
+        "note": "用法：此处作及物动词，silence the noise 意为\"让喧嚣止息\"；也常用于 silence a critic / doubt。"
+      },
+      {
+        "term": "noise",
+        "pos": "n.",
+        "meaning": "喧闹，噪音",
+        "enExample": "The noise of the city faded after midnight.",
+        "zhExample": "午夜过后城市的喧闹退去了。",
+        "note": "用法：the noise of the world 喻指外界的纷扰与杂音；作不可数名词，表\"嘈杂声\"。"
+      },
+      {
+        "term": "aside",
+        "pos": "adv.",
+        "meaning": "在一旁，到一边",
+        "enExample": "He stepped aside to let her pass.",
+        "zhExample": "他退到一旁让她过去。",
+        "note": "用法：常与动词搭配（set aside / step aside / push aside）；文中作状语，呼应 set…aside 短语。"
+      }
+    ]
+  }
+}

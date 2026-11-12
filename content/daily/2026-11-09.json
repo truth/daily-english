@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-09",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "mortgage",
+      "pos": "n. / v.",
+      "phonetic": "/ˈmɔːrɡɪdʒ/",
+      "meaning": "按揭贷款；抵押贷款 / 抵押",
+      "enExample": "They took out a thirty-year mortgage to buy their first home.",
+      "zhExample": "他们办理了三十年期的按揭贷款，买下了第一套房。",
+      "note": "发音拆解：mort（死，法语词根）+ gage（担保）→ 古代“以死为担保”的抵押，即还不上房子就没了。高频搭配：pay off the mortgage（还清房贷）/ mortgage rate（房贷利率）/ apply for a mortgage（申请房贷）。实用句：How much is your monthly mortgage payment?（你每月房贷还多少？）买房绕不开的词。"
+    },
+    {
+      "word": "insurance",
+      "pos": "n.",
+      "phonetic": "/ɪnˈʃʊrəns/",
+      "meaning": "保险；保险费；保障",
+      "enExample": "Make sure your health insurance covers dental treatment.",
+      "zhExample": "确认一下你的医疗保险是否包含牙科治疗。",
+      "note": "insure（投保，in- 进入 + sure 确定的）+ -ance 名词后缀 → 把风险“确定进来”由保险公司兜底。高频搭配：health/car/life insurance（医疗/车/人寿保险）/ insurance policy（保险单）/ insurance covers...（保险涵盖……）。实用句：Does my insurance cover this?（我的保险报这个吗？）注意别和 assurance 混淆。"
+    },
+    {
+      "word": "promotion",
+      "pos": "n.",
+      "phonetic": "/prəˈmoʊʃn/",
+      "meaning": "晋升；升职；（商品的）促销，推广",
+      "enExample": "She worked overtime for months and finally got a promotion to senior manager.",
+      "zhExample": "她加班了好几个月，终于晋升为高级经理。",
+      "note": "动词 promote（提拔；推广）+ -ion。一词两义：职场语境是“升职”，商业语境是“促销”（如 a special promotion 限时促销）。高频搭配：get/receive a promotion（获得晋升）/ be up for promotion（有升职机会）/ sales promotion（促销活动）。相关词：demotion（降职），方向相反。面试加分句：I'm looking for a role with room for promotion.（我想找有晋升空间的岗位。）"
+    },
+    {
+      "word": "grocery",
+      "pos": "n.",
+      "phonetic": "/ˈɡroʊsəri/",
+      "meaning": "食品杂货（常用复数 groceries）；食品杂货店",
+      "enExample": "I stopped by the supermarket on my way home to pick up some groceries.",
+      "zhExample": "回家路上我顺便去超市买了点食品杂货。",
+      "note": "词根 grocer（食品杂货商）+ -y。日常口语几乎只用复数 groceries（采购的食材）。高频搭配：do the grocery shopping（采购食材）/ grocery store（杂货店/超市）/ a bag of groceries（一袋食材）。实用句：Can you grab some groceries on your way back?（回来路上能带点菜吗？）美式生活最常用词之一。"
+    },
+    {
+      "word": "vacuum",
+      "pos": "n. / v.",
+      "phonetic": "/ˈvækjuːm/",
+      "meaning": "真空；吸尘器 / 用吸尘器打扫",
+      "enExample": "Please vacuum the living room before the guests arrive.",
+      "zhExample": "客人来之前请用吸尘器把客厅打扫一下。",
+      "note": "拉丁语 vacuum＝“空”，两个 u 连写是拼写考点。作名词指“真空/吸尘器”（vacuum cleaner 的简称），作动词指“吸地”。高频搭配：vacuum the floor/carpet（吸地板/地毯）/ a vacuum cleaner（吸尘器）/ power vacuum（权力真空）。实用句：The vacuum is broken — can you sweep instead?（吸尘器坏了，你能扫一下吗？）家务必备词。"
+    }
+  ],
+  "essay": {
+    "title": "温柔的力量",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "1. 定语从句：that 作主语不可省略",
+        "example": "",
+        "note": "先行词 strength 后接由 that 引导的定语从句，that 在从句中作主语（has learned 的主语），不能省略。同理，末段 \"a world that equates loudness with worth\" 中 that 亦作主语。 判断技巧：若关系词在从句里充当主语，则无论指人指物、无论限制与否，均不可省。"
+      },
+      {
+        "point": "2. 过去分词作后置定语（被动 + 已完成）",
+        "example": "",
+        "note": "asked / met 是过去分词，修饰前面的名词，表示\"被问出的\"\"被以耐心相待的\"，含被动且完成意味，相当于省略的定语从句 a question (which is) asked ...。 对比：现在分词（asking）表主动/进行；过去分词（asked）表被动/完成。"
+      },
+      {
+        "point": "3. 不定式作后置定语",
+        "example": "",
+        "note": "抽象名词 willingness（意愿）后常用不定式作后置定语，说明其内容。类似结构：the ability to do, the chance to try, the courage to begin。 这是英语中\"名词 + to do\"修饰的惯用搭配，朗读时不定式轻读、连贯。"
+      },
+      {
+        "point": "4. 不定式作主语与表语 + 平行对照（not ... ; it is to ...）",
+        "example": "",
+        "note": "句首 To be tender ... 是不定式短语作主语；系动词 is 后接 to give up / to begin 作表语。用 \"not ... ; it is to ...\" 形成否定—肯定对照，强化\"温柔≠放弃，而是重启\"的语义。 写作可借鉴：To A is not to B; it is to C. 用于澄清误解、提出新解。"
+      }
+    ]
+  }
+}

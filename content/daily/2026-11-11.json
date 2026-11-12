@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-11",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "renovate",
+      "pos": "v.",
+      "phonetic": "/ˈrenəveɪt/",
+      "meaning": "翻新；修复；整修（建筑物）",
+      "enExample": "They spent six months renovating the old house before moving in.",
+      "zhExample": "搬进去之前，他们花了六个月翻新那栋老房子。",
+      "note": "re-（重新）+ nov（新的，同 novel/new）+ -ate → 重新变新 = 翻新。名词 renovation（翻新工程）。高频搭配：renovate a house/apartment（翻新房子）/ under renovation（翻修中）。实用句：We're renovating the kitchen next month.（我们下个月翻新厨房。）注意别和 innovate（创新）混——一个是修房子，一个是想点子。"
+    },
+    {
+      "word": "recycle",
+      "pos": "v.",
+      "phonetic": "/ˌriːˈsaɪkl/",
+      "meaning": "回收利用；再循环",
+      "enExample": "Our office recycles paper, plastic, and glass to reduce waste.",
+      "zhExample": "我们办公室回收纸张、塑料和玻璃，以减少垃圾。",
+      "note": "re-（再）+ cycle（循环）→ 让废品再转一圈 = 回收。名词 recycling（回收利用）/ recyclable（可回收的）。高频搭配：recycle waste/batteries（回收垃圾/电池）/ recycling bin（回收桶）。实用句：Please recycle this instead of throwing it away.（这个请回收，别直接扔。）环保话题口语必备词。"
+    },
+    {
+      "word": "installment",
+      "pos": "n.",
+      "phonetic": "/ɪnˈstɔːlmənt/",
+      "meaning": "分期付款；（分期连载的）一部分",
+      "enExample": "We bought the sofa in installments instead of paying all at once.",
+      "zhExample": "我们分期付款买了这张沙发，而不是一次性付清。",
+      "note": "install（安装/安置）+ -ment → 把一笔大钱“安置”成好几小笔 = 分期。英式拼写为 instalment。高频搭配：pay in installments（分期支付）/ monthly installments（按月分期）/ the first installment（首期）。另一义：小说连载的一集（the latest installment 最新一期）。实用句：Can I pay in installments?（可以分期付款吗？）剁手前先问这句。"
+    },
+    {
+      "word": "carpool",
+      "pos": "n. / v.",
+      "phonetic": "/ˈkɑːrpuːl/",
+      "meaning": "拼车；合伙用车 / 拼车出行",
+      "enExample": "My neighbor and I carpool to work every day to save on gas.",
+      "zhExample": "我和邻居每天拼车上班，省油钱。",
+      "note": "car（车）+ pool（共用/共享，如 job pool、resource pool）→ 共享一辆车 = 拼车。可作名词（join a carpool 加入拼车）或动词（carpool to work）。高频搭配：carpool lane（美美高速的拼车专用道，单人车不能走）/ carpool with someone（和某人拼车）。实用句：Want to carpool tomorrow?（明天拼车吗？）省钱又环保。"
+    },
+    {
+      "word": "renewal",
+      "pos": "n.",
+      "phonetic": "/rɪˈnjuːəl/",
+      "meaning": "续订；续约；更新；延长期限",
+      "enExample": "My gym membership is up for renewal at the end of this month.",
+      "zhExample": "我的健身房会员这个月底就要续费了。",
+      "note": "re-（再）+ new（新）+ -al 名词后缀 → 重新来一遍 = 续。动词是 renew（续订/更新）。高频搭配：contract renewal（合同续签）/ passport renewal（护照换新）/ subscription renewal（订阅续费）/ up for renewal（到期待续）。实用句：I'd like to renew my contract.（我想续签合同。）订阅时代天天打交道的词。"
+    }
+  ],
+  "essay": {
+    "title": "回到真实的自己",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "1. be meant to do + 过去分词作前置定语",
+        "example": "",
+        "note": "be meant to do 意为\"本应／注定要做某事\"，此处 were meant to be 译作\"本该是\"，带\"被设计成如此\"的被动意味。否定 never meant to be 即\"从来不必是\"。 finished 与 flawless 是过去分词转化来的形容词，作前置定语修饰 product，分别表\"已完成、无瑕疵的\"。过去分词前置常带\"被动／完成\"色彩。"
+      },
+      {
+        "point": "2. 动名词作介词宾语 ＋ that 表语从句",
+        "example": "",
+        "note": "pretending 是动名词，作介词 with 的宾语；\"the trouble with doing sth\" 是常见结构，意为\"做某事的问题／麻烦在于\"。 系动词 is 之后由 that 引导表语从句（that it is exhausting），说明主语 the trouble 的具体内容。that 在表语从句中不充当成分、不可省。"
+      },
+      {
+        "point": "3. Only ＋ 状语前置引起部分倒装",
+        "example": "",
+        "note": "\"Only + 状语\"（此处为介词短语 from that honest ground）置于句首表示强调时，主句须部分倒装：助动词 can 提到主语 real change 之前。 还原为正常语序即 \"Real change can begin only from that honest ground.\" 这是英语强调\"唯一条件\"的常用倒装结构，朗读时 can 需重读。"
+      },
+      {
+        "point": "4. 并列动名词作宾语 ＋ without ＋ 动名词",
+        "example": "",
+        "note": "looking at ... 与 saying ... 是由 and 连接的并列动名词短语，共同作动词 means 的宾语（mean doing 表示\"意味着做某事\"）。 without flinching 中 flinching 也是动名词，作介词 without 的宾语，构成否定伴随状语，译作\"毫不退缩地\"。注意：介词后无论语义如何，一律接动名词而非原形动词。"
+      }
+    ]
+  }
+}

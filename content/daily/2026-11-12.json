@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-12",
+  "title": "每日一词一文",
+  "words": [],
+  "essay": {
+    "title": "好奇，那安静的火花",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "1. 省略关系词的定语从句 ＋ be supposed to do",
+        "example": "",
+        "note": "we are supposed to outgrow 是修饰 something 的定语从句，关系代词 that / which 作 outgrow 的宾语被省略（宾语可省）。还原即 \"something (that) we are supposed to outgrow\"。 be supposed to do 意为\"应该／本该做某事\"，此处 are supposed to outgrow 译作\"本该随着长大而抛弃\"，带\"社会预期\"的意味。注意：supposed 的 -ed 不发音为 /t/，易误读。"
+      },
+      {
+        "point": "2. 动名词作表语 ＋ when 时间状语从句 ＋ 现在完成时",
+        "example": "",
+        "note": "staying willing ... 是动名词短语作介词 about 的宾语（about 后接名词性成分），其中 staying ＋ 形容词 willing 构成\"保持某种状态\"结构（keep/stay + adj.）。 when 引导时间状语从句，从句谓语 has already arrived 用现在完成时，强调\"轻而易举的答案已经到来\"这一对现在（是否还愿发问）有影响的既成事实。"
+      },
+      {
+        "point": "3. treat...as... 结构 ＋ rather than 平行并列",
+        "example": "",
+        "note": "treat A as B 为固定搭配，意为\"把 A 当作 B\"，as 在此是介词，后接名词 a door。 rather than 连接两个对等的名词短语 a door 与 a wall，表示\"而非、而不是\"，构成平行并列。rather than 强调取舍，朗读时 wall 前可略停顿以突出对比。"
+      },
+      {
+        "point": "4. what 主语从句 ＋ than 比较级 ＋ that 同位语从句",
+        "example": "",
+        "note": "What we learn 是 what 引导的主语从句，what 既引导从句又充当 learn 的宾语，整体等于 \"the thing that we learn\"，在句中作主语。 主句谓语 matters less than ... 是比较结构；the fact 后接 that 引导的同位语从句（that we kept the door unlocked），that 不充当成分、不可省，用来解释 fact 的具体内容。"
+      }
+    ]
+  }
+}
