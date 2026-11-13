@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-13",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "rehearse",
+      "pos": "v.",
+      "phonetic": "/rɪˈhɜːrs/",
+      "meaning": "排练；预演；（正式场合前）反复演练",
+      "enExample": "We need to rehearse the pitch twice before presenting it to the client.",
+      "zhExample": "在向客户演示之前，我们需要把方案预演两遍。",
+      "note": "re（再一次）+ hearse（古义是耙子，翻来覆去梳理一块地）→ 反复梳理流程 = 排练。比 practice 更强调为正式场合做准备：rehearse a presentation（预演演示）/ rehearse a play（排戏）。实用句：Let's rehearse once more.（我们再排一遍。）重要汇报前一天最该干的事，没有之一。"
+    },
+    {
+      "word": "supervise",
+      "pos": "v.",
+      "phonetic": "/ˈsuːpərvaɪz/",
+      "meaning": "监督；管理；指导（下属或工作）",
+      "enExample": "A senior engineer will supervise the new hires during their first month.",
+      "zhExample": "一位资深工程师会在新人入职的第一个月里指导他们。",
+      "note": "super（在上方，同 superior 上级）+ vise（看，同 vision 视觉）→ 从上面看着 = 监督。和 oversee 的区别：oversee 偏照看流程，supervise 带负责和权威的意味。高频搭配：supervise a team（带团队）/ under supervision（在监管下）。实用句：Who supervises the interns?（谁带实习生？）"
+    },
+    {
+      "word": "handover",
+      "pos": "n.",
+      "phonetic": "/ˈhændoʊvər/",
+      "meaning": "交接；移交（工作、职责、物品）",
+      "enExample": "The handover to the new project manager took a full week of meetings.",
+      "zhExample": "向新项目经理的交接花了整整一周的会议。",
+      "note": "动词 hand over（递过去）连写变名词 handover（交接）。职场高频：handover meeting（交接会）/ smooth handover（顺利交接）/ handover document（交接文档）。实用句：I need a proper handover before I go on leave.（休假前我需要一次完整的交接。）记牢：动词分开写，名词才连写。"
+    },
+    {
+      "word": "mileage",
+      "pos": "n.",
+      "phonetic": "/ˈmaɪlɪdʒ/",
+      "meaning": "里程；行驶公里数；油耗；（引申）好处、用处",
+      "enExample": "The company pays a fixed mileage rate when you drive your own car for work.",
+      "zhExample": "开自己的车办公事，公司按固定里程标准补贴。",
+      "note": "mile（英里）+ -age（量）→ 里程。两条义都高频：mileage allowance（里程补贴，报销单常见）；引申 get mileage out of sth（从某事里榨出好处）。实用句：What's the mileage on the car?（这车跑了多少公里？）买二手车必问第一句。"
+    },
+    {
+      "word": "upkeep",
+      "pos": "n.",
+      "phonetic": "/ˈʌpkiːp/",
+      "meaning": "维护；保养；（日常的）维护费用",
+      "enExample": "The upkeep of an old house costs far more than most people expect.",
+      "zhExample": "老房子的维护开销远超大多数人的预期。",
+      "note": "up + keep → 把状态保持住 = 维护。和 maintenance 的区别：maintenance 更官方更泛用（设备、软件、合同），upkeep 偏日常养着的成本，常指房子、花园、车子。实用句：The rent covers the upkeep of the building.（房租包含楼宇维护。）租房合同里的熟词。"
+    }
+  ],
+  "essay": {
+    "title": "我们安静归属的地方",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "1. without + 动名词（performing 作介词宾语）",
+        "example": "",
+        "note": "without 是介词，其后必须接名词性成分；此处接动名词 performing（perform 的 -ing 形式），构成介词短语作状语，表示\"不……地\"。 动名词兼具动词与名词特征：performing 后仍可带宾语 a tidier version of ourselves。注意区分：介词后一律用 -ing（动名词），不可用原形动词。"
+      },
+      {
+        "point": "2. who 引导的限制性定语从句",
+        "example": "",
+        "note": "who 引导限制性定语从句，修饰先行词 a friend，在从句中作主语，指人用 who（也可用 that）。还原即 \"a friend [who] remembers ...\"。 该从句用一个具体画面（\"记得你焦虑之名\"的朋友）来定义抽象的 belonging，是英语中常见的\"名词 + 定语从句\"细节展开写法，比直说更生动。"
+      },
+      {
+        "point": "3. 被动语态的平行对照（is found / is made）",
+        "example": "",
+        "note": "两个分句均为一般现在时被动语态（is + 过去分词）。not only ... (but) also ... 本应连接对称成分，此处 but 省略，靠逗号与 it is made 形成\"不是被发现，而是被缔造\"的对照。 被动强调\"归属感\"承受的动作，突出作者立意：归属既能\"被找到\"，更能由人主动\"被做出来\"，把主语从被动接受转为主动创造。"
+      },
+      {
+        "point": "4. 插入语 it turns out + less A than B 比较 + 定语从句",
+        "example": "",
+        "note": "it turns out 是插入语（= 结果表明／原来），前后用逗号隔开，可位于句中，不影响主干 \"Home is less a location than a practice\"。 less A than B 是比较结构，意为\"与其说 A，不如说 B\"，less 后接名词 a location，than 后接平行名词 a practice。 句末 we keep choosing 是省略关系词 that / which 的定语从句，修饰 a practice（that 作 choose 的宾语可省）。"
+      }
+    ]
+  }
+}
