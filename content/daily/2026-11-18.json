@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-18",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "onboarding",
+      "pos": "n.",
+      "phonetic": "/ˈɔːnbɔːrdɪŋ/",
+      "meaning": "入职培训与引导；新用户上手流程",
+      "enExample": "New hires go through two weeks of onboarding before they touch any real projects.",
+      "zhExample": "新员工要先经过两周的入职培训，才会接触真实项目。",
+      "note": "on（上）+ board（船/甲板）→ 上船就位 = 入职。原指水手上船报到，现在 HR 语境专指新人融入流程；互联网产品里 user onboarding 指新用户引导。反义 offboarding = 离职手续。"
+    },
+    {
+      "word": "appraisal",
+      "pos": "n.",
+      "phonetic": "/əˈpreɪzl/",
+      "meaning": "评估；考核；估价",
+      "enExample": "My annual appraisal is next Friday, so I am gathering evidence of what I shipped this year.",
+      "zhExample": "我的年度考核在下周五，所以我正在收集今年交付成果的证据。",
+      "note": "ap（朝向）+ praise（价值）→ 掂一掂值多少钱 = 评估。职场三连：performance appraisal（绩效评估）、appraisal interview（考核面谈）、self-appraisal（自评）。和 estimate 的区别：estimate 是估数字，appraisal 是估价值与表现。"
+    },
+    {
+      "word": "stall",
+      "pos": "v.",
+      "phonetic": "/stɔːl/",
+      "meaning": "（事情）停滞、卡住；（发动机）熄火；拖延",
+      "enExample": "The project stalled for three weeks while we waited for legal approval.",
+      "zhExample": "我们等项目法务批准，项目停滞了三周。",
+      "note": "一个词三种常见画面：车熄火、谈判卡住、故意拖延。必会搭配 stall for time（拖延时间）。名词 a market stall 是摊位，同一拼写不同意思，靠上下文判断。"
+    },
+    {
+      "word": "brisk",
+      "pos": "adj.",
+      "phonetic": "/brɪsk/",
+      "meaning": "轻快的、利落的；（生意）兴隆的；（天气）清冷的",
+      "enExample": "A brisk ten-minute walk after lunch clears my head better than coffee.",
+      "zhExample": "午饭后快走十分钟，比咖啡更能让我头脑清醒。",
+      "note": "读起来就有短促清脆的节奏感，所以天生适合形容步伐与动作。商务场景常见 brisk sales（销路很旺）、brisk trade（生意红火）。brisk walk 比 fast walk 多了精神抖擞的味道。"
+    },
+    {
+      "word": "fatigue",
+      "pos": "n.",
+      "phonetic": "/fəˈtiːɡ/",
+      "meaning": "疲劳；劳累；（材料）疲劳",
+      "enExample": "Camera fatigue set in after the third meeting, so nobody was really listening.",
+      "zhExample": "开到第三场会，大家都进入了开会疲劳，其实没人在真听。",
+      "note": "比 tired 正式得多，强调累积型的耗损。三个高频组合：decision fatigue（决策疲劳）、compassion fatigue（共情疲劳）、metal fatigue（金属疲劳）。固定说法 fatigue sets in = 疲劳开始显现。"
+    }
+  ],
+  "essay": null
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-16",
+  "title": "每日一词一文",
+  "words": [
+    {
+      "word": "withdraw",
+      "pos": "v.",
+      "phonetic": "/wɪðˈdrɔː/",
+      "meaning": "取（款）；撤回；退出（活动、协议）",
+      "enExample": "I need to withdraw some cash before the shops close.",
+      "zhExample": "我得在商店关门前去取点现金。",
+      "note": "with（往回）+ draw（拉）→ 往回拉 = 取出、撤回。三个高频场景：withdraw cash（取现）、withdraw an offer（撤回录用通知）、withdraw from a deal（退出交易）。银行 App 和 ATM 上的 cash withdrawal 就是取现，认得它就够用了。"
+    },
+    {
+      "word": "posture",
+      "pos": "n.",
+      "phonetic": "/ˈpɑːstʃər/",
+      "meaning": "姿势；体态；（引申）态度、姿态、立场",
+      "enExample": "Sitting with poor posture for eight hours a day will eventually hurt your back.",
+      "zhExample": "每天以不良姿势坐八小时，迟早会伤到你的背。",
+      "note": "post（放置）+ ure → 身体怎么摆放 = 姿势。办公室高频：good posture（挺拔的体态）、posture reminder（坐姿提醒）。引申义偏公关与政治语境：posture as a leader（摆出领导者的姿态）。"
+    },
+    {
+      "word": "procurement",
+      "pos": "n.",
+      "phonetic": "/prəˈkjʊərmənt/",
+      "meaning": "采购；采购部门；（正式的）获取",
+      "enExample": "Procurement usually takes at least two weeks, so plan your budget early.",
+      "zhExample": "采购通常至少要两周，所以预算得早点规划。",
+      "note": "pro（向前）+ cure（照料、操心）→ 提前操心把东西弄到手 = 采购。外企里 Procurement 是一个独立部门（采购部），比 purchasing 更正式，更强调流程与合规。"
+    },
+    {
+      "word": "voucher",
+      "pos": "n.",
+      "phonetic": "/ˈvaʊtʃər/",
+      "meaning": "代金券；优惠券；凭证、凭单",
+      "enExample": "The hotel gave us a breakfast voucher after the room mix-up.",
+      "zhExample": "房间安排出错后，酒店给了我们一张早餐券。",
+      "note": "同源词 vouch 是「担保」→ 能证明你有权换东西的那张纸 = 券/凭证。常见：gift voucher（礼品卡）、meal voucher（餐券）、voucher code（优惠码）。和 coupon 的区别：coupon 多是折扣，voucher 更像「已经付过钱或已获授权」的凭证。"
+    },
+    {
+      "word": "spill",
+      "pos": "v.",
+      "phonetic": "/spɪl/",
+      "meaning": "洒出；溢出；泄露（消息）",
+      "enExample": "I spilled coffee on my shirt five minutes before the interview.",
+      "zhExample": "面试前五分钟，我把咖啡洒在了衬衫上。",
+      "note": "过去式不规则：spill - spilt - spilt（美式也常用 spilled）。两个必会搭配：spill the beans（说漏嘴、泄露秘密）、Don't cry over spilled milk（覆水难收，别为已发生的事懊恼）。工位上的经典事故句：I spilled coffee on my keyboard."
+    }
+  ],
+  "essay": null
+}

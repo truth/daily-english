@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-14",
+  "title": "每日一词一文",
+  "words": [],
+  "essay": {
+    "title": "竹子教我的事",
+    "author": "佚名",
+    "paragraphs": [],
+    "grammar": [
+      {
+        "point": "1. 独立主格结构（名词 + 现在分词作伴随状语）",
+        "example": "",
+        "note": "逗号后 its leaves dragging 是独立主格：名词 its leaves + 现在分词 dragging，逻辑主语是 leaves（叶片拖过泥），与主句主语 culm 不同，故不能写成定语从句或并列谓语，须用此结构。它相当于一个简化的状语从句（while its leaves were dragging…），表伴随状态，画面感强。"
+      },
+      {
+        "point": "2. as if 引导方式状语从句 + 虚拟语气（与过去事实相反）",
+        "example": "",
+        "note": "as if 意为\"仿佛、好像\"，引导方式状语从句。当所述与事实不符（这里风暴并非真的一记躬身）时，从句用虚拟语气：与过去相反用 had been（过去完成式），而非陈述语气 was。对比：与现在相反用 were（as if he were a child）。"
+      },
+      {
+        "point": "3. 现在分词否定并列（补充说明 standing）",
+        "example": "",
+        "note": "破折号后三个 never + 现在分词（bending / flinching / letting）并列，对前面的 standing perfectly still 作同位展开，细化\"纹丝不动\"的含义。三个 never 否定前置形成排比，语气递进；letting 后接复合宾语 the world see us move（see + 省 to 不定式）。"
+      },
+      {
+        "point": "4. 名词短语引导时间状语从句 + 祈使句（ask sb to do + 形容词作宾补）",
+        "example": "",
+        "note": "The next time 是名词短语直接引导时间状语从句，相当于 when(next time)；此处省略了关系副词 when。主句为否定祈使句 do not ask yourself to stand…，其中 to stand rigid and untouched 是不定式作 ask 的宾语补足语，rigid and untouched 为形容词短语作 stand 的宾语补足语，描述\"站立\"的状态。"
+      }
+    ]
+  }
+}
